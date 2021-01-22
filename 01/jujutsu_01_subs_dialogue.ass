@@ -21,9 +21,9 @@ Video File: jujutsu_01.mkv
 Keyframes File: jujutsu_01_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 370
-Active Line: 379
-Video Position: 32741
+Scroll Position: 313
+Active Line: 314
+Video Position: 26188
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -152,7 +152,7 @@ Dialogue: 0,0:07:15.16,0:07:19.04,Default,Fushiguro,0,0,0,,{\i1}It feels like it
 Dialogue: 0,0:07:19.48,0:07:22.29,Default,Fushiguro,0,0,0,,{\i1}This special-grade cursed object is a serious pain.
 Dialogue: 0,0:07:23.25,0:07:25.17,Default,Fushiguro,0,0,0,,{\i1}Who could have moved it?
 Dialogue: 0,0:07:25.17,0:07:26.76,Default,Fushiguro,0,0,0,,{\i1}Where is it now?
-Dialogue: 0,0:07:27.26,0:07:28.87,Default,Student,0,0,0,,{\an8}Check this out!
+Dialogue: 0,0:07:27.61,0:07:28.87,Default,Student,0,0,0,,{\an8}Check this out!
 Dialogue: 0,0:07:28.87,0:07:32.25,Default,Student,0,0,0,,{\an8}Coach Takagi is taking on Itadori from West Middle!
 Dialogue: 0,0:07:32.25,0:07:34.27,Default,Student,0,0,0,,{\an8}Whoa, what are they competing in?
 Dialogue: 0,0:07:36.35,0:07:37.75,Default,,0,0,0,,Hell yeah!
@@ -215,10 +215,11 @@ Dialogue: 0,0:10:09.93,0:10:11.13,Default,Grandpa,0,0,0,,Good.
 Dialogue: 0,0:10:11.13,0:10:14.13,Default,Grandpa,0,0,0,,Since you've got free time, listen to what I've got to say.
 Dialogue: 0,0:10:14.13,0:10:15.68,Default,Yuji,0,0,0,,Not interested.
 Dialogue: 0,0:10:15.68,0:10:17.18,Default,Grandpa,0,0,0,,Just listen anyway.
-Dialogue: 0,0:10:17.18,0:10:22.56,Default,Grandpa,0,0,0,,I have some final words for you. It's about your parents.
+Dialogue: 0,0:10:17.18,0:10:20.16,Default,Grandpa,0,0,0,,I have some final words for you.
+Dialogue: 0,0:10:20.16,0:10:22.56,Default,Grandpa,0,0,0,,It's about your parents.
 Dialogue: 0,0:10:21.42,0:10:22.56,Alt,Yuji,0,0,0,,As I said,
 Dialogue: 0,0:10:22.56,0:10:24.14,Default,Yuji,0,0,0,,I'm not interested.
-Dialogue: 0,0:10:24.65,0:10:28.10,Default,Yuji,0,0,0,,Grandpa, could stop trying to act all cool before you die?
+Dialogue: 0,0:10:24.65,0:10:28.10,Default,Yuji,0,0,0,,Grandpa, could you stop trying to act all cool before you die?
 Dialogue: 0,0:10:28.10,0:10:31.60,Default,Grandpa,0,0,0,,A man wants to go out in style, y'know!
 Dialogue: 0,0:10:31.60,0:10:33.79,Default,Grandpa,0,0,0,,Get a clue, you idiot grandson!
 Dialogue: 0,0:10:34.22,0:10:36.07,Default,Yuji,0,0,0,,Quit snapping over everything.
@@ -261,7 +262,7 @@ Dialogue: 0,0:12:53.73,0:12:54.77,Default,Fushiguro,0,0,0,,This.
 Dialogue: 0,0:12:55.76,0:12:58.59,Default,Yuji,0,0,0,,Oh, yeah, yeah. I found that.
 Dialogue: 0,0:12:58.59,0:13:02.51,Default,Yuji,0,0,0,,I don't really mind giving it back, \Nbut my friends were totally into it.
 Dialogue: 0,0:13:02.51,0:13:04.25,Default,Yuji,0,0,0,,What do you mean, {\i1}dangerous{\i0}?
-Dialogue: 0,0:13:05.15,0:13:11.73,Default,Fushiguro,0,0,0,,Nationally, the average number of unexplained deaths and missing persons exceeds ten-thousand annually.
+Dialogue: 0,0:13:05.15,0:13:11.73,Default,Fushiguro,0,0,0,,Nationally, the average number of unexplained deaths and missing persons exceeds ten-thousand annually. {Something is too long here, and feels like the "-lly" words are double. Like, both "Nationally" AND "Annually" shouldn't be used, I feel. Optional versions are: "The national average number of unexplained deaths and missing persons exceeds ten-thousand annually." orr..hmm.. "The annual national average number of unexplained deaths and missing persons..."... "is over ten-thousand!" xD. Also optional: Use "per-year" instead of "annually." and...What's the policy on using "n.o." instead of "number"?}
 Dialogue: 0,0:13:11.73,0:13:14.54,Default,Fushiguro,0,0,0,,Most of those are the result of curses.
 Dialogue: 0,0:13:15.29,0:13:16.53,Default,Yuji,0,0,0,,Curses?
 Dialogue: 0,0:13:16.53,0:13:18.71,Default,Fushiguro,0,0,0,,It doesn't matter if you believe me or not.
@@ -345,7 +346,7 @@ Dialogue: 0,0:17:41.24,0:17:44.37,Default,Grandpa,0,0,0,,You're a strong kid, so
 Dialogue: 0,0:17:50.26,0:17:52.96,Default,Fushiguro,0,0,0,,More of those curses. They're close.
 Dialogue: 0,0:18:01.44,0:18:02.47,Default,Fushiguro,0,0,0,,Found them.
 Dialogue: 0,0:18:04.24,0:18:06.14,Default,Yuji,0,0,0,,{\i1}He was short-tempered and stubborn.
-Dialogue: 0,0:18:06.52,0:18:09.15,Default,Yuji,0,0,0,,{\i1}No one but me ever paid him a visit.
+Dialogue: 0,0:18:06.52,0:18:09.15,Default,Yuji,0,0,0,,{\i1}No one but me ever paid him a visit. {No one ever paid him a visit, but me. It's technically not wrong as it is, I think. Yet feel this structure is better to give impact to the core statement that "No one ever paid him a visit."}
 Dialogue: 0,0:18:10.64,0:18:13.02,Default,Yuji,0,0,0,,{\i1}Don't end up like you, huh?
 Dialogue: 0,0:18:13.02,0:18:14.65,Default,Yuji,0,0,0,,{\i1}That's okay, but...
 Dialogue: 0,0:18:14.65,0:18:17.86,Default,Fushiguro,0,0,0,,Damn it! Is it trying to swallow her along with the cursed object?!
