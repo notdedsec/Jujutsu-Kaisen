@@ -1,0 +1,117 @@
+
+import myaa.subkt.ass.*
+import myaa.subkt.tasks.*
+import myaa.subkt.tasks.Mux.*
+import myaa.subkt.tasks.Nyaa.*
+import java.awt.Color
+import java.time.*
+
+plugins {
+    id("myaa.subkt")
+}
+
+subs {
+    readProperties("sub.properties")
+    episodes(getList("episodes"))
+    release(arg("release") ?: "TV")
+
+    merge {
+        from(get("dialogue")) {
+            incrementLayer(5)
+        }
+
+        from(getList("typesets"))
+
+        from(get("OP")) {
+            syncTargetTime(getAs<Duration>("opsync"))
+        }
+
+        from(get("EC")) {
+            syncTargetTime(getAs<Duration>("ecsync"))
+        }
+
+        from(get("ED")) {
+            syncTargetTime(getAs<Duration>("edsync"))
+        }
+    }
+
+    swap {
+        from(merge.item())
+    }
+
+    chapters {
+        from(get("dialogue"))
+    }
+
+    mux {
+        title(get("title"))
+
+        from(get("premux")) {
+            tracks {
+                lang("jpn")
+
+                if(track.type == TrackType.VIDEO){
+                    name("1080p x264 WEB")
+                }
+
+                if(track.type == TrackType.AUDIO){
+                    name("128k AAC")
+                }
+            }
+
+            attachments {
+                include(false)
+            }
+        }
+
+        from(merge.item()) {
+            tracks {
+                name("English")
+                lang("eng")
+                default(true)
+            }
+        }
+
+        from(swap.item()) {
+            tracks {
+                name("English (Honorifics)")
+                lang("enm")
+            }
+        }
+
+        chapters(chapters.item()) {
+            lang("eng")
+            charset("UTF-8")
+        }
+
+        attach(get("fonts")) {
+            includeExtensions("ttf", "otf")
+        }
+
+        attach(get("commonfonts")) {
+            includeExtensions("ttf", "otf")
+        }
+
+        out(get("muxfile"))
+    }
+
+    alltasks {
+        torrent {
+            from(mux.batchItems())
+
+            if (isBatch) {
+                into(get("filebase"))
+            }
+
+            out(get("torrent"))
+        }
+
+        nyaa {
+            from(torrent.item())
+            username(get("nyaauser"))
+            password(get("nyaapass"))
+            category(NyaaCategories.ANIME_ENGLISH)
+            torrentDescription(getFile("common/description.txt"))
+        }
+    }
+}
