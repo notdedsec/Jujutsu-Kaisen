@@ -1,0 +1,36 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:03:41.58,0:03:47.68,Signs,Screen,0,0,0,,{\fad(529,501)\fs20\pos(26,310)\an1}Episode 7:  {\fs24}Assault
+Dialogue: 0,0:03:41.58,0:03:47.68,Signs,Screen,0,0,0,,{\fad(529,501)\fs20\pos(26,310)\an1}Episode 7:  {\fs24}Assault
+Dialogue: 0,0:18:19.81,0:18:26.25,Signs,Screen,0,0,0,,{\c&HF85A5C&\bord0\shad0\fs14\b1\pos(426,80)\1a&HFF&\t(907,1907,1 \1a&H00&)}I'm sorry about that.\N{\1a&HFF&\t(906,2407,1 \1a&H00&}They managed to escape because of me.\N{\1a&HFF&\t(2449,4867,1 \1a&H00&)}Though you're the one who brought me here, right?\N{\1a&HFF&\t(4868,5118,1 \1a&H00&)}- Yuuji
+Dialogue: 0,0:18:19.88,0:18:21.45,Signs,Yuuji,0,0,0,,{\an8\pos(320,18)}I'm sorry about that.
+Dialogue: 0,0:18:21.45,0:18:23.95,Signs,Yuuji,0,0,0,,{\an8\pos(320,18)}They managed to escape because of me.
+Dialogue: 0,0:18:23.95,0:18:26.25,Signs,Yuuji,0,0,0,,{\an8\pos(320,18)}Though you're the one \Nwho brought me here, right?
+Dialogue: 0,0:21:02.32,0:21:03.57,Signs,Book,0,0,0,,{\fad(1,394)\fnTimes New Roman\b1\fs16\c&H517A98&\bord1\shad0\an5\pos(333.333,155.334)\frx342\fry12\frz305.6\3c&H97C6E7&}Cloud Giant
+Dialogue: 0,0:22:44.92,0:22:47.47,Signs,Woman,0,0,0,,Juju Stroll
+Dialogue: 0,0:23:44.94,0:23:46.28,Signs,Sign,0,0,0,,{\an8\fnTimes New Roman\fs20\c&H23363B&\3c&H4A7093&\shad0\b1}Tokyo Metropolitan\NJujutsu Technical High School
+Dialogue: 0,0:23:51.45,0:23:54.99,Signs,Screen,0,0,0,,Episode 8:\NBoredom
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_07.mkv
+Video File: jujutsu_07.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_07_keyframes.txt

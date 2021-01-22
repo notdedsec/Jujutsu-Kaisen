@@ -1,0 +1,49 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:58.70,0:01:08.50,Signs,ScreenTop,0,0,0,,{\fscx90}*If Conventional Weapons Were Effective Against Cursed Spirits
+Dialogue: 0,0:00:58.70,0:01:08.50,Signs,Screencenter,0,0,0,,{\fad(1,226)\pos(114,173)}Grade 4
+Dialogue: 0,0:00:58.70,0:01:08.50,Signs,Screencenter,0,0,0,,{\fad(1,226)\pos(112,193)}A wooden bat is enough
+Dialogue: 0,0:00:58.70,0:01:08.50,Signs,Screenbottom,0,0,0,,{\fad(1,226)\pos(114,274)\3c&HCAE25D&}Grade 3
+Dialogue: 0,0:00:58.70,0:01:08.50,Signs,Screenbottom,0,0,0,,{\fad(1,226)\pos(112,294)\q2}If you have a handgun, you can rest easy
+Dialogue: 0,0:01:08.23,0:01:13.96,Signs,Screentop,0,0,0,,{\fad(695,226)\3c&HCAE25D&\pos(112,48.667)}Grade 3
+Dialogue: 0,0:01:08.24,0:01:13.96,Signs,Screentop,0,0,0,,{\fad(695,226)\q2\pos(114,70)}If you have a handgun, you can rest easy
+Dialogue: 0,0:01:08.24,0:01:13.96,Signs,Screencenter,0,0,0,,{\fad(695,226)\pos(112,164)\3c&H6ADAF5&}Grade 2
+Dialogue: 0,0:01:08.24,0:01:13.96,Signs,Screencenter,0,0,0,,{\fad(695,226)\pos(114,186)}Close call with a shotgun
+Dialogue: 0,0:01:08.24,0:01:13.96,Signs,Screenbottom,0,0,0,,{\fad(695,226)\pos(112,273)\3c&H585BDA&\q2}Grade 1\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:01:08.24,0:01:13.96,Signs,Screenbottom,0,0,0,,{\fad(695,226)\pos(114,295)\q2}Even a tank may be insufficient
+Dialogue: 0,0:01:13.96,0:01:19.10,Signs,Screencenter,0,0,0,,{\fad(531,1)\pos(114,9)\3c&HF3F4F2&}Close call with a shotgun
+Dialogue: 0,0:01:13.96,0:01:19.10,Signs,Screenbottom,0,0,0,,{\fad(531,1)\3c&H6964E1&\q2\pos(112,95)}Grade 1\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:01:13.96,0:01:19.10,Signs,Screenbottom,0,0,0,,{\fad(531,1)\pos(114,115)\q2}Even a tank may be insufficient
+Dialogue: 0,0:01:13.96,0:01:19.10,Signs,Screenbottom,0,0,0,,{\fad(531,1)\3c&H3100C5&\q2\pos(112,206)}Special-Grade
+Dialogue: 0,0:01:13.96,0:01:19.10,Signs,Screenbottom,0,0,0,,{\fad(531,1)\q2\pos(114,226)\fscx90}Even footing with a carpet bombing of cluster bombs\h\h\h\h\h
+Dialogue: 0,0:04:24.99,0:04:26.66,Signs,Sign,0,0,0,,{\pos(320,90)\fnTimes New Roman\b1\c&H171109&\3c&H413829&\shad0\fs30\frx12}Block 2
+Dialogue: 0,0:04:25.94,0:04:32.08,Signs,Screen,0,0,0,,{\fad(526,561)\fs20\pos(612,310)}Episode 4: {\fscx75\fs24}Curse Womb Must Die
+Dialogue: 0,0:04:25.94,0:04:32.08,Signs,Screen,0,0,0,,{\fad(526,561)\fs20\pos(612,310)}Episode 4: {\fscx75\fs24}Curse Womb Must Die
+Dialogue: 0,0:06:53.30,0:06:55.64,Signs,Tag,0,0,0,,{\fs14\c&H22190D&\3c&HBDB7A2&\shad0\move(278,274,380,258,1490,2156)}Okazaki Tadashi
+Dialogue: 0,0:07:52.16,0:07:55.12,Signs,Screen,0,0,0,,{\an7\pos(40,20)\fs14\c&H2A2A2A&\3c&HFAFAFA&\shad0}Youth's Name | Date of Birth\NOkazaki Tadashi | August 9th, 2001\NHighest Education | Sakakidate High School \NDate of Detention | July 20, 2017\NFamily History | Only has his birth mother, Okazaki Chisaki (42)...\N...gone missing, and cannot be contacted...\N...living with his mother in an apartment in Eishuu City...
+Dialogue: 0,0:22:44.96,0:22:47.51,Signs,Screen&Voice,0,0,0,,Juju Stroll
+Dialogue: 0,0:23:51.49,0:23:55.03,Signs,Screen,0,0,0,,{\fad(1026,1)}Episode 5:\NCurse Womb Must Die -II-
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_04.mkv
+Video File: jujutsu_04.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_04_keyframes.txt

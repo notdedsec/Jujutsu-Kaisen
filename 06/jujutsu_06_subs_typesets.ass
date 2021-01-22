@@ -1,0 +1,42 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:06.68,0:02:12.73,Signs,Screen,0,0,0,,{\fad(529,1)\fs20\pos(612,310)}Episode 6:  {\fs24}After Rain
+Dialogue: 0,0:02:06.68,0:02:12.73,Signs,Screen,0,0,0,,{\fad(529,1)\fs20\pos(612,310)}Episode 6:  {\fs24}After Rain
+Dialogue: 0,0:07:30.56,0:07:31.93,Signs,,0,0,0,,{\fad(188,1)\fs10\shad0\c&H2F312C&\3c&HDDDFDA&\bord1\pos(85,24)}In the meantime, \Nput this on!
+Dialogue: 0,0:11:14.61,0:11:15.56,Signs,Tag,0,0,0,,{\fad(272,263)\pos(444,280)\b1\c&H534939&\bord0\shad0\fay.05\frx6\fry8}Okazaki Tadashi
+Dialogue: 0,0:11:24.37,0:11:27.87,Signs,,0,0,0,,{\b1\c&H534939&\bord0\shad0\fay.05\fs18\frz353.5\pos(298.666,212)\frx8\fry356}Okazaki Tadashi
+Dialogue: 0,0:12:50.29,0:12:52.79,Signs,,0,0,0,,{\c&HBB65E0&\3c&HE7DAEA&\shad0\b1\fs14\pos(364.667,184.667)}Smile
+Dialogue: 0,0:12:50.29,0:12:52.79,Signs,,0,0,0,,{\c&HBB65E0&\3c&HE7DAEA&\shad0\b1\fs14\pos(518,194.667)}Smile
+Dialogue: 0,0:12:52.79,0:12:58.25,Signs,,0,0,0,,{\c&HBB65E0&\3c&HE7DAEA&\shad0\b1\bord0\fs20\an5\pos(70,63)}ee-hee
+Dialogue: 0,0:12:52.79,0:12:58.25,Signs,,0,0,0,,{\c&HBB65E0&\3c&HE7DAEA&\shad0\b1\bord0\fs20\an5\pos(536,131)}ee-hee
+Dialogue: 0,0:17:30.57,0:17:32.36,Signs,,0,0,0,,{\fs12\fnArial\b1\shad0\3c&H949A94&\c&HD5D6D2&\frz296.8\pos(515,78)\blur1}Yawn
+Dialogue: 0,0:17:34.27,0:17:36.07,Signs,,0,0,0,,{\fs12\fnArial\b1\shad0\3c&H949A94&\c&HD5D6D2&\blur1\pos(532,99)\frz300}Num   {\frz-76}Num
+Dialogue: 0,0:23:15.08,0:23:17.62,Signs,Screen&Voice,0,0,0,,Juju Stroll
+Dialogue: 0,0:23:19.12,0:23:22.13,Signs,Child,0,0,0,,{\fad(404,1)\4a&HAA&}Gojou Satoru's {\c&H1411D7&\1a&HFF&\4a&HFF&\t(1490,1948,1 \1a&H00&\4a&HAA&}Go Go {\c&H000000&\1a&HFF&\4a&HFF&\t(2074,2281,1 \1a&H00&\4a&HAA&}Gojou
+Dialogue: 0,0:23:24.58,0:23:26.74,Signs,Screen,0,0,0,,{\fad(482,180)\pos(320,284)\c&H4326E5&\b1\bord0\shad0}Satoru-sensei
+Dialogue: 0,0:23:29.14,0:23:31.80,Signs,Screen,0,0,0,,{\fad(482,180)\c&H725AFE&\b1\bord0\shad0\pos(284,284)}Yuuji
+Dialogue: 0,0:23:51.57,0:23:55.11,Signs,Screen,0,0,0,,{\fad(947,1)}Episode 7: \NAssault
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_06.mkv
+Video File: jujutsu_06.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_06_keyframes.txt

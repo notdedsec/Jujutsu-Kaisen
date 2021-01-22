@@ -1,0 +1,60 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.98,0:00:06.98,Signs,Sign,0,0,0,,{\an8\fnTimes New Roman\fs20\c&H23363B&\3c&H4A7093&\shad0\b1}Tokyo Metropolitan\NJujutsu Technical High School
+Dialogue: 0,0:00:06.98,0:00:09.44,Signs,MachineBlue,0,0,0,,{\3c&HBD5350&\bord3\shad0\c&HFFDAD2&\frx352\fry330\pos(388.667,158)\frz343.1}Cold
+Dialogue: 0,0:04:52.28,0:04:58.94,Signs,Screen,0,0,0,,{\fad(529,562)\fs20\pos(612,310)}Episode 8:  {\fs24}Boredom
+Dialogue: 0,0:04:52.28,0:04:58.94,Signs,Screen,0,0,0,,{\fad(529,562)\fs20\pos(612,310)}Episode 8:  {\fs24}Boredom
+Dialogue: 0,0:08:04.37,0:08:06.00,Signs,Sign,0,0,0,,{\fad(439,434)\pos(315,50)\an8\fs16\fnArial\b1\c&H4253EF&\3c&HF0F1FA&\shad0}Kabuki-cho First Street
+Dialogue: 0,0:13:05.34,0:13:07.84,Signs,Ticket,0,0,0,,{\fad(1,305)\fnTimes New Roman\fs12\3c&H180591&\shad0\pos(423.332,212.667)\frz273.7}5 min
+Dialogue: 0,0:13:05.34,0:13:07.84,Signs,Ticket,0,0,0,,{\fad(1,305)\fs10\shad0\bord3\fscx80\fnTimes New Roman\c&H120490&\3c&HEBECEC&\frz273.4\frx348\fry4\pos(415.334,306)}8th single "Youth Mineral" Release Celebration
+Dialogue: 0,0:13:05.34,0:13:07.84,Signs,Ticket,0,0,0,,{\fad(1,305)\c&H54585A&\3c&HEDEFF6&\fnTimes New Roman\shad0\fs18\frz274.2\frx354\fry6\pos(392,275.334)}Takada-chan
+Dialogue: 0,0:13:07.46,0:13:09.85,Signs,Screen,0,0,0,,{\fad(860,1)\pos(340,190)\fnArial\b1\c&H9C1CDF&\4c&HFEFEFF&\shad2\bord1}Tall Idol Takada-chan
+Dialogue: 0,0:18:18.32,0:18:21.33,Signs,Sign,0,0,0,,{\fs16\fnTimes New Roman\shad0\c&H6A6B69&\3c&HEEF0EC&\frx0\fry338\frz5.944\pos(410.667,241.334)}Takada-chan Personal Handshake Event
+Dialogue: 0,0:18:39.38,0:18:43.37,Signs,Screen,0,0,0,,{\fad(1,2000)}One {\alpha&HFF&\t(147,188,1 \alpha&H00&)}Month {\alpha&HFF&\t(356,397,1 \alpha&H00&)}Later
+Dialogue: 0,0:18:43.37,0:18:46.94,Signs,Screen,0,0,0,,{\an7\move(164,274,164,250,779,861)\clip(148,75,198,322)\t(28,781,1 \clip(148,75,475,322)}Log\h\h\h\h\h——\h\h\hSeptember 2018
+Dialogue: 0,0:18:44.26,0:18:46.94,Signs,Screen,0,0,0,,{\fscx70\an7\pos(296,280)\clip(270,275,326,310)\t(22,563,1 \clip(270,275,570,310)}Kanagawa Prefecture, Kawasaki City
+Dialogue: 0,0:18:44.84,0:18:46.94,Signs,Screen,0,0,0,,{\an7\pos(296,310)\clip(270,300,322,375)\t(26,442,1 \clip(270,300,480,375)}Kinema Cinema
+Dialogue: 0,0:18:46.94,0:18:50.94,Signs,SignBottom,0,0,0,,{\pos(153.333,292)\fs14\c&H20192C&\3c&H4E4A54&}Ticket Sales
+Dialogue: 0,0:18:46.94,0:18:50.94,Signs,SignDoor,0,0,0,,{\fs10\c&H3E4145&\bord0\shad0\pos(86,321.333)\frx2\fry6\fay.07}Now Showing
+Dialogue: 0,0:18:50.94,0:18:52.90,Signs,SignHallDoor,0,0,0,,{\fay.75\frz358.4\move(559,56,559,16)\frx28\fry336}Playing
+Dialogue: 0,0:19:10.37,0:19:15.42,Signs,Screen,0,0,0,,{\fad(1,1024)\an7\move(170,274,170,250,689,855)\clip(148,75,198,322)\t(21,688,1 \clip(148,75,360,322)}After the showing,
+Dialogue: 0,0:19:11.20,0:19:15.42,Signs,Screen,0,0,0,,{\fad(1,1024)\an7\pos(170,280)\clip(148,75,198,340)\t(26,1192,1 \clip(148,75,420,340)}three high school boys'
+Dialogue: 0,0:19:12.53,0:19:15.44,Signs,Screen,0,0,0,,{\fad(1,1024)\pos(170,310)\an7\fscx80\clip(148,300,198,375)\t(30,1531,1 \clip(148,300,540,375)}disfigured corpses were discovered by staff
+Dialogue: 0,0:19:15.44,0:19:20.05,Signs,Screen,0,0,0,,{\fscx80\an7\move(68,274,68,250,1698,1906)\clip(55,75,105,322)\t(30,1697,1 \clip(55,75,525,322)}Cause of death: increased cranial pressure and
+Dialogue: 0,0:19:17.33,0:19:20.05,Signs,Screen,0,0,0,,{\an7\pos(202,280)\fscx80\clip(190,75,240,340)\t(26,1360,1 \clip(190,75,580,340)}respiratory paralysis due to cranial deformity
+Dialogue: 0,0:22:15.02,0:22:17.52,Signs,Screen&Three,0,0,0,,Juju Stroll
+Dialogue: 0,0:22:17.52,0:22:19.02,Signs,Sign,0,0,0,,{\pos(366,93)\fs16\b1\fnArial\c&H292929&\bord0\shad0\fay.05}Personal Handshake Event
+Dialogue: 0,0:22:17.52,0:22:19.02,Signs,Sign,0,0,0,,{\fs16\b1\fnArial\c&HB16225&\bord0\shad0\fay.04\pos(370,238)}Event Hall
+Dialogue: 0,0:22:35.04,0:22:38.54,Signs,Ticket,0,0,0,,{\fad(605,1)\fnTimes New Roman\fs12\3c&H180591&\shad0\frz52.58\pos(145.998,309.334)}5 min
+Dialogue: 0,0:22:35.04,0:22:38.54,Signs,Ticket,0,0,0,,{\fad(605,1)\fs10\shad0\bord3\fscx89\fnTimes New Roman\c&H120490&\3c&HEBECEC&\frx348\fry4\pos(219.334,240.667)\frz46.45}8th single "Youth Mineral" Release Celebration
+Dialogue: 0,0:22:35.04,0:22:38.54,Signs,Ticket,0,0,0,,{\fad(605,1)\c&H54585A&\3c&HEDEFF6&\fnTimes New Roman\shad0\fs18\frx354\fry6\frz48.49\pos(210.666,282)}Takada-chan
+Dialogue: 0,0:23:51.49,0:23:55.03,Signs,Screen,0,0,0,,{\fad(1027,1)}Episode 9:\NSmall Fry and Reverse Retribution
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_08.mkv
+Video File: jujutsu_08.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_08_keyframes.txt
