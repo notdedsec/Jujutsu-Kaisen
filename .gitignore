@@ -5,6 +5,9 @@
 *.aac
 *.index
 *.ffindex
+*.torrent
+private.properties
+
 _wip
 _memes
 _manga
