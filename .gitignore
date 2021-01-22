@@ -1,3 +1,18 @@
+*.mkv
+*.mka
+*.mp4
+*.avc
+*.aac
+*.index
+*.ffindex
+_wip
+_memes
+_manga
+_stuff
+.vscode
+.gradle
+results
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
