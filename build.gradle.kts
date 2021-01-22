@@ -11,7 +11,7 @@ plugins {
 }
 
 subs {
-    readProperties("sub.properties")
+    readProperties("sub.properties", "private.properties")
     episodes(getList("episodes"))
     release(arg("release") ?: "TV")
 
@@ -66,7 +66,7 @@ subs {
 
         from(merge.item()) {
             tracks {
-                name("English")
+                name("Kaizoku")
                 lang("eng")
                 default(true)
             }
@@ -74,7 +74,7 @@ subs {
 
         from(swap.item()) {
             tracks {
-                name("English (Honorifics)")
+                name("Kaizoku (Honorifics)")
                 lang("enm")
             }
         }
@@ -95,23 +95,19 @@ subs {
         out(get("muxfile"))
     }
 
-    alltasks {
-        torrent {
-            from(mux.batchItems())
+    torrent {
+        trackers(getList("tracker"))
+        from(mux.item())
+        out(get("torrent"))
+    }
 
-            if (isBatch) {
-                into(get("filebase"))
-            }
-
-            out(get("torrent"))
-        }
-
-        nyaa {
-            from(torrent.item())
-            username(get("nyaauser"))
-            password(get("nyaapass"))
-            category(NyaaCategories.ANIME_ENGLISH)
-            torrentDescription(getFile("common/description.txt"))
-        }
+    nyaa {
+        from(torrent.item())
+        username(get("nyaauser"))
+        password(get("nyaapass"))
+        category(NyaaCategories.ANIME_ENGLISH)
+        information("https://github.com/notdedsec/Jujutsu-Kaisen")
+        torrentDescription(getFile("description.vm"))
+        hidden(true)
     }
 }
