@@ -20,10 +20,10 @@ Audio File: jujutsu_01.mkv
 Video File: jujutsu_01.mkv
 Keyframes File: jujutsu_01_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 313
-Active Line: 314
-Video Position: 26188
+Video Zoom Percent: 0.500000
+Scroll Position: 379
+Active Line: 382
+Video Position: 32886
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,8 +36,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.07,0:00:03.54,Default,Gojo,0,0,0,,Morning.
 Dialogue: 0,0:00:21.61,0:00:24.12,Default,Gojo,0,0,0,,So which one are you right now?
 Dialogue: 0,0:00:25.13,0:00:28.09,Default,Yuji,0,0,0,,Aren't you...
-Dialogue: 0,0:00:28.09,0:00:29.60,Default,Gojo,0,0,0,,Gojo Satoru.
-Dialogue: 0,0:00:29.60,0:00:32.09,Default,Gojo,0,0,0,,I teach first-years at Jujutsu Tech.
+Dialogue: 0,0:00:28.09,0:00:29.72,Default,Gojo,0,0,0,,Gojo Satoru.
+Dialogue: 0,0:00:29.72,0:00:32.09,Default,Gojo,0,0,0,,I teach first-years at Jujutsu Tech.
 Dialogue: 0,0:00:32.78,0:00:34.45,Default,Yuji,0,0,0,,Jujutsu?
 Dialogue: 0,0:00:34.45,0:00:36.01,Default,Yuji,0,0,0,,Fushiguro...
 Dialogue: 0,0:00:36.01,0:00:37.32,Default,Yuji,0,0,0,,{*}My friends{*Senpai}!
@@ -129,7 +129,7 @@ Dialogue: 0,0:06:11.10,0:06:12.43,Default,Sasaki,0,0,0,,Itadori
 Dialogue: 0,0:06:12.43,0:06:14.56,Default,Yuji,0,0,0,,No, I'm sure I wrote down the occult club.
 Dialogue: 0,0:06:14.56,0:06:16.56,Default,Takagi,0,0,0,,I rewrote it!
 Dialogue: 0,0:06:16.56,0:06:18.99,Default,Yuji,0,0,0,,The track and field coach, Takagi?!
-Dialogue: 0,0:06:18.99,0:06:21.94,Default,Takagi,0,0,0,,Itadori, we need you to conquer the nationals!
+Dialogue: 0,0:06:18.99,0:06:21.94,Default,Takagi,0,0,0,,Itadori, we need you for conquering the nationals!
 Dialogue: 0,0:06:22.60,0:06:25.61,Default,President,0,0,0,,{\i1}Here's a teacher more problematic than the students.
 Dialogue: 0,0:06:26.17,0:06:29.17,Default,Yuji,0,0,0,,Give it a break! How many times do I have to refuse?
 Dialogue: 0,0:06:29.17,0:06:29.77,Default,Takagi,0,0,0,,No can do!
@@ -159,8 +159,8 @@ Dialogue: 0,0:07:36.35,0:07:37.75,Default,,0,0,0,,Hell yeah!
 Dialogue: 0,0:07:38.72,0:07:40.27,Default,Student,0,0,0,,Fourteen meters!
 Dialogue: 0,0:07:41.85,0:07:44.62,Default,Student,0,0,0,,Wow, Takagi's still got it!
 Dialogue: 0,0:07:42.66,0:07:54.32,Default,Students,0,0,0,,{\an8}Itadori! Itadori!
-Dialogue: 0,0:07:44.62,0:07:46.08,Default,Student,0,0,0,,What're you gonna do, Itadori?!
-Dialogue: 0,0:07:46.08,0:07:48.13,Default,Sasaki,0,0,0,,Hey, is Itadori famous or something?
+Dialogue: 0,0:07:44.62,0:07:45.86,Default,Student,0,0,0,,What're you gonna do, Itadori?!
+Dialogue: 0,0:07:45.86,0:07:48.13,Default,Sasaki,0,0,0,,Hey, is Itadori famous or something?
 Dialogue: 0,0:07:48.67,0:07:51.65,Default,Iguchi,0,0,0,,They're probably tall tales, \Nbut I heard he beat all stages of {\i1}Ninja Warrior{\i0},
 Dialogue: 0,0:07:51.65,0:07:53.89,Default,Iguchi,0,0,0,,and that he's the reincarnation of Mirko Cro Cop.
 Dialogue: 0,0:07:54.73,0:07:56.83,Default,Sasaki,0,0,0,,But Mirko's not even dead yet.
@@ -175,7 +175,7 @@ Dialogue: 0,0:08:19.06,0:08:21.52,Default,Yuji,0,0,0,,All right, I killed it!
 Dialogue: 0,0:08:21.52,0:08:23.83,Default,Sasaki,0,0,0,,Tiger? More like, Gorilla.
 Dialogue: 0,0:08:23.83,0:08:25.52,Default,Iguchi,0,0,0,,That was a pitcher's throw.
 Dialogue: 0,0:08:26.16,0:08:29.02,Default,Sasaki,0,0,0,,Itadori, you'd do well on a sports team.
-Dialogue: 0,0:08:29.49,0:08:32.11,Default,Sasaki,0,0,0,,You don't have to force yourself to stay in our occult club, y'know.
+Dialogue: 0,0:08:29.49,0:08:32.11,Default,Sasaki,0,0,0,,You don't have to force yourself to stay in our occult club, y'know?
 Dialogue: 0,0:08:32.11,0:08:33.06,Default,Yuji,0,0,0,,Huh?
 Dialogue: 0,0:08:33.06,0:08:35.96,Default,Yuji,0,0,0,,But as much as you two love scary things,
 Dialogue: 0,0:08:35.96,0:08:38.99,Default,Yuji,0,0,0,,you couldn't go to haunted places without me, could you?
@@ -220,13 +220,13 @@ Dialogue: 0,0:10:20.16,0:10:22.56,Default,Grandpa,0,0,0,,It's about your parents
 Dialogue: 0,0:10:21.42,0:10:22.56,Alt,Yuji,0,0,0,,As I said,
 Dialogue: 0,0:10:22.56,0:10:24.14,Default,Yuji,0,0,0,,I'm not interested.
 Dialogue: 0,0:10:24.65,0:10:28.10,Default,Yuji,0,0,0,,Grandpa, could you stop trying to act all cool before you die?
-Dialogue: 0,0:10:28.10,0:10:31.60,Default,Grandpa,0,0,0,,A man wants to go out in style, y'know!
+Dialogue: 0,0:10:28.52,0:10:31.60,Default,Grandpa,0,0,0,,A man wants to go out in style, y'know!
 Dialogue: 0,0:10:31.60,0:10:33.79,Default,Grandpa,0,0,0,,Get a clue, you idiot grandson!
 Dialogue: 0,0:10:34.22,0:10:36.07,Default,Yuji,0,0,0,,Quit snapping over everything.
 Dialogue: 0,0:10:36.95,0:10:39.03,Default,Yuji,0,0,0,,You can just be yourself.
 Dialogue: 0,0:10:40.61,0:10:42.85,Default,Grandpa,0,0,0,,Tch. You've had it too easy.
 Dialogue: 0,0:10:49.20,0:10:50.54,Default,Grandpa,0,0,0,,Yuji.
-Dialogue: 0,0:10:50.54,0:10:51.54,Default,Yuji,0,0,0,,Hm?
+Dialogue: 0,0:10:50.88,0:10:51.54,Default,Yuji,0,0,0,,Hm?
 Dialogue: 0,0:10:51.91,0:10:54.79,Default,Grandpa,0,0,0,,You're a strong kid, so help people.
 Dialogue: 0,0:10:54.79,0:10:58.90,Default,Grandpa,0,0,0,,It doesn't have to be all the time, just whenever you can.
 Dialogue: 0,0:10:58.90,0:11:00.40,Default,Grandpa,0,0,0,,It's okay if you feel lost.
@@ -262,8 +262,8 @@ Dialogue: 0,0:12:53.73,0:12:54.77,Default,Fushiguro,0,0,0,,This.
 Dialogue: 0,0:12:55.76,0:12:58.59,Default,Yuji,0,0,0,,Oh, yeah, yeah. I found that.
 Dialogue: 0,0:12:58.59,0:13:02.51,Default,Yuji,0,0,0,,I don't really mind giving it back, \Nbut my friends were totally into it.
 Dialogue: 0,0:13:02.51,0:13:04.25,Default,Yuji,0,0,0,,What do you mean, {\i1}dangerous{\i0}?
-Dialogue: 0,0:13:05.15,0:13:11.73,Default,Fushiguro,0,0,0,,Nationally, the average number of unexplained deaths and missing persons exceeds ten-thousand annually. {Something is too long here, and feels like the "-lly" words are double. Like, both "Nationally" AND "Annually" shouldn't be used, I feel. Optional versions are: "The national average number of unexplained deaths and missing persons exceeds ten-thousand annually." orr..hmm.. "The annual national average number of unexplained deaths and missing persons..."... "is over ten-thousand!" xD. Also optional: Use "per-year" instead of "annually." and...What's the policy on using "n.o." instead of "number"?}
-Dialogue: 0,0:13:11.73,0:13:14.54,Default,Fushiguro,0,0,0,,Most of those are the result of curses.
+Dialogue: 0,0:13:05.15,0:13:11.73,Default,Fushiguro,0,0,0,,Nationally, the average number of unexplained deaths and missing persons exceeds ten-thousand every year. {Something is too long here, and feels like the "-lly" words are double. Like, both "Nationally" AND "Annually" shouldn't be used, I feel. Optional versions are: "The national average number of unexplained deaths and missing persons exceeds ten-thousand annually." orr..hmm.. "The annual national average number of unexplained deaths and missing persons..."... "is over ten-thousand!" xD. Also optional: Use "per-year" instead of "annually." and...What's the policy on using "n.o." instead of "number"?} {abbreviations, unless used as slangs, are bawd}
+Dialogue: 0,0:13:11.73,0:13:14.54,Default,Fushiguro,0,0,0,,Most of them are a result of curses.
 Dialogue: 0,0:13:15.29,0:13:16.53,Default,Yuji,0,0,0,,Curses?
 Dialogue: 0,0:13:16.53,0:13:18.71,Default,Fushiguro,0,0,0,,It doesn't matter if you believe me or not.
 Dialogue: 0,0:13:18.71,0:13:20.02,Default,Fushiguro,0,0,0,,Those are the facts.
@@ -275,8 +275,8 @@ Dialogue: 0,0:13:32.54,0:13:37.00,Default,Fushiguro,0,0,0,,That's why a cursed o
 Dialogue: 0,0:13:37.53,0:13:39.50,Default,Fushiguro,0,0,0,,The object you found is one of them.
 Dialogue: 0,0:13:39.50,0:13:42.26,Default,Yuji,0,0,0,,If it's protecting us, shouldn't we be grateful for it?
 Dialogue: 0,0:13:42.26,0:13:43.63,Default,Fushiguro,0,0,0,,Let me finish.
-Dialogue: 0,0:13:44.50,0:13:49.60,Default,Fushiguro,0,0,0,,A cursed object of greater evil is a deadly poison that keeps lesser evil curses away.
-Dialogue: 0,0:13:49.60,0:13:52.06,Default,Fushiguro,0,0,0,,It's a bad practice that only claims to protect.
+Dialogue: 0,0:13:44.50,0:13:49.60,Default,Fushiguro,0,0,0,,A cursed object of greater evil is said to be a deadly poison that keeps lesser curses away.
+Dialogue: 0,0:13:49.60,0:13:52.23,Default,Fushiguro,0,0,0,,In reality, it's a bad practice that only claims to protect.
 Dialogue: 0,0:13:53.02,0:13:59.94,Default,Fushiguro,0,0,0,,Over the years, its seal weakens and \Nit starts to attract curses to feed on them.
 Dialogue: 0,0:14:00.89,0:14:05.54,Default,Fushiguro,0,0,0,,The object you found is a dangerous one, \Nclassified as special-grade.
 Dialogue: 0,0:14:05.54,0:14:07.45,Default,Fushiguro,0,0,0,,Hand it over before people start dying.
@@ -305,7 +305,7 @@ Dialogue: 0,0:15:28.20,0:15:29.52,Default,Sasaki,0,0,0,,What is this?
 Dialogue: 0,0:15:33.17,0:15:35.45,Default,Yuji,0,0,0,,Do seals come off that easily?
 Dialogue: 0,0:15:35.45,0:15:38.54,Default,Fushiguro,0,0,0,,No, it's impossible for people who lack cursed energy.
 Dialogue: 0,0:15:39.11,0:15:40.44,Default,Fushiguro,0,0,0,,Normally.
-Dialogue: 0,0:15:40.94,0:15:42.90,Default,Yuji,0,0,0,,Go right! It's a shortcut!
+Dialogue: 0,0:15:41.13,0:15:42.90,Default,Yuji,0,0,0,,Go right! It's a shortcut!
 Dialogue: 0,0:15:42.90,0:15:45.17,Default,Fushiguro,0,0,0,,This time the object itself is too strong.
 Dialogue: 0,0:15:45.17,0:15:48.23,Default,Fushiguro,0,0,0,,That ancient seal might as well be normal paper.
 Dialogue: 0,0:15:48.23,0:15:52.30,Default,Yuji,0,0,0,,I still don't get all this stuff about curses.
@@ -338,7 +338,7 @@ Dialogue: 0,0:17:18.61,0:17:19.89,Default,Yuji,0,0,0,,That's right.
 Dialogue: 0,0:17:19.89,0:17:21.98,Default,Yuji,0,0,0,,I can sense death all the way out here.
 Dialogue: 0,0:17:21.98,0:17:24.01,Default,Yuji,0,0,0,,I'm afraid of dying.
 Dialogue: 0,0:17:24.01,0:17:25.66,Default,Yuji,0,0,0,,Was I afraid of it then?
-Dialogue: 0,0:17:25.66,0:17:28.23,Default,Yuji,0,0,0,,It didn't feel like I was, though.
+Dialogue: 0,0:17:25.66,0:17:28.23,Default,Yuji,0,0,0,,{\fade(0,300)}It didn't feel like I was, though.
 Dialogue: 0,0:17:28.84,0:17:34.09,Default,Yuji,0,0,0,,I cried because I was sad, not scared.
 Dialogue: 0,0:17:34.09,0:17:37.99,Default,Yuji,0,0,0,,Grandpa's death and the death I face now,
 Dialogue: 0,0:17:38.46,0:17:40.49,Default,Yuji,0,0,0,,how are they different?
@@ -346,7 +346,7 @@ Dialogue: 0,0:17:41.24,0:17:44.37,Default,Grandpa,0,0,0,,You're a strong kid, so
 Dialogue: 0,0:17:50.26,0:17:52.96,Default,Fushiguro,0,0,0,,More of those curses. They're close.
 Dialogue: 0,0:18:01.44,0:18:02.47,Default,Fushiguro,0,0,0,,Found them.
 Dialogue: 0,0:18:04.24,0:18:06.14,Default,Yuji,0,0,0,,{\i1}He was short-tempered and stubborn.
-Dialogue: 0,0:18:06.52,0:18:09.15,Default,Yuji,0,0,0,,{\i1}No one but me ever paid him a visit. {No one ever paid him a visit, but me. It's technically not wrong as it is, I think. Yet feel this structure is better to give impact to the core statement that "No one ever paid him a visit."}
+Dialogue: 0,0:18:06.52,0:18:09.15,Default,Yuji,0,0,0,,{\i1}No one ever paid him a visit, but me. {No one ever paid him a visit, but me. It's technically not wrong as it is, I think. Yet feel this structure is better to give impact to the core statement that "No one ever paid him a visit."}
 Dialogue: 0,0:18:10.64,0:18:13.02,Default,Yuji,0,0,0,,{\i1}Don't end up like you, huh?
 Dialogue: 0,0:18:13.02,0:18:14.65,Default,Yuji,0,0,0,,{\i1}That's okay, but...
 Dialogue: 0,0:18:14.65,0:18:17.86,Default,Fushiguro,0,0,0,,Damn it! Is it trying to swallow her along with the cursed object?!
@@ -386,15 +386,15 @@ Dialogue: 0,0:19:54.66,0:19:56.11,Default,Yuji,0,0,0,,Yeah, yeah.
 Dialogue: 0,0:20:00.84,0:20:01.80,Default,Fushiguro,0,0,0,,Run!
 Dialogue: 0,0:20:11.20,0:20:11.89,Default,Yuji,0,0,0,,Fushiguro!
 Dialogue: 0,0:20:13.77,0:20:14.77,Default,Fushiguro,0,0,0,,Nue!
-Dialogue: 0,0:20:35.96,0:20:39.44,Default,Fushiguro,0,0,0,,Damn it, I can't think straight.
+Dialogue: 0,0:20:35.96,0:20:38.97,Default,Fushiguro,0,0,0,,Damn it, I can't think straight!
 Dialogue: 0,0:20:40.46,0:20:41.75,Default,Fushiguro,0,0,0,,Itadori!
 Dialogue: 0,0:20:41.75,0:20:44.89,Default,Fushiguro,0,0,0,,Why don't you get it?! Just take those two and run!
-Dialogue: 0,0:20:45.51,0:20:47.98,Default,Yuji,0,0,0,,You're in big trouble yourself!
+Dialogue: 0,0:20:45.51,0:20:47.98,Default,Yuji,0,0,0,,You're in a tight spot yourself!
 Dialogue: 0,0:20:52.06,0:20:54.42,Default,Fushiguro,0,0,0,,Only curses can exorcise other curses!
 Dialogue: 0,0:20:54.42,0:20:55.69,Default,Fushiguro,0,0,0,,You can't beat it!
-Dialogue: 0,0:20:55.69,0:20:57.82,Default,Yuji,0,0,0,,This isn't the time to be saying that!
-Dialogue: 0,0:20:57.82,0:21:00.32,Default,Yuji,0,0,0,,You're going to die at this rate!
-Dialogue: 0,0:21:01.68,0:21:04.99,Default,Yuji,0,0,0,,If I went home now, I'd be having nightmares!
+Dialogue: 0,0:20:55.69,0:20:57.36,Default,Yuji,0,0,0,,You're telling me that, {\i1}now{\i0}?
+Dialogue: 0,0:20:57.82,0:21:00.32,Default,Yuji,0,0,0,,In any case, you're gonna die at this rate!
+Dialogue: 0,0:21:01.68,0:21:04.79,Default,Yuji,0,0,0,,If I went home now, I'd be having nightmares!
 Dialogue: 0,0:21:04.99,0:21:06.24,Default,Yuji,0,0,0,,Besides,
 Dialogue: 0,0:21:09.54,0:21:11.00,Default,Yuji,0,0,0,,I've actually got...
 Dialogue: 0,0:21:11.00,0:21:13.00,Default,Grandpa,0,0,0,,Help people.
@@ -414,8 +414,8 @@ Dialogue: 0,0:21:58.79,0:22:01.84,Default,Fushiguro,0,0,0,,{\i1}But there {\i0}i
 Dialogue: 0,0:22:01.84,0:22:03.30,Default,Fushiguro,0,0,0,,{\i1}A one in a million chance.
 Dialogue: 0,0:22:43.71,0:22:45.55,Default,Sukuna,0,0,0,,Ah, I knew it!
 Dialogue: 0,0:22:45.55,0:22:48.63,Default,Sukuna,0,0,0,,Light feels best in the flesh!
-Dialogue: 0,0:22:49.44,0:22:50.93,Default,Fushiguro,0,0,0,,{\i1}This is the worst!
-Dialogue: 0,0:22:50.93,0:22:52.60,Default,Fushiguro,0,0,0,,{\i1}A one-in-a-million chance worst-case scenario.
+Dialogue: 0,0:22:49.44,0:22:50.85,Default,Fushiguro,0,0,0,,{\i1}This is messed up!
+Dialogue: 0,0:22:50.85,0:22:52.60,Default,Fushiguro,0,0,0,,{\i1}A one-in-a-million chance worst-case scenario.
 Dialogue: 0,0:22:52.99,0:22:55.57,Default,Fushiguro,0,0,0,,{\i1}The special-grade cursed object has incarnated!
 Dialogue: 0,0:22:55.57,0:22:57.99,Default,Sukuna,0,0,0,,A cursed spirit's flesh is no fun.
 Dialogue: 0,0:22:57.99,0:23:00.98,Default,Sukuna,0,0,0,,Where are the people? The women?!
