@@ -1,0 +1,99 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:25.52,0:02:31.70,Signs,Screen,0,0,0,,{\fad(500,1)\pos(612,310)}Episode 1: Ryoumen Sukuna
+Dialogue: 0,0:02:28.27,0:02:31.70,Signs,Plate,0,0,0,,{\pos(314,104)\an8\b1\c&H1D394B&\bord0\shad0\fnArial\fs28\be.25}Itadori
+Dialogue: 0,0:03:19.24,0:03:20.54,Signs,Sign,0,0,0,,Miyashiro Prefectural Sugisawa Third High School
+Dialogue: 0,0:04:11.83,0:04:13.76,Signs,Sign,0,0,0,,{\b1\c&H543D2C&\3c&HCBCCBC&\shad0\bord3\an8\fs20}Occult Phenomenon\NResearch Club
+Dialogue: 0,0:04:27.01,0:04:27.90,Signs,All&Screen,0,0,0,,{\fad(173,1)\fnComic Sans MS\b1\fs80\bord0\shad0\c&H0E0F0C&\an5\t(\fs84)\pos(158,100)\be1}Ku
+Dialogue: 0,0:04:28.01,0:04:28.73,Signs,All&Screen,0,0,0,,{\fad(173,1)\fnComic Sans MS\b1\fs80\bord0\shad0\c&H0E0F0C&\an5\t(\fs84)\be1\pos(490,66)}ri
+Dialogue: 0,0:04:28.83,0:04:29.32,Signs,All&Screen,0,0,0,,{\fad(173,1)\fnComic Sans MS\b1\fs80\bord0\shad0\c&H0E0F0C&\an5\t(\fs84)\be1\pos(192,230)}o
+Dialogue: 0,0:04:29.39,0:04:30.11,Signs,All&Screen,0,0,0,,{\fad(173,1)\fnComic Sans MS\b1\fs80\bord0\shad0\c&H0E0F0C&\an5\t(\fs84)\be1\pos(442.667,107)}ne
+Dialogue: 0,0:04:30.14,0:04:32.94,Signs,Sidebar,0,0,0,,{\pos(520,181)}Sea Angel
+Dialogue: 0,0:04:30.14,0:04:32.94,Signs,Sidebar,0,0,0,,{\pos(578,183)}A type of plankton\Nliving in cold oceans!
+Dialogue: 0,0:04:30.14,0:04:32.94,Signs,Sidebar,0,0,0,,{\pos(519.334,210)\fscx95}A transparent\N{\fscx100}body!
+Dialogue: 0,0:04:30.14,0:04:32.94,Signs,Sidebar,0,0,0,,{\fs8\pos(586,206)}It's actually\Nrelated\Nto mollusks!
+Dialogue: 0,0:04:30.14,0:04:32.94,Signs,Sidebar,0,0,0,,{\fs8\pos(522,278.667)}It moves its legs,\Nwhich look\Nlike wings,\Nto float around.
+Dialogue: 0,0:04:30.14,0:04:32.94,Signs,Sidebar,0,0,0,,{\fs8\pos(576.667,326.667)}When capturing prey,\Nits mouth pops open\Nand shoots out tentacles!
+Dialogue: 0,0:04:30.14,0:04:32.94,Signs,Sidebar,0,0,0,,{\fs8\pos(577.6,305.5)\3c&HF9FDFC&}Eek!
+Dialogue: 0,0:04:37.56,0:04:38.28,Signs,Paper,0,0,0,,{\fnTimes New Roman\fs20\c&H636867&\bord0\shad0\b1\frx36\fry12\frz317.5\pos(438,50)}Notice
+Dialogue: 0,0:04:49.78,0:04:50.14,Signs,Book,0,0,0,,{\pos(264.333,256)}Mysterious Events\NFile 9
+Dialogue: 0,0:05:09.07,0:05:10.28,Signs,,0,0,0,,{\fad(197,1)\fscy80\pos(334,68)}B\Ni\Nn\Ng
+Dialogue: 0,0:05:10.28,0:05:13.79,Signs,,0,0,0,,{\frz0\pos(366,82)}O\No\No\No\No
+Dialogue: 0,0:05:17.10,0:05:20.54,Signs,CenterHeadline,0,0,0,,{\fad(1500,1)\an5\pos(345,180)}Belongings Found\Non Roadside, \NPossible Crime
+Dialogue: 0,0:05:17.29,0:05:19.38,Signs,Headline,0,0,0,,{\fad(300,1)\pos(320,20)\an8}Former Employee, Age 35, Goes Missing at Sugisawa
+Dialogue: 0,0:05:17.29,0:05:20.54,Signs,RightHeadline,0,0,0,,{\fad(1500,1)}Former Employee of a\NMajor Construction Company\NNever Made a Comeback\Nand Went Into Debt
+Dialogue: 0,0:05:20.79,0:05:23.12,Signs,RightHeadline,0,0,0,,{\fad(405,1)\an5}Last\NSighted\Nat\NSugisawa\NThird
+Dialogue: 0,0:05:20.79,0:05:23.12,Signs,CenterHeadline,0,0,0,,{\fad(405,1)\fnTrebuchet MS\pos(400,60)}Laid Off from Work\NFailed to Start New Enterprise\NPossible Suicide
+Dialogue: 0,0:05:26.82,0:05:29.01,Signs,Screen,0,0,0,,{\fad(632,140)\pos(320,20)}Laid Off from Work\NFailed to Start New Enterprise
+Dialogue: 0,0:05:28.89,0:05:31.01,Signs,Screen,0,0,0,,{\fad(147,138)\pos(320,20)}Continuous Collection Calls\NThreatening Calls and Faxes
+Dialogue: 0,0:05:30.89,0:05:32.80,Signs,Screen,0,0,0,,{\fad(149,1)\pos(320,20)}Suspicious Men at His Home\NPossible Kidnapping
+Dialogue: 0,0:05:39.21,0:05:41.11,Signs,Screen,0,0,0,,{\pos(264,290)\fs18\b1\fnTimes New Roman\c&H4F524E&\3c&HF8F8F8&\shad0}Vengeful Spirit
+Dialogue: 0,0:05:41.11,0:05:43.32,Signs,Screen,0,0,0,,{\fs18\b1\fnTimes New Roman\c&H4F524E&\3c&HF8F8F8&\shad0\pos(126,288.667)}Vengeful Spirit
+Dialogue: 0,0:05:44.92,0:05:52.19,Signs,Screen,0,0,0,,{\pos(96,18)}Hard Ticks
+Dialogue: 0,0:05:44.92,0:05:52.19,Signs,Screen,0,0,0,,{\pos(323,160)}A large,\Nparasitic tick\Nthat sucks the blood\Nof animals and humans!
+Dialogue: 0,0:05:44.92,0:05:52.19,Signs,Screen,0,0,0,,{\fs14\q2\pos(320,26)}Be careful, because they can be carriers of\N{\c&H3725B7&}infectious diseases {\c}that lead to {\c&H3423B6&}death {\c}if they bite humans!
+Dialogue: 0,0:05:44.92,0:05:52.19,Signs,Screen,0,0,0,,{\bord0\shad0\q2\an8\fs12\b0\fscx80\pos(448,90)}Diseases such as Severe Fever with Thrombocytopenia Syndrome (SFTS)
+Dialogue: 0,0:05:44.92,0:05:52.19,Signs,Screen,0,0,0,,Hmm?
+Dialogue: 0,0:05:44.92,0:05:52.19,Signs,Screen,0,0,0,,They leap onto targets\Nfrom grass and bushes.
+Dialogue: 0,0:05:44.92,0:05:52.19,Signs,Screen,0,0,0,,{\pos(234,270)}Burp
+Dialogue: 0,0:05:44.92,0:05:52.19,Signs,Screen,0,0,0,,{\pos(38,186)\frz17.98\c&H7A9FC2&}Leap
+Dialogue: 0,0:05:44.92,0:05:52.19,Signs,Screen,0,0,0,,{\pos(72,271.333)}Size
+Dialogue: 0,0:05:44.92,0:05:52.19,Signs,Screen,0,0,0,,{\an5\pos(125,233)}Before Blood
+Dialogue: 0,0:05:44.92,0:05:52.19,Signs,Screen,0,0,0,,{\an5\pos(196,233)}After Blood
+Dialogue: 0,0:05:44.92,0:05:52.19,Signs,Screen,0,0,0,,{\pos(269.999,256.667)\q2}After sucking blood, their size\Ncan increase up to {\c&H5147B5&}100x{\c}!
+Dialogue: 0,0:06:08.49,0:06:10.04,Signs,Screen,0,0,0,,{\fad(295,1)\fnArial\b1\an8\c&H0E1A18&\bord2\shad0\3c&HFAFAFA&}Not Enough Members
+Dialogue: 0,0:06:41.10,0:06:47.84,Signs,Screen,0,0,0,,{\fad(509,1)\fscx80\pos(101,10)\t(2178,2303,1 \3c&H414141&\4c&H414141&)}Track and Field Coach
+Dialogue: 0,0:06:41.10,0:06:47.84,Signs,Screen,0,0,0,,{\fad(509,1)\pos(99,75)\t(2178,2303,1 \3c&H414141&\4c&H414141&)}Takagi
+Dialogue: 0,0:06:41.10,0:06:47.84,Signs,Screen,0,0,0,,{\fad(509,1)\pos(484,155)\t(2178,2303,1 \3c&H414141&\4c&H414141&)}Itadori
+Dialogue: 0,0:07:11.55,0:07:19.03,Signs,Sign,0,0,0,,{\c&H4D2FB0&\3c&HB4A8AA&\shad0\fs12\fay.43\frx350\fry336\pos(274.667,224)}No Unauthorized Entry
+Dialogue: 0,0:07:40.37,0:07:41.84,Signs,Screen,0,0,0,,*Japan's National Record
+Dialogue: 0,0:08:16.57,0:08:19.05,Signs,Screen,0,0,0,,{\pos(512,234)}*World Record
+Dialogue: 0,0:08:36.47,0:08:39.01,Signs,Screen,0,0,0,,{\fnArial\b1\bord0\shad0\blur.25\an8\pos(583.667,155.667)}Shiver
+Dialogue: 0,0:08:36.47,0:08:39.01,Signs,Screen,0,0,0,,{\fnArial\b1\bord0\shad0\blur.25\an8\pos(355.333,125.333)}Tremble
+Dialogue: 0,0:08:36.47,0:08:39.01,Signs,Screen,0,0,0,,{\fnArial\b1\3c&H1AE6EC&\c&H192B2B&\shad0\blur.5\pos(574,277)}3 Days Ago
+Dialogue: 0,0:08:45.27,0:08:50.24,Signs,Sign,0,0,0,,{\b1\c&H1C1C1C&\3c&HF9F9F9&\shad0\bord3\an8\fs20}Occult Phenomenon\NResearch Club
+Dialogue: 0,0:09:34.36,0:09:35.71,Signs,Screen,0,0,0,,{\pos(320,205)}*World Record\N5.47s+
+Dialogue: 0,0:09:46.79,0:09:49.26,Signs,Sign,0,0,0,,{\fs16\c&H3D8A92&\3c&HBCF9F4&\shad0\frx14\fry344\fay-.21\pos(386.666,64.666)}Sugisawa Hospital
+Dialogue: 0,0:09:49.29,0:09:51.26,Signs,Sign,0,0,0,,{\fs12\fnTimes New Roman\shad0\c&H989B9A&\3c&HFAFDFD&\pos(374.667,170.666)\fay.17\frx0\fry20}Itadori
+Dialogue: 0,0:09:49.29,0:09:51.26,Signs,Sign,0,0,0,,{\fs12\fnTimes New Roman\shad0\c&H989B9A&\3c&HFAFDFD&\fay.12\frx0\fry20\pos(376,244)}Saitou
+Dialogue: 0,0:11:26.01,0:11:27.94,Signs,ScreenLeft,0,0,0,,{\pos(268,84)\fs12\b1\3c&H77D2F9&\shad0\an8}Nurse Call
+Dialogue: 0,0:11:26.01,0:11:27.94,Signs,ScreenRight,0,0,0,,{\pos(580,10)}Matsumoto
+Dialogue: 0,0:11:26.01,0:11:27.94,Signs,ScreenRight,0,0,0,,{\pos(581.333,74.667)}Hanai
+Dialogue: 0,0:11:26.01,0:11:27.94,Signs,ScreenRight,0,0,0,,{\pos(580,138)}Eguchi
+Dialogue: 0,0:11:26.01,0:11:27.94,Signs,ScreenRight,0,0,0,,{\pos(580,200)\3c&HDAE3E2&\c&H68706E&}Akita
+Dialogue: 0,0:11:26.01,0:11:27.94,Signs,ScreenRight,0,0,0,,{\pos(580,268)\c&H606464&\3c&HC1C4CC&}Itadori
+Dialogue: 0,0:11:26.01,0:11:27.94,Signs,ScreenRight,0,0,0,,{\pos(580,332)\c&H484A4A&\3c&HA2A5A4&}Kosaka
+Dialogue: 0,0:12:07.60,0:12:09.57,Signs,Paper,0,0,0,,{\fs14\c&H7C7C7C&\3c&HF2F2F2&\shad0\fay.1\frz142.7\frx38\fry8\pos(326,312.667)}Notification of Death
+Dialogue: 0,0:13:07.97,0:13:08.72,Signs,Phone,0,0,0,,{\fad(400,1)\pos(236,75)\fscx80}4th-grade Girl Commits Suicide. Bullying Suspected.\NSuicide Note Read, "They Told Me to Die."
+Dialogue: 0,0:13:09.04,0:13:10.01,Signs,Phone,0,0,0,,{\fad(582,1)\pos(240.667,68)\fscx75\frz338}Head of Nursing Home in Mifune Ward Stabbed to Death.\NFormer Patient Unindicted Once Again
+Dialogue: 0,0:16:14.34,0:16:17.07,Signs,Sign,0,0,0,,Occult Phenomenon\NResearch Club
+Dialogue: 0,0:23:52.03,0:23:55.65,Signs,Screen,0,0,0,,{\fad(984,1)\blur3\t(25,984,1 \blur.25)}Episode 2:\N\N{\fs30}For Myself
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_01.mkv
+Video File: jujutsu_01.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_01_keyframes.txt

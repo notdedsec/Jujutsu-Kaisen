@@ -1,0 +1,66 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:29.52,0:01:35.30,Signs,Screen,0,0,0,,{\blur3}Tokyo Metropolitan\NJujutsu Technical High School
+Dialogue: 0,0:03:00.86,0:03:05.29,Signs,Wall,0,0,0,,400 Yen Corner
+Dialogue: 0,0:04:45.51,0:04:51.73,Signs,Screen,0,0,0,,{\fad(530,1)\pos(26,305)\an1}Episode 3: Girl of Steel
+Dialogue: 0,0:04:52.65,0:05:03.16,Signs,Screen,0,0,0,,{\blur3}Kugisaki's POV
+Dialogue: 0,0:05:25.93,0:05:31.44,Signs,Screen,0,0,0,,{\pos(324,5.333)\fs20}Tokyo
+Dialogue: 0,0:05:46.45,0:05:51.96,Signs,Screen,0,0,0,,{\blur3}Roppongi
+Dialogue: 0,0:11:19.99,0:11:22.49,Signs,Sign,0,0,0,,Kugisaki
+Dialogue: 0,0:11:27.99,0:11:30.50,Signs,CarGlass,0,0,0,,Broken Van
+Dialogue: 0,0:11:27.99,0:11:30.50,Signs,CarHood,0,0,0,,{\c&H1C1C1C&\frz352.3\frx48\fry340\pos(113.333,138)}Filth
+Dialogue: 0,0:11:27.99,0:11:30.50,Signs,CarHood,0,0,0,,{\q2\c&H171717&\pos(242,188.666)\frz354.8\frx24\fry352}Serves you right
+Dialogue: 0,0:11:27.99,0:11:30.50,Signs,CarHood,0,0,0,,{\q2\c&H171717&\frz354.8\frx24\fry352\pos(95.333,268.667)}Go back to Tokyo
+Dialogue: 0,0:11:27.99,0:11:30.50,Signs,CarDoor,0,0,0,,{\q2\c&H171717&\frx354\fry46\frz306.5\pos(529.333,218)}Leave
+Dialogue: 0,0:15:47.00,0:15:51.01,Signs,Sign,0,0,0,,{\fs18\an5\c&H352D2A&\3c&HD3DAD4&\shad0\move(534,146,500,146)}This bridge is {\c&H4A2676&}dangerous\N{\c&H352D2A&}due to deterioration from age\N{\c&H4A2676&}and can no longer be used.
+Dialogue: 0,0:16:24.00,0:16:27.00,Signs,Screen,0,0,0,,{\fnComic Sans MS\b1\c&H233179&\shad0\move(333,175,250,112)\3c&H0F1C1E&\blur1\an5\fay-.2\frx28\fry8\fax.3\frz0.75}Sticker Book
+Dialogue: 0,0:16:45.48,0:16:47.48,Signs,Sign,0,0,0,,{\an8\fnTimes New Roman\c&H81777D&\3c&HC8CDC7&\shad0\b1\blur1\bord3}We Protest the Kitagawa Highway Extension!
+Dialogue: 0,0:16:51.51,0:16:56.49,Signs,Sign,0,0,0,,Home for Sale
+Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarGlass,0,0,0,,{\c&H292A23&}Broken Van
+Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarHood,0,0,0,,{\c&H1C1C1C&\frz352.3\frx48\fry340\pos(113.333,138)}Filth
+Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarHood,0,0,0,,{\q2\c&H171717&\pos(242,188.666)\frz354.8\frx24\fry352}Serves you right
+Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarHood,0,0,0,,{\q2\c&H171717&\frz354.8\frx24\fry352\pos(95,265}Go back to Tokyo
+Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarDoor,0,0,0,,{\q2\c&H171717&\frx354\fry46\frz306.5\pos(529.333,218)}Leave
+Dialogue: 0,0:17:15.01,0:17:18.26,Signs,Sign,0,0,0,,{\fs16\an5\c&H352D2A&\3c&HD3DAD4&\shad0\pos(540,146)}This bridge is {\c&H4A2676&}dangerous\N{\c&H352D2A&}due to deterioration from age\N{\c&H4A2676&}and can no longer be used.
+Dialogue: 0,0:19:59.34,0:20:01.13,Signs,Bubble,0,0,0,,{\move(320,200,362,200)\fs16\c&H583439&\3c&HD49877&\shad0}Harajuku
+Dialogue: 0,0:19:59.38,0:20:01.13,Signs,Bubble,0,0,0,,{\move(322,144,364,144)\fs16\c&H2D5241&\3c&H87C993&\shad0}Coin Locker
+Dialogue: 0,0:20:30.33,0:20:36.92,Signs,Screen,0,0,0,,{\b1\fs30\bord0\shad0\fsp1\fad(2067,1)\an8\move(320,125,320,70,2861,2985)}Log: July 2018
+Dialogue: 0,0:20:33.33,0:20:36.92,Signs,Screen,0,0,0,,{\fad(1278,1)\b1\fs24\bord0\shad0\fsp1\fad(2067,1)\an2\pos(320,300)}West Tokyo City\N{\1a&HFF&\t(1363,3030,1 \alpha&H00&)}Eishuu Juvenile Detention Center
+Dialogue: 0,0:20:39.63,0:20:42.42,Signs,Screen,0,0,0,,{\fad(2277,1)\b1\fs24\bord0\shad0\fsp1\an2\pos(320,235)}In the sky above the exercise yard
+Dialogue: 0,0:20:50.81,0:20:59.94,Signs,Screen,0,0,0,,{\fad(3025,1)\b1\fs24\bord0\shad0\fsp1\fad(2067,1)\an2\move(320,235,320,195,3110,3276)\fscx90}Unnamed Apparition of Potential Special Grade
+Dialogue: 0,0:20:54.14,0:20:59.94,Signs,Screen,0,0,0,,{\fad(5201,1)\b1\fs24\bord0\shad0\fsp1\fad(2067,1)\an2\pos(320,270)\fscx80}Its curse womb was witnessed by several non-jujutsu sorcerers.
+Dialogue: 0,0:21:04.95,0:21:10.70,Signs,Screen,0,0,0,,{\fad(2190,265)\b1\fs24\bord0\shad0\fsp1\fad(2067,1)\an2\move(320,235,320,195,2066,2190)}Due to the emergency nature,
+Dialogue: 0,0:21:07.16,0:21:10.70,Signs,Screen,0,0,0,,{\fad(2775,265)\b1\fs24\bord0\shad0\fsp1\fad(2067,1)\an2\pos(320,270)\fscx80}three Jujutsu Tech first-years were dispatched to the scene,
+Dialogue: 0,0:21:10.95,0:21:14.96,Signs,Screen,0,0,0,,{\fad(528,1)\b1\fs50\bord0\shad0\fsp1\fad(2067,1)\an2\pos(320,300)}and one died.
+Dialogue: 0,0:22:44.92,0:22:47.21,Signs,Screen&Voice,0,0,0,,{\an8\fnTimes New Roman\b1\fs30\c&H000101&\3c&HE7EFF0&\shad0\pos(320,10)}Juju Stroll
+Dialogue: 0,0:23:41.21,0:23:44.94,Signs,Screen,0,0,0,,{\fad(458,1)}*Please ride in cars properly and safely.
+Dialogue: 0,0:23:51.49,0:23:54.95,Signs,Screen,0,0,0,,{\fad(1066,1)}Episode 4:\NCurse Womb Must Die
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_03.mkv
+Video File: jujutsu_03.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_03_keyframes.txt
