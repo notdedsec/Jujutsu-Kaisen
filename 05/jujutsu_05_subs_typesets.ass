@@ -1,0 +1,35 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:03:55.41,0:04:00.59,Signs,Screen,0,0,0,,{\fad(529,519)\an1\pos(30,305)\fs20}Episode 5:  {\fs24}Curse Womb Must Die -II-
+Dialogue: 0,0:03:55.41,0:04:00.59,Signs,Screen,0,0,0,,{\fad(529,519)\an1\pos(30,305)\fs20}Episode 5:  {\fs24}Curse Womb Must Die -II-
+Dialogue: 0,0:13:04.09,0:13:06.39,Signs,Sign,0,0,0,,{\fs16\frx12\fry54\c&H76D7F2&\3c&HFDFDFF&\shad0\b1\pos(318,209.333)\frz344}Café Restaurant\N{\fnArial\fs20\c&H55B274&\3c&HFCFFF9&\xshad-2\4c&HC4CCC7&}Rice
+Dialogue: 0,0:18:58.11,0:19:06.16,Signs,Sign,0,0,0,,{\fay.14\c&H0A0A0A&\3c&H0A0A0A&\shad0\frx356\fs18\fry14\t(1821,1945,1 \c&H8C8F8E&\3c&HE8EDEC&)\move(436,226,132,-137)}Disrupt Autonomic Nerves
+Dialogue: 0,0:18:58.11,0:19:06.16,Signs,Sign,0,0,0,,{\fay.14\c&H0A0A0A&\3c&H0A0A0A&\shad0\frx356\fs18\fry14\t(4115,4239,1 \c&H8C8F8E&\3c&HE8EDEC&)\move(580,314,255,-10)}Change in Environment
+Dialogue: 0,0:18:58.11,0:19:06.16,Signs,Sign,0,0,0,,{\fay.14\c&H0A0A0A&\3c&H0A0A0A&\shad0\frx356\fs18\fry14\t(6325,6450,1 \c&H8C8F8E&\3c&HE8EDEC&)\move(665,410,380,95)}May Blues
+Dialogue: 0,0:19:37.61,0:19:41.61,Signs,Sign,0,0,0,,{\fs20\c&H76D7F2&\3c&HFDFDFF&\shad0\b1\frz11.99\move(510,255,510,125)\frx18\fax-.1\fry346}Café Restaurant\N{\fnArial\fs24\c&H55B274&\3c&HFCFFF9&\xshad2\yshad1\4c&HC4CCC7&}Rice
+Dialogue: 0,0:22:44.92,0:22:47.47,Signs,Screen&Voice,0,0,0,,Juju Stroll
+Dialogue: 0,0:23:51.44,0:23:54.99,Signs,Screen,0,0,0,,{\fad(982,1)}Episode 6: \NAfter Rain
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_05.mkv
+Video File: jujutsu_05.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_05_keyframes.txt
