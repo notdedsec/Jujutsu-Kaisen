@@ -16,14 +16,14 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: jujutsu_03.mkv
-Video File: jujutsu_03.mkv
-Keyframes File: jujutsu_03_keyframes.txt
+Audio File: [Kaizoku] Jujutsu Kaisen - 03 [4A5DBB5C].mkv
+Video File: [Kaizoku] Jujutsu Kaisen - 03 [4A5DBB5C].mkv
+Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 315
-Active Line: 323
-Video Position: 32940
+Scroll Position: 296
+Active Line: 307
+Video Position: 29722
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,7 +56,7 @@ Dialogue: 0,0:00:56.02,0:00:57.36,Default,Kugisaki,0,0,0,,{\i1}Saori{**-chan}.
 Dialogue: 0,0:00:59.48,0:01:01.36,Default,Kugisaki,0,0,0,,{\i1}I'm here.
 Dialogue: 0,0:01:06.52,0:01:07.78,Default,Kugisaki,0,0,0,,{\i1}I'm in Tokyo!
 Dialogue: 0,0:01:10.07,0:01:12.90,Default,Yuji,0,0,0,,How are there only three first-years? Isn't that too few?
-Dialogue: 0,0:01:12.90,0:01:17.52,Default,Fushiguro,0,0,0,,I mean think about it, \Nhave you ever met anyone who can see curses?
+Dialogue: 0,0:01:12.90,0:01:17.52,Default,Fushiguro,0,0,0,,I mean think about it, \Nhave you ever met anyone who can see curses? {Is "I mean" really needed here?}
 Dialogue: 0,0:01:19.16,0:01:20.01,Default,Yuji,0,0,0,,Not really.
 Dialogue: 0,0:01:20.35,0:01:23.52,Default,Fushiguro,0,0,0,,That's how rare we jujutsu sorcerers are.
 Dialogue: 0,0:01:23.52,0:01:26.53,Default,Yuji,0,0,0,,By the way, didn't you say I was the third?
@@ -87,7 +87,7 @@ Dialogue: 0,0:02:22.86,0:02:24.25,Default,Woman,0,0,0,,I'm in a hurry right now.
 Dialogue: 0,0:02:24.25,0:02:26.56,Default,Scout,0,0,0,,Just hear me out!
 Dialogue: 0,0:02:28.40,0:02:29.63,Default,Kugisaki,0,0,0,,Hey, you.
 Dialogue: 0,0:02:30.07,0:02:31.13,Default,Kugisaki,0,0,0,,What about me?
-Dialogue: 0,0:02:32.41,0:02:33.65,Default,Scout,0,0,0,,{\i1}What {\i0}about{\i1} her?!
+Dialogue: 0,0:02:32.41,0:02:33.65,Default,Scout,0,0,0,,{\i1}What {\i0}about{\i1} her?! {I understand "about" is being highlighted here, as it should be, and that italics take the default because it's an internal thought, but being just 3 words, it feels like "What" and "her" are being highlighted hmm... Maybe flip?}
 Dialogue: 0,0:02:34.86,0:02:36.57,Default,Kugisaki,0,0,0,,For the modeling gig, duh.
 Dialogue: 0,0:02:36.57,0:02:38.56,Default,Kugisaki,0,0,0,,I'm asking what you think about me.
 Dialogue: 0,0:02:38.56,0:02:41.43,Default,Scout,0,0,0,,Oh, um, I'm in a hurry at the moment.
@@ -113,7 +113,7 @@ Dialogue: 0,0:04:53.32,0:04:55.33,Default,Kugisaki,0,0,0,,{\i1}He looks like a p
 Dialogue: 0,0:04:55.33,0:04:58.34,Default,Kugisaki,0,0,0,,{\i1}He's definitely the type that ate his own boogers as a kid.
 Dialogue: 0,0:04:59.07,0:05:00.49,Default,Kugisaki,0,0,0,,{\i1}And only a name here?
 Dialogue: 0,0:05:00.49,0:05:03.16,Default,Kugisaki,0,0,0,,{\i1}I can't stand high-and-mighty dudes.
-Dialogue: 0,0:05:03.66,0:05:07.41,Default,Kugisaki,0,0,0,,{\i1}I bet he's into setting birds like seagulls on fire.
+Dialogue: 0,0:05:03.66,0:05:07.41,Default,Kugisaki,0,0,0,,{\i1}I bet he's into setting {birds like }seagulls on fire. {LMAO I think it's better this way. Why explain a simple joke or prepare the viewer for a chaotic line. I love her the more chaotic she becomes.}
 Dialogue: 0,0:05:08.82,0:05:11.68,Default,Kugisaki,0,0,0,,Why does it always have to be me?
 Dialogue: 0,0:05:11.68,0:05:14.44,Default,Yuji,0,0,0,,She took one look and sighed.
 Dialogue: 0,0:05:14.44,0:05:16.17,Default,Fushiguro,0,0,0,,Are we going somewhere from here?
@@ -187,7 +187,7 @@ Dialogue: 0,0:08:08.65,0:08:11.60,Default,Yuji,0,0,0,,Huh? Didn't you come here 
 Dialogue: 0,0:08:11.60,0:08:14.66,Default,Kugisaki,0,0,0,,Let's save some time and split up.
 Dialogue: 0,0:08:14.66,0:08:17.31,Default,Kugisaki,0,0,0,,I'll start from the top and go floor by floor.
 Dialogue: 0,0:08:17.31,0:08:18.60,Default,Kugisaki,0,0,0,,You start from the bottom.
-Dialogue: 0,0:08:18.98,0:08:21.66,Default,Kugisaki,0,0,0,,Let's get this over with quick and grab some sushi in Ginza.
+Dialogue: 0,0:08:18.98,0:08:21.66,Default,Kugisaki,0,0,0,,Let's get this over with quick, and grab some sushi in Ginza.
 Dialogue: 0,0:08:21.66,0:08:22.86,Default,Yuji,0,0,0,,Hold on a minute.
 Dialogue: 0,0:08:22.86,0:08:24.63,Default,Yuji,0,0,0,,Let's take this a bit more seriously.
 Dialogue: 0,0:08:24.63,0:08:26.41,Default,Yuji,0,0,0,,Curses are dangerous, you know.
@@ -211,10 +211,10 @@ Dialogue: 0,0:09:55.31,0:09:59.29,Default,Gojo,0,0,0,,Plenty of jujutsu sorcerer
 Dialogue: 0,0:09:59.29,0:10:02.30,Default,Gojo,0,0,0,,because they can't conquer their fear or disgust.
 Dialogue: 0,0:10:02.30,0:10:04.30,Default,Gojo,0,0,0,,You've seen it before, haven't you?
 Dialogue: 0,0:10:06.42,0:10:09.75,Default,Gojo,0,0,0,,So today I wanna see how crazy she can get.
-Dialogue: 0,0:10:11.61,0:10:13.77,Default,Kugisaki,0,0,0,,Hey, you, curse.
+Dialogue: 0,0:10:11.61,0:10:13.77,Default,Kugisaki,0,0,0,,Hey, you, curse. {I suggest removing both commas here. Pauses, sure, but almost unreadable.}
 Dialogue: 0,0:10:19.75,0:10:21.89,Default,Kugisaki,0,0,0,,I mean you, mannequin in the center.
 Dialogue: 0,0:10:21.89,0:10:23.56,Default,Kugisaki,0,0,0,,Is that your idea of hiding?
-Dialogue: 0,0:10:26.96,0:10:29.86,Default,Kugisaki,0,0,0,,If you won't come out, I'll just exorcise you there.
+Dialogue: 0,0:10:26.96,0:10:29.86,Default,Kugisaki,0,0,0,,If you won't come out, I'll just exorcise you from here. {Changed "there" to "from here."}
 Dialogue: 0,0:10:29.86,0:10:32.61,Default,Fushiguro,0,0,0,,But Kugisaki is experienced, right?
 Dialogue: 0,0:10:32.61,0:10:34.53,Default,Fushiguro,0,0,0,,Little late for that now, isn't it?
 Dialogue: 0,0:10:34.53,0:10:37.37,Default,Gojo,0,0,0,,Curses are born from human minds.
@@ -227,7 +227,7 @@ Dialogue: 0,0:11:30.56,0:11:34.00,Default,Gojo,0,0,0,,So their strength and numb
 Dialogue: 0,0:11:35.21,0:11:39.56,Default,Gojo,0,0,0,,Compared to the countryside, \Ncurses in Tokyo are on a whole other level.
 Dialogue: 0,0:11:47.17,0:11:49.52,Default,Kugisaki,0,0,0,,You might want to pull those out.
 Dialogue: 0,0:11:54.94,0:11:57.03,Default,Kugisaki,0,0,0,,Otherwise my cursed energy will flow into you.
-Dialogue: 0,0:12:05.16,0:12:06.56,Default,Kugisaki,0,0,0,,{\i1}Nailed it.
+Dialogue: 0,0:12:05.16,0:12:06.56,Default,Kugisaki,0,0,0,,{\i1}Nailed it.{Bruh. XD}
 Dialogue: 0,0:12:18.81,0:12:20.30,Default,Kugisaki,0,0,0,,{\i1}A child?
 Dialogue: 0,0:12:20.77,0:12:24.32,Default,Kugisaki,0,0,0,,{\i1}Must have snuck in for some fun and encountered the curse.
 Dialogue: 0,0:12:27.76,0:12:32.02,Default,Kugisaki,0,0,0,,Hey, it's all right now. Come on out.
@@ -284,8 +284,8 @@ Dialogue: 0,0:16:39.76,0:16:42.48,Default,Kugisaki,0,0,0,,{\i1}They said she loo
 Dialogue: 0,0:16:42.76,0:16:47.48,Default,Kugisaki,0,0,0,,{\i1}They made her out to be a bad person, and in the end
 Dialogue: 0,0:16:51.51,0:16:52.82,Default,Kugisaki,0,0,0,,{\i1}drove her out of the village.
 Dialogue: 0,0:16:56.83,0:16:59.50,Default,Kugisaki,0,0,0,,{\i1}Calling it sickening would be an understatement.
-Dialogue: 0,0:17:03.75,0:17:06.76,Default,Kugisaki,0,0,0,,{\i1}She brought all these homemade sweets I'd never heard of and said,
-Dialogue: 0,0:17:07.13,0:17:11.79,Default,Kugisaki,0,0,0,,{\i1}"The ones from the bakery are even better," with a smile as she treated me to them.
+Dialogue: 0,0:17:03.75,0:17:06.76,Default,Kugisaki,0,0,0,,{\i1}She'd brought all these homemade sweets I'd never heard of, and said{questionable, you can revert my changes here if they dont feel like they fit.}
+Dialogue: 0,0:17:07.13,0:17:11.79,Default,Kugisaki,0,0,0,,{\i1}"The ones from the bakery are even better," with a smile, as she treated me to them.
 Dialogue: 0,0:17:16.14,0:17:19.98,Default,Kugisaki,0,0,0,,{\i1}If I had stayed in that village...
 Dialogue: 0,0:17:22.40,0:17:26.50,Default,Yuji,0,0,0,,This is why I told you it's dangerous to go alone and you need to take it seriously!
 Dialogue: 0,0:17:26.50,0:17:29.33,Default,Kugisaki,0,0,0,,You never said it was dangerous to go alone!
@@ -300,7 +300,7 @@ Dialogue: 0,0:17:49.44,0:17:50.72,Default,Kugisaki,0,0,0,,Why?
 Dialogue: 0,0:17:51.82,0:17:53.76,Default,Kugisaki,0,0,0,,Because I hate the countryside.
 Dialogue: 0,0:17:53.76,0:17:55.93,Default,Kugisaki,0,0,0,,I wanted to live in Tokyo!
 Dialogue: 0,0:17:59.38,0:18:03.87,Default,Kugisaki,0,0,0,,This was the only way I could move to the city without having to worry about money!
-Dialogue: 0,0:18:03.87,0:18:06.22,Default,Yuji,0,0,0,,You can risk your life over that?
+Dialogue: 0,0:18:03.87,0:18:06.22,Default,Yuji,0,0,0,,You can risk your life over that? {This should be "You would risk your life over that?" But then you will have to change the next line to "I would." but that doesn't seem to fit there ._. Could be made just "yes" XD}
 Dialogue: 0,0:18:09.59,0:18:11.15,Default,Kugisaki,0,0,0,,I can.
 Dialogue: 0,0:18:15.12,0:18:17.49,Default,Kugisaki,0,0,0,,It's to stay true to myself, after all.
 Dialogue: 0,0:18:21.13,0:18:24.41,Default,Kugisaki,0,0,0,,If I had stayed in that village, I'd be as good as dead.
@@ -317,7 +317,7 @@ Dialogue: 0,0:19:14.72,0:19:16.15,Default,Yuji,0,0,0,,What is wrong with her?
 Dialogue: 0,0:19:17.50,0:19:20.28,Default,Child,0,0,0,,I live over there! Thanks again!
 Dialogue: 0,0:19:23.45,0:19:26.56,Default,Kugisaki,0,0,0,,Did you know I get into a foul mood when I'm hungry?
 Dialogue: 0,0:19:26.56,0:19:28.72,Default,Yuji,0,0,0,,{\i1}When are you {\i0}not{\i1} in a foul mood?
-Dialogue: 0,0:19:30.11,0:19:32.40,Default,Gojo,0,0,0,,Good Joseph!
+Dialogue: 0,0:19:30.11,0:19:32.40,Default,Gojo,0,0,0,,Good Joseph!{whathefuck?}
 Dialogue: 0,0:19:32.93,0:19:34.82,Default,Gojo,0,0,0,,We made sure the kid got home.
 Dialogue: 0,0:19:36.63,0:19:38.45,Default,Gojo,0,0,0,,Now shall we go grab some grub?
 Dialogue: 0,0:19:39.52,0:19:40.69,Default,Yuji,0,0,0,,Steak!
@@ -325,7 +325,7 @@ Dialogue: 0,0:19:40.69,0:19:41.99,Default,Kugisaki,0,0,0,,Sushi!
 Dialogue: 0,0:19:43.31,0:19:45.20,Default,Gojo,0,0,0,,Leave it all to me!
 Dialogue: 0,0:19:45.20,0:19:46.05,Default,Gojo,0,0,0,,And you, Megumi?
 Dialogue: 0,0:19:49.70,0:19:51.13,Default,Gojo,0,0,0,,All right, let's go.
-Dialogue: 0,0:19:54.69,0:19:58.03,Default,Kugisaki,0,0,0,,Oh, I forgot about my biggest haul of the day.
+Dialogue: 0,0:19:54.69,0:19:58.03,Default,Kugisaki,0,0,0,,Oh, I forgot about my biggest haul of the day.{Something sounds off in "my biggest haul of the day". Maybe use "Oh, I forgot about today's biggest haul." or "Oh, I forgot about the (real/true) biggest haul of today." or neither, welp.}
 Dialogue: 0,0:19:58.03,0:20:00.55,Default,Kugisaki,0,0,0,,Hey, you, go fetch my things.
 Dialogue: 0,0:20:00.55,0:20:02.55,Default,Yuji,0,0,0,,Huh? Why should I do it?
 Dialogue: 0,0:20:02.55,0:20:04.27,Default,Yuji,0,0,0,,I thought we were even.
