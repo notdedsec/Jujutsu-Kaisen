@@ -16,20 +16,21 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: [Kaizoku] Jujutsu Kaisen - 02 [842AFC49].mkv
-Video File: [Kaizoku] Jujutsu Kaisen - 02 [842AFC49].mkv
+Audio File: jujutsu_02.mkv
+Video File: jujutsu_02.mkv
+Keyframes File: jujutsu_02_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 241
-Active Line: 257
-Video Position: 24480
+Video Zoom Percent: 0.375000
+Scroll Position: 339
+Active Line: 347
+Video Position: 31968
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,110,110,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
-Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -44,9 +45,9 @@ Dialogue: 0,0:00:23.76,0:00:25.46,Default,Gojo,0,0,0,,What's the situation?
 Dialogue: 0,0:00:26.55,0:00:28.89,Default,Fushiguro,0,0,0,,{*}Mr. Gojo{*Gojo-sensei}?! Why are you here? {why are you here sensei?!}
 Dialogue: 0,0:00:28.89,0:00:29.55,Default,Gojo,0,0,0,,Hey.
 Dialogue: 0,0:00:30.00,0:00:32.46,Default,Gojo,0,0,0,,I wasn't really planning on showing up,
-Dialogue: 0,0:00:32.46,0:00:34.30,Default,Gojo,0,0,0,,but man, you're roughed up.
+Dialogue: 0,0:00:32.46,0:00:34.30,Default,Gojo,0,0,0,,but man, you're roughed up!
 Dialogue: 0,0:00:34.30,0:00:36.89,Default,Gojo,0,0,0,,I'm gonna show this to all the second-years.
-Dialogue: 0,0:00:37.55,0:00:38.47,Default,Gojo,0,0,0,,C'mon, look this way.
+Dialogue: 0,0:00:37.55,0:00:38.47,Default,Gojo,0,0,0,,C'mon, look this way!
 Dialogue: 0,0:00:38.96,0:00:43.40,Default,Gojo,0,0,0,,The higher-ups wouldn't shut up with a special-grade cursed object gone missing.
 Dialogue: 0,0:00:43.40,0:00:45.84,Default,Gojo,0,0,0,,So I stopped by while I was out for some sightseeing.
 Dialogue: 0,0:00:46.24,0:00:47.86,Default,Gojo,0,0,0,,So, did you find it?
@@ -106,12 +107,13 @@ Dialogue: 0,0:03:48.23,0:03:53.46,Default,Fushiguro,0,0,0,,Even if he is a vesse
 Dialogue: 0,0:03:54.13,0:03:55.00,Default,Fushiguro,0,0,0,,However...
 Dialogue: 0,0:03:55.85,0:03:57.75,Default,Fushiguro,0,0,0,,I don't want to let him die.
 Dialogue: 0,0:03:58.77,0:04:00.07,Default,Gojo,0,0,0,,A personal opinion?
-Dialogue: 0,0:04:00.07,0:04:03.06,Default,Fushiguro,0,0,0,,Yes, it's a personal opinion. Please do something about it.
+Dialogue: 0,0:04:00.07,0:04:01.55,Default,Fushiguro,0,0,0,,Yes, it's a personal opinion.
+Dialogue: 0,0:04:01.55,0:04:03.06,Default,Fushiguro,0,0,0,,Please do something about it.
 Dialogue: 0,0:04:04.82,0:04:06.72,Default,Gojo,0,0,0,,Now it's a request from a precious student.
 Dialogue: 0,0:04:07.23,0:04:08.69,Default,Gojo,0,0,0,,Leave it to me!
 Dialogue: 0,0:04:09.55,0:04:11.18,Default,Gojo,0,0,0,,With that, let me reiterate.
 Dialogue: 0,0:04:11.18,0:04:13.40,Default,Gojo,0,0,0,,You're gonna be executed!
-Dialogue: 0,0:04:14.82,0:04:17.49,Default,Yuji,0,0,0,,Your recap doesn't line up with the {present }state of things. {Optional. "Current events" sounds too much like formal news reports.}
+Dialogue: 0,0:04:14.82,0:04:17.49,Default,Yuji,0,0,0,,Your recap doesn't line up with the current events. {Optional. "Current events" sounds too much like formal news reports.}{reverted. this just reads better.}
 Dialogue: 0,0:04:17.49,0:04:19.61,Default,Gojo,0,0,0,,Hey now, I did try me best.
 Dialogue: 0,0:04:19.61,0:04:23.08,Default,Gojo,0,0,0,,The execution's still on, but I got your sentence suspended.
 Dialogue: 0,0:04:23.09,0:04:24.79,Default,Yuji,0,0,0,,Suspended?
@@ -124,7 +126,7 @@ Dialogue: 0,0:04:39.48,0:04:40.72,Default,Yuji,0,0,0,,Oh, each finger and toe?
 Dialogue: 0,0:04:40.72,0:04:43.97,Default,Gojo,0,0,0,,Nope, Sukuna has four arms.
 Dialogue: 0,0:04:51.04,0:04:53.40,Default,Gojo,0,0,0,,As you can see, we can't destroy them.
 Dialogue: 0,0:04:53.40,0:04:55.45,Default,Gojo,0,0,0,,The curse is just that powerful.
-Dialogue: 0,0:04:55.75,0:05:01.49,Default,Gojo,0,0,0,,It gets even{can remove even "even" but I say keep it} stronger with each{ passing} day, and \Nthe seals of modern-day jujutsu sorcerers can't keep up.
+Dialogue: 0,0:04:55.75,0:05:01.49,Default,Gojo,0,0,0,,It gets even stronger with each passing day, and the seals of modern-day jujutsu sorcerers can't keep up.
 Dialogue: 0,0:05:01.49,0:05:02.91,Default,Gojo,0,0,0,,That's where {\i1}you{\i0} come in.
 Dialogue: 0,0:05:03.97,0:05:07.25,Default,Gojo,0,0,0,,{\fade(0,300)}When you die, the curse inside you will die, as well.
 Dialogue: 0,0:05:08.29,0:05:10.75,Default,Gojo,0,0,0,,{\fade(1000,0)}Our elders are cowards, you know.
@@ -154,7 +156,7 @@ Dialogue: 0,0:07:59.38,0:08:02.00,Default,Yuji,0,0,0,,Those weren't monsters, th
 Dialogue: 0,0:08:05.47,0:08:08.31,Default,Yuji,0,0,0,,That finger was a special-grade cursed object.
 Dialogue: 0,0:08:08.31,0:08:12.12,Default,Yuji,0,0,0,,It was able to gather curses and make itself stronger.
 Dialogue: 0,0:08:12.12,0:08:14.47,Default,Yuji,0,0,0,,So it wasn't your fault.
-Dialogue: 0,0:08:15.56,0:08:17.74,Default,Yuji,0,0,0,,It was my fault for picking it up. {Technically was already accurate, but this is clearer. Previous few statements made it feel questionable. (Mine? Mine what? Had to rewind to check)}
+Dialogue: 0,0:08:15.56,0:08:17.74,Default,Yuji,0,0,0,,The fault was mine for picking it up. {Technically was already accurate, but this is clearer. Previous few statements made it feel questionable. (Mine? Mine what? Had to rewind to check)}
 Dialogue: 0,0:08:20.51,0:08:21.44,Default,Yuji,0,0,0,,Sorry.
 Dialogue: 0,0:08:22.10,0:08:23.76,Default,Yuji,0,0,0,,It'll be all right, though.
 Dialogue: 0,0:08:23.76,0:08:26.88,Default,Yuji,0,0,0,,Someone who can help Iguchi{**-senpai} will be here tomorrow.
@@ -170,11 +172,11 @@ Dialogue: 0,0:08:56.78,0:08:59.09,Default,Gojo,0,0,0,,So have you decided on wha
 Dialogue: 0,0:09:01.16,0:09:04.55,Default,Yuji,0,0,0,,Are casualties from curses like these pretty common? {More straightforward sentence. Otherwise have to add commas to previous version.}
 Dialogue: 0,0:09:05.49,0:09:11.28,Default,Gojo,0,0,0,,This one was a rather exceptional case, \Nbut in terms of damage, it happens all the time.
 Dialogue: 0,0:09:11.28,0:09:14.79,Default,Gojo,0,0,0,,It's a good night when someone dies a normal death after running into a curse.
-Dialogue: 0,0:09:18.63,0:09:22.79,Default,Gojo,0,0,0,,Finding a body that's all torn apart is one of the better outcomes.{Simpler.}{torn-apart*? idk, prolly not needed.}
+Dialogue: 0,0:09:18.63,0:09:22.79,Default,Gojo,0,0,0,,Finding a body all torn apart is one of the better outcomes.{Simpler.}{torn-apart*? idk, prolly not needed.}
 Dialogue: 0,0:09:28.05,0:09:33.16,Default,Gojo,0,0,0,,If you plan to hunt down Sukuna, \Nyou're going to witness some gruesome stuff.
 Dialogue: 0,0:09:34.10,0:09:37.81,Default,Gojo,0,0,0,,I can't guarantee you won't end up that way yourself.
 Dialogue: 0,0:09:37.81,0:09:41.01,Default,Gojo,0,0,0,,I guess you can choose your hell.
-Dialogue: 0,0:09:49.91,0:09:52.82,Default,Grandpa,0,0,0,,You're a strong kid, so help people.
+Dialogue: 0,0:09:49.91,0:09:52.82,Default,Grandpa,0,0,0,,{\i1}You're a strong kid, so help people.
 Dialogue: 0,0:09:59.56,0:10:02.00,Default,Yuji,0,0,0,,If all the parts of Sukuna were gone,
 Dialogue: 0,0:10:02.72,0:10:08.21,Default,Yuji,0,0,0,,would there be fewer people who get harmed by curses?
 Dialogue: 0,0:10:10.16,0:10:11.26,Default,Gojo,0,0,0,,Of course.
@@ -213,7 +215,7 @@ Dialogue: 0,0:12:13.84,0:12:17.18,Default,Gojo,0,0,0,,By the way, you're one of 
 Dialogue: 0,0:12:17.18,0:12:18.32,Default,Yuji,0,0,0,,Just three?!
 Comment: 0,0:12:18.97,0:12:19.01,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:12:26.98,0:12:30.45,Default,Yuji,0,0,0,,Okay, I'm heading out, Grandpa.
-Dialogue: 0,0:12:34.24,0:12:36.84,Default,Yuji,0,0,0,,This is really deep in the mountains!
+Dialogue: 0,0:12:34.24,0:12:36.84,Default,Yuji,0,0,0,,This is {\i1}really{\i0} deep in the mountains!
 Dialogue: 0,0:12:36.84,0:12:38.45,Default,Yuji,0,0,0,,Are we still even in Tokyo?
 Dialogue: 0,0:12:38.45,0:12:40.72,Default,Gojo,0,0,0,,Even Tokyo's like this on the outskirts.
 Dialogue: 0,0:12:41.11,0:12:42.28,Default,Yuji,0,0,0,,Where's Fushiguro?
@@ -231,7 +233,7 @@ Dialogue: 0,0:13:19.75,0:13:20.75,Default,Yuji,0,0,0,,Huh?!
 Dialogue: 0,0:13:20.75,0:13:23.14,Default,Yuji,0,0,0,,And what then? Immediate execution?!
 Dialogue: 0,0:13:23.14,0:13:24.24,Default,Sukuna,0,0,0,,What?
 Dialogue: 0,0:13:24.53,0:13:27.00,Default,Sukuna,0,0,0,,So you're not the boss?
-Dialogue: 0,0:13:28.16,0:13:31.46,Default,Sukuna,0,0,0,,Any hierarchy other than strength is worthless.
+Dialogue: 0,0:13:28.16,0:13:31.04,Default,Sukuna,0,0,0,,Any hierarchy other than strength is boring.
 Dialogue: 0,0:13:32.88,0:13:35.82,Default,Yuji,0,0,0,,Sorry about that. He pops out sometimes.
 Dialogue: 0,0:13:35.82,0:13:38.29,Default,Gojo,0,0,0,,What an interesting body you have now.
 Dialogue: 0,0:13:38.74,0:13:40.89,Default,Sukuna,0,0,0,,I owe you one, you know.
@@ -255,7 +257,7 @@ Dialogue: 0,0:14:41.41,0:14:43.36,Default,Yaga,0,0,0,,You're late, Satoru.
 Dialogue: 0,0:14:43.68,0:14:45.36,Default,Yaga,0,0,0,,Eight minutes late.
 Dialogue: 0,0:14:46.74,0:14:52.33,Default,Yaga,0,0,0,,Not late enough to get me angry, \Nbut I thought I told you to fix that habit of yours.
 Dialogue: 0,0:14:52.33,0:14:55.51,Default,Yuji,0,0,0,,{\i1}That old dude's making cute stuff!
-Dialogue: 0,0:14:55.51,0:14:59.00,Default,Gojo,0,0,0,,If it's not enough to get mad about, then cut me some slack.
+Dialogue: 0,0:14:55.51,0:14:59.00,Default,Gojo,0,0,0,,If it's not enough to get mad about, \Nthen please cut me some slack.
 Dialogue: 0,0:14:59.00,0:15:01.80,Default,Gojo,0,0,0,,You're just making dolls, anyway.
 Dialogue: 0,0:15:01.80,0:15:03.17,Default,Gojo,0,0,0,,Eight minutes is no big deal, right?
 Dialogue: 0,0:15:03.72,0:15:05.73,Default,Gojo,0,0,0,,That's Principal Yaga Masamichi.
@@ -286,11 +288,11 @@ Dialogue: 0,0:16:17.66,0:16:19.25,Default,Yaga,0,0,0,,Cursed corpses.
 Dialogue: 0,0:16:19.25,0:16:22.92,Default,Yaga,0,0,0,,They're dolls infused with my curse.
 Dialogue: 0,0:16:29.13,0:16:29.85,Default,Yuji,0,0,0,,{\i1}Heavy!
 Dialogue: 0,0:16:33.42,0:16:35.53,Default,Yuji,0,0,0,,Is that really a doll?!
-Dialogue: 0,0:16:37.06,0:16:40.73,Default,Yaga,0,0,0,,A person's true nature reveals itself during a crisis.
+Dialogue: 0,0:16:37.06,0:16:40.73,Default,Yaga,0,0,0,,A person's true nature reveals itself during crisis.
 Dialogue: 0,0:16:40.73,0:16:44.69,Default,Yaga,0,0,0,,I'll keep attacking until I get an acceptable answer.
 Dialogue: 0,0:16:44.69,0:16:48.84,Default,Yuji,0,0,0,,Look, man, it's not just {\i1}someone else{\i0}.
 Dialogue: 0,0:16:48.84,0:16:52.17,Default,Yuji,0,0,0,,It was a family member's last request!
-Dialogue: 0,0:17:01.02,0:17:02.50,Default,Yuji,0,0,0,,Shit. Where is it?!{Eh, I felt like it. xD}
+Dialogue: 0,0:17:01.02,0:17:02.50,Default,Yuji,0,0,0,,Shit. Where is it?!
 Dialogue: 0,0:17:08.42,0:17:09.57,Default,,0,0,0,,Ow...
 Dialogue: 0,0:17:09.57,0:17:11.51,Default,Yaga,0,0,0,,A family member is still {\i1}someone else{\i0}.
 Dialogue: 0,0:17:18.32,0:17:20.50,Default,Yuji,0,0,0,,{\i1}Right, it's a doll.
@@ -322,7 +324,7 @@ Dialogue: 0,0:18:57.62,0:19:02.20,Default,Yuji,0,0,0,,Even if I manage to run aw
 Dialogue: 0,0:19:02.33,0:19:06.46,Default,Yuji,0,0,0,,{\fad(250,0)}I'd be there eating, taking baths, or reading manga.
 Dialogue: 0,0:19:07.58,0:19:09.83,Default,Yuji,0,0,0,,But I'd get depressed the moment I stopped to think,
 Dialogue: 0,0:19:11.52,0:19:16.42,Default,Yuji,0,0,0,,"Oh, I bet someone's dying right now because of Sukuna."
-Dialogue: 0,0:19:16.84,0:19:18.47,Default,Yuji,0,0,0,,"That doesn't concern me."
+Dialogue: 0,0:19:16.84,0:19:18.47,Default,Yuji,0,0,0,,"But that doesn't concern me."
 Dialogue: 0,0:19:18.47,0:19:19.88,Default,Yuji,0,0,0,,"It's not my fault."
 Dialogue: 0,0:19:20.19,0:19:22.13,Default,Yuji,0,0,0,,You expect me to just tell myself that?
 Dialogue: 0,0:19:24.13,0:19:26.14,Default,Yuji,0,0,0,,No thanks.

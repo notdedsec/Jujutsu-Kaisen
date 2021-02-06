@@ -28,7 +28,7 @@ Video Position: 18502
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
-Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -93,7 +93,7 @@ Dialogue: 0,0:07:17.29,0:07:17.33,Signs,Building,0,0,0,,{=5}{\fscx101.79\fscy101
 Dialogue: 0,0:07:17.33,0:07:17.37,Signs,Building,0,0,0,,{=5}{\fscx101.82\fscy101.82\alpha&H00&\fnRagnar\b1\fs50\shad2.04\be1\c&HC3BEA6&\fax-0.2\4c&H70621C&\4a&H28&\frz11.05\pos(765.9,415.61)}Sugisawa Hospital
 Dialogue: 0,0:07:17.37,0:07:17.41,Signs,Building,0,0,0,,{=5}{\fscx101.83\fscy101.83\alpha&H00&\fnRagnar\b1\fs50\shad2.04\be1\c&HC3BEA6&\fax-0.2\4c&H70621C&\4a&H28&\frz11.05\pos(765.83,415.6)}Sugisawa Hospital
 Dialogue: 0,0:07:17.41,0:07:17.45,Signs,Building,0,0,0,,{=5}{\fscx101.89\fscy101.89\alpha&H00&\fnRagnar\b1\fs50\shad2.04\be1\c&HC3BEA6&\fax-0.2\4c&H70621C&\4a&H28&\frz11.05\pos(765.86,415.48)}Sugisawa Hospital
-Dialogue: 0,0:07:17.95,0:07:23.96,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2.4\fad(500,500)\pos(1580,885)\c&HE6E7E7&}Episode 2: {\fs70}For Myself
+Dialogue: 0,0:07:17.95,0:07:23.96,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\pos(1580,885)\c&HE6E7E7&}Episode 2: {\fs70}For Myself
 Dialogue: 0,0:12:24.47,0:12:25.59,Signs,Stone,0,0,0,,{=4}{\fscx100\fscy100\1a&H18&\fnArtificeSSK\fs36\fscx96\pos(932.2,127.73)\be2\c&H0A0A0A&\clip(m 1039 114 l 1069 145 905 158 689 133 751 93 1048 102)}Itadori Family Grave
 Dialogue: 0,0:12:25.59,0:12:25.72,Signs,Stone,0,0,0,,{=4}{\fscx100\fscy100\1a&H18&\fnArtificeSSK\fs36\fscx96\pos(932.2,127.73)\be2\c&H0A0A0A&}Itadori Family Grave
 Dialogue: 0,0:12:25.72,0:12:25.76,Signs,Stone,0,0,0,,{=4}{\fscx100\fscy100\1a&H18&\fnArtificeSSK\fs36\fscx96\pos(932.2,131.41)\be2\c&H0A0A0A&}Itadori Family Grave
