@@ -126,14 +126,14 @@ def crunchy_unroll(infile, source, ep, styles, res, dialogue, typesets):
     subs.modify_field("text", "-chan", "{**-chan}")
     subs.modify_field("text", "-sama", "{**-sama}")
     subs.modify_field("text", "-senpai", "{**-senpai}")
-    subs.modify_field("text", "-sensei", "{*}???{*-sensei}")
-    subs.modify_field("text", "Sensei", "{*}???{*Sensei}")
+    subs.modify_field("text", "-sensei", "{*}{*-sensei}")
+    subs.modify_field("text", "Sensei", "{*}{*Sensei}")
 
-    # Some terminology changes
+    # some terminology changes
     subs.modify_field("text", "Yuuji", "Yuji")
-    subs.modify_field("text", "Goujo", "Gojo")
+    subs.modify_field("text", "Gojou", "Gojo")
     subs.modify_field("text", "Yuuta", "Yuta")
-    subs.modify_field("text", "Jogou", "Jogo")
+    subs.modify_field("text", "Jougo", "Jogo")
     subs.modify_field("text", "Getou", "Geto")
     subs.modify_field("text", "Toudou", "Todo")
     subs.modify_field("text", "Shouko", "Shoko")
@@ -146,6 +146,9 @@ def crunchy_unroll(infile, source, ep, styles, res, dialogue, typesets):
     subs.modify_field("text", r"\s*\\[Nn]", " ")
     subs.modify_field("text", r"\\[Nn]\s*", " ")
     subs.modify_field("text", r"\\[Nn]", " ")
+
+    # misc
+    subs.modify_field("text", "--", "—")
 
     # nuke old styles
     subs.use_styles()
@@ -164,7 +167,7 @@ def crunchy_unroll(infile, source, ep, styles, res, dialogue, typesets):
 
     # export typesets file
     typesets_data = load_subs(temp)
-    typesets_data.selection_set("style", "Default").remove_selected()
+    typesets_data.selection_set("style", "Default").remove_selected().remove_unused_styles()
     dump_subs(typesets, typesets_data)
 
     os.remove(temp)
@@ -251,7 +254,7 @@ def write_vpy(vpy_base, vpy_file, source, ts):
         vpy_script = f.readlines()
 
     for line in vpy_script:
-        if line.strip().startswith('#'):
+        if line.strip().startswith('# '):
             vpy_script.remove(line)
         elif line.startswith('op ='):
             vpy_script[vpy_script.index(line)] = f'op = {ts["op"]}\n'
@@ -274,7 +277,7 @@ def write_enc(enc_base, enc_file, ts):
         enc_script = f.readlines()
 
     for line in enc_script:
-        if line.strip().startswith('#'):
+        if line.strip().startswith('# '):
             enc_script.remove(line)
         elif line.startswith('ed ='):
             enc_script[enc_script.index(line)] = f'ed = {ts["ed"]}\n'
@@ -317,9 +320,6 @@ def main():
     fps = int(v['fps']) if 'fps' in v.keys() else 23.976
     res = v['res'] if 'res' in v.keys() else '1080p'
 
-    # i hope i'm not doing something extremely dumb here lmao
-    # cause i don't see any other way to replace all the ${variables} with their values
-
     if infile.endswith('.ass'):
         print('Processing subtitles.')
         crunchy_unroll(infile, source, ep, styles, res, dialogue, typesets)
@@ -344,6 +344,7 @@ def main():
     properties  = f'\n{ep}.title='+'${show} - '+f'{get_title(typesets, ep)}\n'
     properties += f'{ep}.opsync={ts["opsync"]}\n{ep}.edsync={ts["edsync"]}\n'
     properties += f'{ep}.ecsync={ts["ecsync"] - datetime.timedelta(seconds=5)}\n'
+    properties += f'{ep}.pic=None\n'
 
     print('Setting up base vapoursynth script.')
     write_enc(enc_base, enc_file, ts)
