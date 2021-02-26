@@ -9,10 +9,6 @@ PlayResY: 1080
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Scroll Position: 61
-Active Line: 66
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: OP1,Barthowheel,66,&H0006060A,&H000000FF,&H2872813B,&H00000000,-1,0,0,0,96,100,0,0,1,0,0,2,30,30,30,1
@@ -88,8 +84,8 @@ Dialogue: 1,0:00:42.40,0:00:48.70,OP1,,0,0,0,,{\be2}I know what mask I'm suppose
 Dialogue: 0,0:00:42.40,0:00:48.70,OP1,,0,0,0,,{\bord4\blur2}I know what mask I'm supposed to show but still, I wanna hear it from you
 Dialogue: 1,0:00:48.70,0:00:51.11,OP1,,0,0,0,,{\be2}Can we end the darkness? Can we cleanse the darkness?
 Dialogue: 0,0:00:48.70,0:00:51.11,OP1,,0,0,0,,{\bord4\blur2}Can we end the darkness? Can we cleanse the darkness?
-Dialogue: 1,0:00:51.11,0:00:53.66,OP1,,0,0,0,,{\fade(200,200)\be2}We'll find out when the curtain of night falls
-Dialogue: 0,0:00:51.11,0:00:53.66,OP1,,0,0,0,,{\fade(200,200)\bord4\blur2\3c&H4D646C&\t(0,220,\3c&H72813B&)}We'll find out when the curtain of night falls
+Dialogue: 1,0:00:51.11,0:00:53.66,OP1,,0,0,0,,{\fade(200,200)\be2}We'll find out when the veil of night falls
+Dialogue: 0,0:00:51.11,0:00:53.66,OP1,,0,0,0,,{\fade(200,200)\bord4\blur2\3c&H4D646C&\t(0,220,\3c&H72813B&)}We'll find out when the veil of night falls
 Dialogue: 3,0:00:53.62,0:00:57.29,OP1,,0,0,0,,{\fade(500,0)\be2}Face to face on the path we trace over and over
 Dialogue: 2,0:00:53.62,0:00:55.70,OP1,,0,0,0,,{\fade(500,0)\bord4\blur2\3c&H795C4D&\t(775,900,\3c&H606E31&)\t(2102,2102,\3c&H785F52&)\t(2980,3000,\3c&H76716F&)}Face to face on the path we trace over and over
 Dialogue: 2,0:00:55.70,0:00:57.29,OP1,,0,0,0,,{\fade(0,0)\bord4\blur2\3c&H785F52&\t(780,980,\3c&H76716F&)}Face to face on the path we trace over and over
