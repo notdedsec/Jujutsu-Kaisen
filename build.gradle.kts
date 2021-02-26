@@ -17,21 +17,27 @@ subs {
 
     merge {
         from(get("dialogue")) {
-            incrementLayer(5)
+            incrementLayer(10)
         }
 
         from(getList("typesets"))
 
-        from(get("OP")) {
-            syncTargetTime(getAs<Duration>("opsync"))
+        if(propertyExists("OP")) {
+            from(get("OP")) {
+                syncTargetTime(getAs<Duration>("opsync"))
+            }
         }
 
-        from(get("EC")) {
-            syncTargetTime(getAs<Duration>("ecsync"))
+        if(propertyExists("EC")) {
+            from(get("EC")) {
+                syncTargetTime(getAs<Duration>("ecsync"))
+            }
         }
 
-        from(get("ED")) {
-            syncTargetTime(getAs<Duration>("edsync"))
+        if(propertyExists("ED")) {
+            from(get("ED")) {
+                syncTargetTime(getAs<Duration>("edsync"))
+            }
         }
     }
 
@@ -108,6 +114,6 @@ subs {
         category(NyaaCategories.ANIME_ENGLISH)
         information("https://github.com/notdedsec/Jujutsu-Kaisen")
         torrentDescription(getFile("description.vm"))
-        hidden(true)
+        hidden(false)
     }
 }
