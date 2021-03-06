@@ -1,0 +1,91 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:06:42.98,0:06:46.97,Signs,Ijichi,0,0,0,,Tokyo \NJujutsu \NHigh \NSchool
+Dialogue: 0,0:06:43.96,0:06:51.01,Signs,Screen,0,0,0,,{\fad(613,520)\pos(612,310)}Episode 21: {\fs26}Jujutsu Koshien
+Dialogue: 0,0:06:44.01,0:06:50.97,Signs,Screen,0,0,0,,{\fad(613,520)\pos(612,310)}Episode 21: {\fs26}Jujutsu Koshien
+Dialogue: 0,0:11:20.49,0:11:21.70,Signs,Cap,0,0,0,,{\fad(403,1)}Curse
+Dialogue: 0,0:12:15.54,0:12:18.21,Signs,Screen,0,0,0,,{\fad(855,1)\c&H000000&\3c&HFFFFFF&\bord.5\blur1\pos(320,255)}— One Day Prior —
+Dialogue: 0,0:14:02.27,0:14:09.66,Signs,Screen,0,0,0,,{\c&H493A10&\3c&HEAD286&\fs20\an1\fs16\shad0\pos(152,236)}*Principal Gakuganji's previous visit was to discuss \Nwhat items might be needed on the day of the event.
+Dialogue: 0,0:14:10.11,0:14:11.36,Signs,Paper,0,0,0,,Baseball
+Dialogue: 0,0:14:28.43,0:14:30.64,Signs,Screen?,0,0,0,,{\pos(216,235)}Miwa Kasumi
+Dialogue: 0,0:14:28.43,0:14:30.64,Signs,Screen?,0,0,0,,{\q2\pos(446,252)}Second Base
+Dialogue: 0,0:14:28.43,0:14:30.64,Signs,Screen?,0,0,0,,{\pos(114,345)}The mango she was letting ripen in the refrigerator is gone.
+Dialogue: 0,0:14:46.48,0:14:48.90,Signs,Screen,0,0,0,,{\q2\pos(216,234)}Nishimiya Momo
+Dialogue: 0,0:14:46.48,0:14:48.90,Signs,Screen,0,0,0,,{\q2\pos(446,252)}Outfielder
+Dialogue: 0,0:14:46.48,0:14:48.90,Signs,Screen,0,0,0,,{\pos(119,345)}Baseball experience: 2L.
+Dialogue: 0,0:14:56.37,0:14:58.66,Signs,Screen?,0,0,0,,{\q2\pos(272,255)}Kamo Noritoshi
+Dialogue: 0,0:14:56.37,0:14:58.66,Signs,Screen?,0,0,0,,{\q2\pos(432,270)}Third batter
+Dialogue: 0,0:14:56.37,0:14:58.66,Signs,Screen?,0,0,0,,{\pos(173,344)}Practicing cursive. I can write my own name now.
+Dialogue: 0,0:14:59.83,0:15:07.67,Signs,Screen,0,0,0,,{\pos(244,235)}Itadori Yuji
+Dialogue: 0,0:14:59.83,0:15:07.67,Signs,Screen,0,0,0,,{\pos(450,253)}Catcher
+Dialogue: 0,0:14:59.83,0:15:07.67,Signs,Screen,0,0,0,,{\pos(119,345)}First impression of iekei ramen: "I poop a lot the next day."
+Dialogue: 0,0:16:08.02,0:16:10.27,Signs,Screen,0,0,0,,{\an5\fnArial\b1\c&HEFF3F7&\bord0\4c&H565A5E&\fay-.37\frx6\fry338\pos(30,279.334)}Kyoto
+Dialogue: 0,0:16:08.02,0:16:10.27,Signs,Screen,0,0,0,,{\an5\fnArial\b1\c&HEFF3F7&\bord0\4c&H565A5E&\fay-.37\frx6\fry338\pos(28,321.334)}Tokyo
+Dialogue: 0,0:16:12.11,0:16:13.80,Signs,Screen,0,0,0,,{\q2\pos(266,235)}Kugisaki Nobara
+Dialogue: 0,0:16:12.11,0:16:13.80,Signs,Screen,0,0,0,,{\q2\pos(473,253)}Third Base
+Dialogue: 0,0:16:12.11,0:16:13.80,Signs,Screen,0,0,0,,{\q2\pos(119,345)}Awaiting approval for a credit card. Too hard for a high schooler, maybe?
+Dialogue: 0,0:16:24.53,0:16:26.66,Signs,Machine,0,0,0,,{\fad(405,1)\an8\b1\c&H000000&\bord0\shad0\pos(302,48)\fscy130}Mechamaru
+Dialogue: 0,0:16:37.30,0:16:40.93,Signs,Machine,0,0,0,,{\pos(254,174)\an5\bord0\shad0\c&H000000&\fs16\frz338.6\frx338\fry310}Mechamaru
+Dialogue: 0,0:16:42.10,0:16:48.82,Signs,Screen,0,0,0,,{\pos(245,235)}Zen'in Mai
+Dialogue: 0,0:16:42.10,0:16:48.82,Signs,Screen,0,0,0,,{\q2\pos(450,253)}First Base
+Dialogue: 0,0:16:42.10,0:16:48.82,Signs,Screen,0,0,0,,{\q2\pos(118,345)}Hated mangoes, but got over it recently.
+Dialogue: 0,0:17:05.54,0:17:07.54,Signs,Screen,0,0,0,,{\q2\pos(220,235)}Fushiguro Megumi
+Dialogue: 0,0:17:05.54,0:17:07.54,Signs,Screen,0,0,0,,{\q2\pos(449,252)}Outfielder
+Dialogue: 0,0:17:05.54,0:17:07.54,Signs,Screen,0,0,0,,{\q2\pos(119,345)}Prefers breast meat in chicken nanban and thigh meat in oyakodon.
+Dialogue: 0,0:17:16.26,0:17:18.60,Signs,Screen,0,0,0,,{\pos(225,235)}Panda
+Dialogue: 0,0:17:16.26,0:17:18.60,Signs,Screen,0,0,0,,{\q2\pos(448,250)}First Base
+Dialogue: 0,0:17:16.26,0:17:18.60,Signs,Screen,0,0,0,,{\q2\pos(130,340)}Wants to punch a zebra someday.
+Dialogue: 0,0:17:27.85,0:17:30.02,Signs,Screen,0,0,0,,{\pos(248,235)}Zen'in Maki
+Dialogue: 0,0:17:27.85,0:17:30.02,Signs,Screen,0,0,0,,{\pos(454,253)}Pitcher
+Dialogue: 0,0:17:27.85,0:17:30.02,Signs,Screen,0,0,0,,{\pos(119,345)}The one thing she can't tolerate is protein powder.
+Dialogue: 0,0:17:38.53,0:17:40.28,Signs,Screen,0,0,0,,{\c&H090A05&\pos(290.667,150)\frx8\fry36\frz348.1\bord0\shad0\b1}Mechamaru
+Dialogue: 0,0:18:09.56,0:18:12.07,Signs,Screen,0,0,0,,{\fs18\c&H000000&\shad2\4c&HFFFFFF&\pos(320,345)\an2\fscx90}Due to lack of players, one outfielder is permitted to use cursed techniques.
+Dialogue: 0,0:18:12.06,0:18:14.06,Signs,Screen,0,0,0,,{\fs16\frx354\fry320\frz351.6\pos(136,188)}Kyoto\N\NTokyo
+Dialogue: 0,0:18:17.70,0:18:25.58,Signs,Screen,0,0,0,,{\pos(220,235)}Todo Aoi
+Dialogue: 0,0:18:17.70,0:18:25.58,Signs,Screen,0,0,0,,{\pos(448,254)}Catcher
+Dialogue: 0,0:18:17.70,0:18:25.58,Signs,Screen,0,0,0,,{\q2\pos(116,345)}Won the middle school nationals with Itadori. Itadori denies this.
+Dialogue: 0,0:18:50.04,0:18:52.96,Signs,,0,0,0,,{\fs18\c&H000000&\bord0\shad0\pos(415,70)\frz16}Intentional
+Dialogue: 0,0:20:30.45,0:20:31.75,Signs,Screen,0,0,0,,{\pos(223,235)}Inumaki Toge
+Dialogue: 0,0:20:30.45,0:20:31.75,Signs,Screen,0,0,0,,{\q2\pos(450,253)}Second Base
+Dialogue: 0,0:20:30.45,0:20:31.75,Signs,Screen,0,0,0,,{\q2\pos(119,355)\bord2}Prefers bread for breakfast. Likes it with ham, cheese, and a bit of tabasco.
+Dialogue: 0,0:21:12.79,0:21:16.29,Signs,Screen,0,0,0,,{\c&H000000&\an8\pos(320,5)}Sister School Exchange Event
+Dialogue: 0,0:21:12.79,0:21:16.29,Signs,Screen,0,0,0,,{\c&H000000&\pos(320,120)\fs14}Second Day's Baseball Competition
+Dialogue: 0,0:21:12.79,0:21:16.29,Signs,Screen,0,0,0,,{\c&H000000&\fs14\pos(248.667,230)}Tokyo
+Dialogue: 0,0:21:12.79,0:21:16.29,Signs,Screen,0,0,0,,{\c&H000000&\fs14\pos(392,230)}Kyoto
+Dialogue: 0,0:21:12.79,0:21:16.29,Signs,Screen,0,0,0,,{\c&H000000&\fs14\pos(320,279)}30th Annual Exchange Event
+Dialogue: 0,0:21:12.79,0:21:16.29,Signs,Screen,0,0,0,,{\c&H000000&\fs20\pos(320,325)}Winner: Tokyo
+Dialogue: 0,0:22:54.93,0:22:57.43,Signs,Three&Screen,0,0,0,,Juju Stroll
+Dialogue: 0,0:22:57.43,0:22:59.06,Signs,,0,0,0,,{\fs36\c&H657C7B&\3c&HFCFCFC&\shad0\pos(320,130)}Q: Rice or bread?
+Dialogue: 0,0:22:59.06,0:23:07.03,Signs,Screen,0,0,0,,{\pos(320,290)\3c&H8B9482&\4c&HE9D33E&\shad3}Q: Are you a rice person or a bread person?
+Dialogue: 0,0:23:07.03,0:23:08.65,Signs,Screen,0,0,0,,{\pos(320,290)\3c&H8B9482&\4c&HE9D33E&\shad3}Q: Are you a rice person or a bread person?
+Dialogue: 0,0:23:08.65,0:23:12.66,Signs,Screen,0,0,0,,{\pos(320,290)\3c&H8B9482&\4c&HE9D33E&\shad3}Q: Are you a rice person or a bread person?
+Dialogue: 0,0:23:12.66,0:23:14.49,Signs,Screen,0,0,0,,{\pos(320,290)\3c&H8B9482&\4c&HE9D33E&\shad3}Q: Are you a rice person or a bread person?
+Dialogue: 0,0:23:14.49,0:23:19.87,Signs,Screen,0,0,0,,{\pos(320,290)\3c&H8B9482&\4c&HE9D33E&\shad3}Q: Are you a rice person or a bread person?
+Dialogue: 0,0:23:36.47,0:23:39.93,Signs,Screen,0,0,0,,{\fad(1112,1)}Episode 22: \NThe Origin of Blind Obedience
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_21.mkv
+Video File: jujutsu_21.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_21_keyframes.txt

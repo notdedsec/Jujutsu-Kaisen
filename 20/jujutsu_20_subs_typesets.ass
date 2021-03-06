@@ -1,0 +1,46 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.25,0:00:09.21,Signs,,0,0,0,,{\fad(613,520)\pos(612,310)}Episode 20: Nonstandard
+Dialogue: 0,0:00:02.25,0:00:09.21,Signs,,0,0,0,,{\fad(613,520)\pos(612,310)}Episode 20: Nonstandard
+Dialogue: 0,0:00:14.72,0:00:17.22,Signs,Books,0,0,0,,{\pos(92.667,176.667)\fs13\c&H502D3D&\bord0\shad0\b1\frx6\fry2\fax-.3\frz314}Handwriting
+Dialogue: 0,0:00:14.72,0:00:17.22,Signs,Books,0,0,0,,{\fs12\b1\c&H615C77&\shad0\3c&HD9DBEF&\frz14.79\pos(300.667,217.333)\frx14\fry358}Fun to Learn\N{\fs16}Arithmetic
+Dialogue: 0,0:00:14.72,0:00:17.22,Signs,Books,0,0,0,,{\c&H87AAE8&\3c&H3E4BD3&\shad0\fs12\pos(561.334,138.666)\frz149.6}Japanese
+Dialogue: 0,0:04:05.58,0:04:06.55,Signs,Screen,0,0,0,,{\fnTimes New Roman\bord0\shad0\pos(550,180)\an5\frz270\fs16\b1}*Self-Proclaimed IQ 530,000
+Dialogue: 0,0:06:48.03,0:06:54.03,Signs,Nanami,0,0,0,,{\fad(501,500)}\hNanami Kento, record holder for consecutive Black Flash uses, speaks\h
+Dialogue: 0,0:11:30.40,0:11:31.90,Signs,Screen,0,0,0,,{\fnTimes New Roman\bord0\shad0\pos(384,164)\fs20}Happened in 0.01 seconds
+Dialogue: 0,0:11:51.35,0:11:53.35,Signs,Screen,0,0,0,,{\an1\fnArial\bord1.5\shad0\pos(22,310)\fs18\b1}*National Handshake Event
+Dialogue: 0,0:22:54.93,0:22:57.43,Signs,Three&Screen,0,0,0,,Juju Stroll
+Dialogue: 0,0:22:57.43,0:22:59.06,Signs,Screen,0,0,0,,{\fs36\c&H64817E&\3c&HFCFCFC&\shad0\pos(320,130)}Q: Dog or cat?
+Dialogue: 0,0:22:59.06,0:23:06.90,Signs,Screen,0,0,0,,{\pos(320,290)\3c&H8B9482&\4c&HE9D33E&\shad3}Q: Are you a dog person or a cat person?
+Dialogue: 0,0:23:06.90,0:23:08.65,Signs,Screen,0,0,0,,{\pos(320,290)\3c&H8B9482&\4c&HE9D33E&\shad3}Q: Are you a dog person or a cat person?
+Dialogue: 0,0:23:08.65,0:23:12.70,Signs,Screen,0,0,0,,{\pos(320,290)\3c&H8B9482&\4c&HE9D33E&\shad3}Q: Are you a dog person or a cat person?
+Dialogue: 0,0:23:12.70,0:23:14.24,Signs,Screen,0,0,0,,{\pos(320,290)\3c&H8B9482&\4c&HE9D33E&\shad3}Q: Are you a dog person or a cat person?
+Dialogue: 0,0:23:14.24,0:23:19.04,Signs,Screen,0,0,0,,{\pos(320,290)\3c&H8B9482&\4c&HE9D33E&\shad3}Q: Are you a dog person or a cat person?
+Dialogue: 0,0:23:36.47,0:23:39.93,Signs,Screen,0,0,0,,{\fad(1194,1)}Episode 21:\NJujutsu Koshien
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_20.mkv
+Video File: jujutsu_20.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_20_keyframes.txt

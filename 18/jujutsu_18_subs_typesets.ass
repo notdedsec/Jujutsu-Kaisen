@@ -1,0 +1,35 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:04:09.00,0:04:16.01,Signs,Screen,0,0,0,,{\fad(524,605)\pos(612,310)}Episode 18:  {\fs28}Sage
+Dialogue: 0,0:04:09.00,0:04:16.01,Signs,Screen,0,0,0,,{\fad(524,605)\pos(612,310)}Episode 18:  {\fs28}Sage
+Dialogue: 0,0:04:53.43,0:04:56.44,Signs,Screen,0,0,0,,{\pos(320,260)\fs20}Kyoto Sister School Exchange Event Group Battle\N{\fs24}Miwa Kasumi — Retired
+Dialogue: 0,0:05:00.47,0:05:02.97,Signs,Phone,0,0,0,,{\fs14\shad0\bord.25\3c&HFFFFFF&\blur2\3a&H88&\frz7.348\move(295,74,298,88)\t(\fs12)}Miwa Kasumi
+Dialogue: 0,0:22:14.93,0:22:17.44,Signs,Three&Screen,0,0,0,,Juju Stroll
+Dialogue: 0,0:23:51.41,0:23:54.93,Signs,Screen,0,0,0,,{\fad(1066,1)}Episode 19: \NBlack Flash
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_18.mkv
+Video File: jujutsu_18.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_18_keyframes.txt

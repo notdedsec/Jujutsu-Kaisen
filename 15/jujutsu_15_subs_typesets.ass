@@ -1,0 +1,45 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.60,0:00:09.61,Signs,Screentext,0,0,0,,{\fad(523,1)\q2\fs22\pos(610,308)\fscx99\bord1\shad0\1a&HFF&\3a&H44&}Episode 15: Kyoto Sister School Exchange Event - Group Battle 1 -
+Dialogue: 0,0:00:02.60,0:00:09.61,Signs,Screentext,0,0,0,,{\fad(523,1)\q2\fs22\pos(610,308)\fscx99}Episode 15: Kyoto Sister School Exchange Event - Group Battle 1 -
+Dialogue: 0,0:03:57.54,0:04:04.05,Signs,Screen,0,0,0,,{\fad(1026,1)\an2\pos(320,305)\shad1.5\fscx90}Before the Exchange Event Started
+Dialogue: 0,0:18:56.78,0:19:01.78,Signs,Screentext,0,0,0,,{\blur2}Recommendation
+Dialogue: 0,0:18:56.78,0:19:01.78,Signs,Screentext,0,0,0,,{\blur2\pos(496,140)}Recommendation
+Dialogue: 0,0:18:56.78,0:19:01.78,Signs,Screentext,0,0,0,,{\blur2\pos(144,206)}Recommendation
+Dialogue: 0,0:18:56.78,0:19:01.78,Signs,Screentext,0,0,0,,{\blur2\pos(496,206)}Recommendation
+Dialogue: 0,0:19:15.17,0:19:24.30,Signs,Screen,0,0,0,,{\fs16\blur2\pos(220,170)}Recommendation
+Dialogue: 0,0:22:14.98,0:22:17.48,Signs,Girls&Screen,0,0,0,,Juju Stroll
+Dialogue: 1,0:22:17.48,0:22:21.73,Signs,Screen,0,0,0,,{\c&H476C72&\3c&HFFFFFF&\b1\shad0\b1\pos(320,221.333)}Q: What kind of person is your type?
+Dialogue: 0,0:22:32.89,0:22:34.90,Signs,Screen,0,0,0,,{\xshad-2\yshad0\pos(620,50)}Useless
+Dialogue: 1,0:22:33.26,0:22:34.90,Signs,Screen,0,0,0,,{\xshad-2\yshad0\pos(620,100)}Broke
+Dialogue: 1,0:22:33.64,0:22:34.90,Signs,Screen,0,0,0,,{\xshad-2\yshad0\pos(620,150)}Smelly
+Dialogue: 1,0:22:34.02,0:22:34.90,Signs,Screen,0,0,0,,{\xshad-2\yshad0\pos(620,200)}Stingy
+Dialogue: 1,0:22:34.39,0:22:34.90,Signs,Screen,0,0,0,,{\xshad-2\yshad0\pos(620,250)}Dead
+Dialogue: 1,0:23:51.55,0:23:56.34,Signs,Screen,0,0,0,,{\fad(1027,1)}Episode 16:\NKyoto Sister School Exchange Event - Group Battle 2 -
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_15.mkv
+Video File: jujutsu_15.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_15_keyframes.txt

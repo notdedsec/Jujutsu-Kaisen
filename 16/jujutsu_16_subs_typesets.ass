@@ -1,0 +1,42 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.23,0:00:11.69,Signs,Screen,0,0,0,,{\fad(272,1)\fnTimes New Roman\an8\fs20\shad0\c&H4C87B7&\b1\bord0\pos(566,26)}Class Check\N\N{\c&H262D2B&\bord1\3c&H787885&}~Production~
+Dialogue: 0,0:00:09.23,0:00:11.69,Signs,Screen,0,0,0,,{\fad(523,1)\pos(510,336)}Correct Answer Waiting Room
+Dialogue: 0,0:02:19.15,0:02:23.62,Signs,Screen,0,0,0,,{\fad(693,1)\c&H000000&\bord1.5\shad0\b1\pos(322,245)\fs36\t(1236,4321,1 \fs18)\3c&H8E8876&}Curse
+Dialogue: 0,0:05:24.51,0:05:31.51,Signs,Screen,0,0,0,,{\fad(528,518)\q2\fscx90\pos(608,305)}Episode 16: Kyoto Sister School Exchange Event - Group Battle 2 -
+Dialogue: 0,0:05:24.51,0:05:31.51,Signs,Screen,0,0,0,,{\fad(528,518)\q2\fscx90\pos(608,305)}Episode 16: Kyoto Sister School Exchange Event - Group Battle 2 -
+Dialogue: 0,0:08:03.27,0:08:09.94,Signs,ScreenToptoBottom,0,0,0,,{\fad(274,1)\pos(335,64)}First-Grade
+Dialogue: 0,0:08:03.27,0:08:09.94,Signs,ScreenToptoBottom,0,0,0,,{\fad(274,1)\fscx95\an5\pos(335,102)}Semi-\N\N\N\N\NFirst-Grade
+Dialogue: 0,0:08:03.27,0:08:09.94,Signs,ScreenToptoBottom,0,0,0,,{\fad(274,1)\fscx85\pos(335,168)}Second-Grade
+Dialogue: 0,0:08:03.27,0:08:09.94,Signs,ScreenToptoBottom,0,0,0,,{\fad(274,1)\fscx85\pos(335,190)}Semi-\N\N\N\N\NSecond-Grade
+Dialogue: 0,0:08:03.27,0:08:09.94,Signs,ScreenToptoBottom,0,0,0,,{\fad(274,1)\fscx95\pos(335,275.333)}Third-Grade
+Dialogue: 0,0:20:27.49,0:20:32.50,Signs,Screen,0,0,0,,{\fad(1030,1)\an2\b0\shad2\pos(320,265)\fscx90}Kyoto Sister School Exchange Event Group Battle\NUltimate Mechamaru - Retired
+Dialogue: 0,0:22:15.02,0:22:17.52,Signs,Mechamaru&Screen,0,0,0,,Juju Stroll
+Dialogue: 0,0:23:51.49,0:23:55.74,Signs,Screen,0,0,0,,{\fad(1191,1)}Episode 17:\NKyoto Sister School Exchange Event - Group Battle 3 -
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_16.mkv
+Video File: jujutsu_16.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_16_keyframes.txt

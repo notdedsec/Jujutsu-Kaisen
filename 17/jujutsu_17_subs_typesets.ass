@@ -1,0 +1,45 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.48,0:01:38.49,Signs,Screen,0,0,0,,{\fad(528,518)\q2\fscx91\pos(610,310)}Episode 17: Kyoto Sister School Exchange Event - Group Battle 3 -
+Dialogue: 0,0:01:31.48,0:01:38.49,Signs,Screen,0,0,0,,{\fad(528,518)\q2\fscx91\pos(610,310)}Episode 17: Kyoto Sister School Exchange Event - Group Battle 3 -
+Dialogue: 0,0:05:13.37,0:05:14.29,Signs,Screen,0,0,0,,{\fad(50,268)\an8\fs40\b1\c&H05050B&\bord0\shad0\t(\fscx400\blur3)}Curse
+Dialogue: 0,0:05:25.13,0:05:28.72,Signs,Screen,0,0,0,,{\t(2364,2404,1 \c&HE1E5F0&\3c&H0200E2&)}Tokyo
+Dialogue: 0,0:05:28.72,0:05:32.43,Signs,Screen,0,0,0,,{\t(1819,1859,1 \c&HFAF3ED&\3c&H88653B&)}Kyoto
+Dialogue: 0,0:05:35.93,0:05:38.40,Signs,Screen,0,0,0,,{\fad(280,1)\3c&H241FD8&\blur2}Tokyo
+Dialogue: 0,0:20:40.51,0:20:45.01,Signs,Screen,0,0,0,,{\fad(521,1)\an1\fscx90\pos(34,250)\c&HFFFFFF&}Kyoto Sister School Exchange Event Group Battle\NZenin Mai\NKugisaki Nobara
+Dialogue: 0,0:20:40.51,0:20:45.01,Signs,Screen,0,0,0,,{\fad(521,1)\an4\fscx90\c&HFFFFFF&\pos(184,226)}— Retired
+Dialogue: 0,0:22:15.02,0:22:17.52,Signs,Screen&Three,0,0,0,,Juju Stroll
+Dialogue: 0,0:22:49.93,0:22:56.68,Signs,Cup,0,0,0,,{\b1\fs14\c&H62CEDC&\3c&HA2774A&\shad0\pos(320.667,270.667)}Seafood
+Dialogue: 0,0:22:58.31,0:23:00.69,Signs,,0,0,0,,{\fad(275,1)\pos(164,190)\fs16\c&H383733&\3c&HAEA5A6&\bord1\shad0\frz20.54}Hot\NChili\NPepper
+Dialogue: 0,0:22:58.31,0:23:00.69,Signs,,0,0,0,,{\fad(275,1)\c&H9A85E7&\3c&HF9F6FE&\shad0\fs18\b1\pos(548.667,185.333)\frz314.5}Milk
+Dialogue: 0,0:23:00.69,0:23:03.69,Signs,Momo&Screen,0,0,0,,{\pos(139,60)\fs20\b1\an8\c&HBBEC62&\3c&HFEFEFE&\shad0}Nishimiya-style
+Dialogue: 0,0:23:00.69,0:23:03.69,Signs,Momo&Screen,0,0,0,,{\b1\pos(310,148)\frz4.48\fs30\c&H8066EC&\3c&HFFFFFF&\4c&HD6A3D7&\shad2}Seafood Cup Ramen
+Dialogue: 0,0:23:00.69,0:23:03.69,Signs,Momo&Screen,0,0,0,,{\b1\frz4.48\fs30\c&HECE464&\3c&HFFFFFF&\4c&H7F85B0&\shad2\pos(396,289.333)}Ar{\c&HE29CD4&}ra{\c&HBA6FE6&}n{\c&H53A2EB&}ge{\c&H9EDE7B&}me{\c&H80FDFC&}nt!!
+Dialogue: 0,0:23:51.53,0:23:54.99,Signs,Screen,0,0,0,,{\fad(1026,1)}Episode 18:\NSage
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_17.mkv
+Video File: jujutsu_17.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_17_keyframes.txt

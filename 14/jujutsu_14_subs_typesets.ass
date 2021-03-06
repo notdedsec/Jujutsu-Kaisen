@@ -1,0 +1,59 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:57.23,0:03:01.74,Signs,Screen,0,0,0,,{\pos(320,25)\an8\fnArial\b1\fs28\c&H000000&\bord0\shad0}Exception
+Dialogue: 0,0:04:55.44,0:05:02.44,Signs,Screen,0,0,0,,{\fad(522,514)\q2\fscx92\pos(612,310)}Episode 14: Kyoto Sister School Exchange Event - Group Battle 0 -
+Dialogue: 0,0:04:55.44,0:05:02.44,Signs,Screen,0,0,0,,{\fad(522,514)\q2\fscx92\pos(612,310)}Episode 14: Kyoto Sister School Exchange Event - Group Battle 0 -
+Dialogue: 0,0:06:36.29,0:06:41.63,Signs,Screen,0,0,0,,{\an9\fad(648,396)\fs20\fnTimes New Roman\c&H4D4E53&\3c&HECE6ED&\4c&HA7B0BD&\blur1\pos(540.667,9.333)}"I thought you were dead..."\N{\c&HFFFFFF&\3c&HBA5DE4&\4c&HD3B3F4&\b1}Touching Reunion\N{\c&HA0CB46&\3c&HFFFFFF&\4c&H33392F&\blur0\shad2\bord1}With Friends
+Dialogue: 0,0:06:37.75,0:06:41.63,Signs,Screen,0,0,0,,{\fad(522,396)\fnArial\b1\fs16\an7\pos(30,148)\frz14\c&H1C00D8&\3c&HABAFE8&\4c&H35355A&}"Nice to meet you!!"\N{\c&HDD4717&\3c&HFFE8D7&}Deciding Factor of His First Impression,\N{\fs18\c&H64CFEF&\3c&H013555&\bord1\4c&H391BC1&}First Meeting With the Second Years
+Dialogue: 0,0:06:39.21,0:06:41.63,Signs,Screen,0,0,0,,{\fad(397,396)\an5\fnArial\fs20\b1\pos(396,242.667)\c&H11F9F3&\3c&H0B525F&\shad0}Kyoto Students Appear!!\N{\c&H1E00D7&\3c&HFFFFFF&\4c&H502FD8&\shad2}Exchange Event Begins!\N{\fs16\c&H8900D8&\bord1\4c&HCD5B57&}"Beginner's Guide to\Nthe Exchange Event"
+Dialogue: 0,0:07:36.76,0:07:37.97,Signs,Book,0,0,0,,{\fad(500,1)\an5\fnArial\b1\frz222.2\pos(314,132)\bord1\shad0\yshad-2\4c&H67E4F2&\3c&H737778&\frx32\fry352}Kyoto\N{\fs14\c&H4DACEC&\3c&HB7E5F4&\yshad0}Come have fun in Kyoto\N{\c&H835AE9&}The Complete Guide
+Dialogue: 0,0:07:47.27,0:07:48.82,Signs,Screen,0,0,0,,{\fad(989,1)\c&H7A767E&\4c&H7551BF&\3c&HEEEDF0&\shad0\fnArial\fs14\frz322.9\pos(258,83.334)\yshad2\xshad1}Fortunes
+Dialogue: 0,0:07:54.99,0:07:56.49,Signs,Board,0,0,0,,{\fad(401,1)\pos(206.667,266)\fs16\b1\fnArial\c&H000100&\3c&HF2F4C7&\shad0}Ueno Specialty
+Dialogue: 0,0:07:54.99,0:07:56.49,Signs,Board,0,0,0,,{\fad(401,1)\fs22\b1\fnArial\c&H000100&\3c&HF2F4C7&\shad0\pos(308,289.333)}Panda
+Dialogue: 0,0:08:46.33,0:08:48.34,Signs,Screen,0,0,0,,Jujutsu Tech, Kyoto Second-Year\N{\fs28}Zenin Mai
+Dialogue: 0,0:08:50.84,0:08:52.84,Signs,Screen,0,0,0,,{\pos(215,20)}Jujutsu Tech, Kyoto Third-Year\N{\fs28}Toudou Aoi
+Dialogue: 0,0:09:03.85,0:09:05.85,Signs,Screen,0,0,0,,{\pos(420,20)}Jujutsu Tech, Kyoto Third-Year\N{\fs28}Nishimiya Momo
+Dialogue: 0,0:09:11.36,0:09:13.36,Signs,Screen,0,0,0,,{\pos(188,20)}Jujutsu Tech, Kyoto Second-Year\N{\fs28}Ultimate Mechamaru
+Dialogue: 0,0:09:16.36,0:09:18.37,Signs,Screen,0,0,0,,{\pos(420,20)}Jujutsu Tech, Kyoto Third-Year\N{\fs28}Kamo Noritoshi
+Dialogue: 0,0:09:32.21,0:09:34.21,Signs,Screen,0,0,0,,{\pos(215,20)}Jujutsu Tech, Kyoto Second-Year\N{\fs28}Miwa Kasumi
+Dialogue: 0,0:09:40.60,0:09:42.60,Signs,Screen,0,0,0,,Jujutsu Tech, Semi-First-Grade Sorcerer\NKyoto School Leader\N{\fs28}Iori Utahime
+Dialogue: 0,0:11:05.56,0:11:07.56,Signs,Screen,0,0,0,,Jujutsu Tech, Kyoto School Principal\N{\fs28}Gakuganji Yoshinobu
+Dialogue: 0,0:11:42.22,0:11:45.01,Signs,Screen,0,0,0,,{\fad(565,1)\an8\fnArial\b1\c&H0500B5&\bord0\shad0\frz15\pos(268,15)}Itadori Rejoins
+Dialogue: 0,0:11:55.27,0:12:14.04,Signs,Sign,0,0,0,,{\fad(1028,1)\an8\fs16\fnTimes New Roman\1a&HFF&\b1\c&H303030&\3c&HFAFAFA&\shad0\bord3\t(12374,14292,1 \blur2)}Jujutsu Technical High School\N{\fs22}Tokyo-Kyoto Sister School Exchange Event
+Dialogue: 0,0:11:55.27,0:12:14.04,Signs,Sign,0,0,0,,{\fad(1028,1)\an8\fs16\fnTimes New Roman\b1\c&H303030&\3c&HFAFAFA&\shad0\bord0\t(12374,14292,1 \blur1)}Jujutsu Technical High School\N{\fs22}Tokyo-Kyoto Sister School Exchange Event
+Dialogue: 0,0:12:07.70,0:12:14.04,Signs,Yaga&Screen,0,0,0,,{\fnArial\b1\c&HEC8017&\3c&H37393B&\4c&HFAFFFF&\shad2\fs30\an5\pos(320,285)\org(320,316)\frx90\t(1,1862,1 \frx0)}Wacky\N{\fnTimes New Roman\c&H2A240D&\3c&HFEFDFF&\4c&H443934&}Cursed Spirit {\c&H1300E7&\bord1\4c&H29222C&\shad1}Exorcism {\c&H0BE5F5&\3c&H551427&\4c&HFAF7F4&\shad2}Race
+Dialogue: 0,0:12:16.92,0:12:21.55,Signs,Screenskull,0,0,0,,{\fad(191,435)\pos(320,184.667)\fs12\c&H000025&\3c&H020092&\shad0\bord1}Second-Grade
+Dialogue: 0,0:13:05.93,0:13:09.14,Signs,Screen,0,0,0,,{\fad(772,1)\3c&H000000&\pos(320,270)\bord4}\hTokyo Side Meeting\h
+Dialogue: 0,0:13:05.93,0:13:09.14,Signs,Screen,0,0,0,,{\fad(772,1)\pos(320,270)}\hTokyo Side Meeting\h
+Dialogue: 0,0:15:29.40,0:15:32.91,Signs,Screen,0,0,0,,{\fad(779,1)\3c&H000000&\pos(320,270)\bord4}\hKyoto Side Meeting\h
+Dialogue: 0,0:15:29.40,0:15:32.91,Signs,Screen,0,0,0,,{\fad(779,1)\pos(320,270)}\hKyoto Side Meeting\h
+Dialogue: 0,0:22:15.06,0:22:17.56,Signs,Screen&Takada,0,0,0,,Juju Stroll
+Dialogue: 0,0:22:17.56,0:22:21.06,Signs,Sign,0,0,0,,{\fnTimes New Roman\b1\c&HABFAF2&\3c&H2D404C&\shad0\an5\frz350.6\frx12\fry14\pos(318,98)}Sushi Eishuu
+Dialogue: 0,0:23:51.57,0:23:55.03,Signs,Screen,0,0,0,,{\fad(1027,1)}Episode 15:\NKyoto Sister School Exchange Event - Group Battle 1 -
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_14.mkv
+Video File: jujutsu_14.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_14_keyframes.txt
