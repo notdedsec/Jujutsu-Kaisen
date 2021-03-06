@@ -23,7 +23,11 @@ heavy_denoise = []
 strong_aa     = []
 static_grain  = []
 dynamic_grain = []
-# normal filtering works well enough for 2nd cour op/ed
+
+if op:
+    heavy_denoise += [(op+6, op+32), (op+1062, op+1116), (op+1335, op+1414), (op+1656, op+1755)]
+    static_grain  += [(op+6, op+30), (op+931, op+1015), (op+1167, op+1303), (op+1335, op+1512), (op+1551, op+1590), (op+1656, op+1755), (op+1928, op+2047)]
+    # low bitrate really fucked up the OP, smh CR
 
 if ec: 
     heavy_denoise += [(ec-120, ec+120)]
@@ -47,6 +51,10 @@ upscale = nnedi3_rpow2(aa).resize.Spline36(src.width, src.height)
 upscale = kgf.join([upscale, U, V])
 
 dehalo = haf.DeHalo_alpha(upscale, rx=2.2, darkstr=0)
+if ed: 
+    dehalo = lvf.rfs(dehalo, upscale, ranges=[(ed, ed+2157)])
+# dehalo kinda messes up areas around outlines in the ED so
+
 deband   = core.f3kdb.Deband(dehalo, range=16, y=48, cb=40, cr=40, grainy=0, grainc=0, output_depth=16)
 
 grain   = kgf.adaptive_grain(deband, 0.25, luma_scaling=8)

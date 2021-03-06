@@ -1,6 +1,8 @@
 #!C:/KaizokuEncoder/python
 import os
+import acsuite
 import subprocess
+import vapoursynth as vs
 
 ed = None
 source =  __file__[:-3]+'.mkv'
@@ -12,10 +14,21 @@ encode_args = '--crf 16 --preset veryslow --qcomp 0.8 --aq-mode 3 --aq-strength 
 script    = source[:-3]+'vpy'
 video_out = source[:-3]+'avc'
 audio_out = source[:-3]+'aac'
+tempfile  = source[:-3]+'_temp.aac'
 
-# process audio - no shifting bullshit in 2nd cour
-demux_cmd = ['ffmpeg', '-hide_banner', '-loglevel', '16', '-i', source, '-map', '0:a:0', '-c', 'copy', audio_out]
+# process audio
+demux_cmd = ['ffmpeg', '-hide_banner', '-loglevel', '16', '-i', source, '-map', '0:a:0', '-c', 'copy', tempfile]
 subprocess.run(demux_cmd)
+
+if ed:
+    clip = vs.core.lsmas.LWLibavSource(source)
+    trim = [(0, ed), (ed+2152, ed+2157), (ed, ed+2152), (ed+2157, None)]
+    # shifting ~210ms of silence from end of the ED to its beginning for better sync with video. if this desync was an artistic choice, it was _not_ a good one.
+    acsuite.eztrim(clip, trim, tempfile, audio_out, quiet=True)
+    os.remove(tempfile)
+    os.remove(source+'.lwi')
+else:
+    os.rename(tempfile, audio_out)
 
 # process video
 filter_process = subprocess.Popen(['vspipe', '--y4m', script, '-'], stdout=subprocess.PIPE)
