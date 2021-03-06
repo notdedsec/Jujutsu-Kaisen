@@ -20,10 +20,10 @@ Audio File: jujutsu_09.mkv
 Video File: jujutsu_09.mkv
 Keyframes File: jujutsu_09_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 249
-Active Line: 259
-Video Position: 24181
+Video Zoom Percent: 0.500000
+Scroll Position: 17
+Active Line: 19
+Video Position: 30315
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,127 +40,134 @@ Dialogue: 1,0:06:17.81,0:06:22.86,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Minc
 Dialogue: 0,0:06:17.81,0:06:22.86,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Mincho Old Pro H-Fate\bord0.1\blur2\fs98\pos(438,982)}Monday, 10:30 AM
 Dialogue: 1,0:11:41.88,0:11:46.10,Signs,Screen,0,0,0,,{\fad(1360,1)\fnIwata Mincho Old Pro H-Fate\bord0\be1\fs98\pos(438,982)}Monday, 11:15 AM
 Dialogue: 0,0:11:41.88,0:11:46.10,Signs,Screen,0,0,0,,{\fad(1360,1)\fnIwata Mincho Old Pro H-Fate\bord0.8\blur2\fs98\pos(438,982)}Monday, 11:15 AM
-Dialogue: 0,0:19:18.05,0:19:21.59,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Mincho Old Pro H-Fate\fs88\bord0.4\blur2\pos(369,969)}Monday, 6:25 PM
-Dialogue: 1,0:19:18.05,0:19:21.59,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Mincho Old Pro H-Fate\fs88\be1\pos(369,969)}Monday, 6:25 PM
+Dialogue: 6,0:19:18.05,0:19:21.59,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Mincho Old Pro H-Fate\fs88\bord0.4\blur2\pos(369,969)}Monday, 6:25 PM
+Dialogue: 7,0:19:18.05,0:19:21.59,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Mincho Old Pro H-Fate\fs88\be1\pos(369,969)}Monday, 6:25 PM
 Dialogue: 1,0:17:26.61,0:17:30.52,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Mincho Old Pro H-Fate\fs98\be1\pos(438,983)}Monday, 11:00 AM
 Dialogue: 0,0:17:26.61,0:17:30.52,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Mincho Old Pro H-Fate\fs98\bord0.4\blur2\be1\pos(438,983)}Monday, 11:00 AM
 Dialogue: 0,0:03:48.70,0:03:53.17,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Mincho Old Pro H-Fate\fs98\be1\pos(438,982)}Monday, 10:10 AM
 Dialogue: 0,0:06:06.42,0:06:13.43,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\pos(1305,885)\c&HE6E7E7&}Episode 9: {\fs70}Small Fry and Reverse Retribution
-Dialogue: 0,0:19:16.34,0:19:21.59,Signs,Sign,0,0,0,,{\fnArtificeSSK\fs72\fscx96\bord5\blur3\c&H4078BD&\1a&H21&\pos(940,100)\3c&H000306&}Tokyo Municipal Shuuei High School, Detached Office
-Dialogue: 0,0:00:38.01,0:00:41.35,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(969.79,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.35,0:00:41.39,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(970.44,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.39,0:00:41.43,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(971.44,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.43,0:00:41.47,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(972.62,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.47,0:00:41.52,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(974.44,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.52,0:00:41.56,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(976.44,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.56,0:00:41.60,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(978.74,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.60,0:00:41.64,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(981.6,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.64,0:00:41.68,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(984.61,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.68,0:00:41.72,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(987.92,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.72,0:00:41.77,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(991.68,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.77,0:00:41.81,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(995.69,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.81,0:00:41.85,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1000.02,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.85,0:00:41.89,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1004.63,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.89,0:00:41.93,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1009.49,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.93,0:00:41.98,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1014.65,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:41.98,0:00:42.02,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1020.17,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.02,0:00:42.06,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1025.95,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.06,0:00:42.10,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1031.96,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.10,0:00:42.14,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1038.2,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.14,0:00:42.18,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1044.71,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.18,0:00:42.23,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1051.48,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.23,0:00:42.27,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1058.49,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.27,0:00:42.31,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1065.75,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.31,0:00:42.35,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1073.13,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.35,0:00:42.39,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1080.8,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.39,0:00:42.43,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1088.73,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.43,0:00:42.48,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1096.81,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.48,0:00:42.52,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1105.05,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.52,0:00:42.56,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1113.56,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.56,0:00:42.60,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1122.16,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.60,0:00:42.64,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1131.02,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.64,0:00:42.68,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1140.02,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.68,0:00:42.73,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1149.17,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.73,0:00:42.77,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1158.49,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.77,0:00:42.81,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1167.98,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.81,0:00:42.85,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1177.56,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.85,0:00:42.89,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1187.31,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.89,0:00:42.93,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1197.24,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.93,0:00:42.98,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1207.21,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:42.98,0:00:43.02,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1217.33,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.02,0:00:43.06,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1227.49,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.06,0:00:43.10,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1237.84,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.10,0:00:43.14,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1248.24,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.14,0:00:43.18,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1258.8,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.18,0:00:43.23,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1269.34,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.23,0:00:43.27,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1279.98,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.27,0:00:43.31,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1290.72,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.31,0:00:43.35,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1301.49,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.35,0:00:43.39,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1312.34,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.39,0:00:43.43,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1323.25,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.43,0:00:43.48,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1334.17,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.48,0:00:43.52,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1345.14,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.52,0:00:43.56,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1356.16,108.28)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.56,0:00:43.60,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1367.17,108.27)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.60,0:00:43.64,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1378.19,108.27)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.64,0:00:43.69,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1389.21,108.27)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.69,0:00:43.73,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1400.24,108.27)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.73,0:00:43.77,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1411.23,108.27)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.77,0:00:43.81,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1422.24,108.27)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.81,0:00:43.85,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1433.24,108.27)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.85,0:00:43.89,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1444.24,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.89,0:00:43.94,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1455.22,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.94,0:00:43.98,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1465.99,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:43.98,0:00:44.02,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1476.96,108.27)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.02,0:00:44.06,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1487.7,108.27)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.06,0:00:44.10,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1498.43,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.10,0:00:44.14,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1509.06,108.27)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.14,0:00:44.19,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1519.66,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.19,0:00:44.23,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1530.19,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.23,0:00:44.27,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1540.52,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.27,0:00:44.31,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1550.93,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.31,0:00:44.35,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1561.05,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.35,0:00:44.39,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1571.22,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.39,0:00:44.44,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1581.16,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.44,0:00:44.48,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1591.08,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.48,0:00:44.52,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1600.83,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.52,0:00:44.56,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1610.42,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.56,0:00:44.60,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1619.88,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.60,0:00:44.64,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1629.19,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.64,0:00:44.69,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1638.38,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.69,0:00:44.73,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1647.35,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.73,0:00:44.77,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1656.23,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.77,0:00:44.81,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1664.82,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.81,0:00:44.85,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1673.33,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.85,0:00:44.89,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1681.57,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.89,0:00:44.94,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1689.58,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.94,0:00:44.98,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1697.5,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:44.98,0:00:45.02,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1705.21,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.02,0:00:45.06,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1712.61,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.06,0:00:45.10,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1719.8,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.10,0:00:45.14,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1726.82,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.14,0:00:45.19,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1733.57,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.19,0:00:45.23,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1740.07,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.23,0:00:45.27,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1746.31,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.27,0:00:45.31,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1752.31,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.31,0:00:45.35,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1758.06,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.35,0:00:45.40,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1763.55,108.24)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.40,0:00:45.44,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1768.73,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.44,0:00:45.48,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1773.55,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.48,0:00:45.52,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1778.21,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.52,0:00:45.56,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1782.54,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.56,0:00:45.60,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1786.53,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.60,0:00:45.65,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1790.33,108.24)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.65,0:00:45.69,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1793.54,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.69,0:00:45.73,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1796.55,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.73,0:00:45.77,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1799.41,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.77,0:00:45.81,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1801.74,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.81,0:00:45.85,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1803.74,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.85,0:00:45.90,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1805.53,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.90,0:00:45.94,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1806.72,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.94,0:00:45.98,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1807.71,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:45.98,0:00:46.02,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1808.28,108.26)\frz-0.2\1a&H18&}Human Earthworm 3
-Dialogue: 0,0:00:46.02,0:00:48.02,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1808.42,108.25)\frz-0.2\1a&H18&}Human Earthworm 3
+Dialogue: 5,0:19:16.34,0:19:21.59,Signs,Sign,0,0,0,,{\fnLino Stamp\fs120\c&H6DB4C6&\be1\fax-0.33\blur15\frz17.92\1a&H50&\pos(1015.34,866.66)}IUIQKDNSJOIEWFMSDJDJFJAI
+Dialogue: 1,0:19:16.34,0:19:21.59,Signs,Sign,0,0,0,,{\p1\c&HC7E7EF&\be1\pos(996.8,1214.4)\frz0.2235}m 0 0 l 905 -287 l 904 -350 l 0 -60 
+Dialogue: 0,0:19:16.34,0:19:21.59,Signs,Sign,0,0,0,,{\p1\xshad-2\yshad-2\blur2\pos(996.8,1214.4)\frz0.2235}m 0 0 l 905 -287 l 904 -350 l 0 -60 
+Dialogue: 5,0:19:16.34,0:19:21.59,Signs,Sign,0,0,0,,{\fnRagnar\fs50\fax-0.33\b1\shad1\fscx96\be1\c&H1C2629&\1a&H32&\3c&H000306&\4c&H1B2627&\4a&H64&\pos(1000.8,861.4)\frz17.87}Tokyo Municipal Shuei High School Detached Office
+Dialogue: 5,0:21:04.37,0:21:10.83,Signs,Sign,0,0,0,,{=7}{\clip()\t(19,6442,\clip())\alpha&H00&\fscx90\t(19,6442,\fscx81.08)\fscy90\t(19,6442,\fscy81.08)\fade(255,0,255,0,0,3460,6460)\fnLino Stamp\fs120\c&H7996DF&\be1\fax-0.33\blur15\t(19,6442,\blur13.51)\1a&H50&\t(5000,6400,\1a&HFF&)\frz17.5\move(980,890,1024.16,850.26,19,6442)}IUIQKDNSJOIEWFMSDJD
+Dialogue: 1,0:21:04.37,0:21:10.83,Signs,Sign,0,0,0,,{=6}{\clip()\t(19,6442,\clip())\alpha&H00&\fscx90\t(19,6442,\fscx81.08)\fscy90\t(19,6442,\fscy81.08)\p1\c&HB5C4E7&\be1\t(5000,6450,\c&H000000)\frz0.1836\move(956.8,1202.4,1003.26,1131.7,19,6442)}m 0 0 l 905 -287 l 904 -350 l 0 -60
+Dialogue: 0,0:21:04.37,0:21:10.83,Signs,Sign,0,0,0,,{=5}{\clip()\t(19,6442,\clip())\alpha&H00&\fscx90\t(19,6442,\fscx81.08)\fscy90\t(19,6442,\fscy81.08)\p1\xshad-2\t(19,6442,\xshad-1.8)\yshad-2\t(19,6442,\yshad-1.8)\blur2\t(19,6442,\blur1.8)\t(5000,6450,\c&H000000)\frz0.1836\move(956.8,1202.4,1003.26,1131.7,19,6442)}m 0 0 l 905 -287 l 904 -350 l 0 -60
+Dialogue: 5,0:21:04.37,0:21:10.83,Signs,Sign,0,0,0,,{=4}{\clip()\t(19,6442,\clip())\fscy100\t(19,6442,\fscy90.09)\alpha&H00&\t(5000,6400,\c&H000000&)\fnRagnar\fs46\fax-0.33\b1\shad1\t(19,6442,\shad0.9)\fscx96\t(19,6442,\fscx86.48)\be1\c&H1C2629&\1a&H32&\3c&H000306&\4c&H1B2627&\4a&H64&\frz17.87\t(5000,6450,\c&H000000)\move(960.8,885.4,1006.86,846.12,19,6442)}Tokyo Municipal Shuei High School Detached Office
+Dialogue: 0,0:00:38.01,0:00:41.35,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(969.79,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.35,0:00:41.39,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(970.44,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.39,0:00:41.43,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(971.44,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.43,0:00:41.47,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(972.62,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.47,0:00:41.52,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(974.44,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.52,0:00:41.56,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(976.44,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.56,0:00:41.60,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(978.74,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.60,0:00:41.64,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(981.6,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.64,0:00:41.68,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(984.61,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.68,0:00:41.72,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(987.92,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.72,0:00:41.77,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(991.68,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.77,0:00:41.81,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(995.69,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.81,0:00:41.85,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1000.02,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.85,0:00:41.89,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1004.63,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.89,0:00:41.93,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1009.49,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.93,0:00:41.98,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1014.65,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:41.98,0:00:42.02,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1020.17,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.02,0:00:42.06,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1025.95,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.06,0:00:42.10,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1031.96,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.10,0:00:42.14,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1038.2,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.14,0:00:42.18,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1044.71,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.18,0:00:42.23,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1051.48,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.23,0:00:42.27,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1058.49,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.27,0:00:42.31,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1065.75,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.31,0:00:42.35,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1073.13,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.35,0:00:42.39,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1080.8,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.39,0:00:42.43,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1088.73,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.43,0:00:42.48,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1096.81,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.48,0:00:42.52,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1105.05,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.52,0:00:42.56,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1113.56,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.56,0:00:42.60,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1122.16,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.60,0:00:42.64,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1131.02,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.64,0:00:42.68,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1140.02,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.68,0:00:42.73,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1149.17,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.73,0:00:42.77,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1158.49,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.77,0:00:42.81,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1167.98,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.81,0:00:42.85,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1177.56,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.85,0:00:42.89,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1187.31,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.89,0:00:42.93,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1197.24,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.93,0:00:42.98,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1207.21,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:42.98,0:00:43.02,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1217.33,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.02,0:00:43.06,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1227.49,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.06,0:00:43.10,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1237.84,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.10,0:00:43.14,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1248.24,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.14,0:00:43.18,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1258.8,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.18,0:00:43.23,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1269.34,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.23,0:00:43.27,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1279.98,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.27,0:00:43.31,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1290.72,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.31,0:00:43.35,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1301.49,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.35,0:00:43.39,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1312.34,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.39,0:00:43.43,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1323.25,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.43,0:00:43.48,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1334.17,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.48,0:00:43.52,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1345.14,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.52,0:00:43.56,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1356.16,108.28)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.56,0:00:43.60,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1367.17,108.27)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.60,0:00:43.64,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1378.19,108.27)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.64,0:00:43.69,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1389.21,108.27)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.69,0:00:43.73,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1400.24,108.27)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.73,0:00:43.77,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1411.23,108.27)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.77,0:00:43.81,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1422.24,108.27)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.81,0:00:43.85,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1433.24,108.27)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.85,0:00:43.89,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1444.24,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.89,0:00:43.94,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1455.22,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.94,0:00:43.98,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1465.99,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:43.98,0:00:44.02,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1476.96,108.27)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.02,0:00:44.06,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1487.7,108.27)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.06,0:00:44.10,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1498.43,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.10,0:00:44.14,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1509.06,108.27)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.14,0:00:44.19,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1519.66,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.19,0:00:44.23,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1530.19,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.23,0:00:44.27,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1540.52,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.27,0:00:44.31,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1550.93,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.31,0:00:44.35,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1561.05,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.35,0:00:44.39,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1571.22,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.39,0:00:44.44,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1581.16,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.44,0:00:44.48,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1591.08,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.48,0:00:44.52,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1600.83,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.52,0:00:44.56,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1610.42,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.56,0:00:44.60,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1619.88,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.60,0:00:44.64,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1629.19,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.64,0:00:44.69,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1638.38,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.69,0:00:44.73,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1647.35,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.73,0:00:44.77,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1656.23,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.77,0:00:44.81,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1664.82,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.81,0:00:44.85,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1673.33,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.85,0:00:44.89,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1681.57,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.89,0:00:44.94,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1689.58,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.94,0:00:44.98,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1697.5,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:44.98,0:00:45.02,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1705.21,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.02,0:00:45.06,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1712.61,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.06,0:00:45.10,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1719.8,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.10,0:00:45.14,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1726.82,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.14,0:00:45.19,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1733.57,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.19,0:00:45.23,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1740.07,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.23,0:00:45.27,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1746.31,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.27,0:00:45.31,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1752.31,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.31,0:00:45.35,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1758.06,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.35,0:00:45.40,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1763.55,108.24)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.40,0:00:45.44,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1768.73,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.44,0:00:45.48,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1773.55,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.48,0:00:45.52,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1778.21,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.52,0:00:45.56,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1782.54,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.56,0:00:45.60,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1786.53,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.60,0:00:45.65,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1790.33,108.24)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.65,0:00:45.69,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1793.54,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.69,0:00:45.73,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1796.55,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.73,0:00:45.77,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1799.41,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.77,0:00:45.81,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1801.74,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.81,0:00:45.85,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1803.74,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.85,0:00:45.90,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1805.53,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.90,0:00:45.94,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1806.72,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.94,0:00:45.98,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1807.71,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:45.98,0:00:46.02,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1808.28,108.26)\frz-0.2\1a&H18&}Earthworm Man 3
+Dialogue: 0,0:00:46.02,0:00:48.02,Signs,MoviePoster,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H2F1C37&\b0\blur1\pos(1808.42,108.25)\frz-0.2\1a&H18&}Earthworm Man 3
 Dialogue: 0,0:00:38.01,0:00:38.05,Signs,MoviePoster,0,0,0,,{\blur0.8\fnCabin\fs30\bord0\shad0\c&H37391D&\fscx130\fscy130\pos(973.76,910.88)}Creating Humans
 Dialogue: 0,0:00:38.05,0:00:41.35,Signs,MoviePoster,0,0,0,,{\blur0.8\fnCabin\fs30\bord0\shad0\c&H37391D&\fscx130\fscy130\pos(973.77,910.88)}Creating Humans
 Dialogue: 0,0:00:41.35,0:00:41.39,Signs,MoviePoster,0,0,0,,{\blur0.8\fnCabin\fs30\bord0\shad0\c&H37391D&\fscx130\fscy130\pos(974.41,910.89)}Creating Humans
@@ -276,7 +283,7 @@ Dialogue: 0,0:00:45.90,0:00:45.94,Signs,MoviePoster,0,0,0,,{\blur0.8\fnCabin\fs3
 Dialogue: 0,0:00:45.94,0:00:45.98,Signs,MoviePoster,0,0,0,,{\blur0.8\fnCabin\fs30\bord0\shad0\c&H37391D&\fscx130\fscy130\pos(1811.68,910.85)}Creating Humans
 Dialogue: 0,0:00:45.98,0:00:46.02,Signs,MoviePoster,0,0,0,,{\blur0.8\fnCabin\fs30\bord0\shad0\c&H37391D&\fscx130\fscy130\pos(1812.25,910.85)}Creating Humans
 Dialogue: 0,0:00:46.02,0:00:48.02,Signs,MoviePoster,0,0,0,,{\blur0.8\fnCabin\fs30\bord0\shad0\c&H37391D&\fscx130\fscy130\pos(1812.39,910.84)}Creating Humans
-Dialogue: 0,0:03:13.70,0:03:16.21,Signs,,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H141030&\b0\blur1\pos(969.79,108.29)\frz-0.2\1a&H18&}Human Earthworm 3
+Dialogue: 0,0:03:13.70,0:03:16.21,Signs,,0,0,0,,{\fnLino Stamp\fs90\an5\bord0\shad0\c&H141030&\b0\blur1\pos(969.79,108.29)\frz-0.2\1a&H18&}Earthworm Man 3
 Dialogue: 0,0:03:13.70,0:03:16.21,Signs,,0,0,0,,{\blur0.8\fnCabin\fs30\bord0\shad0\c&H37391D&\fscx130\fscy130\pos(973.76,910.88)}Creating Humans
 Comment: 0,0:16:48.23,0:16:48.52,Signs,Phone,0,0,0,,{\blur1\fnCabin\an5\frx30\fry2\fs60\b0\c&HE3DDD4&\bord0\shad0\fax-.28\frz160.5\fscx93\fscy93\pos(765,726)}Ieiri Shoko
 Comment: 0,0:16:48.52,0:16:48.57,Signs,Phone,0,0,0,,{\blur1\fnCabin\an5\frx30\fry2\fs60\b0\c&HEFE5DF&\bord0\shad0\fax-.28\frz160.5\fscx93\fscy93\pos(765,726)}Ieiri Shoko
@@ -1773,18 +1780,18 @@ Dialogue: 0,0:23:32.14,0:23:32.18,Signs,,0,0,0,,{\blur2\an5\c&H9EA1A7&\p1\pos(63
 Dialogue: 0,0:23:32.18,0:23:32.22,Signs,,0,0,0,,{\blur2\an5\c&H9EA1A7&\p1\pos(617.47,173.55)\iclip(m 896 62 b 884 69 857 89 814 87 814 87 812 90 814 91 816 92 820 92 820 92 820 92 797 101 775 120 774 121 773 121 772 122 771 123 771 124 770 125 762 133 754 143 748 154 748 154 746 155 745 157 743 159 740 166 740 166 736 169 726 178 715 190 708 199 699 207 691 217 645 276 573 371 550 430 l 1212 407 1238 62 896 62)}m 0 4.47 l 4.97 123.2 13.41 125.68 13.41 135.12 21.36 133.13 27.82 146.05 b 27.82 146.05 35.27 147.54 32.79 158.97 32.79 158.97 41.23 160.46 35.77 173.87 l 20.86 197.22 23.84 199.7 241.93 196.22 292.6 127.17 288.62 0 0 4.47
 Dialogue: 0,0:23:32.22,0:23:32.26,Signs,,0,0,0,,{\blur2\an5\c&H9EA1A7&\p1\pos(601.86,173.15)\iclip(m 907 62 b 895 69 868 89 825 87 825 87 824 90 825 91 827 92 831 92 831 92 831 92 808 101 787 120 786 121 784 121 783 122 782 123 782 124 781 125 773 133 765 143 759 154 759 154 757 155 756 157 754 159 751 166 751 166 747 169 738 178 726 191 719 199 710 207 702 217 656 276 584 371 561 430 l 1223 407 1249 62 907 62)}m 0 4.47 l 4.97 123.2 13.41 125.68 13.41 135.12 21.36 133.13 27.82 146.05 b 27.82 146.05 35.27 147.54 32.79 158.97 32.79 158.97 41.23 160.46 35.77 173.87 l 20.86 197.22 23.84 199.7 241.93 196.22 292.6 127.17 288.62 0 0 4.47
 Dialogue: 0,0:23:32.26,0:23:32.30,Signs,,0,0,0,,{\blur2\an5\c&H9EA1A7&\p1\pos(586.58,172.72)\iclip(m 918 62 b 906 68 880 89 837 87 837 87 835 90 836 91 839 92 843 92 843 92 843 92 819 101 798 120 797 121 795 121 794 122 793 123 793 124 792 125 784 133 776 143 771 154 771 154 769 154 767 157 766 159 762 166 762 166 758 169 749 178 738 190 730 199 722 207 714 217 667 276 595 371 573 430 l 1235 407 1260 62 918 62)}m 0 4.47 l 4.97 123.2 13.41 125.68 13.41 135.12 21.36 133.13 27.82 146.05 b 27.82 146.05 35.27 147.54 32.79 158.97 32.79 158.97 41.23 160.46 35.77 173.87 l 20.86 197.22 23.84 199.7 241.93 196.22 292.6 127.17 288.62 0 0 4.47
-Dialogue: 0,0:23:31.80,0:23:31.84,Credits,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(783.2,177.87)\iclip(m 794 62 b 782 68 755 88 712 86 712 86 710 90 712 91 714 91 718 91 718 91 718 91 695 100 673 119 672 120 671 121 670 122 669 122 669 124 668 125 659 133 652 142 646 154 646 154 644 154 643 156 641 158 638 165 638 165 634 168 624 178 613 190 606 198 597 207 589 217 543 276 471 371 448 430 l 1110 407 1136 62 794 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
-Dialogue: 0,0:23:31.84,0:23:31.89,Credits,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(767.51,177.68)\iclip(m 805 62 b 793 68 767 88 723 86 723 86 722 90 723 91 725 92 729 92 729 92 729 92 706 100 685 119 684 120 682 121 681 122 680 123 680 124 679 125 671 133 663 142 657 154 657 154 656 154 654 156 652 158 649 165 649 165 645 168 636 178 625 190 617 198 609 207 600 217 554 276 482 371 459 430 l 1121 407 1147 62 805 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
-Dialogue: 0,0:23:31.89,0:23:31.93,Credits,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(752.1,177.42)\iclip(m 816 62 b 804 68 778 88 735 86 735 86 733 90 734 91 737 91 741 91 741 91 741 91 718 100 696 119 695 120 693 121 692 122 691 122 691 124 690 125 682 133 674 142 669 154 669 154 667 154 665 156 664 158 660 165 660 165 656 168 647 178 636 190 628 198 620 207 612 217 565 276 494 371 471 430 l 1133 407 1158 62 816 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
-Dialogue: 0,0:23:31.93,0:23:31.97,Credits,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(737.11,177.42)\iclip(m 828 62 b 816 68 789 89 746 87 746 87 744 90 746 91 748 92 752 92 752 92 752 92 729 100 707 120 706 120 705 121 704 122 703 123 703 124 702 125 694 133 686 143 680 154 680 154 678 154 677 156 675 158 672 166 672 166 668 168 658 178 647 190 640 198 631 207 623 217 577 276 505 371 482 430 l 1144 407 1170 62 828 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
-Dialogue: 0,0:23:31.97,0:23:32.01,Credits,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(721.61,177.16)\iclip(m 839 62 b 827 68 801 89 757 87 757 87 756 90 757 91 759 92 763 92 763 92 763 92 740 100 719 119 718 120 716 121 715 122 714 123 714 124 713 125 705 133 697 143 691 154 691 154 690 154 688 156 686 158 683 165 683 165 679 168 670 178 659 190 651 198 643 207 634 217 588 276 516 371 493 430 l 1155 407 1181 62 839 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
-Dialogue: 0,0:23:32.01,0:23:32.05,Credits,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(706.47,176.78)\iclip(m 850 62 b 838 68 812 89 769 87 769 87 767 90 768 91 771 92 775 92 775 92 775 92 752 100 730 120 729 120 727 121 726 122 725 123 725 124 724 125 716 133 708 143 703 154 703 154 701 154 699 156 698 159 694 166 694 166 690 168 681 178 670 190 662 198 654 207 646 217 599 276 528 371 505 430 l 1167 407 1192 62 850 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
-Dialogue: 0,0:23:32.05,0:23:32.09,Credits,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(690.85,176.24)\iclip(m 862 62 b 850 68 823 89 780 87 780 87 778 90 780 91 782 92 786 92 786 92 786 92 763 101 741 120 740 121 739 121 738 122 737 123 737 124 736 125 727 133 720 143 714 154 714 154 712 155 711 157 709 159 706 166 706 166 702 169 692 178 681 190 674 199 665 207 657 217 611 276 539 371 516 430 l 1178 407 1204 62 862 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
-Dialogue: 0,0:23:32.09,0:23:32.14,Credits,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(675.52,176.02)\iclip(m 873 62 b 861 69 835 89 791 87 791 87 790 90 791 91 793 92 797 92 797 92 797 92 774 101 753 120 752 121 750 121 749 122 748 123 748 124 747 125 739 133 731 143 725 154 725 154 723 155 722 157 720 159 717 166 717 166 713 169 704 178 692 190 685 199 676 207 668 217 622 276 550 371 527 430 l 1189 407 1215 62 873 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
-Dialogue: 0,0:23:32.14,0:23:32.18,Credits,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(660.07,175.76)\iclip(m 884 62 b 872 69 846 89 803 87 803 87 801 90 802 91 805 92 809 92 809 92 809 92 785 101 764 120 763 121 761 121 760 122 759 123 759 124 758 125 750 133 742 143 737 154 737 154 735 155 733 157 732 159 728 166 728 166 724 169 715 178 704 190 696 199 688 207 680 217 633 276 561 371 539 430 l 1201 407 1226 62 884 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
-Dialogue: 0,0:23:32.18,0:23:32.22,Credits,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(644.74,175.11)\iclip(m 896 62 b 884 69 857 89 814 87 814 87 812 90 814 91 816 92 820 92 820 92 820 92 797 101 775 120 774 121 773 121 772 122 771 123 771 124 770 125 762 133 754 143 748 154 748 154 746 155 745 157 743 159 740 166 740 166 736 169 726 178 715 190 708 199 699 207 691 217 645 276 573 371 550 430 l 1212 407 1238 62 896 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
-Dialogue: 0,0:23:32.22,0:23:32.26,Credits,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(629.13,174.71)\iclip(m 907 62 b 895 69 868 89 825 87 825 87 824 90 825 91 827 92 831 92 831 92 831 92 808 101 787 120 786 121 784 121 783 122 782 123 782 124 781 125 773 133 765 143 759 154 759 154 757 155 756 157 754 159 751 166 751 166 747 169 738 178 726 191 719 199 710 207 702 217 656 276 584 371 561 430 l 1223 407 1249 62 907 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
-Dialogue: 0,0:23:32.26,0:23:32.30,Credits,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(613.85,174.28)\iclip(m 918 62 b 906 68 880 89 837 87 837 87 835 90 836 91 839 92 843 92 843 92 843 92 819 101 798 120 797 121 795 121 794 122 793 123 793 124 792 125 784 133 776 143 771 154 771 154 769 154 767 157 766 159 762 166 762 166 758 169 749 178 738 190 730 199 722 207 714 217 667 276 595 371 573 430 l 1235 407 1260 62 918 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
+Dialogue: 0,0:23:31.80,0:23:31.84,Signs,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(783.2,177.87)\iclip(m 794 62 b 782 68 755 88 712 86 712 86 710 90 712 91 714 91 718 91 718 91 718 91 695 100 673 119 672 120 671 121 670 122 669 122 669 124 668 125 659 133 652 142 646 154 646 154 644 154 643 156 641 158 638 165 638 165 634 168 624 178 613 190 606 198 597 207 589 217 543 276 471 371 448 430 l 1110 407 1136 62 794 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
+Dialogue: 0,0:23:31.84,0:23:31.89,Signs,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(767.51,177.68)\iclip(m 805 62 b 793 68 767 88 723 86 723 86 722 90 723 91 725 92 729 92 729 92 729 92 706 100 685 119 684 120 682 121 681 122 680 123 680 124 679 125 671 133 663 142 657 154 657 154 656 154 654 156 652 158 649 165 649 165 645 168 636 178 625 190 617 198 609 207 600 217 554 276 482 371 459 430 l 1121 407 1147 62 805 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
+Dialogue: 0,0:23:31.89,0:23:31.93,Signs,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(752.1,177.42)\iclip(m 816 62 b 804 68 778 88 735 86 735 86 733 90 734 91 737 91 741 91 741 91 741 91 718 100 696 119 695 120 693 121 692 122 691 122 691 124 690 125 682 133 674 142 669 154 669 154 667 154 665 156 664 158 660 165 660 165 656 168 647 178 636 190 628 198 620 207 612 217 565 276 494 371 471 430 l 1133 407 1158 62 816 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
+Dialogue: 0,0:23:31.93,0:23:31.97,Signs,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(737.11,177.42)\iclip(m 828 62 b 816 68 789 89 746 87 746 87 744 90 746 91 748 92 752 92 752 92 752 92 729 100 707 120 706 120 705 121 704 122 703 123 703 124 702 125 694 133 686 143 680 154 680 154 678 154 677 156 675 158 672 166 672 166 668 168 658 178 647 190 640 198 631 207 623 217 577 276 505 371 482 430 l 1144 407 1170 62 828 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
+Dialogue: 0,0:23:31.97,0:23:32.01,Signs,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(721.61,177.16)\iclip(m 839 62 b 827 68 801 89 757 87 757 87 756 90 757 91 759 92 763 92 763 92 763 92 740 100 719 119 718 120 716 121 715 122 714 123 714 124 713 125 705 133 697 143 691 154 691 154 690 154 688 156 686 158 683 165 683 165 679 168 670 178 659 190 651 198 643 207 634 217 588 276 516 371 493 430 l 1155 407 1181 62 839 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
+Dialogue: 0,0:23:32.01,0:23:32.05,Signs,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(706.47,176.78)\iclip(m 850 62 b 838 68 812 89 769 87 769 87 767 90 768 91 771 92 775 92 775 92 775 92 752 100 730 120 729 120 727 121 726 122 725 123 725 124 724 125 716 133 708 143 703 154 703 154 701 154 699 156 698 159 694 166 694 166 690 168 681 178 670 190 662 198 654 207 646 217 599 276 528 371 505 430 l 1167 407 1192 62 850 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
+Dialogue: 0,0:23:32.05,0:23:32.09,Signs,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(690.85,176.24)\iclip(m 862 62 b 850 68 823 89 780 87 780 87 778 90 780 91 782 92 786 92 786 92 786 92 763 101 741 120 740 121 739 121 738 122 737 123 737 124 736 125 727 133 720 143 714 154 714 154 712 155 711 157 709 159 706 166 706 166 702 169 692 178 681 190 674 199 665 207 657 217 611 276 539 371 516 430 l 1178 407 1204 62 862 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
+Dialogue: 0,0:23:32.09,0:23:32.14,Signs,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(675.52,176.02)\iclip(m 873 62 b 861 69 835 89 791 87 791 87 790 90 791 91 793 92 797 92 797 92 797 92 774 101 753 120 752 121 750 121 749 122 748 123 748 124 747 125 739 133 731 143 725 154 725 154 723 155 722 157 720 159 717 166 717 166 713 169 704 178 692 190 685 199 676 207 668 217 622 276 550 371 527 430 l 1189 407 1215 62 873 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
+Dialogue: 0,0:23:32.14,0:23:32.18,Signs,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(660.07,175.76)\iclip(m 884 62 b 872 69 846 89 803 87 803 87 801 90 802 91 805 92 809 92 809 92 809 92 785 101 764 120 763 121 761 121 760 122 759 123 759 124 758 125 750 133 742 143 737 154 737 154 735 155 733 157 732 159 728 166 728 166 724 169 715 178 704 190 696 199 688 207 680 217 633 276 561 371 539 430 l 1201 407 1226 62 884 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
+Dialogue: 0,0:23:32.18,0:23:32.22,Signs,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(644.74,175.11)\iclip(m 896 62 b 884 69 857 89 814 87 814 87 812 90 814 91 816 92 820 92 820 92 820 92 797 101 775 120 774 121 773 121 772 122 771 123 771 124 770 125 762 133 754 143 748 154 748 154 746 155 745 157 743 159 740 166 740 166 736 169 726 178 715 190 708 199 699 207 691 217 645 276 573 371 550 430 l 1212 407 1238 62 896 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
+Dialogue: 0,0:23:32.22,0:23:32.26,Signs,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(629.13,174.71)\iclip(m 907 62 b 895 69 868 89 825 87 825 87 824 90 825 91 827 92 831 92 831 92 831 92 808 101 787 120 786 121 784 121 783 122 782 123 782 124 781 125 773 133 765 143 759 154 759 154 757 155 756 157 754 159 751 166 751 166 747 169 738 178 726 191 719 199 710 207 702 217 656 276 584 371 561 430 l 1223 407 1249 62 907 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
+Dialogue: 0,0:23:32.26,0:23:32.30,Signs,Sign,0,0,0,,{\blur1\fnBlockParty\fs32\an5\b1\c&H78699B&\3c&H999DA3&\shad0\fscx212\fscy234\pos(613.85,174.28)\iclip(m 918 62 b 906 68 880 89 837 87 837 87 835 90 836 91 839 92 843 92 843 92 843 92 819 101 798 120 797 121 795 121 794 122 793 123 793 124 792 125 784 133 776 143 771 154 771 154 769 154 767 157 766 159 762 166 762 166 758 169 749 178 738 190 730 199 722 207 714 217 667 276 595 371 573 430 l 1235 407 1260 62 918 62)}Satoru{\fnArial\fs20}♥{\alpha&FF}   .
 Dialogue: 0,0:23:38.60,0:23:38.73,Signs,Envelope,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HFAF9F7&\pos(-1.6,1.6)}m 1304 884 l 1254 894 1156 868 1146 806 1288 848
 Dialogue: 0,0:23:38.60,0:23:38.73,Signs,Envelope,0,0,0,,{\fscy100\fscx100\blur1\fnRaysHand\fs45\bord0\shad0\c&HA09B93&\frz-22.24\b1\fax-0.34\pos(1222.93,858.4)}To Nanami
 Dialogue: 0,0:23:38.73,0:23:38.85,Signs,Envelope,0,0,0,,{\an7\blur1.5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFD&}m 1131 539 l 1145 595 1243 628 1305 609 1276 569
@@ -1804,3 +1811,9 @@ Dialogue: 0,0:23:41.59,0:23:41.84,Signs,,0,0,0,,{\fnRaysHand\fs245\b0\1c&H807A70
 Dialogue: 0,0:23:41.84,0:23:42.09,Signs,,0,0,0,,{\fnRaysHand\fs305\b0\1c&H807A70&\3c&HF0E6DC&\bord0\blur2\frz-25\frx30\1a&H28&\pos(606.667,914.8)}Dick
 Dialogue: 0,0:23:15.03,0:23:17.58,Signs,Screen&Two,0,0,0,,{\fnBrush Strokes\b1\be1\fs110\c&H000101&\pos(1400,150)}Juju Stroll
 Dialogue: 0,0:23:51.57,0:23:55.03,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0)\fad(500,0)\fscy112\fscx112\t(26,3440,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 10{\fs70}\NIdle Transfiguration
+
+[Aegisub Extradata]
+Data: 4,a-mo,e{"uuid"#3A"d6a73ee2-0dcd-4d88-9a53-eb5c52c677d5"#2C"originalText"#3A"{\\t(5000#2C6400#2C\\c&H000000&)\\fnRagnar\\fs46\\fax-0.33\\b1\\shad1\\fscx96\\be1\\c&H1C2629&\\1a&H32&\\3c&H000306&\\4c&H1B2627&\\4a&H64&\\frz17.87\\t(5000#2C6450#2C\\c&H000000)\\pos(960.8#2C885.4)}Tokyo Municipal Shuei High School Detached Office"}
+Data: 5,a-mo,e{"uuid"#3A"2376d814-613f-4b24-9f3e-fdd5c858d729"#2C"originalText"#3A"{\\fscx90\\fscy90\\p1\\xshad-2\\yshad-2\\blur2\\t(5000#2C6450#2C\\c&H000000)\\frz0.1836\\pos(956.8#2C1202.4)}m 0 0 l 905 -287 l 904 -350 l 0 -60"}
+Data: 6,a-mo,e{"uuid"#3A"48d46c27-5902-45a6-8d0b-c72c899fbe30"#2C"originalText"#3A"{\\fscx90\\fscy90\\p1\\c&HB5C4E7&\\be1\\t(5000#2C6450#2C\\c&H000000)\\frz0.1836\\pos(956.8#2C1202.4)}m 0 0 l 905 -287 l 904 -350 l 0 -60"}
+Data: 7,a-mo,e{"uuid"#3A"39c859f7-72e0-4114-b413-40894aa4c66c"#2C"originalText"#3A"{\\fscx90\\fscy90\\fade(0#2C3000)\\fnLino Stamp\\fs120\\c&H7996DF&\\be1\\fax-0.33\\blur15\\1a&H50&\\t(5000#2C6400#2C\\1a&HFF&)\\frz17.5\\pos(980#2C890)}IUIQKDNSJOIEWFMSDJD"}
