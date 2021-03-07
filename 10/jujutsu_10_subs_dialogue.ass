@@ -58,7 +58,7 @@ Dialogue: 5,0:01:00.56,0:01:04.66,Default,Sayama,0,0,0,,Didn't I tell you to sta
 Dialogue: 5,0:01:05.00,0:01:10.37,Default,Junpei,0,0,0,,B-But you haven't been using it lately, \Nso I thought it was fine now.
 Dialogue: 5,0:01:15.39,0:01:16.11,Default,Itou,0,0,0,,And?
 Dialogue: 5,0:01:17.05,0:01:18.85,Default,Junpei,0,0,0,,And, well, um...
-Dialogue: 5,0:01:20.47,0:01:23.92,Default,Sayama,0,0,0,,Hurry up and fuck outta here, you cockroaches!
+Dialogue: 5,0:01:20.47,0:01:23.92,Default,Sayama,0,0,0,,Hurry up and get the fuck outta here, you cockroaches!
 Dialogue: 5,0:01:24.64,0:01:26.75,Default,Friend A,0,0,0,,L-Let's go, Yoshino.
 Dialogue: 5,0:01:29.72,0:01:32.40,Default,Honda,0,0,0,,Next time you use it, we'll send you flying!
 Dialogue: 5,0:01:32.78,0:01:34.31,Default,Nishimura,0,0,0,,Oh, score!
@@ -197,8 +197,8 @@ Dialogue: 5,0:12:54.03,0:12:58.48,Default,Nanami,0,0,0,,{\i1}just like those unr
 Dialogue: 5,0:12:58.78,0:13:01.59,Default,Nanami,0,0,0,,{\i1}I suppose it won't be strange for them to be related.
 Dialogue: 5,0:13:03.64,0:13:05.83,Default,Mahito,0,0,0,,Hey, tell me.
 Dialogue: 5,0:13:05.83,0:13:09.27,Default,Mahito,0,0,0,,Which do you think came first, the soul or the body?
-Dialogue: 5,0:13:10.29,0:13:11.71,Default,Mahito,0,0,0,,Come on, you know.
-Dialogue: 5,0:13:12.23,0:13:16.86,Default,Mahito,0,0,0,,Like the chicken or the egg.
+Dialogue: 5,0:13:10.29,0:13:11.71,Default,Mahito,0,0,0,,Come on, you know,{might even be better as "Come on. You know,"}
+Dialogue: 5,0:13:12.23,0:13:16.86,Default,Mahito,0,0,0,,like the chicken or the egg.
 Dialogue: 5,0:13:18.66,0:13:21.40,Default,Mahito,0,0,0,,Does the soul reside in the body?
 Dialogue: 5,0:13:21.40,0:13:25.45,Default,Mahito,0,0,0,,Or is the body built around the soul?
 Dialogue: 5,0:13:26.75,0:13:29.45,Default,Nanami,0,0,0,,{\i1}I'll humor him, I guess.
@@ -229,7 +229,7 @@ Dialogue: 5,0:15:02.14,0:15:06.26,Default,Sotomura,0,0,0,,They always looked out
 Dialogue: 5,0:15:06.59,0:15:09.12,Default,Sotomura,0,0,0,,And you didn't even attend their funerals.
 Dialogue: 5,0:15:09.68,0:15:11.94,Default,Sotomura,0,0,0,,{\an8}Honestly, what's wrong with you?
 Dialogue: 5,0:15:10.52,0:15:11.94,Default,Junpei,0,0,0,,{\i1}Friends?
-Dialogue: 5,0:15:11.94,0:15:16.29,Default,Sotomura,0,0,0,,{\an8}C'mon I'll go with you. Let's offer up some insence.
+Dialogue: 5,0:15:11.94,0:15:16.29,Default,Sotomura,0,0,0,,{\an8}C'mon I'll go with you. Let's offer up some incense.
 Dialogue: 5,0:15:12.29,0:15:14.82,Default,Junpei,0,0,0,,{\i1}Me? With them?
 Dialogue: 5,0:15:15.44,0:15:17.28,Default,Junpei,0,0,0,,{\i1}He's insane.
 Dialogue: 5,0:15:16.69,0:15:17.28,Default,Sotomura,0,0,0,,{\an8}Come on.
@@ -270,7 +270,7 @@ Dialogue: 5,0:17:03.21,0:17:05.39,Default,Sotomura,0,0,0,,Stop! Stop this!
 Dialogue: 5,0:17:05.81,0:17:08.34,Default,Sotomura,0,0,0,,Don't run off with them!
 Dialogue: 5,0:17:11.84,0:17:13.35,Default,Sotomura,0,0,0,,Come back!
 Dialogue: 5,0:17:16.96,0:17:18.82,Default,Junpei,0,0,0,,What just happened?
-Dialogue: 5,0:17:20.92,0:17:22.53,Default,Yuji,0,0,0,,Okay, now, let's go!
+Dialogue: 5,0:17:20.92,0:17:22.53,Default,Yuji,0,0,0,,Okay now, let's go!
 Dialogue: 5,0:17:22.53,0:17:23.76,Default,Junpei,0,0,0,,Huh?! That was fast!
 Dialogue: 5,0:17:23.76,0:17:25.20,Default,Junpei,0,0,0,,Did you go around the block?!
 Dialogue: 5,0:17:25.20,0:17:26.02,Default,Yuji,0,0,0,,Yeah.
@@ -318,7 +318,7 @@ Dialogue: 5,0:20:01.31,0:20:04.17,Default,Mahito,0,0,0,,but they can't protect t
 Dialogue: 5,0:20:04.17,0:20:07.33,Default,Mahito,0,0,0,,First off, you have to acknowledge your own soul.
 Dialogue: 5,0:20:07.33,0:20:09.48,Default,Mahito,0,0,0,,It's impossible otherwise.
 Dialogue: 5,0:20:10.02,0:20:14.94,Default,Mahito,0,0,0,,Although, it seems like you're subconsciously \Nprotecting your soul with cursed energy.
-Dialogue: 5,0:20:14.94,0:20:18.49,Default,Mahito,0,0,0,,If you hadn't, you'd already be under my control.
+Dialogue: 5,0:20:14.94,0:20:18.49,Default,Mahito,0,0,0,,If you hadn't been{hadn't been (protecting).}, you'd already be under my control.
 Dialogue: 5,0:20:18.87,0:20:23.46,Default,Mahito,0,0,0,,Well, after two or three more times, \Nyou'll no longer be human.
 Dialogue: 5,0:20:32.64,0:20:34.10,Default,Mahito,0,0,0,,You're not getting away!
 Dialogue: 5,0:20:48.41,0:20:51.50,Default,Mahito,0,0,0,,Was that it, grade 1 sorcerer?
