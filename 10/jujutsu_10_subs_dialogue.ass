@@ -21,10 +21,10 @@ Video File: jujutsu_10.mkv
 Keyframes File: jujutsu_10_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 284
-Active Line: 290
-Video Position: 30261
+Video Zoom Percent: 0.375000
+Scroll Position: 303
+Active Line: 311
+Video Position: 33870
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,40 +34,40 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 5,0:00:07.84,0:00:11.60,Default,Friend A,0,0,0,,What? The {\i1}Super Scary Movie{\i0} series went up to 5?
-Dialogue: 5,0:00:12.03,0:00:13.62,Default,Junpei,0,0,0,,Up to 7, actually.
+Dialogue: 5,0:00:07.84,0:00:11.60,Default,Friend A,0,0,0,,What? The {\i1}Super Scary Movie{\i0} series went up to five?
+Dialogue: 5,0:00:12.03,0:00:13.62,Default,Junpei,0,0,0,,Up to seven, actually.
 Dialogue: 5,0:00:14.04,0:00:15.16,Default,Friend B,0,0,0,,For real?
 Dialogue: 5,0:00:15.16,0:00:17.89,Default,Friend B,0,0,0,,The seventh one must be really out there.
-Dialogue: 5,0:00:17.89,0:00:21.17,Default,Junpei,0,0,0,,It became a completely different thing by 7.
+Dialogue: 5,0:00:17.89,0:00:21.17,Default,Junpei,0,0,0,,It became a completely different thing by seven.
 Dialogue: 5,0:00:21.17,0:00:23.41,Default,Junpei,0,0,0,,It's not even a parody movie anymore.
 Dialogue: 5,0:00:23.41,0:00:25.27,Default,Friend A,0,0,0,,Then what kind of movie is it?
 Dialogue: 5,0:00:26.52,0:00:30.53,Default,Junpei,0,0,0,,Convoluted sitcom plus lineage horror, I suppose?
 Dialogue: 5,0:00:30.53,0:00:31.97,Default,Friend A,0,0,0,,What the heck?
-Dialogue: 5,0:00:31.97,0:00:35.94,Default,Junpei,0,0,0,,The main character's grandchild \Nfrom 1 ends up surviving by a total fluke.
-Dialogue: 5,0:00:35.94,0:00:38.73,Default,Junpei,0,0,0,,He shares a house with the culprit's grandchild from 2,
-Dialogue: 5,0:00:38.73,0:00:42.35,Default,Junpei,0,0,0,,and the grandchild of the first guy who died in 3.
-Dialogue: 5,0:00:42.35,0:00:45.96,Default,Junpei,0,0,0,,That house turns out to be haunted, so they call in a psychic.
+Dialogue: 5,0:00:31.97,0:00:35.94,Default,Junpei,0,0,0,,The main character's grandchild \Nfrom first ends up surviving by a total fluke.
+Dialogue: 5,0:00:35.94,0:00:38.73,Default,Junpei,0,0,0,,He shares a house with \Nthe culprit's grandchild from second,
+Dialogue: 5,0:00:38.73,0:00:42.35,Default,Junpei,0,0,0,,and the grandchild of the first guy who died in third.
+Dialogue: 5,0:00:42.35,0:00:45.96,Default,Junpei,0,0,0,,That house turns out to be haunted, \Nso they call in a psychic.
 Dialogue: 5,0:00:45.96,0:00:46.77,Default,Junpei,0,0,0,,That's the story.
 Dialogue: 5,0:00:47.60,0:00:48.98,Default,Friend B,0,0,0,,Sounds boring. {fuck no}
 Dialogue: 5,0:00:48.98,0:00:51.05,Default,Junpei,0,0,0,,It bored me to death.
 Dialogue: 5,0:00:51.05,0:00:52.90,Default,Friend A,0,0,0,,Who'd watch something like that? {:eyes:}
-Dialogue: 5,0:00:53.24,0:00:56.56,Default,Junpei,0,0,0,,What's interesting, though, is that the guy from 5 and 6—
+Dialogue: 5,0:00:53.24,0:00:56.56,Default,Junpei,0,0,0,,What's interesting, though, \Nis that the guy from fifth and sixth—
 Dialogue: 5,0:00:57.15,0:00:58.43,Default,Sayama,0,0,0,,Huh?
-Dialogue: 5,0:00:58.43,0:01:00.16,Default,Sayama,0,0,0,,What are you doing here?
-Dialogue: 5,0:01:00.56,0:01:04.66,Default,Sayama,0,0,0,,Didn't I tell you to stay outta here \N'cause we're making it our club room now?
+Dialogue: 5,0:00:58.43,0:01:00.16,Default,Sayama,0,0,0,,What're you doing here?
+Dialogue: 5,0:01:00.56,0:01:04.66,Default,Sayama,0,0,0,,Didn't I warn you to stay outta here \N'cause it's our club room now?
 Dialogue: 5,0:01:05.00,0:01:10.37,Default,Junpei,0,0,0,,B-But you haven't been using it lately, \Nso I thought it was fine now.
 Dialogue: 5,0:01:15.39,0:01:16.11,Default,Itou,0,0,0,,And?
 Dialogue: 5,0:01:17.05,0:01:18.85,Default,Junpei,0,0,0,,And, well, um...
 Dialogue: 5,0:01:20.47,0:01:23.92,Default,Sayama,0,0,0,,Hurry up and get the fuck outta here, you cockroaches!
-Dialogue: 5,0:01:24.64,0:01:26.75,Default,Friend A,0,0,0,,L-Let's go, Yoshino.
-Dialogue: 5,0:01:29.72,0:01:32.40,Default,Honda,0,0,0,,Next time you use it, we'll send you flying!
+Dialogue: 5,0:01:24.77,0:01:26.75,Default,Friend A,0,0,0,,L-Let's go, Yoshino.
+Dialogue: 5,0:01:29.72,0:01:32.40,Default,Honda,0,0,0,,Next time we see you here, we'll send you flying!
 Dialogue: 5,0:01:32.78,0:01:34.31,Default,Nishimura,0,0,0,,Oh, score!
 Dialogue: 5,0:01:34.31,0:01:36.43,Default,Friend B,0,0,0,,Hey, what are you doing?!
 Dialogue: 5,0:01:39.95,0:01:40.87,Default,Itou,0,0,0,,What?
 Dialogue: 5,0:01:42.21,0:01:43.53,Default,Junpei,0,0,0,,I'm taking it home.
 Dialogue: 5,0:01:45.01,0:01:45.77,Default,Itou,0,0,0,,Huh?
 Dialogue: 5,0:01:54.36,0:01:56.60,Default,Junpei,0,0,0,,Move your foot.
-Dialogue: 5,0:01:59.69,0:02:01.82,Default,Friend A,0,0,0,,Hey, stop it!
+Dialogue: 5,0:01:59.69,0:02:01.82,Default,Friend A,0,0,0,,Hey, just let it go!
 Dialogue: 5,0:02:03.46,0:02:05.23,Default,Junpei,0,0,0,,I'm taking this home.
 Dialogue: 5,0:02:05.23,0:02:07.11,Default,Junpei,0,0,0,,So could you move your foot?
 Dialogue: 5,0:02:18.12,0:02:20.00,Default,Friend A;B,0,0,0,,Shit!
@@ -86,7 +86,7 @@ Dialogue: 5,0:05:05.99,0:05:10.21,Default,Junpei,0,0,0,,It was originally spoken
 Dialogue: 5,0:05:10.21,0:05:13.75,Default,Junpei,0,0,0,,"The opposite of love is indifference," right?
 Dialogue: 5,0:05:14.88,0:05:21.51,Default,Junpei,0,0,0,,There are various definitions of "love," so "indifference" works as an antonym there.
 Dialogue: 5,0:05:21.51,0:05:23.14,Default,Mahito,0,0,0,,True enough.
-Dialogue: 5,0:05:23.62,0:05:27.11,Default,Junpei,0,0,0,,But we generally don't use "love" very much.
+Dialogue: 5,0:05:23.62,0:05:27.11,Default,Junpei,0,0,0,,But we generally don't use the word "love" very much.
 Dialogue: 5,0:05:27.67,0:05:32.61,Default,Junpei,0,0,0,,That's why, in this country, \Nit got changed to "affection" at some point.
 Dialogue: 5,0:05:32.91,0:05:40.61,Default,Junpei,0,0,0,,It spread whether or not the opposing definitions of \N"affection" and "indifference" still held true. {HMMMMMM.}
 Dialogue: 5,0:05:41.50,0:05:44.24,Default,Mahito,0,0,0,,Everyone likes a little wordplay.
@@ -104,21 +104,21 @@ Dialogue: 5,0:06:34.83,0:06:38.48,Default,Junpei,0,0,0,,That's why I don't expec
 Dialogue: 5,0:06:39.25,0:06:42.96,Default,Junpei,0,0,0,,Someone else's death means nothing to me.
 Dialogue: 5,0:06:44.01,0:06:48.93,Default,Junpei,0,0,0,,Indifference is what humans should strive for.
 Dialogue: 5,0:06:51.18,0:06:54.77,Default,Mahito,0,0,0,,And despite that, you want revenge.
-Dialogue: 5,0:06:55.42,0:06:58.65,Default,Junpei,0,0,0,,Are you trying to say that's contradictory?
+Dialogue: 5,0:06:55.42,0:06:58.65,Default,Junpei,0,0,0,,Are you saying that's contradictory?
 Dialogue: 5,0:07:00.96,0:07:03.52,Default,Mahito,0,0,0,,Do you believe people have hearts?
 Dialogue: 5,0:07:04.15,0:07:06.73,Default,Junpei,0,0,0,,Huh? Don't they?
 Dialogue: 5,0:07:07.62,0:07:08.53,Default,Mahito,0,0,0,,They don't.
 Dialogue: 5,0:07:10.06,0:07:13.80,Default,Mahito,0,0,0,,They have souls, but souls aren't hearts.
-Dialogue: 5,0:07:13.80,0:07:15.90,Default,Junpei,0,0,0,,Then what about my—
+Dialogue: 5,0:07:13.80,0:07:15.90,Default,Junpei,0,0,0,,Then what about my...
 Dialogue: 5,0:07:16.91,0:07:21.21,Default,Mahito,0,0,0,,I'm the only one in this world \Nwho understands the composition of souls.
 Dialogue: 5,0:07:22.67,0:07:24.59,Default,Mahito,0,0,0,,By making contact with their souls,
 Dialogue: 5,0:07:24.59,0:07:27.50,Default,Mahito,0,0,0,,I can even change the shape of other creatures.
-Dialogue: 5,0:07:27.50,0:07:32.41,Default,Mahito,0,0,0,,All emotions are the result of the soul's metabolism.
-Dialogue: 5,0:07:32.41,0:07:35.56,Default,Mahito,0,0,0,,They're far too mechanical to be called hearts.
-Dialogue: 5,0:07:36.32,0:07:40.79,Default,Mahito,0,0,0,,People place too much value on things they can't see.
+Dialogue: 5,0:07:27.50,0:07:32.47,Default,Mahito,0,0,0,,All emotions are the result of the soul's metabolism.
+Dialogue: 5,0:07:32.47,0:07:35.56,Default,Mahito,0,0,0,,They're far too mechanical to be called hearts.
+Dialogue: 5,0:07:36.48,0:07:40.79,Default,Mahito,0,0,0,,People place too much value on things they can't see.
 Dialogue: 5,0:07:40.79,0:07:42.48,Default,Mahito,0,0,0,,I can see the soul.
 Dialogue: 5,0:07:42.48,0:07:46.70,Default,Mahito,0,0,0,,{\fade(0,300)}So it's nothing special for me, just like physical bodies.
-Dialogue: 5,0:07:48.72,0:07:50.75,Default,Mahito,0,0,0,,It just exists.
+Dialogue: 5,0:07:48.72,0:07:50.75,Default,Mahito,0,0,0,,It's just there.
 Dialogue: 5,0:07:51.45,0:07:52.46,Default,Mahito,0,0,0,,Do you get it?
 Dialogue: 5,0:07:52.46,0:07:55.65,Default,Mahito,0,0,0,,Life has no weight or value in particular.
 Dialogue: 5,0:07:55.65,0:07:58.42,Default,Mahito,0,0,0,,It just continues to flow in its cycle,
@@ -144,7 +144,7 @@ Dialogue: 5,0:09:16.44,0:09:18.33,Default,Yuji,0,0,0,,So what are we gonna do?
 Dialogue: 5,0:09:18.88,0:09:20.51,Default,Ijichi,0,0,0,,We'll use that.
 Dialogue: 5,0:09:20.51,0:09:22.58,Default,Yuji,0,0,0,,Huh? Is that a cursed spirit?
 Dialogue: 5,0:09:23.73,0:09:25.04,Default,Ijichi,0,0,0,,It's a fly head.
-Dialogue: 5,0:09:25.04,0:09:27.84,Default,Ijichi,0,0,0,,A low-level curse that doesn't even qualify as grade 4.
+Dialogue: 5,0:09:25.04,0:09:27.84,Default,Ijichi,0,0,0,,A low-level curse that doesn't \Neven qualify as fourth-grade.
 Dialogue: 5,0:09:29.31,0:09:33.18,Default,Ijichi,0,0,0,,When there's no one around, we'll have it attack him.
 Dialogue: 5,0:09:33.18,0:09:34.08,Default,Yuji,0,0,0,,Attack?!
 Dialogue: 5,0:09:34.48,0:09:38.01,Default,Ijichi,0,0,0,,One: if he's a normal person who can't perceive curses,
@@ -156,26 +156,26 @@ Dialogue: 5,0:09:53.28,0:09:56.70,Default,Ijichi,0,0,0,,Three: if he exorcises t
 Dialogue: 5,0:09:58.15,0:09:59.88,Default,Ijichi,0,0,0,,we'll restrain him immediately.
 Dialogue: 5,0:10:00.10,0:10:01.48,Default,Yuji,0,0,0,,By force?
 Dialogue: 5,0:10:01.48,0:10:02.99,Default,Ijichi,0,0,0,,Yes, by force.
-Dialogue: 5,0:10:03.43,0:10:05.25,Default,Ijichi,0,0,0,,It's fine if it's a misunderstanding.
-Dialogue: 5,0:10:05.25,0:10:06.75,Default,Ijichi,0,0,0,,We can apologize later.
+Dialogue: 5,0:10:03.43,0:10:06.75,Default,Ijichi,0,0,0,,It's fine if it turns out to be a\N misunderstanding. We can apologize later.
 Dialogue: 5,0:10:07.16,0:10:08.23,Default,Ijichi,0,0,0,,However...
-Dialogue: 5,0:10:08.80,0:10:14.09,Default,Ijichi,0,0,0,,Four: if he seems to be at a grade 2 sorcerer's skill or higher,
-Dialogue: 5,0:10:14.45,0:10:17.31,Default,Ijichi,0,0,0,,we'll retreat and meet back up with Nanami{**-san}.
-Dialogue: 5,0:10:18.13,0:10:21.76,Default,Yuji,0,0,0,,I think I can just barely handle a grade 2.
+Dialogue: 5,0:10:08.80,0:10:14.09,Default,Ijichi,0,0,0,,Four: if he's potentially as strong as a grade 2 sorcerer,
+Dialogue: 5,0:10:14.45,0:10:17.31,Default,Ijichi,0,0,0,,we'll retreat and meet back up with {*}Mr. Nanami{*Nanami-san}.
+Dialogue: 5,0:10:18.22,0:10:21.76,Default,Yuji,0,0,0,,I think I can just barely handle a second-grade.
 Dialogue: 5,0:10:21.76,0:10:23.39,Default,Ijichi,0,0,0,,If he were a cursed spirit, perhaps.
 Dialogue: 5,0:10:23.39,0:10:24.07,Default,,0,0,0,,Huh?
 Dialogue: 5,0:10:25.14,0:10:28.24,Default,Ijichi,0,0,0,,Fushiguro{**-kun} mentioned it before, remember?
 Dialogue: 5,0:10:28.24,0:10:32.57,Default,Ijichi,0,0,0,,Typically, cursed spirits are assigned to sorcerers of equal grade.
-Dialogue: 5,0:10:33.74,0:10:38.55,Default,Ijichi,0,0,0,,A grade 2 sorcerer is expected to beat grade 2 spirits.
-Dialogue: 5,0:10:38.55,0:10:42.52,Default,Ijichi,0,0,0,,They're actually closer to the level of a grade 1 curse.
+Dialogue: 5,0:10:33.78,0:10:34.78,Default,Ijichi,0,0,0,,{\fade(100,0)}In other words,
+Dialogue: 5,0:10:34.78,0:10:38.55,Default,Ijichi,0,0,0,,a grade 2 sorcerer is expected to beat grade 2 curses,
+Dialogue: 5,0:10:38.55,0:10:42.79,Default,Ijichi,0,0,0,,{\fade(0,120)}but they're actually closer to the level of a grade 1 curse.
 Dialogue: 5,0:10:44.50,0:10:48.08,Default,Yuji,0,0,0,,Why haven't I been filled in \Nabout important details like that?
-Dialogue: 5,0:10:48.08,0:10:50.06,Default,Ijichi,0,0,0,,{\i1}Because Gojo{**-san} is so irresponsible.
+Dialogue: 5,0:10:48.08,0:10:50.06,Default,Ijichi,0,0,0,,{\i1}Because {*}Mr. Gojo{*Gojo-san} is so irresponsible.
 Dialogue: 5,0:10:53.55,0:10:55.76,Default,Ijichi,0,0,0,,We're walking from here.
 Dialogue: 5,0:10:59.35,0:11:02.88,Default,Yuji,0,0,0,,Feels like I'm doing all the work, and I'm really not into it.
 Dialogue: 5,0:11:12.07,0:11:15.07,Default,Nanami,0,0,0,,If you plan to come out, please hurry up and do so.
 Dialogue: 5,0:11:17.06,0:11:19.66,Default,Nanami,0,0,0,,They may be disfigured and beyond saving,
 Dialogue: 5,0:11:19.66,0:11:22.44,Default,Nanami,0,0,0,,but murdering people makes me sick.
-Dialogue: 5,0:11:25.21,0:11:28.49,Default,Mahito,0,0,0,,Ah, what a relief.
+Dialogue: 5,0:11:25.42,0:11:28.49,Default,Mahito,0,0,0,,Ah, what a relief.
 Dialogue: 5,0:11:29.31,0:11:32.08,Default,Mahito,0,0,0,,I'd be in trouble if Gojo Satoru were here,
 Dialogue: 5,0:11:32.88,0:11:36.19,Default,Mahito,0,0,0,,but someone too weak \Nwouldn't be worth experimenting on either.
 Dialogue: 5,0:11:38.16,0:11:40.76,Default,Nanami,0,0,0,,I hate working overtime.
@@ -199,7 +199,7 @@ Dialogue: 5,0:13:03.64,0:13:05.83,Default,Mahito,0,0,0,,Hey, tell me.
 Dialogue: 5,0:13:05.83,0:13:09.27,Default,Mahito,0,0,0,,Which do you think came first, the soul or the body?
 Dialogue: 5,0:13:10.29,0:13:11.71,Default,Mahito,0,0,0,,Come on, you know,{might even be better as "Come on. You know,"}
 Dialogue: 5,0:13:12.23,0:13:16.86,Default,Mahito,0,0,0,,like the chicken or the egg.
-Dialogue: 5,0:13:18.66,0:13:21.40,Default,Mahito,0,0,0,,Does the soul reside in the body?
+Dialogue: 5,0:13:18.66,0:13:21.40,Default,Mahito,0,0,0,,Does the soul reside within the body?
 Dialogue: 5,0:13:21.40,0:13:25.45,Default,Mahito,0,0,0,,Or is the body built around the soul?
 Dialogue: 5,0:13:26.75,0:13:29.45,Default,Nanami,0,0,0,,{\i1}I'll humor him, I guess.
 Dialogue: 5,0:13:30.72,0:13:31.89,Default,Nanami,0,0,0,,The former.
@@ -235,7 +235,7 @@ Dialogue: 5,0:15:15.44,0:15:17.28,Default,Junpei,0,0,0,,{\i1}He's insane.
 Dialogue: 5,0:15:16.69,0:15:17.28,Default,Sotomura,0,0,0,,{\an8}Come on.
 Dialogue: 5,0:15:18.66,0:15:20.33,Default,Junpei,0,0,0,,You teachers...
 Dialogue: 5,0:15:20.33,0:15:23.71,Default,Junpei,0,0,0,,You graduate from school, and go work at schools.
-Dialogue: 5,0:15:23.71,0:15:28.92,Default,Junpei,0,0,0,,You haven't experienced the real world, have you?
+Dialogue: 5,0:15:23.71,0:15:28.92,Default,Junpei,0,0,0,,You've never experienced the real world, have you?
 Dialogue: 5,0:15:29.49,0:15:34.97,Default,Junpei,0,0,0,,That's how we end up \Nwith overgrown children like you, isn't it?
 Dialogue: 5,0:15:35.75,0:15:37.86,Default,Sayama,0,0,0,,{\fade(500,0)}Here, say "ahh."
 Dialogue: 5,0:15:38.60,0:15:41.63,Default,Junpei,0,0,0,,You, and everyone else.
@@ -243,10 +243,10 @@ Dialogue: 5,0:15:41.00,0:15:42.32,Default,Nishimura,0,0,0,,{\an8}Look over here!
 Dialogue: 5,0:15:44.43,0:15:47.88,Default,Mahito,0,0,0,,I support everything you represent.
 Dialogue: 5,0:15:50.92,0:15:53.43,Default,Sotomura,0,0,0,,What are you mumbling about?
 Dialogue: 5,0:15:53.43,0:15:56.63,Default,Sotomura,0,0,0,,Spending too much time alone got you crazy? Just kidding.
-Dialogue: 5,0:16:03.19,0:16:05.55,Default,Yuji,0,0,0,,Stop!
+Dialogue: 5,0:16:03.36,0:16:05.55,Default,Yuji,0,0,0,,Stop!
 Dialogue: 5,0:16:08.18,0:16:09.87,Default,Yuji,0,0,0,,{\i1}Oh, this guy...
 Dialogue: 5,0:16:10.99,0:16:12.20,Default,Yuji,0,0,0,,{\i1}can see it.
-Dialogue: 5,0:16:14.62,0:16:15.79,Default,Yuji,0,0,0,,Ow!
+Dialogue: 5,0:16:14.79,0:16:15.46,Default,Yuji,0,0,0,,Ow!
 Dialogue: 5,0:16:17.62,0:16:20.05,Default,Yuji,0,0,0,,Damn, that hurt!
 Dialogue: 5,0:16:20.81,0:16:21.83,Default,Yuji,0,0,0,,{\i1}Glance.
 Dialogue: 5,0:16:22.81,0:16:24.48,Default,Ijichi,0,0,0,,Here we go, Itadori{**-kun}!
@@ -265,7 +265,7 @@ Dialogue: 5,0:16:48.06,0:16:51.80,Default,Yuji,0,0,0,,Uh, well, it's kinda impor
 Dialogue: 5,0:16:51.80,0:16:54.82,Default,Sotomura,0,0,0,,Important? What would a kid like you know?!
 Dialogue: 5,0:16:54.82,0:16:56.26,Default,Sotomura,0,0,0,,And what uniform is tha—
 Dialogue: 5,0:16:56.26,0:16:57.19,Default,Yuji,0,0,0,,Plop!
-Dialogue: 5,0:17:01.17,0:17:03.21,Default,Sotomura,0,0,0,,What are you doing, you little jerk?!
+Dialogue: 5,0:17:01.17,0:17:03.21,Default,Sotomura,0,0,0,,What are you doing, you little shit?!
 Dialogue: 5,0:17:03.21,0:17:05.39,Default,Sotomura,0,0,0,,Stop! Stop this!
 Dialogue: 5,0:17:05.81,0:17:08.34,Default,Sotomura,0,0,0,,Don't run off with them!
 Dialogue: 5,0:17:11.84,0:17:13.35,Default,Sotomura,0,0,0,,Come back!
@@ -306,7 +306,7 @@ Dialogue: 5,0:19:20.38,0:19:23.88,Default,Nanami,0,0,0,,It's my policy not to br
 Dialogue: 5,0:19:25.57,0:19:27.07,Default,Mahito,0,0,0,,You suck at lying!
 Dialogue: 5,0:19:27.07,0:19:29.47,Default,Mahito,0,0,0,,Your soul is trembling.
 Dialogue: 5,0:19:29.82,0:19:32.78,Default,Mahito,0,0,0,,So, what grade are you?
-Dialogue: 5,0:19:32.78,0:19:34.15,Default,Nanami,0,0,0,,Grade 1.
+Dialogue: 5,0:19:32.78,0:19:34.15,Default,Nanami,0,0,0,,First-grade.
 Dialogue: 5,0:19:34.15,0:19:36.20,Default,Mahito,0,0,0,,No wonder you're strong.
 Dialogue: 5,0:19:36.61,0:19:39.04,Default,Mahito,0,0,0,,Perfect for experimentation.
 Dialogue: 5,0:19:39.69,0:19:41.42,Default,Mahito,0,0,0,,Luck's really on my side.
@@ -318,10 +318,10 @@ Dialogue: 5,0:20:01.31,0:20:04.17,Default,Mahito,0,0,0,,but they can't protect t
 Dialogue: 5,0:20:04.17,0:20:07.33,Default,Mahito,0,0,0,,First off, you have to acknowledge your own soul.
 Dialogue: 5,0:20:07.33,0:20:09.48,Default,Mahito,0,0,0,,It's impossible otherwise.
 Dialogue: 5,0:20:10.02,0:20:14.94,Default,Mahito,0,0,0,,Although, it seems like you're subconsciously \Nprotecting your soul with cursed energy.
-Dialogue: 5,0:20:14.94,0:20:18.49,Default,Mahito,0,0,0,,If you hadn't been{hadn't been (protecting).}, you'd already be under my control.
-Dialogue: 5,0:20:18.87,0:20:23.46,Default,Mahito,0,0,0,,Well, after two or three more times, \Nyou'll no longer be human.
+Dialogue: 5,0:20:14.94,0:20:18.49,Default,Mahito,0,0,0,,If you weren't, you'd already be under my control.
+Dialogue: 5,0:20:18.87,0:20:23.46,Default,Mahito,0,0,0,,Well, after a few more attempts, you'll no longer be human.
 Dialogue: 5,0:20:32.64,0:20:34.10,Default,Mahito,0,0,0,,You're not getting away!
-Dialogue: 5,0:20:48.41,0:20:51.50,Default,Mahito,0,0,0,,Was that it, grade 1 sorcerer?
+Dialogue: 5,0:20:48.41,0:20:51.50,Default,Mahito,0,0,0,,Was that it, first-grade sorcerer?
 Dialogue: 5,0:20:51.50,0:20:53.36,Default,Mahito,0,0,0,,You did a lot of running.
 Dialogue: 5,0:20:53.36,0:20:55.05,Default,Mahito,0,0,0,,Aren't you at your limit?
 Dialogue: 5,0:21:02.10,0:21:03.99,Default,Nanami,0,0,0,,How unfortunate.
@@ -330,9 +330,10 @@ Dialogue: 5,0:21:07.74,0:21:10.19,Default,Mahito,0,0,0,,{\i1}His cursed energy's
 Dialogue: 5,0:21:10.57,0:21:14.41,Default,Nanami,0,0,0,,I'm going into overtime now.
 Comment: 5,0:21:14.96,0:21:15.00,Default,chptr,0,0,0,,{Ending}
 Comment: 5,0:22:45.01,0:22:45.05,Default,chptr,0,0,0,,{Juju Stroll}
+Dialogue: 5,0:22:45.47,0:22:47.56,Default,,0,0,0,,Juju Stroll.
 Dialogue: 5,0:22:48.22,0:22:49.56,Default,Kugisaki,0,0,0,,Fushiguro!
 Dialogue: 5,0:22:50.02,0:22:51.78,Default,Kugisaki,0,0,0,,Have you seen my jacket?
-Dialogue: 5,0:22:51.78,0:22:52.98,Default,Fushiguro,0,0,0,,No, I haven't.
+Dialogue: 5,0:22:51.78,0:22:52.98,Default,Fushiguro,0,0,0,,Nope, I haven't.
 Dialogue: 5,0:22:52.98,0:22:56.82,Default,Kugisaki,0,0,0,,That's weird. I left it right here.
 Dialogue: 5,0:22:57.40,0:23:00.82,Default,Kugisaki,0,0,0,,Oh, Panda{**-senpai}. Have you seen my jacket?
 Dialogue: 5,0:23:02.74,0:23:04.91,Default,Panda,0,0,0,,Can't say I have.
@@ -341,7 +342,7 @@ Dialogue: 5,0:23:07.10,0:23:09.36,Default,Kugisaki,0,0,0,,I wonder where it coul
 Dialogue: 5,0:23:13.92,0:23:16.50,Default,Kugisaki,0,0,0,,Hey, my skirt ain't here either.
 Dialogue: 5,0:23:16.50,0:23:19.06,Default,Kugisaki,0,0,0,,That's a line that can't be crossed.
 Dialogue: 5,0:23:21.55,0:23:22.59,Default,Toge,0,0,0,,Mustard leaf!
-Dialogue: 5,0:23:23.26,0:23:24.34,Default,Toge,0,0,0,,Bonito—
+Dialogue: 5,0:23:23.26,0:23:24.34,Default,Toge,0,0,0,,Bonito Fla—
 Dialogue: 5,0:23:26.88,0:23:28.79,Default,Kugisaki,0,0,0,,Jeez, you're both trash.
 Dialogue: 5,0:23:29.81,0:23:31.47,Default,Fushiguro,0,0,0,,This image is crazy.
 Dialogue: 5,0:23:32.64,0:23:33.49,Default,Kugisaki,0,0,0,,Huh?
