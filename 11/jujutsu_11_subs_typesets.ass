@@ -20,10 +20,9 @@ Audio File: jujutsu_11.mkv
 Video File: jujutsu_11.mkv
 Keyframes File: jujutsu_11_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 90
-Active Line: 93
-Video Position: 14034
+Video Zoom Percent: 0.750000
+Active Line: 6
+Video Position: 7868
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,12 +33,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:07:53.07,0:07:53.53,Signs,Flash,0,0,0,,{\fad(225,225)\an8\fnArial\b1\c&H140F10&\3c&HF5F5F3&\4c&H22271E&\bord4\shad3}Cramp
 Comment: 0,0:07:54.45,0:07:56.95,Signs,Screen,0,0,0,,{\fad(524,1)\an5\pos(88,126.667)\b1\fscy80\c&H202121&\bord1\3c&HF0F1EE&\shad1}Rumble
 Dialogue: 0,0:03:48.49,0:03:55.05,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\pos(1512,885)\c&HE6E7E7&}Episode 11: {\fs70}Narrow-minded
-Dialogue: 0,0:04:15.65,0:04:19.61,Signs,,0,0,0,,{\blur16\an5\pos(901.915,280.59)\1c&H090709&\p1}m 0 70 l 18 150 315.33 84 290.66 0 0 70
+Dialogue: 0,0:04:15.65,0:04:19.61,Signs,,0,0,0,,{\blur5\an5\pos(901.915,280.59)\1c&H090709&\p1}m 0 70 l 18 150 315.33 84 290.66 0 0 70
 Dialogue: 0,0:04:15.65,0:04:19.61,Signs,Screen,0,0,0,,{\blur5\fnCabin\fs40\b\bord0\shad0\c&HBCBDC4&\frz11.79\pos(905.333,281.333)\fax0\1a&HBC&}Ijichi Kiyotaka
 Dialogue: 0,0:04:15.65,0:04:19.61,Signs,Screen,0,0,0,,{\blur0.8\fnCabin\fs40\b\bord0\shad0\c&HBCBDC4&\frz11.79\pos(905.333,281.333)\fax0}Ijichi Kiyotaka
-Dialogue: 0,0:05:28.14,0:05:29.97,Signs,Poster,0,0,0,,{\fnLino Stamp\fs74\be2\c&H39359E&\shad0\bord0\blur1.2\frz16.59\fscx105\fscy105\fax0.01\pos(831.333,98)}.\NHuman Earthworm 3
-Dialogue: 0,0:05:29.97,0:05:31.64,Signs,Poster,0,0,0,,{\iclip(m 654.44 279.03 l 894 252.6 1077.81 128.88 b 1053.29 95.02 1075.04 47.34 1075.04 47.34 1071.28 42.48 1029.94 78.44 1026.21 111.83 1025.81 115.32 986.51 75.87 969.93 19.82 968.59 15.32 950.08 61.39 957.32 101.32 957.32 101.32 941.9 84.74 929.76 46.91 927.65 40.33 920.65 70.97 925.79 104.83 926 106.2 915.5 96.51 902.73 80.74 887.6 62.04 869.75 34.3 861.81 13.87 860.61 13.46 858.87 11.19 857.6 15.62 852.05 34.93 841.49 80.77 848.03 116.04 848.4 118.07 829.36 112.42 808.56 94.79 783.79 73.78 755.55 32.6 752.05 10.72 750.18 -0.96 709.78 78.44 736.64 132.38 737.28 133.67 722.52 133.06 710.02 134.18 705.1 134.63 688.1 133.17 680.36 131.68 634.22 122.81 628.03 109.5 624.55 110.66 622.59 111.32 622.38 129.16 632.18 149.59 639.93 165.74 662.15 187.49 678.26 195.67 679.8 196.45 654.21 215.28 636.46 220.19 603.06 229.41 565.11 227.89 565.23 232.1 565.47 239.8 610.54 276 654.44 279.03)\fnLino Stamp\fs74\be2\c&H39359E&\shad0\bord0\blur1.2\frz16.59\fscx105\fscy105\fax0.01\pos(831.333,98)}.\NHuman Earthworm 3
-Dialogue: 0,0:05:31.64,0:05:31.68,Signs,Poster,0,0,0,,{\iclip(m 648 275 l 894 253 1080 124 b 1059 105 1073 34 1073 34 1069 29 1043 61 1027 106 1026 109 983 68 967 8 966 3 948 49 951 92 951 92 931 68 918 30 916 24 913 71 918 95 918 97 900 82 883 59 869 39 856 22 848 2 847 2 845 -1 844 4 838 23 829 77 835 112 836 114 808 101 787 77 767 54 750 36 736 5 731 -6 703 97 730 131 731 132 723 131 710 132 705 133 685 132 677 130 631 121 620 106 617 107 615 108 612 121 626 151 634 167 652 186 668 195 669 195 649 206 631 211 598 220 560 218 560 223 560 231 594 263 648 275)\fnLino Stamp\fs74\be2\c&H39359E&\shad0\bord0\blur1.2\frz16.59\fscx105\fscy105\fax0.01\pos(831.33,98)}.\NHuman Earthworm 3
+Dialogue: 0,0:05:28.14,0:05:29.97,Signs,Poster,0,0,0,,{\fnLino Stamp\fs74\be2\c&H26279A&\shad0\bord0\blur1.2\frz16.59\fscx105\fscy105\fax0.01\pos(831.333,98)}.\NHuman Earthworm 3
+Dialogue: 0,0:05:29.97,0:05:31.64,Signs,Poster,0,0,0,,{\iclip(m 654.44 279.03 l 894 252.6 1077.81 128.88 b 1053.29 95.02 1075.04 47.34 1075.04 47.34 1071.28 42.48 1029.94 78.44 1026.21 111.83 1025.81 115.32 986.51 75.87 969.93 19.82 968.59 15.32 950.08 61.39 957.32 101.32 957.32 101.32 941.9 84.74 929.76 46.91 927.65 40.33 920.65 70.97 925.79 104.83 926 106.2 915.5 96.51 902.73 80.74 887.6 62.04 869.75 34.3 861.81 13.87 860.61 13.46 858.87 11.19 857.6 15.62 852.05 34.93 841.49 80.77 848.03 116.04 848.4 118.07 829.36 112.42 808.56 94.79 783.79 73.78 755.55 32.6 752.05 10.72 750.18 -0.96 709.78 78.44 736.64 132.38 737.28 133.67 722.52 133.06 710.02 134.18 705.1 134.63 688.1 133.17 680.36 131.68 634.22 122.81 628.03 109.5 624.55 110.66 622.59 111.32 622.38 129.16 632.18 149.59 639.93 165.74 662.15 187.49 678.26 195.67 679.8 196.45 654.21 215.28 636.46 220.19 603.06 229.41 565.11 227.89 565.23 232.1 565.47 239.8 610.54 276 654.44 279.03)\fnLino Stamp\fs74\be2\c&H26279A&\shad0\bord0\blur1.2\frz16.59\fscx105\fscy105\fax0.01\pos(831.333,98)}.\NHuman Earthworm 3
+Dialogue: 0,0:05:31.64,0:05:31.68,Signs,Poster,0,0,0,,{\iclip(m 648 275 l 894 253 1080 124 b 1059 105 1073 34 1073 34 1069 29 1043 61 1027 106 1026 109 983 68 967 8 966 3 948 49 951 92 951 92 931 68 918 30 916 24 913 71 918 95 918 97 900 82 883 59 869 39 856 22 848 2 847 2 845 -1 844 4 838 23 829 77 835 112 836 114 808 101 787 77 767 54 750 36 736 5 731 -6 703 97 730 131 731 132 723 131 710 132 705 133 685 132 677 130 631 121 620 106 617 107 615 108 612 121 626 151 634 167 652 186 668 195 669 195 649 206 631 211 598 220 560 218 560 223 560 231 594 263 648 275)\fnLino Stamp\fs74\be2\c&H26279A&\shad0\bord0\blur1.2\frz16.59\fscx105\fscy105\fax0.01\pos(831.33,98)}.\NHuman Earthworm 3
 Dialogue: 0,0:05:31.68,0:05:31.72,Signs,Poster,0,0,0,,{\iclip(m 558 337 l 781 317 950 201 b 931 184 943 119 943 119 940 114 916 144 902 184 901 187 862 150 847 95 846 91 830 133 832 171 832 171 814 150 803 116 801 110 798 152 803 174 803 176 787 163 771 141 758 124 747 108 739 90 738 90 737 88 736 92 731 109 722 158 728 190 728 192 703 180 684 158 666 137 650 121 637 93 635 87 614 156 632 207 633 208 626 207 615 208 610 208 591 208 584 206 542 198 533 184 530 185 528 186 526 198 539 225 546 240 561 257 576 264 577 265 559 275 543 279 512 288 478 285 478 291 478 298 509 326 558 337)\fnLino Stamp\fs74\be2\c&H252897&\shad0\bord0\blur1.2\frz17.06\fscx98.58\fscy98.58\fax0.01\pos(755.17,58.45)}.\NHuman Earthworm 3
 Dialogue: 0,0:05:31.72,0:05:31.76,Signs,Poster,0,0,0,,{\fnLino Stamp\fs74\be2\c&H252897&\shad0\bord0\frz17.52\fscx91.39\fscy91.39\fax0.01\pos(691.18,29.08)}.\NHuman Earthworm 3
 Dialogue: 0,0:05:31.76,0:05:31.81,Signs,Poster,0,0,0,,{\fnLino Stamp\fs74\be2\c&H252897&\shad0\bord0\frz17.86\fscx84.95\fscy84.95\fax0.01\pos(641.31,-1.92)}.\NHuman Earthworm 3
@@ -124,12 +123,12 @@ Dialogue: 1,0:15:09.22,0:15:09.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\
 Dialogue: 1,0:15:09.26,0:15:09.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs80\be0\pos(960,600)}After the Satozakura High School Incident
 Dialogue: 1,0:15:09.31,0:15:09.35,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs80\be0\pos(960,600)}After the Satozakura High School Incident
 Dialogue: 1,0:15:09.35,0:15:11.47,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs80\be0\pos(960,600)}After the Satozakura High School Incident
-Dialogue: 0,0:09:45.31,0:09:50.31,Signs,Phone,0,0,0,,{\fnCabin\fs40\bord0\blur1\shad0\c&HDDEDFF&\frz-3.41\fax0\fscx112\fscy112\pos(925.44,325.89)}Nanami Kento
-Dialogue: 0,0:09:45.31,0:09:50.31,Signs,Phone,0,0,0,,{\fnCabin\fs40\bord0\blur3\shad0\c&HDDEDFF&\frz-3.41\fax0\fscx112\fscy112\1a&H7B&\pos(925.44,325.89)}Nanami Kento
+Dialogue: 1,0:09:45.31,0:09:50.31,Signs,Phone,0,0,0,,{\fnCabin\fs40\bord0\blur0.85\shad0\c&HDDEDFF&\frz-3.41\fax0\fscx112\fscy112\pos(925.44,325.89)}Nanami Kento
+Dialogue: 0,0:09:45.31,0:09:50.31,Signs,Phone,0,0,0,,{\fnCabin\fs40\bord0\blur5\shad0\c&HDDEDFF&\frz-3.41\fax0\fscx112\fscy112\1a&H7B&\pos(925.44,325.89)}Nanami Kento
 Dialogue: 0,0:23:29.92,0:23:31.18,Signs,Screen,0,0,0,,{\fnBrush Strokes\b1\be1\fs110\c&H000101&\pos(1358.4,246)}Juju Stroll
 Dialogue: 0,0:23:43.19,0:23:44.94,Signs,,0,0,0,,{\an5\pos(970.32,556.32)\1c&H000000&\p1}m 2061.2 1221.12 l 0 1221.12 0 0 2061.2 0 2061.2 1221.12
 Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an5\b1\blur14\bord0\shad0\c&HF5F5F5&\fs55\fscx182\fscy182\1a&HD9&\pos(954.67,394)}Next Episode
-Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an5\b1\blur1.5\bord0\shad0\fs55\c&HF5F5F5&\fscx182\fscy182\pos(954.67,394)}Next Episode
+Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an5\b1\blur1\bord0\shad0\fs55\c&HF5F5F5&\fscx182\fscy182\pos(954.67,394)}Next Episode
 Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an5\b1\fs120\blur14\bord0\shad0\c&HF5F5F5&\fscx152\fscy152\1a&HD9&\pos(962,596.66)}Bloody Autumn Leaf  Viewing
-Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an5\b1\fs120\blur1.5\bord0\shad0\c&HF5F5F5&\fscx152\fscy152\pos(962,596.66)}Bloody Autumn Leaf  Viewing
+Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an5\b1\fs120\blur1\bord0\shad0\c&HF5F5F5&\fscx152\fscy152\pos(962,596.66)}Bloody Autumn Leaf  Viewing
 Dialogue: 0,0:23:51.49,0:23:54.95,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0)\fad(500,0)\fscy112\fscx112\t(26,3340,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 12{\fs70}\NTo You, Someday {2000 years from now}
