@@ -16,14 +16,15 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: [Kaizoku] Jujutsu Kaisen - 12 [62B3BA0C].mkv
-Video File: [Kaizoku] Jujutsu Kaisen - 12 [62B3BA0C].mkv
+Audio File: jujutsu_12.mkv
+Video File: jujutsu_12.mkv
+Keyframes File: jujutsu_12_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 216
-Active Line: 232
-Video Position: 30086
+Scroll Position: 231
+Active Line: 236
+Video Position: 30527
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,26 +34,26 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 5,0:00:09.43,0:00:12.24,Default,Yuji,0,0,0,,I'm going, Nanami.{hm i did 3 replaces of this kind. now im questioning myself.}
+Dialogue: 5,0:00:09.43,0:00:12.24,Default,Yuji,0,0,0,,I'm going, Nanamin.{hm i did 3 replaces of this kind. now im questioning myself.}
 Dialogue: 5,0:00:12.79,0:00:13.75,Default,Nanami,0,0,0,,You can't.
 Dialogue: 5,0:00:14.15,0:00:16.86,Default,Nanami,0,0,0,,I already explained why this morning.
 Dialogue: 5,0:00:18.10,0:00:20.45,Default,Nanami,0,0,0,,If a veil has been cast,
-Dialogue: 5,0:00:20.45,0:00:25.20,Default,Nanami,0,0,0,,there's a strong likelihood he's both alive and at Satozakura High School.
-Dialogue: 5,0:00:28.47,0:00:30.23,Default,Nanami,0,0,0,,I'll be back soon.
-Dialogue: 5,0:00:30.23,0:00:32.98,Default,Nanami,0,0,0,,Please wait there, Itadori{**-kun}.
-Dialogue: 5,0:00:35.86,0:00:37.93,Default,Nanami,0,0,0,,{\i1}It's probably pointless to ask that of him.{or "ask him to do that"}
+Dialogue: 5,0:00:20.45,0:00:25.20,Default,Nanami,0,0,0,,there's a strong possibility that \Nhe's alive and at Satozakura High School.
+Dialogue: 5,0:00:28.55,0:00:30.34,Default,Nanami,0,0,0,,I'll be back soon.
+Dialogue: 5,0:00:30.34,0:00:32.98,Default,Nanami,0,0,0,,Please wait there, Itadori{**-kun}.
+Dialogue: 5,0:00:35.93,0:00:37.93,Default,Nanami,0,0,0,,{\i1}It was probably pointless to ask.
 Dialogue: 5,0:00:39.93,0:00:43.47,Default,Nanami,0,0,0,,You heard why, so I'll leave the rest of this to you, Ino{**-kun}.
 Dialogue: 5,0:00:43.47,0:00:44.43,Default,Ino,0,0,0,,Huh?!
-Dialogue: 5,0:00:45.58,0:00:47.15,Default,Nanami,0,0,0,,Is there a problem with that?
-Dialogue: 5,0:00:47.60,0:00:49.78,Default,Ino,0,0,0,,Well, the number of them...
+Dialogue: 5,0:00:45.61,0:00:47.15,Default,Nanami,0,0,0,,Is there a problem with that?
+Dialogue: 5,0:00:47.60,0:00:49.78,Default,Ino,0,0,0,,Well, the count of them...
 Dialogue: 5,0:00:51.49,0:00:52.91,Default,Ino,0,0,0,,There's a lot.
 Dialogue: 5,0:00:53.49,0:00:55.49,Default,Ino,0,0,0,,And they're all humans, right?
-Dialogue: 5,0:00:55.95,0:01:00.62,Default,Nanami,0,0,0,,I wouldn't mind approving your Grade 1 recommendation.
-Dialogue: 5,0:01:04.71,0:01:09.72,Default,Ino,0,0,0,,Let's get this done, baby! Yeah!{seems perfectly fine without the "Yeah!"}
+Dialogue: 5,0:00:55.95,0:01:00.62,Default,Nanami,0,0,0,,I wouldn't mind approving \Nyour first-grade recommendation.
+Dialogue: 5,0:01:04.84,0:01:09.72,Default,Ino,0,0,0,,Hell yeah! Let's get this done, baby!
 Dialogue: 5,0:01:12.69,0:01:14.55,Default,Yuji,0,0,0,,Please step aside, {*}Mr. Ijichi{*Ijichi-san}.
-Dialogue: 5,0:01:16.06,0:01:18.95,Default,Ijichi,0,0,0,,Our job is to help others.
-Dialogue: 5,0:01:18.95,0:01:22.68,Default,Ijichi,0,0,0,,That includes students like yourself.
-Dialogue: 5,0:01:24.65,0:01:27.23,Default,Ijichi,0,0,0,,{\i1}I won't make any more mistakes.
+Dialogue: 5,0:01:16.06,0:01:19.06,Default,Ijichi,0,0,0,,Our job is to help others.
+Dialogue: 5,0:01:19.06,0:01:22.68,Default,Ijichi,0,0,0,,That includes students like yourself.
+Dialogue: 5,0:01:24.69,0:01:27.40,Default,Ijichi,0,0,0,,{\i1}I won't make the same mistake again.
 Dialogue: 5,0:01:29.46,0:01:32.32,Default,Ijichi,0,0,0,,You must not go, Itadori{**-kun}.{"mustn't" feels better lel. Draws attention to the negating word.}
 Dialogue: 5,0:01:35.53,0:01:37.72,Default,Yuji,0,0,0,,{\i1}Sorry, {*}Mr. Ijichi{*Ijichi-san}.
 Dialogue: 5,0:01:45.76,0:01:48.56,Default,Yuji,0,0,0,,What are you doing, Junpei?!
@@ -60,30 +61,30 @@ Dialogue: 5,0:01:51.92,0:01:54.58,Default,Junpei,0,0,0,,Stay out of this, jujuts
 Comment: 5,0:01:56.97,0:01:57.01,Default,chptr,0,0,0,,{Opening}
 Comment: 5,0:03:26.97,0:03:27.01,Default,chptr,0,0,0,,{Part A}
 Dialogue: 5,0:03:36.16,0:03:36.86,Default,Junpei,0,0,0,,Moon Dregs!
-Dialogue: 5,0:03:43.70,0:03:45.68,Default,Yuji,0,0,0,,{\i1}A jellyfish shikigami?
-Dialogue: 5,0:03:45.68,0:03:48.71,Default,Yuji,0,0,0,,{\i1}Blunt attacks won't work when he's inside it?
-Dialogue: 5,0:03:50.11,0:03:51.65,Default,Junpei,0,0,0,,Don't make me repeat myself.
-Dialogue: 5,0:03:51.65,0:03:53.64,Default,Junpei,0,0,0,,Stay out of this, jujutsu sorcerer!
+Dialogue: 5,0:03:43.70,0:03:45.75,Default,Yuji,0,0,0,,{\i1}A jellyfish shikigami?
+Dialogue: 5,0:03:45.75,0:03:48.71,Default,Yuji,0,0,0,,{\i1}Blunt attacks won't work when he's inside it?
+Dialogue: 5,0:03:50.11,0:03:51.75,Default,Junpei,0,0,0,,Don't make me repeat myself.
+Dialogue: 5,0:03:51.75,0:03:53.64,Default,Junpei,0,0,0,,Stay out of this, jujutsu sorcerer!
 Dialogue: 5,0:03:54.48,0:03:56.18,Default,Junpei,0,0,0,,It's none of your business!
 Dialogue: 5,0:03:56.71,0:03:59.19,Default,Yuji,0,0,0,,That's not something you get to decide!
 Dialogue: 5,0:03:59.78,0:04:03.82,Default,Junpei,0,0,0,,What's the point of thoughtlessly saving people?
-Dialogue: 5,0:04:05.60,0:04:09.18,Default,Junpei,0,0,0,,Don't mistake the value of a life!
-Dialogue: 5,0:04:13.25,0:04:16.13,Default,Junpei,0,0,0,,People pretend their emotions are everything,
-Dialogue: 5,0:04:16.13,0:04:19.85,Default,Junpei,0,0,0,,but the heart is just the metabolism of the soul.
-Dialogue: 5,0:04:19.85,0:04:21.07,Default,Junpei,0,0,0,,It's all a delusion!
+Dialogue: 5,0:04:05.60,0:04:09.18,Default,Junpei,0,0,0,,Don't mistake the value of life!
+Dialogue: 5,0:04:13.25,0:04:16.19,Default,Junpei,0,0,0,,People pretend their emotions are everything,
+Dialogue: 5,0:04:16.19,0:04:19.91,Default,Junpei,0,0,0,,but the heart is just the metabolism of the soul.
+Dialogue: 5,0:04:19.91,0:04:21.07,Default,Junpei,0,0,0,,It's all a delusion!
 Dialogue: 5,0:04:21.67,0:04:24.80,Default,Junpei,0,0,0,,I will not be restricted by such delusional rules.
 Dialogue: 5,0:04:25.75,0:04:29.93,Default,Junpei,0,0,0,,If someone deserves to die,\N no one has the right to stop it.
-Dialogue: 5,0:04:31.21,0:04:33.21,Default,Junpei,0,0,0,,So go{where?}{go ahead and*} take a nap.
+Dialogue: 5,0:04:31.21,0:04:33.21,Default,Junpei,0,0,0,,So go ahead and take a nap.
 Dialogue: 5,0:04:33.21,0:04:35.42,Default,Junpei,0,0,0,,There's something I need to take care of.
-Dialogue: 5,0:04:38.73,0:04:42.14,Default,Mahito,0,0,0,,Your cursed technique is poison.
+Dialogue: 5,0:04:38.76,0:04:42.14,Default,Mahito,0,0,0,,Your cursed technique is poison.
 Dialogue: 5,0:04:43.70,0:04:48.63,Default,Mahito,0,0,0,,Your shikigami can secrete poison \Ncreated by cursed energy from their tentacles.
 Dialogue: 5,0:04:48.63,0:04:54.57,Default,Mahito,0,0,0,,In time you'll learn to control their size, strength, and the potency of your poison.
 Dialogue: 5,0:04:55.28,0:05:00.45,Default,Mahito,0,0,0,,I can teach you the skills that take years for normal jujutsu sorcerers to learn,
 Dialogue: 5,0:05:00.45,0:05:02.62,Default,Mahito,0,0,0,,so you'll be able to fight right away.
-Dialogue: 5,0:05:03.70,0:05:06.16,Default,Mahito,0,0,0,,Junpei, you have talent.
-Dialogue: 5,0:05:09.46,0:05:11.95,Default,Yuji,0,0,0,,Who are you making excuses for?
+Dialogue: 5,0:05:03.78,0:05:06.16,Default,Mahito,0,0,0,,Junpei, you're talented.
+Dialogue: 5,0:05:09.46,0:05:11.95,Default,Yuji,0,0,0,,Who are you making those excuses for?
 Dialogue: 5,0:05:32.92,0:05:33.74,Default,Junpei,0,0,0,,{\i1}Why?
-Dialogue: 5,0:05:34.30,0:05:36.12,Default,Junpei,0,0,0,,{\i1}Why won't Moon Dregs' poison work on him?
+Dialogue: 5,0:05:34.36,0:05:36.52,Default,Junpei,0,0,0,,{\i1}Why won't Moon Dregs' poison work on him?
 Dialogue: 5,0:05:44.89,0:05:47.18,Default,Junpei,0,0,0,,Why are you getting in my way?
 Dialogue: 5,0:05:47.18,0:05:48.16,Default,Junpei,0,0,0,,Why?!
 Dialogue: 5,0:05:48.99,0:05:49.95,Default,Junpei,0,0,0,,Why?!
@@ -92,8 +93,8 @@ Dialogue: 5,0:05:59.21,0:06:01.86,Default,Junpei,0,0,0,,{\i1}He won't be able to
 Dialogue: 5,0:06:01.86,0:06:04.93,Default,Junpei,0,0,0,,{\i1}No, I'll take him out right before he lands!
 Dialogue: 5,0:06:14.99,0:06:17.53,Default,Yuji,0,0,0,,Junpei, I don't understand...
 Dialogue: 5,0:06:19.27,0:06:21.53,Default,Yuji,0,0,0,,a damn thing you're saying!
-Dialogue: 5,0:06:22.84,0:06:25.78,Default,Yuji,0,0,0,,You can string together whatever logic you want.
-Dialogue: 5,0:06:26.49,0:06:29.66,Default,Gojo,0,0,0,,When facing shikigami users, strike the sorcerer directly.
+Dialogue: 5,0:06:22.84,0:06:25.78,Default,Yuji,0,0,0,,You can't string together whatever logic you want.
+Dialogue: 5,0:06:26.49,0:06:30.16,Default,Gojo,0,0,0,,{\fade(0,500)}When facing shikigami users, strike the sorcerer directly.
 Dialogue: 5,0:06:31.20,0:06:32.83,Default,Yuji,0,0,0,,But you're just trying...
 Dialogue: 5,0:06:35.93,0:06:38.83,Default,Yuji,0,0,0,,to convince yourself you're in the right!
 Dialogue: 5,0:06:44.15,0:06:46.30,Default,Yuji,0,0,0,,I don't know why you're doing this.
@@ -107,12 +108,12 @@ Dialogue: 5,0:07:09.16,0:07:10.04,Default,Yuji,0,0,0,,You're still—
 Dialogue: 5,0:07:10.04,0:07:11.02,Default,Junpei,0,0,0,,They don't!
 Dialogue: 5,0:07:12.35,0:07:13.77,Default,Junpei,0,0,0,,Otherwise...
 Dialogue: 5,0:07:15.50,0:07:16.61,Default,Junpei,0,0,0,,Otherwise...
-Dialogue: 5,0:07:17.27,0:07:22.27,Default,Junpei,0,0,0,,That would mean people cursed me and my mom with those hearts!
-Dialogue: 5,0:07:24.26,0:07:27.17,Default,Junpei,0,0,0,,That would just be too much...
-Dialogue: 5,0:07:27.97,0:07:33.31,Default,Junpei,0,0,0,,I don't know what is right, and what is wrong anymore!
+Dialogue: 5,0:07:17.50,0:07:22.88,Default,Junpei,0,0,0,,That would mean people cursed me and my mom with those hearts!
+Dialogue: 5,0:07:24.30,0:07:27.72,Default,Junpei,0,0,0,,That would just be too much...
+Dialogue: 5,0:07:28.01,0:07:33.35,Default,Junpei,0,0,0,,I don't know what is right, and what is wrong anymore!
 Dialogue: 5,0:07:45.46,0:07:47.24,Default,Junpei,0,0,0,,Why didn't you dodge it?
 Dialogue: 5,0:07:51.73,0:07:52.45,Default,Yuji,0,0,0,,Sorry.
-Dialogue: 5,0:07:53.68,0:07:57.46,Default,Yuji,0,0,0,,I said a lot of self-important stuff \Nwithout knowing what you're going through.
+Dialogue: 5,0:07:53.68,0:07:57.75,Default,Yuji,0,0,0,,I said a lot of self-important stuff \Nwithout knowing what you're going through.
 Dialogue: 5,0:08:02.19,0:08:03.84,Default,Yuji,0,0,0,,But you can talk to me.
 Dialogue: 5,0:08:05.58,0:08:09.34,Default,Yuji,0,0,0,,I promise I won't judge you, no matter what.
 Dialogue: 5,0:08:10.73,0:08:11.59,Default,Yuji,0,0,0,,So please.
@@ -122,17 +123,17 @@ Dialogue: 5,0:08:31.76,0:08:36.72,Default,Yuji,0,0,0,,There are lots of crazy st
 Dialogue: 5,0:08:38.41,0:08:40.45,Default,Yuji,0,0,0,,If we all work together,
 Dialogue: 5,0:08:40.45,0:08:44.05,Default,Yuji,0,0,0,,I'm sure we can find whoever cursed your mom.
 Dialogue: 5,0:08:44.86,0:08:47.13,Default,Yuji,0,0,0,,We'll make sure they get their due!
-Dialogue: 5,0:08:48.14,0:08:49.38,Default,Yuji,0,0,0,,Let's fight together!
+Dialogue: 5,0:08:48.14,0:08:49.51,Default,Yuji,0,0,0,,Let's fight together!
 Dialogue: 5,0:08:55.42,0:08:56.26,Default,Yuji,0,0,0,,Who are you?
-Dialogue: 5,0:08:57.95,0:08:59.11,Default,Yuji,0,0,0,,{\i1}Who is that?
-Dialogue: 5,0:09:01.09,0:09:01.99,Default,Yuji,0,0,0,,{\i1}A human?
-Dialogue: 5,0:09:02.98,0:09:04.90,Default,Mahito,0,0,0,,I guess it's nice to meet you...{This episode has a lot of ellipses, maybe check their validity elsewhere, but here technically is a sentence that is cut off by someone else temporarily, to be continued later, so it should be here.}
+Dialogue: 5,0:08:57.98,0:08:59.27,Default,Yuji,0,0,0,,{\i1}Who is that?
+Dialogue: 5,0:09:01.15,0:09:02.06,Default,Yuji,0,0,0,,{\i1}A human?
+Dialogue: 5,0:09:02.98,0:09:04.90,Default,Mahito,0,0,0,,I guess it's nice to meet you...
 Dialogue: 5,0:09:05.32,0:09:07.90,Default,Yuji,0,0,0,,{\i1}No, something feels strange.
-Dialogue: 5,0:09:07.90,0:09:09.57,Default,Mahito,0,0,0,,Sukuna vessel.
+Dialogue: 5,0:09:07.90,0:09:09.57,Default,Mahito,0,0,0,,Sukuna's vessel.
 Dialogue: 5,0:09:11.91,0:09:13.24,Default,Junpei,0,0,0,,Mahito{**-san}, wait!
 Dialogue: 5,0:09:17.60,0:09:19.26,Default,Yuji,0,0,0,,{\i1}I'm such an idiot!
-Dialogue: 5,0:09:19.26,0:09:21.43,Default,Yuji,0,0,0,,{\i1}A human-shaped cursed spirit with a patchwork face!
-Dialogue: 5,0:09:21.43,0:09:24.42,Default,Yuji,0,0,0,,{\i1}This is exactly like Nanami described!
+Dialogue: 5,0:09:19.26,0:09:21.43,Default,Yuji,0,0,0,,{\i1}A human-like cursed spirit with a patchwork face!
+Dialogue: 5,0:09:21.43,0:09:24.42,Default,Yuji,0,0,0,,{\i1}This is exactly like Nanamin described!
 Dialogue: 5,0:09:24.84,0:09:26.42,Default,Yuji,0,0,0,,Junpei, run!
 Dialogue: 5,0:09:27.05,0:09:29.67,Default,Yuji,0,0,0,,I don't know how you know this guy,
 Dialogue: 5,0:09:29.67,0:09:32.05,Default,Yuji,0,0,0,,but right now, just run away!
@@ -140,10 +141,10 @@ Dialogue: 5,0:09:32.34,0:09:33.46,Default,Yuji,0,0,0,,Please!
 Dialogue: 5,0:09:33.94,0:09:36.17,Default,Junpei,0,0,0,,Itadori{**-kun}, please calm down!
 Dialogue: 5,0:09:36.17,0:09:38.02,Default,Junpei,0,0,0,,Mahito{**-san}'s not a bad person...
 Dialogue: 5,0:09:44.08,0:09:46.60,Default,Junpei,0,0,0,,Bad... person...
-Dialogue: 5,0:09:51.55,0:09:54.95,Default,Mahito,0,0,0,,You know, Junpei, you've got \Na good head on your shoulders.
-Dialogue: 5,0:09:56.49,0:10:01.89,Default,Mahito,0,0,0,,But overthinking things instead of acting \Ncan put you in some pretty bad spots.
-Dialogue: 5,0:10:01.89,0:10:03.97,Default,Mahito,0,0,0,,This is the perfect example of that!
-Dialogue: 5,0:10:05.42,0:10:11.67,Default,Mahito,0,0,0,,You're almost as stupid \Nas those people you call stupid, yourself.{actually unsure of this}
+Dialogue: 5,0:09:51.55,0:09:55.12,Default,Mahito,0,0,0,,You know, you've got a good head on your shoulders.
+Dialogue: 5,0:09:56.70,0:10:02.04,Default,Mahito,0,0,0,,But overthinking things instead of acting \Ncan put you in some pretty bad spots.
+Dialogue: 5,0:10:02.04,0:10:04.04,Default,Mahito,0,0,0,,This is the perfect example of that!
+Dialogue: 5,0:10:05.42,0:10:11.67,Default,Mahito,0,0,0,,You're almost as stupid \Nas those people you call stupid yourself.{actually unsure of this}
 Dialogue: 5,0:10:14.26,0:10:16.55,Default,Mahito,0,0,0,,That's why you're gonna die.
 Dialogue: 5,0:10:18.14,0:10:19.77,Default,Mahito,0,0,0,,{\i1}Idle Transfiguration.
 Dialogue: 5,0:10:29.35,0:10:32.50,Default,Mahito,0,0,0,,Now, time for round two.
@@ -174,12 +175,12 @@ Dialogue: 5,0:11:54.54,0:11:58.28,Default,Mahito,0,0,0,,{\i1}Though, what I'm af
 Dialogue: 5,0:11:58.28,0:12:00.07,Default,Mahito,0,0,0,,{\i1}so I guess this works fine.
 Dialogue: 5,0:12:17.59,0:12:19.55,Default,Yuji,0,0,0,,{\i1}Oh, I almost forgot.
 Dialogue: 5,0:12:20.29,0:12:21.34,Default,Yuji,0,0,0,,{\i1}At the end of the day,
-Dialogue: 5,0:12:21.93,0:12:23.72,Default,Yuji,0,0,0,,{\i1}these guys are, and always will be
+Dialogue: 5,0:12:22.01,0:12:24.10,Default,Yuji,0,0,0,,{\i1}these guys are, and always will be
 Dialogue: 5,0:12:24.60,0:12:25.81,Default,Yuji,0,0,0,,{\i1}curses.
 Dialogue: 5,0:12:31.64,0:12:33.14,Default,Junpei,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Yuji.
 Dialogue: 5,0:12:41.56,0:12:43.99,Default,Junpei,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Why?
 Dialogue: 5,0:13:11.05,0:13:12.88,Default,Mahito,0,0,0,,Oh, dead already?
-Dialogue: 5,0:13:13.46,0:13:16.48,Default,Mahito,0,0,0,,I guess I was kind of rough when I transfigured him.
+Dialogue: 5,0:13:13.46,0:13:16.48,Default,Mahito,0,0,0,,I guess I was kinda rough when I transfigured him.
 Dialogue: 5,0:13:19.27,0:13:20.82,Default,Mahito,0,0,0,,Guess that's how it goes.
 Dialogue: 5,0:13:24.69,0:13:26.42,Default,Mahito,0,0,0,,{\i1}That was an unusual attack.
 Dialogue: 5,0:13:26.42,0:13:27.76,Default,Mahito,0,0,0,,{\i1}Interesting!
@@ -188,15 +189,15 @@ Dialogue: 5,0:13:30.46,0:13:32.76,Default,Mahito,0,0,0,,As long as I maintain th
 Dialogue: 5,0:13:36.83,0:13:38.13,Default,Mahito,0,0,0,,{\i1}What's going on?!
 Dialogue: 5,0:13:41.22,0:13:43.96,Default,Mahito,0,0,0,,{\i1}Did he somehow hit my soul?
 Dialogue: 5,0:13:45.50,0:13:46.94,Default,Mahito,0,0,0,,{\i1}That's it!
-Dialogue: 5,0:13:47.26,0:13:49.69,Default,Mahito,0,0,0,,{\i1}Itadori Yuji is a vessel.
-Dialogue: 5,0:13:49.69,0:13:54.13,Default,Mahito,0,0,0,,{\i1}His body constantly houses another soul in addition to his own.
+Dialogue: 5,0:13:47.35,0:13:49.77,Default,Mahito,0,0,0,,{\i1}Itadori Yuji is a vessel.
+Dialogue: 5,0:13:49.77,0:13:54.13,Default,Mahito,0,0,0,,{\i1}His body constantly houses another soul in addition to his own.
 Dialogue: 5,0:13:55.02,0:13:56.58,Default,Mahito,0,0,0,,{\i1}So naturally...
-Dialogue: 5,0:13:57.85,0:14:00.03,Default,Mahito,0,0,0,,You've learned to perceive...
-Dialogue: 5,0:14:00.53,0:14:02.57,Default,Mahito,0,0,0,,of the contours of the soul!
+Dialogue: 5,0:13:57.85,0:14:00.03,Default,Mahito,0,0,0,,You've learned to perceive
+Dialogue: 5,0:14:00.53,0:14:02.70,Default,Mahito,0,0,0,,{\fade(120,120)}of the contours of the soul!
 Dialogue: 5,0:14:09.75,0:14:13.00,Default,Yuji,0,0,0,,{\i1}The words that came out next were from so deep inside of me
 Dialogue: 5,0:14:13.00,0:14:16.59,Default,Yuji,0,0,0,,{\i1}that it made everything \NI've ever said up until this point
 Dialogue: 5,0:14:16.59,0:14:18.73,Default,Yuji,0,0,0,,{\i1}feel like a complete lie.
-Dialogue: 5,0:14:20.13,0:14:22.13,Default,Yuji,0,0,0,,I'm gonna kill you!
+Dialogue: 5,0:14:20.17,0:14:22.26,Default,Yuji,0,0,0,,I'm gonna kill you!
 Comment: 5,0:14:27.97,0:14:28.01,Default,chptr,0,0,0,,{Part B}
 Dialogue: 5,0:14:42.47,0:14:46.79,Default,Mahito,0,0,0,,Don't you mean you'll "exorcise" me, jujutsu sorcerer?{why quotes? Maybe use italics to highlight the difference from "kill"?}
 Dialogue: 5,0:14:49.83,0:14:54.00,Default,Mahito,0,0,0,,{\i1}Itadori Yuji has no regard for his own life.
@@ -207,9 +208,9 @@ Dialogue: 5,0:15:07.82,0:15:09.78,Default,Mahito,0,0,0,,{\i1}If Junpei isn't eno
 Dialogue: 5,0:15:09.78,0:15:13.35,Default,Mahito,0,0,0,,{\i1\fade(0,150)}I'll make him watch as I mutilate every student, one by one.
 Dialogue: 5,0:15:13.81,0:15:16.31,Default,Mahito,0,0,0,,{\i1\fade(350,0)}And while he's seething with hatred,
 Dialogue: 5,0:15:16.31,0:15:21.11,Default,Mahito,0,0,0,,{\i1}I'll force him into negotiating a pact with Sukuna.
-Dialogue: 5,0:15:21.78,0:15:26.19,Default,Mahito,0,0,0,,{\i1}That should help us win Sukuna over, which would be great.
-Dialogue: 5,0:15:29.74,0:15:34.87,Default,Mahito,0,0,0,,{\i1}Though, all of that presumes that I'm stronger than him.
-Dialogue: 5,0:15:34.87,0:15:37.08,Default,Mahito,0,0,0,,{\i1}So why did he have to be
+Dialogue: 5,0:15:21.78,0:15:26.19,Default,Mahito,0,0,0,,{\i1}That should help us win Sukuna over, just as planned.
+Dialogue: 5,0:15:29.74,0:15:34.96,Default,Mahito,0,0,0,,{\i1}Though, all of that presumes that I'm stronger than him.
+Dialogue: 5,0:15:34.96,0:15:37.08,Default,Mahito,0,0,0,,{\i1}So why did he have to be
 Dialogue: 5,0:15:37.64,0:15:38.85,Default,Mahito,0,0,0,,{\i1}my natural enemy?
 Dialogue: 5,0:15:58.54,0:16:00.95,Default,Yuji,0,0,0,,{\i1}He keeps distorting his body!
 Dialogue: 5,0:16:00.95,0:16:04.36,Default,Yuji,0,0,0,,{\i1}Should I stop trying to grab and throw him?{hmm.. "grab-and-throw"?}
@@ -224,15 +225,15 @@ Dialogue: 5,0:16:24.69,0:16:28.56,Default,Mahito,0,0,0,,{\i1}I need a form more 
 Dialogue: 5,0:16:28.56,0:16:30.80,Default,Mahito,0,0,0,,{\i1}A form inspired to kill!
 Dialogue: 5,0:16:32.49,0:16:33.93,Default,Mahito,0,0,0,,{\i1}I'll embody it!
 Dialogue: 5,0:16:59.96,0:17:03.04,Default,Yuji,0,0,0,,You can't stretch out forever!
-Dialogue: 5,0:17:20.55,0:17:23.10,Default,Mahito,0,0,0,,Most people would let go, you know.
+Dialogue: 5,0:17:20.69,0:17:23.10,Default,Mahito,0,0,0,,Most people would let go, you know.
 Dialogue: 5,0:17:24.57,0:17:29.28,Default,Mahito,0,0,0,,{\i1}Overextending myself makes me \Nlose control and weakens my durability.
 Dialogue: 5,0:17:53.80,0:17:55.97,Default,Mahito,0,0,0,,You can't beat me.
-Dialogue: 5,0:17:56.59,0:17:58.57,Default,Mahito,0,0,0,,Just swap out already...
+Dialogue: 5,0:17:56.59,0:17:58.57,Default,Mahito,0,0,0,,Just swap out already
 Dialogue: 5,0:18:00.22,0:18:01.94,Default,Mahito,0,0,0,,with Sukuna.
 Dialogue: 5,0:18:03.56,0:18:05.52,Default,Mahito,0,0,0,,Idle Transfiguration.
-Dialogue: 5,0:18:13.62,0:18:16.64,Default,Sukuna,0,0,0,,You dare attempt to touch my soul?
-Dialogue: 5,0:18:16.64,0:18:20.01,Default,Sukuna,0,0,0,,Since we both shared a laugh at that brat's expense,
-Dialogue: 5,0:18:20.01,0:18:21.75,Default,Sukuna,0,0,0,,I'll allow it just this once.
+Dialogue: 5,0:18:13.62,0:18:16.70,Default,Sukuna,0,0,0,,You dare attempt to touch my soul?
+Dialogue: 5,0:18:16.70,0:18:20.04,Default,Sukuna,0,0,0,,Since we both shared a laugh at that brat's expense,
+Dialogue: 5,0:18:20.04,0:18:21.75,Default,Sukuna,0,0,0,,I'll allow it just this once.
 Dialogue: 5,0:18:22.87,0:18:24.79,Default,Sukuna,0,0,0,,There won't be a second time.
 Dialogue: 5,0:18:27.98,0:18:30.05,Default,Sukuna,0,0,0,,Know your place,
 Dialogue: 5,0:18:31.72,0:18:33.55,Default,Sukuna,0,0,0,,insolent fool.
@@ -240,21 +241,21 @@ Dialogue: 5,0:18:39.02,0:18:41.06,Default,Yuji,0,0,0,,I'm not swapping out.
 Dialogue: 5,0:18:41.06,0:18:43.10,Default,Yuji,0,0,0,,I already told you...
 Dialogue: 5,0:18:44.82,0:18:47.34,Default,Yuji,0,0,0,,that I'm gonna kill you.
 Dialogue: 5,0:19:22.61,0:19:23.36,Default,Yuji,0,0,0,,Huh?
-Dialogue: 5,0:19:34.97,0:19:35.89,Default,Yuji,0,0,0,,Nanami!
+Dialogue: 5,0:19:34.97,0:19:35.89,Default,Yuji,0,0,0,,Nanamin!
 Dialogue: 5,0:19:41.37,0:19:43.12,Default,Nanami,0,0,0,,I'll lecture you later.
 Dialogue: 5,0:19:43.57,0:19:45.62,Default,Nanami,0,0,0,,What's the situation?
-Dialogue: 5,0:19:46.64,0:19:49.84,Default,Yuji,0,0,0,,I couldn't save Junpei and his mom.
-Dialogue: 5,0:19:50.71,0:19:53.34,Default,Nanami,0,0,0,,{\i1}Always putting others before himself.
+Dialogue: 5,0:19:46.75,0:19:49.84,Default,Yuji,0,0,0,,I couldn't save Junpei and his mom.
+Dialogue: 5,0:19:50.75,0:19:53.34,Default,Nanami,0,0,0,,{\i1}Always putting others before himself.
 Dialogue: 5,0:19:54.05,0:19:56.84,Default,Nanami,0,0,0,,Explain your physical condition first.
-Dialogue: 5,0:19:57.26,0:20:00.87,Default,Yuji,0,0,0,,I'm fine. Just got some holes in me.
-Dialogue: 5,0:20:01.85,0:20:03.13,Default,Nanami,0,0,0,,That's not fine.
+Dialogue: 5,0:19:57.26,0:20:00.97,Default,Yuji,0,0,0,,I'm fine. Just got some holes in me.
+Dialogue: 5,0:20:01.85,0:20:03.22,Default,Nanami,0,0,0,,How is that fine?
 Dialogue: 5,0:20:03.75,0:20:07.60,Default,Yuji,0,0,0,,Also, a bunch of students from this school are knocked out in the gym.
-Dialogue: 5,0:20:08.54,0:20:13.42,Default,Mahito,0,0,0,,Hey you're alive and well, seven to three sorcerer!
+Dialogue: 5,0:20:08.54,0:20:13.42,Default,Mahito,0,0,0,,Hey, you're alive and well, seven to three sorcerer!
 Dialogue: 5,0:20:13.42,0:20:16.29,Default,Mahito,0,0,0,,Glad to see we both survived.
 Dialogue: 5,0:20:16.79,0:20:18.57,Default,Mahito,0,0,0,,How about a hug?
 Dialogue: 5,0:20:19.16,0:20:21.28,Default,Mahito,0,0,0,,In celebration of our reunion!
 Dialogue: 5,0:20:27.13,0:20:29.59,Default,Nanami,0,0,0,,Itadori{**-kun}, why is his nose bleeding?
-Dialogue: 5,0:20:30.13,0:20:33.25,Default,Yuji,0,0,0,,Huh? I punched him.
+Dialogue: 5,0:20:30.13,0:20:33.25,Default,Yuji,0,0,0,,Huh? Because I punched him.
 Dialogue: 5,0:20:33.25,0:20:34.17,Default,Nanami,0,0,0,,When?
 Dialogue: 5,0:20:34.17,0:20:35.55,Default,Yuji,0,0,0,,At the start of our fight.
 Dialogue: 5,0:20:35.55,0:20:37.74,Default,Nanami,0,0,0,,Did his hand touch you?
@@ -264,8 +265,8 @@ Dialogue: 5,0:20:42.25,0:20:42.79,Default,Yuji,0,0,0,,Huh?!
 Dialogue: 5,0:20:43.31,0:20:44.80,Default,Yuji,0,0,0,,What?! Why?!
 Dialogue: 5,0:20:44.80,0:20:46.90,Default,Nanami,0,0,0,,I'll explain while I'm lecturing you.
 Dialogue: 5,0:20:47.82,0:20:51.63,Default,Nanami,0,0,0,,{\i1}Either his technique doesn't work on Itadori{**-kun},
-Dialogue: 5,0:20:51.63,0:20:54.82,Default,Nanami,0,0,0,,{\i1}or he has a reason not to kill Itadori{**-kun}.{to not* kill?}
-Dialogue: 5,0:20:54.82,0:20:56.95,Default,Nanami,0,0,0,,{\i1}Either way, that's to our advantage.
+Dialogue: 5,0:20:51.63,0:20:54.82,Default,Nanami,0,0,0,,{\i1}or he has a reason not to kill him.
+Dialogue: 5,0:20:54.82,0:20:56.95,Default,Nanami,0,0,0,,{\i1}Either way, that is to our advantage.
 Dialogue: 5,0:20:57.53,0:21:01.03,Default,Nanami,0,0,0,,However, I can halt his movements.
 Dialogue: 5,0:21:01.64,0:21:06.04,Default,Nanami,0,0,0,,Once we've created an opening, we'll shower him with blows.
 Dialogue: 5,0:21:06.87,0:21:09.53,Default,Nanami,0,0,0,,We'll make sure to exorcise him right here.
