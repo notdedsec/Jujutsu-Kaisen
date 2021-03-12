@@ -16,14 +16,15 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: [Kaizoku] Jujutsu Kaisen - 13 [653C3758].mkv
-Video File: [Kaizoku] Jujutsu Kaisen - 13 [653C3758].mkv
+Audio File: jujutsu_13_premux.mkv
+Video File: jujutsu_13_premux.mkv
+Keyframes File: jujutsu_13_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 281
-Active Line: 290
-Video Position: 32955
+Scroll Position: 270
+Active Line: 277
+Video Position: 29711
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -109,11 +110,11 @@ Dialogue: 5,0:07:04.15,0:07:05.41,Default,Nanami,0,0,0,,{\i1}That would mean...
 Dialogue: 5,0:07:06.66,0:07:09.17,Default,Nanami,0,0,0,,{\i1}I'm literally in the palm of his hands.
 Dialogue: 5,0:07:10.76,0:07:11.65,Default,Nanami,0,0,0,,{\i1}Idiots.
 Dialogue: 5,0:07:11.65,0:07:14.27,Default,Nanami,0,0,0,,{\i1}Jujutsu sorcerers are idiots.
-Dialogue: 5,0:07:14.27,0:07:17.29,Default,Nanami,0,0,0,,{\i1}They're prepared to sacrifice their lives for others
+Dialogue: 5,0:07:14.27,0:07:17.29,Default,Nanami,0,0,0,,{\i1}They're always ready to sacrifice their lives for others
 Dialogue: 5,0:07:17.29,0:07:20.16,Default,Nanami,0,0,0,,{\i1}and force their comrades to do the same if needed.
 Dialogue: 5,0:07:20.55,0:07:22.42,Default,Nanami,0,0,0,,{\i1}That's why I quit.
 Dialogue: 5,0:07:23.05,0:07:25.17,Default,Nanami,0,0,0,,{\i1}More like I ran away, I suppose.
-Dialogue: 5,0:07:26.57,0:07:28.69,Default,Clerk,0,0,0,,Do you like casse-croute?
+Dialogue: 5,0:07:26.57,0:07:28.68,Default,Clerk,0,0,0,,Do you like this casse-croute?
 Dialogue: 5,0:07:28.96,0:07:29.58,Default,Nanami,0,0,0,,Huh?
 Dialogue: 5,0:07:30.40,0:07:31.04,Default,Clerk,0,0,0,,Huh?
 Dialogue: 5,0:07:32.15,0:07:34.39,Default,Clerk,0,0,0,,You always buy this one, don't you?
@@ -174,7 +175,7 @@ Dialogue: 5,0:10:32.03,0:10:34.16,Default,Nanami,0,0,0,,Could you take a step fo
 Dialogue: 5,0:10:39.57,0:10:40.14,Default,Clerk,0,0,0,,Huh?
 Dialogue: 5,0:10:40.14,0:10:41.70,Default,Nanami,0,0,0,,How's your shoulder now?
 Dialogue: 5,0:10:41.70,0:10:43.53,Default,Clerk,0,0,0,,Huh? Well...
-Dialogue: 5,0:10:43.98,0:10:45.81,Default,Clerk,0,0,0,,Huh?! It's lighter!
+Dialogue: 5,0:10:43.98,0:10:45.81,Default,Clerk,0,0,0,,Hey, it feels lighter!
 Dialogue: 5,0:10:45.81,0:10:48.58,Default,Nanami,0,0,0,,If anything still feels off, please go to the hospital.
 Dialogue: 5,0:10:48.58,0:10:49.62,Default,Nanami,0,0,0,,Please excuse me.
 Dialogue: 5,0:10:52.42,0:10:53.96,Default,Clerk,0,0,0,,Hey, wait!
@@ -219,8 +220,8 @@ Comment: 5,0:13:50.02,0:13:50.06,Default,chptr,0,0,0,,{Part B}
 Dialogue: 5,0:14:02.53,0:14:04.53,Default,Yuji,0,0,0,,{\i1}What just happened?
 Dialogue: 5,0:14:11.71,0:14:12.96,Default,Yuji,0,0,0,,{\i1}I'll kill you!
 Dialogue: 5,0:14:13.71,0:14:15.33,Default,Mahito,0,0,0,,{\i1}Domain Expansion.
-Dialogue: 5,0:14:15.33,0:14:17.12,Default,Mahito,0,0,0,,{\i1}This really burns cursed energy.
-Dialogue: 5,0:14:17.12,0:14:19.89,Default,Mahito,0,0,0,,{\i1}It definitely a last resort finishing move.
+Dialogue: 5,0:14:15.33,0:14:17.29,Default,Mahito,0,0,0,,{\i1}This really burns up cursed energy.
+Dialogue: 5,0:14:17.29,0:14:19.89,Default,Mahito,0,0,0,,{\i1}Definitely a last resort move.
 Dialogue: 5,0:14:19.89,0:14:21.38,Default,Mahito,0,0,0,,{\i1}And that damn Sukuna just...
 Dialogue: 5,0:14:21.85,0:14:24.04,Default,Mahito,0,0,0,,{\i1}However, this is the moment of truth!
 Dialogue: 5,0:14:24.04,0:14:25.80,Default,Mahito,0,0,0,,{\i1}Time to go all out!
@@ -252,14 +253,13 @@ Dialogue: 5,0:16:16.15,0:16:21.81,Default,Mahito,0,0,0,,{\i1}In his current stat
 Dialogue: 5,0:16:21.81,0:16:23.29,Default,Mahito,0,0,0,,{\i1}That presence...
 Dialogue: 5,0:16:23.78,0:16:26.30,Default,Mahito,0,0,0,,{\i1}His soul is on a totally different level.
 Dialogue: 5,0:16:26.84,0:16:28.83,Default,Mahito,0,0,0,,{\i1}I'm certain of it.
-Dialogue: 5,0:16:28.83,0:16:30.89,Default,Mahito,0,0,0,,{\i1}Even if we're all wiped out,
-Dialogue: 5,0:16:30.89,0:16:35.09,Default,Mahito,0,0,0,,{\i1}as long as Sukuna is resurrected, the age of cursed spirits will come.
+Dialogue: 5,0:16:28.83,0:16:35.09,Default,Mahito,0,0,0,,{\i1}Even if we're all wiped out, as long as \NSukuna is resurrected, the age of curses will come.
 Dialogue: 5,0:16:35.09,0:16:37.81,Default,Mahito,0,0,0,,{\i1}Still, damn, this sucks.
 Dialogue: 5,0:16:38.23,0:16:44.07,Default,Mahito,0,0,0,,{\i1}Right now, I want nothing more than to kill Itadori Yuji!
 Dialogue: 5,0:16:48.29,0:16:50.81,Default,Mahito,0,0,0,,It's so frustrating!
 Dialogue: 5,0:16:50.81,0:16:52.87,Default,Mahito,0,0,0,,But whatever.
 Dialogue: 5,0:16:52.87,0:16:57.21,Default,Mahito,0,0,0,,Unlike his body, I can kill his soul over and over again.
-Dialogue: 5,0:16:58.87,0:17:02.29,Default,Mahito,0,0,0,,How should I kill it the next time?
+Dialogue: 5,0:16:58.87,0:17:02.29,Default,Mahito,0,0,0,,How should I kill it next time?
 Dialogue: 5,0:17:06.23,0:17:08.54,Default,Nanami,0,0,0,,You were told to rest, weren't you?
 Dialogue: 5,0:17:09.72,0:17:11.26,Default,Yuji,0,0,0,,You gonna lecture me?
 Dialogue: 5,0:17:11.82,0:17:16.68,Default,Nanami,0,0,0,,I'm not in a position to lecture someone who just saved my life.
@@ -300,7 +300,7 @@ Dialogue: 5,0:19:37.91,0:19:39.15,Default,Itou,0,0,0,,So who cares?
 Dialogue: 5,0:19:40.08,0:19:41.43,Default,Itou,0,0,0,,What about me?
 Dialogue: 5,0:19:41.43,0:19:44.68,Default,Itou,0,0,0,,I've barely been able to move my left arm since that day.
 Dialogue: 5,0:19:44.68,0:19:47.46,Default,Sotomura,0,0,0,,We're talking about your crimes right now.
-Dialogue: 5,0:19:47.46,0:19:50.67,Default,Sotomura,0,0,0,,Reflect on the punishment you've earned {by }yourself.
+Dialogue: 5,0:19:47.46,0:19:50.67,Default,Sotomura,0,0,0,,Reflect on the punishment you've earned for yourself.
 Dialogue: 5,0:19:50.67,0:19:52.42,Default,Itou,0,0,0,,And where's your punishment?
 Dialogue: 5,0:19:52.80,0:19:54.63,Default,Sotomura,0,0,0,,Mine is yet to come.
 Dialogue: 5,0:19:54.63,0:19:57.89,Default,Sotomura,0,0,0,,My eyes are finally open to the things I was blind to.
@@ -309,8 +309,8 @@ Dialogue: 5,0:20:01.89,0:20:06.44,Default,Sotomura,0,0,0,,will have to bear the 
 Dialogue: 5,0:20:06.77,0:20:09.44,Default,Sotomura,0,0,0,,I'll be watching you, Itou.
 Dialogue: 5,0:20:15.05,0:20:17.85,Default,Yuji,0,0,0,,{\i1}I don't understand what a proper death is.
 Dialogue: 5,0:20:18.44,0:20:19.53,Default,Yuji,0,0,0,,{\i1}So at least
-Dialogue: 5,0:20:21.34,0:20:22.37,Default,Yuji,0,0,0,,{\i1}until I do,
-Dialogue: 5,0:20:26.24,0:20:28.21,Default,Yuji,0,0,0,,{\i1}until the day I kill him,
+Dialogue: 5,0:20:21.34,0:20:22.37,Default,Yuji,0,0,0,,{\i1}until I do.
+Dialogue: 5,0:20:26.24,0:20:28.29,Default,Yuji,0,0,0,,{\i1}Until the day I kill him.
 Dialogue: 5,0:20:39.19,0:20:40.26,Default,Yuji,0,0,0,,{\i1}I'll make sure
 Dialogue: 5,0:20:43.35,0:20:44.56,Default,Yuji,0,0,0,,{\i1}I won't lose to anything.
 Comment: 5,0:20:45.02,0:20:45.06,Default,chptr,0,0,0,,{Ending}
@@ -326,12 +326,12 @@ Dialogue: 5,0:22:35.75,0:22:37.30,Default,Fushiguro,0,0,0,,They're easy to make.
 Dialogue: 5,0:22:54.47,0:22:55.73,Default,Toge,0,0,0,,Bonito flakes.
 Dialogue: 5,0:22:56.81,0:22:59.15,Default,Kugisaki,0,0,0,,You can cook for yourself?
 Dialogue: 5,0:22:59.15,0:23:01.07,Default,Kugisaki,0,0,0,,Not that surprising, actually.
-Dialogue: 5,0:23:01.40,0:23:04.06,Default,Fushiguro,0,0,0,,No, Itadori taught me how to make these.
+Dialogue: 5,0:23:01.40,0:23:04.06,Default,Fushiguro,0,0,0,,Actually, Itadori taught me how to make these.
 Dialogue: 5,0:23:14.25,0:23:15.65,Default,Kugisaki,0,0,0,,I see.
 Dialogue: 5,0:23:17.46,0:23:19.82,Default,Kugisaki,0,0,0,,Itadori's legacy.
 Dialogue: 5,0:23:19.82,0:23:21.59,Default,Maki,0,0,0,,No, that's going too far.
 Dialogue: 5,0:23:24.41,0:23:26.77,Default,Gojo,0,0,0,,These meatballs are great!
-Dialogue: 5,0:23:26.77,0:23:29.47,Default,Yuji,0,0,0,,Oh, those are super easy to make.
+Dialogue: 5,0:23:26.77,0:23:29.47,Default,Yuji,0,0,0,,Oh, these are super easy to make.
 Dialogue: 5,0:23:31.24,0:23:33.36,Default,Yuji,0,0,0,,Even Fushiguro could make them.
 Dialogue: 5,0:23:33.36,0:23:34.48,Default,Yuji,0,0,0,,I taught him how.
 Dialogue: 5,0:23:37.62,0:23:40.36,Default,Yuji,0,0,0,,I can't wait to see those two again.
