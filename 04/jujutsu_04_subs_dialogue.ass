@@ -69,7 +69,7 @@ Dialogue: 0,0:01:41.03,0:01:45.15,Default,Ijichi,0,0,0,,Our line of work is alwa
 Dialogue: 0,0:01:45.76,0:01:49.00,Default,Ijichi,0,0,0,,You'll often have to undertake missions beyond your power.
 Dialogue: 0,0:01:50.19,0:01:54.48,Default,Ijichi,0,0,0,,This particular case, however, \Nis an abnormal one, and most urgent.
 Dialogue: 0,0:01:54.48,0:01:56.55,Default,Ijichi,0,0,0,,Do not fight under any circumstances.
-Dialogue: 0,0:01:56.55,0:02:01.10,Default,Ijichi,0,0,0,,When confronted by a special-grade, \Nyour either run or you die.
+Dialogue: 0,0:01:56.55,0:02:01.10,Default,Ijichi,0,0,0,,When confronted by a special-grade, \Nyou either run or you die.
 Dialogue: 0,0:02:02.96,0:02:06.10,Default,Ijichi,0,0,0,,Please, listen to your fears. {Hmm, something feels odd. "trust your gut"? "follow your fears"?}
 Dialogue: 0,0:02:06.56,0:02:11.82,Default,Ijichi,0,0,0,,Don't forget that your mission here is \Nstrictly the verification and rescue of survivors.
 Dialogue: 0,0:02:11.82,0:02:12.36,Default,Mother,0,0,0,,Excuse me!{This is perfectly interrupting his sentence, and so is foreground, not background dialog. Plus too fast to see if its on the roof.}

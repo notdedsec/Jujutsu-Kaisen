@@ -20,10 +20,10 @@ Audio File: jujutsu_01.mkv
 Video File: jujutsu_01.mkv
 Keyframes File: jujutsu_01_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 325
-Active Line: 333
-Video Position: 32886
+Video Zoom Percent: 0.375000
+Scroll Position: 234
+Active Line: 245
+Video Position: 19973
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -78,9 +78,10 @@ Dialogue: 0,0:03:54.27,0:03:55.77,Default,Gojo,0,0,0,,{\i1}Maybe it took a night
 Dialogue: 0,0:03:55.77,0:03:57.04,Default,Fushiguro,0,0,0,,I'm gonna punch you.
 Dialogue: 0,0:03:57.33,0:04:00.37,Default,Gojo,0,0,0,,{\i1}Well, no going home until it's recovered, okay?
 Dialogue: 0,0:04:02.77,0:04:05.01,Default,Fushiguro,0,0,0,,I'm gonna hit him for real this time.
-Dialogue: 0,0:04:10.42,0:04:13.77,Default,Yuji,0,0,0,,It's about time. Are we really doing this?
-Dialogue: 0,0:04:14.23,0:04:15.90,Default,Yuji,0,0,0,,Sasaki{**-senpai}?
-Dialogue: 0,0:04:16.40,0:04:18.02,Default,Yuji,0,0,0,,Iguchi{**-senpai}?
+Dialogue: 0,0:04:10.42,0:04:11.81,Default,Yuji,0,0,0,,It's about time.
+Dialogue: 0,0:04:11.81,0:04:13.77,Default,Yuji,0,0,0,,Are we really doing this?
+Dialogue: 0,0:04:14.15,0:04:15.90,Default,Yuji,0,0,0,,{\fade(300,0)}Sasaki{**-senpai}?
+Dialogue: 0,0:04:16.24,0:04:18.02,Default,Yuji,0,0,0,,{\fade(300,0)}Iguchi{**-senpai}?
 Dialogue: 0,0:04:18.40,0:04:20.28,Default,Yuji,0,0,0,,Okay, here we go!
 Dialogue: 0,0:04:20.28,0:04:22.43,Default,Yuji,0,0,0,,Spirits, spirits, please tell us!
 Dialogue: 0,0:04:22.43,0:04:24.98,Default,Yuji,0,0,0,,Which creature is the council president just barely weaker than?!
@@ -237,7 +238,7 @@ Dialogue: 0,0:11:11.03,0:11:13.69,Default,Grandpa,0,0,0,,Don't end up like me.
 Dialogue: 0,0:11:24.35,0:11:25.52,Default,Yuji,0,0,0,,Grandpa?
 Dialogue: 0,0:11:28.51,0:11:30.52,Default,Nurse,0,0,0,,Yes, what's the matter?
 Dialogue: 0,0:11:32.80,0:11:33.99,Default,Nurse,0,0,0,,Hello?
-Dialogue: 0,0:11:33.99,0:11:35.17,Default,Nurse,0,0,0,,Mr. Itadori{*Itadori-san}?!
+Dialogue: 0,0:11:33.99,0:11:35.17,Default,Nurse,0,0,0,,{*}Mr. Itadori{*Itadori-san}?!
 Dialogue: 0,0:11:38.44,0:11:39.66,Default,Nurse,0,0,0,,{\i1}Hello?
 Dialogue: 0,0:11:42.20,0:11:45.14,Default,Yuji,0,0,0,,My grandpa... is dead.
 Comment: 0,0:11:45.14,0:11:45.18,Default,chptr,0,0,0,,{Part B}
@@ -276,8 +277,8 @@ Dialogue: 0,0:13:37.53,0:13:39.50,Default,Fushiguro,0,0,0,,The object you found 
 Dialogue: 0,0:13:39.50,0:13:42.26,Default,Yuji,0,0,0,,If it's protecting us, shouldn't we be grateful for it?
 Dialogue: 0,0:13:42.26,0:13:43.63,Default,Fushiguro,0,0,0,,Let me finish.
 Dialogue: 0,0:13:44.50,0:13:49.60,Default,Fushiguro,0,0,0,,A cursed object of greater evil is said to be a deadly poison that keeps lesser curses away.
-Dialogue: 0,0:13:49.60,0:13:52.23,Default,Fushiguro,0,0,0,,In reality, it's a bad practice that only claims to protect.
-Dialogue: 0,0:13:53.02,0:13:59.94,Default,Fushiguro,0,0,0,,Over the years, its seal weakens and \Nit starts to attract curses to feed on them.
+Dialogue: 0,0:13:49.60,0:13:52.23,Default,Fushiguro,0,0,0,,In reality, it's a bad practice that only {\i1}claims{\i0} to protect.
+Dialogue: 0,0:13:53.02,0:13:59.94,Default,Fushiguro,0,0,0,,Over the years, its seal weakens and \Nit starts to attract curses which try to feed on it.
 Dialogue: 0,0:14:00.89,0:14:05.54,Default,Fushiguro,0,0,0,,The object you found is a dangerous one, \Nclassified as special-grade.
 Dialogue: 0,0:14:05.54,0:14:07.45,Default,Fushiguro,0,0,0,,Hand it over before people start dying.
 Dialogue: 0,0:14:07.45,0:14:10.51,Default,Yuji,0,0,0,,Hey, I already told you I don't mind.

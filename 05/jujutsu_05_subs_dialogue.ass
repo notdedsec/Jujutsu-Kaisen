@@ -17,9 +17,9 @@ Keyframes File: jujutsu_05_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 307
-Active Line: 315
-Video Position: 34126
+Scroll Position: 151
+Active Line: 158
+Video Position: 18482
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -138,7 +138,7 @@ Dialogue: 0,0:10:29.52,0:10:31.43,Default,Fushiguro,0,0,0,,Just so you know,
 Dialogue: 0,0:10:32.74,0:10:37.53,Default,Fushiguro,0,0,0,,I didn't have any logical reason for saving you back then.
 Dialogue: 0,0:10:38.70,0:10:43.03,Default,Fushiguro,0,0,0,,Even if it was dangerous, \NI couldn't bear to see a good person like you die.
 Dialogue: 0,0:10:43.03,0:10:45.70,Default,Fushiguro,0,0,0,,I did have my reservations,
-Dialogue: 0,0:10:45.70,0:10:48.87,Default,Fushiguro,0,0,0,,{\fade(0,500)}but ultimately it was for selfish, emotional reasons. 
+Dialogue: 0,0:10:45.70,0:10:48.87,Default,Fushiguro,0,0,0,,{\fade(0,500)}but ultimately it was for selfish, emotional reasons.
 Dialogue: 0,0:10:49.89,0:10:52.07,Default,Fushiguro,0,0,0,,But that's okay.
 Dialogue: 0,0:10:53.00,0:10:54.76,Default,Fushiguro,0,0,0,,I'm not a hero.
 Dialogue: 0,0:10:57.05,0:10:58.60,Default,Fushiguro,0,0,0,,I'm a jujutsu sorcerer.
@@ -158,26 +158,35 @@ Dialogue: 0,0:12:30.33,0:12:37.83,Default,Jogo,0,0,0,,Was there any real reason 
 Dialogue: 0,0:12:38.45,0:12:42.62,Default,Geto,0,0,0,,Well, there wasn't much point to it with half measures.
 Dialogue: 0,0:12:43.03,0:12:45.13,Default,Geto,0,0,0,,We did learn a few things.
 Dialogue: 0,0:12:45.13,0:12:47.98,Default,Jogo,0,0,0,,Hmph. I'll be praying that's not just an excuse.
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(642.8,1020)}H
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(687,1020)}e
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(719.65,1020)\i1}i
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(742.04,1020)\i1}s
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(781.8,940)\i0\frx180}t
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(809.98,1020)\i0}h
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(852,1020)\fry180}e
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(894.16,1020)\i0}k
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(920.06,1020)\i0}i
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(949.83,1020)\fry180}n
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(984.38,1020)\fry180}g
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1030.18,1020)\i0}o
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1060.73,1020)\i0}f
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1105.7,1020)\i0}c
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1140.82,1020)\i0}u
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1172.73,1020)\i0}r
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1208,1020)\fry180}s
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1233.28,1020)\i0}e
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1272,1020)\fry180}s
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1287.44,1020)\i0}.
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(508.8,1020)}H
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(550.88,1020)\fry180}e
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(585.74,1020)}i
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(608.16,949)\frx180}s
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(647.98,940)\frx180}t
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(676.19,1020)}h
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(710.77,949) \frx180}e
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(760.46,1020)}k
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(786.39,1020)}i
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(817.99,1020)\fry180}n
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(854.77,1020)\fry180}g
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(896.63,1020)}o
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(927.21,1020)}f
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(972.24,1020)}c
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1007.39,1020)}u
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1039.33,1020)}r
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1067.03,949)\frx180}s
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1106.94,1020)\fry180}e
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1131.85,949)\frx180}s
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1153.92,1020)},
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1203.92,1021)\fry180}a
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1226.17,1020)}f
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1250.57,940)\frx180}t
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1280.29,949)\frx180}e
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1313.16,1020)}r
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1366.79,1020)\fry180}a
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1387.52,1020)}l
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1403.91,1020)}l
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1420.55,1020)}.
 Dialogue: 0,0:12:50.83,0:12:54.62,Default,Jogo,0,0,0,,Stop talking! No one understands what you're saying!
 Dialogue: 0,0:12:57.46,0:13:01.79,Default,Jogo,0,0,0,,We don't understand, yet the meaning flows right into our minds. It's creepy!
 Dialogue: 0,0:13:07.16,0:13:08.72,Default,Waitress,0,0,0,,Welcome!
