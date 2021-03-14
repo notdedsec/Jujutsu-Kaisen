@@ -1,4 +1,3 @@
-
 import myaa.subkt.ass.*
 import myaa.subkt.tasks.*
 import myaa.subkt.tasks.Mux.*
@@ -61,7 +60,7 @@ subs {
                 }
 
                 if(track.type == TrackType.AUDIO){
-                    name("128k AAC")
+                    name("128k AAC WEB")
                 }
             }
 
@@ -98,6 +97,7 @@ subs {
             includeExtensions("ttf", "otf")
         }
 
+        skipUnusedFonts(true)
         out(get("muxfile"))
     }
 
@@ -112,7 +112,7 @@ subs {
         username(get("nyaauser"))
         password(get("nyaapass"))
         category(NyaaCategories.ANIME_ENGLISH)
-        information("https://github.com/notdedsec/Jujutsu-Kaisen")
+        information(get("gitrepo"))
         torrentDescription(getFile("description.vm"))
         hidden(false)
     }
