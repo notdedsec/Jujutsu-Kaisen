@@ -87,7 +87,7 @@ def append(subsfile, text):
     with open(subsfile, 'a+', encoding='utf_8_sig') as f:
         f.write(text)
 
-def crunchy_unroll(infile, source, ep, styles, res, dialogue, typesets):
+def crunchy_unroll(infile, source, ep, styles, dialogue, typesets):
     '''
     Cleans up subtitles by combining Crunchyroll's million signs/title styles into a single 'Signs' style.
     Combines Main, Italics, Flashbacks styles under a 'Default' style as well with italics tags if needed.
@@ -157,7 +157,7 @@ def crunchy_unroll(infile, source, ep, styles, res, dialogue, typesets):
     # copy new styles
     temp = f'{ep}_temp.ass'
     dump_subs(temp, subs)
-    subprocess.run(['python', '-m', 'prass', 'copy-styles', '--from', styles, '--to', temp, '--resolution', res, '-o', temp])
+    subprocess.run(['python', '-m', 'prass', 'copy-styles', '--from', styles, '--to', temp, '--resolution', '1080p', '-o', temp])
     # idk why resampling messes up CR's TS but we're gonna redo it anyway so /shrug
     
     # export dialogue file
@@ -195,7 +195,7 @@ def generate_keyframes(source, keyframes):
     with open(keyframes, 'w') as f:
         f.write(text)
 
-def get_timestamps(dialogue, fps):
+def get_timestamps(dialogue):
     '''
     Reads 'chptr' comments from dialogue subs to find timestamps of OP, ED and Eyecatch.
     Chapters must be named in the following format:
@@ -215,13 +215,13 @@ def get_timestamps(dialogue, fps):
             continue
         if 'opening' in event.text.lower():
             opsync = event.start
-            op = math.ceil(opsync.total_seconds() * fps)
+            op = math.ceil(opsync.total_seconds() * 23.976)
         if 'ending'  in event.text.lower():
             edsync = event.start
-            ed = math.ceil(edsync.total_seconds() * fps)
+            ed = math.ceil(edsync.total_seconds() * 23.976)
         if 'part b'  in event.text.lower(): # Part B / Eyecatch 
             ecsync = event.start
-            ec = math.ceil(ecsync.total_seconds() * fps)
+            ec = math.ceil(ecsync.total_seconds() * 23.976)
 
     return {'op': op, 'ec': ec, 'ed': ed, 'opsync': opsync, 'ecsync': ecsync, 'edsync': edsync}
 
@@ -291,38 +291,33 @@ def main():
     '''
     # read input and prepare work folder
     infile = get_input(sys.argv)
-    ep = episode = get_episode_number(infile)
+    ep = get_episode_number(infile)
     if not os.path.exists(ep):
         os.makedirs(os.path.join(ep, 'fonts'))
 
-    # parsing properties and into a variables dict
-    v = parse_properties('sub.properties', ep)
+    # naming convention
+    styles = 'common/Styles.ass'
+    enc_file = f'{ep}/jujutsu_{ep}.py'
+    vpy_file = f'{ep}/jujutsu_{ep}.vpy'
+    keyframes= f'{ep}/jujutsu_{ep}_keyframes.txt'
 
-    # inserting values of variables in the parsed strings, fallback to defaults if undefined in sub.properties
-    
-    # pre-existing variables for subkt
+    # base scripts for both cours
+    if int(ep) < 14:
+        enc_base = 'common/jujutsu_part_one.py'
+        vpy_base = 'common/jujutsu_part_one.vpy'
+    else:
+        enc_base = 'common/jujutsu_part_two.py'
+        vpy_base = 'common/jujutsu_part_two.vpy'
+
+    # importing subkt variables
+    v = parse_properties('sub.properties', ep)
     source   = v['source']   if 'source'   in v.keys() else f'{ep}/{v["showkey"]}_{ep}.mkv'
-    premux   = v['premux']   if 'premux'   in v.keys() else f'{ep}/{v["showkey"]}_{ep}_encode.mkv'
     dialogue = v['dialogue'] if 'dialogue' in v.keys() else f'{ep}/{v["showkey"]}_{ep}_subs_dialogue.ass'
     typesets = v['typesets'] if 'typesets' in v.keys() else f'{ep}/{v["showkey"]}_{ep}_subs_typesets.ass'
 
-    # new variables for this script
-    vpy_file = v['vpy_file'] if 'vpy_file' in v.keys() else f'{ep}/{v["showkey"]}_{ep}.vpy'
-    enc_file = v['enc_file'] if 'enc_file' in v.keys() else f'{ep}/{v["showkey"]}_{ep}.py'
-    keyframes=v['keyframes'] if 'enc_file' in v.keys() else f'{ep}/{v["showkey"]}_{ep}_keyframes.txt'
-
-    # mandatory variables, exiting if undefined
-    styles   = v['styles']   if 'styles'   in v.keys() else sys.exit("Error: Variable 'styles' not defined in properties.")
-    vpy_base = v['vpy_base'] if 'vpy_base' in v.keys() else sys.exit("Error: Variable 'vpy_base' not defined in properties.")
-    enc_base = v['enc_base'] if 'enc_base' in v.keys() else sys.exit("Error: Variable 'enc_base' not defined in properties.")
-
-    # some more optional variables
-    fps = int(v['fps']) if 'fps' in v.keys() else 23.976
-    res = v['res'] if 'res' in v.keys() else '1080p'
-
     if infile.endswith('.ass'):
         print('Processing subtitles.')
-        crunchy_unroll(infile, source, ep, styles, res, dialogue, typesets)
+        crunchy_unroll(infile, source, ep, styles, dialogue, typesets)
         sys.exit('Done')
 
     subprocess.run(['mkvextract', '-q', 'tracks', infile, f'2:{infile}.ass'])
@@ -330,7 +325,7 @@ def main():
     infile += '.ass'
     
     print('Processing subtitles.')
-    crunchy_unroll(infile, source, ep, styles, res, dialogue, typesets)
+    crunchy_unroll(infile, source, ep, styles, dialogue, typesets)
 
     print('Generating keyframes.')
     print('While this gets done, edit the dialogue track and mark the chapter timestamps.')
@@ -340,7 +335,7 @@ def main():
         sys.exit()
 
     print('Great! Parsing timestamp data.')
-    ts = get_timestamps(dialogue, fps)
+    ts = get_timestamps(dialogue)
     properties  = f'\n{ep}.title='+'${show} - '+f'{get_title(typesets, ep)}\n'
     properties += f'{ep}.opsync={ts["opsync"]}\n{ep}.edsync={ts["edsync"]}\n'
     properties += f'{ep}.ecsync={ts["ecsync"] - datetime.timedelta(seconds=5)}\n'
