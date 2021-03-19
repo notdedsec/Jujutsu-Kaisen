@@ -20,7 +20,7 @@ ec = 11579
 ed = 29849
 
 heavy_denoise = []
-strong_aa     = []
+strong_aa     = [(32211, 32405)]
 static_grain  = []
 dynamic_grain = []
 

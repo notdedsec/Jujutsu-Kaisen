@@ -21,9 +21,8 @@ Video File: jujutsu_15.mkv
 Keyframes File: jujutsu_15_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 266
-Active Line: 270
-Video Position: 34404
+Active Line: 1
+Video Position: 63
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,6 +31,7 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.60,0:00:09.61,Signs,Screentext,0,0,0,,{\fnRagnar\b1\bord1.8\fs66.6\yshad0.6\fad(750,0)\c&HE6E7E7&\pos(976,860)}Episode 15: {\fs77.7}Kyoto Sister School Exchange Event - Team Battle 1
+Dialogue: 1,0:00:02.60,0:00:09.61,Signs,Screentext,0,0,0,,{\fnRagnar\b1\fs66.6\fad(650,0)\c&HE6E7E7&\pos(976,860)}Episode 15: {\fs77.7}Kyoto Sister School Exchange Event - Team Battle 1
 Dialogue: 0,0:03:57.54,0:04:04.05,Signs,Screen,0,0,0,,{\fnArial Black\fs63\fad(1000,0)\shad3.6\fscx80\pos(962,871.34)\c&HFEFEFD&}Before the Exchange Event
 Dialogue: 0,0:03:57.54,0:04:04.05,Signs,Screen,0,0,0,,{\fnArial Black\fs63\fad(1000,0)\shad2.6\fscx80\pos(962,871.34)\c&HFEFEFD&}Before the Exchange Event
 Dialogue: 0,0:18:56.78,0:18:57.32,Signs,Screentext,0,0,0,,{\bord3\fnA-OTF Folk Pro-En B\blur6\b0\fscx65\fscy65\pos(1671,386)\c&HEDEBEE&\1a&HFF&\3c&H796F34&}Recommendation
