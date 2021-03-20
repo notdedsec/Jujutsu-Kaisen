@@ -16,14 +16,14 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: jujutsu_16.mkv
-Video File: jujutsu_16.mkv
-Keyframes File: jujutsu_16_keyframes.txt
+Audio File: [Kaizoku] Jujutsu Kaisen - 16 [8F052E73].mkv
+Video File: [Kaizoku] Jujutsu Kaisen - 16 [8F052E73].mkv
+Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 281
-Active Line: 287
-Video Position: 34166
+Video Zoom Percent: 0.500000
+Scroll Position: 226
+Active Line: 242
+Video Position: 27364
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,9 +40,9 @@ Dialogue: 0,0:00:15.11,0:00:18.83,Default,Toudou,0,0,0,,{\i1}This phrase is comm
 Dialogue: 0,0:00:18.83,0:00:21.50,Default,Toudou,0,0,0,,{\i1}but it applies to all kinds of fields.
 Dialogue: 0,0:00:21.50,0:00:23.80,Default,Toudou,0,0,0,,{\i1}Someone who has a good eye,
 Dialogue: 0,0:00:23.80,0:00:27.75,Default,Toudou,0,0,0,,{\i1}will improve far more rapidly than those without!
-Dialogue: 0,0:00:41.93,0:00:44.89,Default,Toudou,0,0,0,,{\i1}When I throw my right horizontal punch,
-Dialogue: 0,0:00:44.89,0:00:47.65,Default,Toudou,0,0,0,,{\i1}he immediately sends a left vertical jab!
-Dialogue: 0,0:00:48.06,0:00:51.03,Default,Toudou,0,0,0,,{\i1}He totally different from a moment ago!
+Dialogue: 0,0:00:41.93,0:00:44.89,Default,Toudou,0,0,0,,{\i1}When I throw my right horizontal punch,{right hook}
+Dialogue: 0,0:00:44.89,0:00:47.65,Default,Toudou,0,0,0,,{\i1}he immediately sends a left vertical jab!{left uppercut}
+Dialogue: 0,0:00:48.06,0:00:51.03,Default,Toudou,0,0,0,,{\i1}He's totally different from a moment ago!
 Dialogue: 0,0:00:51.03,0:00:52.48,Default,Toudou,0,0,0,,{\i1}He's improving!
 Dialogue: 0,0:00:53.69,0:00:55.57,Default,Toudou,0,0,0,,{\i1}By devouring me!
 Dialogue: 0,0:00:56.74,0:00:59.66,Default,Toudou,0,0,0,,{\i1}He's knocking me down with such beauty!
@@ -60,7 +60,7 @@ Dialogue: 0,0:01:35.62,0:01:37.20,Default,Toudou,0,0,0,,It carries plenty of for
 Dialogue: 0,0:01:37.20,0:01:39.78,Default,Toudou,0,0,0,,For opponents on that level, at least!
 Dialogue: 0,0:01:40.87,0:01:43.33,Default,Toudou,0,0,0,,But it won't work against special-grades.
 Dialogue: 0,0:01:44.41,0:01:46.33,Default,Toudou,0,0,0,,What will you do now, my friend?
-Dialogue: 0,0:01:48.25,0:01:52.13,Default,Yuuji,0,0,0,,I'll apply cursed enrgy at the exact moment my strike hits at full strength.
+Dialogue: 0,0:01:48.25,0:01:52.13,Default,Yuuji,0,0,0,,I'll apply cursed energy at the exact moment my strike hits at full strength.
 Dialogue: 0,0:01:52.13,0:01:53.09,Default,Toudou,0,0,0,,Good!
 Dialogue: 0,0:01:53.09,0:01:56.42,Default,Toudou,0,0,0,,Then why is your cursed energy lagging?
 Dialogue: 0,0:01:56.42,0:01:59.81,Default,Toudou,0,0,0,,It's because of how you're channeling it!
@@ -85,7 +85,7 @@ Dialogue: 0,0:02:51.73,0:02:54.32,Default,Toudou,0,0,0,,Do we think with our gut
 Dialogue: 0,0:02:54.74,0:02:57.32,Default,Toudou,0,0,0,,Do we use our minds to express anger?
 Dialogue: 0,0:02:58.24,0:02:59.90,Default,Toudou,0,0,0,,Listen up, Itadori.
 Dialogue: 0,0:03:11.54,0:03:16.21,Default,Toudou,0,0,0,,We exist in this world with our entire mind, body, and soul.
-Dialogue: 0,0:03:16.55,0:03:20.72,Default,Toudou,0,0,0,,It's so obvious that everyone has taken it for granted.
+Dialogue: 0,0:03:16.55,0:03:20.72,Default,Toudou,0,0,0,,It's so obvious, that everyone has taken it for granted.
 Dialogue: 0,0:03:26.06,0:03:27.97,Default,Yuuji,0,0,0,,Thanks, Todo.
 Dialogue: 0,0:03:29.18,0:03:32.48,Default,Yuuji,0,0,0,,I think I get it now.
 Dialogue: 0,0:03:33.44,0:03:36.44,Default,Toudou,0,0,0,,Looks like we're done talking.
@@ -150,10 +150,10 @@ Dialogue: 0,0:08:33.57,0:08:34.86,Default,Panda,0,0,0,,{\i1}Heat emission!
 Dialogue: 0,0:08:34.86,0:08:36.95,Default,Panda,0,0,0,,{\i1}It's a technique with big build-up and cool-down.
 Dialogue: 0,0:08:37.49,0:08:42.12,Default,Mechamaru,0,0,0,,{\i1}This level of power is pointless \Nunless I hit his core dead-on.
 Dialogue: 0,0:08:42.96,0:08:44.37,Default,Yaga,0,0,0,,Cursed corpses.
-Dialogue: 0,0:08:44.92,0:08:50.68,Default,Yaga,0,0,0,,An inanimate object that is \Nendowed with a curse and gains self control.
+Dialogue: 0,0:08:44.92,0:08:50.68,Default,Yaga,0,0,0,,An inanimate object that is \Nendowed with a curse and gains self control.{or gains sentience/autonomy. Self control is quite something else.}
 Dialogue: 0,0:08:51.26,0:08:56.34,Default,Yaga,0,0,0,,{\fade(500,0)}Man-made cursed corpses always have a core that serves as their heart.
 Dialogue: 0,0:09:02.39,0:09:06.57,Default,Yaga,0,0,0,,Panda is the ultimate masterpiece created by me, Yaga Masamichi,
-Dialogue: 0,0:09:06.57,0:09:09.48,Default,,0,0,0,,the leading expert on puppet cursed techniques.
+Dialogue: 0,0:09:06.57,0:09:09.48,Default,,0,0,0,,the leading expert on puppet cursed techniques.{I suggest a timing and splitting interchange between this line and the previous. We hear "Yaga Masamichi" when THIS line is on screen. Suggested: "Panda is the ultimate masterpiece," (keyframe split) "created by me, Yaga Masamichi,\Nthe leading expert on puppet cursed techniques."}
 Dialogue: 0,0:09:09.48,0:09:12.15,Default,Yaga,0,0,0,,He's a cursed corpse born with emotions.
 Dialogue: 0,0:09:21.49,0:09:24.20,Default,Yaga,0,0,0,,A cursed corpse mutation!
 Dialogue: 0,0:09:24.79,0:09:28.21,Default,Yaga,0,0,0,,Panda... is not a panda!
@@ -178,7 +178,7 @@ Dialogue: 0,0:10:46.16,0:10:50.25,Default,Mechamaru,0,0,0,,It's a pact forced up
 Dialogue: 0,0:10:50.25,0:10:54.17,Default,Mechamaru,0,0,0,,I was born without a right arm or anything below my knees,
 Dialogue: 0,0:10:54.17,0:10:56.84,Default,Mechamaru,0,0,0,,and I had no sensation from the waist down.
 Dialogue: 0,0:10:56.84,0:11:00.13,Default,Mechamaru,0,0,0,,My skin is so fragile that even moonlight burns it.
-Dialogue: 0,0:11:00.13,0:11:04.48,Default,Mechamaru,0,0,0,,{\fade(0,500)}Every pore of my body feels like its constantly being poked with needles.
+Dialogue: 0,0:11:00.13,0:11:04.48,Default,Mechamaru,0,0,0,,{\fade(0,500)}Every pore of my body feels like it's constantly being poked {at }with needles.
 Dialogue: 2,0:11:04.31,0:11:11.35,Default,Mechamaru,0,0,0,,{\fade(250,0)}But in exchange, I can use my technique over \Nwide ranges, and produce immense cursed energy.
 Dialogue: 0,0:11:11.35,0:11:14.15,Default,Mechamaru,0,0,0,,I didn't ask for this power.
 Dialogue: 0,0:11:14.15,0:11:19.11,Default,Mechamaru,0,0,0,,If I could trade this technique \Nfor a normal body, I'd do it in a heartbeat.
@@ -202,7 +202,7 @@ Dialogue: 0,0:12:34.77,0:12:38.98,Default,Mechamaru,0,0,0,,What is that form?
 Dialogue: 0,0:12:38.98,0:12:42.61,Default,Yaga,0,0,0,,Panda... is not a panda!
 Comment: 0,0:12:49.00,0:12:49.04,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:12:58.84,0:12:59.72,Default,Yaga,0,0,0,,Panda.
-Dialogue: 0,0:13:00.46,0:13:04.38,Default,Yaga,0,0,0,,You have an older brother and sister.
+Dialogue: 0,0:13:00.46,0:13:04.38,Default,Yaga,0,0,0,,You have an older{elder?} brother and sister.
 Dialogue: 0,0:13:05.68,0:13:07.22,Default,Panda,0,0,0,,No, I do not.
 Dialogue: 0,0:13:07.22,0:13:08.68,Default,Yaga,0,0,0,,Yes, you do.
 Dialogue: 0,0:13:08.68,0:13:10.68,Default,Yaga,0,0,0,,They're inside you.
@@ -222,8 +222,8 @@ Dialogue: 0,0:13:55.52,0:13:57.77,Default,Panda,0,0,0,,{\i1}As for my bashful si
 Dialogue: 0,0:13:58.77,0:14:01.36,Default,Panda,0,0,0,,{\i1}His first attack got my sister's core,
 Dialogue: 0,0:14:01.36,0:14:04.24,Default,Panda,0,0,0,,{\i1}and that last one exhausted the Panda core.
 Dialogue: 0,0:14:04.99,0:14:07.74,Default,Panda,0,0,0,,{\i1}I have no choice left but to beat him with Gorilla Mode!
-Dialogue: 0,0:14:16.62,0:14:19.08,Default,Mechamaru,0,0,0,,{\i1}He doesn't pack as much power as Todo.
-Dialogue: 0,0:14:19.08,0:14:23.09,Default,Mechamaru,0,0,0,,{\i1}But that strike just now resonated with my internals.
+Dialogue: 0,0:14:16.62,0:14:19.08,Default,Mechamaru,0,0,0,,{\i1}He doesn't{"may not"} pack as much power as Todo,
+Dialogue: 0,0:14:19.08,0:14:23.09,Default,Mechamaru,0,0,0,,{\i1}but that strike just now resonated with my internals.
 Dialogue: 0,0:14:24.30,0:14:26.72,Default,Mechamaru,0,0,0,,{\i1}I took damage even while guarding against it.
 Dialogue: 0,0:14:26.72,0:14:28.55,Default,Panda,0,0,0,,You realized it?
 Dialogue: 0,0:14:28.55,0:14:31.26,Default,Panda,0,0,0,,This is Gorilla Mode's special move,
@@ -275,7 +275,7 @@ Dialogue: 0,0:18:49.03,0:18:51.27,Default,Panda,0,0,0,,But if you have a wish yo
 Dialogue: 0,0:18:51.27,0:18:53.40,Default,Panda,0,0,0,,I'll help you out.
 Dialogue: 0,0:18:57.53,0:18:58.28,Default,Kamo,0,0,0,,Mechamaru.
 Dialogue: 0,0:18:59.12,0:19:01.29,Default,Kamo,0,0,0,,Don't be reckless with powerful moves.
-Dialogue: 0,0:19:01.29,0:19:04.28,Default,Kamo,0,0,0,,You never know how many enemies could be facing next.
+Dialogue: 0,0:19:01.29,0:19:04.28,Default,Kamo,0,0,0,,You never know how many enemies you could be facing next.{added a missing word, this made the line too long for a single line though. See if you want to split it in a different place.}
 Dialogue: 0,0:19:05.58,0:19:07.04,Default,Toudou,0,0,0,,Listen up, Mechamaru.
 Dialogue: 0,0:19:07.04,0:19:12.79,Default,,0,0,0,,If you can't instantly state your type, \Nyou'll never become an elite sorcerer.
 Dialogue: 0,0:19:13.22,0:19:17.43,Default,Miwa,0,0,0,,Mechamaru, this is just obligatory, \Nbut I got you these instead of chocolates.
