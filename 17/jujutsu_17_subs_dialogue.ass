@@ -16,14 +16,14 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: jujutsu_17.mkv
-Video File: jujutsu_17.mkv
-Keyframes File: jujutsu_17_keyframes.txt
+Audio File: [Kaizoku] Jujutsu Kaisen - 17 [4EFB63C7].mkv
+Video File: [Kaizoku] Jujutsu Kaisen - 17 [4EFB63C7].mkv
+Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 149
-Active Line: 153
-Video Position: 15345
+Scroll Position: 253
+Active Line: 269
+Video Position: 27433
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,30 +41,30 @@ Dialogue: 0,0:01:34.57,0:01:36.36,Default,Mai,0,0,0,,{\an8}She can't even see cu
 Dialogue: 0,0:01:36.36,0:01:38.91,Default,Mai,0,0,0,,{\an8}She's just a normal person swinging around cursed tools.
 Dialogue: 0,0:01:39.26,0:01:41.04,Default,Mai,0,0,0,,She's forever a fourth-grade.
 Dialogue: 0,0:01:41.44,0:01:44.71,Default,Mai,0,0,0,,Why is she a jujutsu sorcerer in the first place?
-Dialogue: 0,0:01:45.14,0:01:46.98,Default,Utahime,0,0,0,,Break's over.
-Dialogue: 0,0:01:46.98,0:01:48.59,Default,Mai,0,0,0,,Okay.
+Dialogue: 0,0:01:45.14,0:01:46.98,Default,Utahime,0,0,0,,Break's over!
+Dialogue: 0,0:01:46.98,0:01:48.59,Default,Mai,0,0,0,,Okay!
 Dialogue: 0,0:01:48.59,0:01:49.71,Default,Miwa,0,0,0,,{\i1}I see.
-Dialogue: 0,0:01:50.74,0:01:52.18,Default,Miwa,0,0,0,,{\i1}That's a relief.
+Dialogue: 0,0:01:50.74,0:01:52.18,Default,Miwa,0,0,0,,{\i1}That's a relief!
 Dialogue: 0,0:01:53.15,0:01:54.26,Default,Miwa,0,0,0,,{\i1}Mai, you idiot!
 Dialogue: 0,0:01:54.64,0:01:57.80,Default,Miwa,0,0,0,,{\i1}She's crazy strong!
-Dialogue: 0,0:01:58.58,0:02:01.42,Default,Miwa,0,0,0,,{\i1}She's using a long weapon, \Nso I need to close the distance,
+Dialogue: 0,0:01:58.58,0:02:01.42,Default,Miwa,0,0,0,,{\i1}She's using a long{-ranged} weapon, \Nso I need to close the distance,
 Dialogue: 0,0:02:01.42,0:02:03.56,Default,Miwa,0,0,0,,{\i1}but I've got my hands full just defending!
-Dialogue: 0,0:02:03.56,0:02:05.36,Default,Miwa,0,0,0,,{\i1}If she were using the blade,
+Dialogue: 0,0:02:03.56,0:02:05.36,Default,Miwa,0,0,0,,{\i1}If she were using the blade...{because technically there is an interruption}
 Dialogue: 0,0:02:06.25,0:02:08.69,Default,Miwa,0,0,0,,{\i1}I would've died twice already!
 Dialogue: 0,0:02:08.69,0:02:10.41,Default,Miwa,0,0,0,,{\i1}You call this a fourth-grade?!
 Dialogue: 0,0:02:11.21,0:02:14.46,Default,Miwa,0,0,0,,{\i1}She'd clean up a second-grade\N curse without breaking a sweat!
-Dialogue: 0,0:02:16.12,0:02:21.21,Default,Miwa,0,0,0,,{\i1}And how the hell is she swinging a pole arm \Nin a cramped space like these woods?!
+Dialogue: 0,0:02:16.12,0:02:21.21,Default,Miwa,0,0,0,,{\i1}And how the hell is she swinging a polearm \Nin a cramped space like these woods?!{It's one word}
 Dialogue: 0,0:02:41.68,0:02:46.17,Default,,0,0,0,,{\i1}New Shadow Style: Simple Domain!
-Dialogue: 0,0:02:47.72,0:02:53.53,Default,,0,0,0,,{\i1}My simple domain allows me to attack anything \Nwithin a 2.21-meter radius on full-auto reflex.
-Dialogue: 0,0:02:53.88,0:02:57.74,Default,,0,0,0,,{\i1}It's released if my feet move \Nfrom the point they're at when it's activated.
+Dialogue: 0,0:02:47.72,0:02:53.53,Default,,0,0,0,,{\i1}My simple domain allows me to attack anything \Nwithin a 2.21-meter radius on full-auto reflex.{S*imple D*omain?}
+Dialogue: 0,0:02:53.88,0:02:57.74,Default,,0,0,0,,{\i1}It's released if my feet move \Nfrom the point they're at when it's activated.{these bunch of sentences are very wordy and very fast. See the CPS? IDK what you can do in most cases, but here... "It's released if my feet move" sounds like it's enough. But she audibly says "point" so maybe "It's released if my feet move from the point they're at."}
 Dialogue: 0,0:02:58.38,0:03:02.08,Default,,0,0,0,,{\i1}On top of that, my Quick Draw is most effective against enemies attacking head-on.
-Dialogue: 0,0:03:02.08,0:03:05.86,Default,,0,0,0,,{\i1}It covers my blade with cursed energy and accelerates drawing of the sword.
+Dialogue: 0,0:03:02.08,0:03:05.86,Default,,0,0,0,,{\i1}It covers my blade with cursed energy, and accelerates the drawing of the sword.{or "accelerates the sword-draw"?}
 Dialogue: 0,0:03:05.86,0:03:08.30,Default,,0,0,0,,{\i1}It's the fastest technique within the New Shadow Style.
 Dialogue: 0,0:03:08.30,0:03:10.71,Default,,0,0,0,,{\i1}But I doubt that'll be enough to settle the match.
 Dialogue: 0,0:03:10.71,0:03:12.96,Default,,0,0,0,,{\i1}I need to focus on creating an opening first.
 Dialogue: 0,0:03:13.30,0:03:14.42,Default,Maki,0,0,0,,{\i1}Iaijutsu, huh?
-Dialogue: 0,0:03:14.42,0:03:16.68,Default,Maki,0,0,0,,{\i1}Looks like she's got some trick too.
-Dialogue: 0,0:03:17.05,0:03:18.87,Default,Maki,0,0,0,,{\i1}I have the advantage in terms of reach.
+Dialogue: 0,0:03:14.42,0:03:16.68,Default,Maki,0,0,0,,{\i1}Looks like she's got some trick too.{tricks*? just to talk about trickery, would be "she's got some tricks"}
+Dialogue: 0,0:03:17.05,0:03:18.87,Default,Maki,0,0,0,,{\i1}I have the advantage in terms of reach.{"I have the advantage of reach." also does it.}
 Dialogue: 0,0:03:18.87,0:03:22.13,Default,Maki,0,0,0,,{\i1}She probably wants to knock away my cursed tool and create an opening.
 Dialogue: 0,0:03:23.80,0:03:25.76,Default,Maki,0,0,0,,In that case...
 Dialogue: 0,0:03:26.35,0:03:27.30,Default,Miwa,0,0,0,,{\i1}She broke it?!
@@ -80,7 +80,7 @@ Dialogue: 0,0:03:50.34,0:03:52.44,Default,Miwa,0,0,0,,{\i1}Aikido?! She's skille
 Dialogue: 0,0:03:53.94,0:03:54.84,Default,Miwa,0,0,0,,Huh?
 Dialogue: 0,0:03:55.66,0:03:57.92,Default,Maki,0,0,0,,Nice blade you've got here.
 Dialogue: 0,0:03:58.56,0:04:00.25,Default,Miwa,0,0,0,,Sword-stealing?
-Dialogue: 0,0:04:00.65,0:04:01.93,Default,Miwa,0,0,0,,Give it back?
+Dialogue: 0,0:04:00.65,0:04:01.93,Default,Miwa,0,0,0,,Give it back{...}?
 Dialogue: 0,0:04:07.56,0:04:09.52,Default,Mei Mei,0,0,0,,What an interesting girl.
 Dialogue: 0,0:04:09.52,0:04:12.97,Default,Mei Mei,0,0,0,,We should promote her to second-grade already.
 Dialogue: 0,0:04:12.97,0:04:15.40,Default,Gojou,0,0,0,,I feel the same way,
@@ -95,16 +95,16 @@ Dialogue: 0,0:04:37.29,0:04:39.59,Default,Gojou,0,0,0,,Huh? Is that true?
 Dialogue: 0,0:04:39.59,0:04:42.17,Default,Gojou,0,0,0,,Let's be blunt. Which side are you on, Mei{**-san}?
 Dialogue: 0,0:04:42.47,0:04:43.48,Default,Mei Mei,0,0,0,,Which side?
 Dialogue: 0,0:04:43.48,0:04:45.63,Default,Mei Mei,0,0,0,,I'm on money's side, of course.
-Dialogue: 0,0:04:45.63,0:04:48.56,Default,Mei Mei,0,0,0,,There's no value to something that can't be bought.
-Dialogue: 0,0:04:48.56,0:04:51.53,Default,Mei Mei,0,0,0,,You can't make money out of it, after all.
+Dialogue: 0,0:04:45.63,0:04:48.56,Default,Mei Mei,0,0,0,,There's no value in something that can't be bought.
+Dialogue: 0,0:04:48.56,0:04:51.53,Default,Mei Mei,0,0,0,,You can't make money out of it, after all.{"it"? What exactly is she referring to?}
 Dialogue: 0,0:04:51.98,0:04:54.01,Default,Gojou,0,0,0,,Just how much have you saved up?
 Dialogue: 0,0:04:55.15,0:04:58.24,Default,Gojou,0,0,0,,{\i1}I don't know what you guys are planning,
 Dialogue: 0,0:04:58.24,0:05:02.28,Default,Gojou,0,0,0,,{\i1}but it won't be that easy to deal with Yuji anymore.
 Dialogue: 0,0:05:03.28,0:05:03.99,Default,Gojou,0,0,0,,Oh!
-Dialogue: 0,0:05:04.37,0:05:04.45,Default,Gojou,0,0,0,,{\pos(1550,955)}We got some action.
-Dialogue: 0,0:05:04.45,0:05:04.58,Default,Gojou,0,0,0,,{\pos(1125,966)}We got some action.
-Dialogue: 0,0:05:04.58,0:05:06.57,Default,Gojou,0,0,0,,We got some action.
-Dialogue: 0,0:05:08.12,0:05:12.03,Default,Ijichi,0,0,0,,Charms are placed on curses released in the area.
+Dialogue: 0,0:05:04.37,0:05:04.45,Default,Gojou,0,0,0,,{\pos(1550,955)}We've got some action.
+Dialogue: 0,0:05:04.45,0:05:04.58,Default,Gojou,0,0,0,,{\pos(1125,966)}We've got some action.
+Dialogue: 0,0:05:04.58,0:05:06.57,Default,Gojou,0,0,0,,We've got some action.
+Dialogue: 0,0:05:08.12,0:05:12.03,Default,Ijichi,0,0,0,,Charms are placed on curses released in the area.{arena. but oof he says "area" audibly.}
 Dialogue: 0,0:05:12.03,0:05:13.13,Default,Ijichi,0,0,0,,When the curse is exorcised,
 Dialogue: 0,0:05:13.13,0:05:13.54,Default,Ijichi,0,0,0,,{\move(960,1020,818.67,1132,16,392)}When the curse is exorcised,
 Dialogue: 0,0:05:15.50,0:05:19.38,Default,Ijichi,0,0,0,,the corresponding charm here \Nin the viewing area is extinguished too.
@@ -127,7 +127,7 @@ Dialogue: 0,0:06:09.54,0:06:11.92,Default,Kugisaki,0,0,0,,{\i1}It hurts like hel
 Dialogue: 0,0:06:11.92,0:06:14.34,Default,Kugisaki,0,0,0,,{\i1}If I drop my guard, it'll rip me to shreds!
 Dialogue: 0,0:06:22.56,0:06:25.03,Default,Kugisaki,0,0,0,,How dare you hurt my precious face?
 Dialogue: 0,0:06:25.45,0:06:28.27,Default,Momo,0,0,0,,A scar on the face is a badge of honor for a man.
-Dialogue: 0,0:06:29.32,0:06:32.16,Default,Momo,0,0,0,,Though it's only a flaw on a woman.
+Dialogue: 0,0:06:29.32,0:06:32.16,Default,Momo,0,0,0,,Though it's only a flaw on a woman.{"only a flaw" potentially diminishes it's flaw-nature. "Though it's a flaw, only on a woman" highlights how it turns into a flaw only for women. Alternatively, "Though it's nothing but a flaw on a woman" highlights how it can be a flaw only, and nothing else, though this falls prey to the same potential misinterpretation problems as in the first case... still better.}
 Dialogue: 0,0:06:32.16,0:06:33.40,Default,Kugisaki,0,0,0,,Say what?
 Dialogue: 0,0:06:33.79,0:06:37.04,Default,Momo,0,0,0,,You think the world of \Njujutsu sorcery is all about skill?
 Dialogue: 0,0:06:37.04,0:06:38.75,Default,Kugisaki,0,0,0,,And it actually is.
@@ -141,7 +141,7 @@ Dialogue: 0,0:06:53.81,0:06:58.06,Default,Momo,0,0,0,,They don't just demand str
 Dialogue: 0,0:06:58.06,0:06:59.44,Default,Momo,0,0,0,,They demand perfection!
 Dialogue: 0,0:07:00.43,0:07:01.84,Default,Momo,0,0,0,,And on top of that,
 Dialogue: 0,0:07:01.84,0:07:05.27,Default,Momo,0,0,0,,Mai{**-chan} has to deal with even more outrageous demands.
-Dialogue: 0,0:07:06.32,0:07:10.08,Default,Kugisaki,0,0,0,,I get that you're a pain in the ass!
+Dialogue: 0,0:07:06.32,0:07:10.08,Default,Kugisaki,0,0,0,,I get that you're a pain in the ass!{"What I get is that... you're a pain in the ass!" seems less out of the blue.}
 Dialogue: 0,0:07:16.82,0:07:20.88,Default,Momo,0,0,0,,{\i1}She's only a first-year, and she's already used to fighting?
 Dialogue: 0,0:07:21.71,0:07:24.80,Default,Momo,0,0,0,,{\i1}She gets right back up no matter how many times I knock her down.
 Dialogue: 0,0:07:25.68,0:07:30.59,Default,Kugisaki,0,0,0,,I've gotten used to being tossed around.
@@ -154,7 +154,7 @@ Dialogue: 0,0:07:44.16,0:07:46.24,Default,Kamo,0,0,0,,Essentially, imbuing sound
 Dialogue: 0,0:07:46.24,0:07:50.11,Default,Kamo,0,0,0,,You just need to protect yourself using \Ncursed energy, starting from ears to your brain.
 Dialogue: 0,0:07:50.48,0:07:54.25,Default,Kamo,0,0,0,,Cursed speech is a technique specialized for use against cursed spirits.
 Dialogue: 0,0:07:54.25,0:07:59.75,Default,Kamo,0,0,0,,Like I said before, it's nothing \Nto be afraid of if you know it's coming.
-Dialogue: 0,0:08:00.15,0:08:05.25,Default,Momo,0,0,0,,{\i1}However, if you're not sure if it's coming, \Nyou're constantly distracted.
+Dialogue: 0,0:08:00.15,0:08:05.25,Default,Momo,0,0,0,,{\i1}However, if you're not sure {if }it's coming, \Nyou're constantly distracted.
 Dialogue: 0,0:08:05.97,0:08:09.68,Default,Momo,0,0,0,,{\i1}Protecting the inside of your head is difficult enough as it is already...
 Dialogue: 0,0:08:10.06,0:08:12.97,Default,Momo,0,0,0,,{\i1}He's a nuisance no matter where he is!
 Dialogue: 0,0:08:14.02,0:08:16.18,Default,Kugisaki,0,0,0,,All done with your lecture?!
@@ -172,12 +172,12 @@ Dialogue: 0,0:09:02.14,0:09:05.23,Default,,0,0,0,,just to enjoy what we take for
 Dialogue: 0,0:09:07.22,0:09:13.45,Default,Momo,0,0,0,,Why don't you try thinking that over with that brain of yours that confuses curses for friends?
 Dialogue: 0,0:09:15.71,0:09:17.43,Default,Kugisaki,0,0,0,,Shut up already.
 Dialogue: 0,0:09:17.43,0:09:20.52,Default,Kugisaki,0,0,0,,You think misfortune is a free pass to do anything?
-Dialogue: 0,0:09:21.42,0:09:22.86,Default,Kugisaki,0,0,0,,What, then?
+Dialogue: 0,0:09:21.42,0:09:22.86,Default,Kugisaki,0,0,0,,What then?
 Dialogue: 0,0:09:22.86,0:09:26.46,Default,Kugisaki,0,0,0,,You're okay with those who are blessed getting trash-talked behind their backs?
 Dialogue: 0,0:09:26.79,0:09:29.08,Default,Kugisaki,0,0,0,,Because of that, Saori{**-chan}...
 Dialogue: 0,0:09:30.72,0:09:34.64,Default,Kugisaki,0,0,0,,I can't stand her, regardless of her upbringing.
 Dialogue: 0,0:09:35.31,0:09:39.34,Default,Kugisaki,0,0,0,,And I love Maki{**-san}, who endured the same upbringing.
-Dialogue: 0,0:09:39.98,0:09:47.43,Default,Kugisaki,0,0,0,,Have any of you ever stopped to consider \Nwhat kind of person the idiot you're trying to kill is?
+Dialogue: 0,0:09:39.98,0:09:47.43,Default,Kugisaki,0,0,0,,Have any of you ever stopped to consider \Nwhat kind of {\i1}person{\i0} the idiot you're trying to kill is?
 Dialogue: 0,0:09:48.10,0:09:51.53,Default,Kugisaki,0,0,0,,What makes us obligated \Nto meet such such absurd demands?
 Dialogue: 0,0:09:52.65,0:09:55.91,Default,Kugisaki,0,0,0,,Is your entire life just a job?!
 Dialogue: 0,0:09:55.91,0:09:58.83,Default,,0,0,0,,{\i1}Straw Doll Technique: Hairpin!
@@ -186,7 +186,7 @@ Dialogue: 0,0:10:25.19,0:10:28.52,Default,Momo,0,0,0,,You might have brought me 
 Dialogue: 0,0:10:30.98,0:10:33.36,Default,Kugisaki,0,0,0,,Nope, I got you.
 Dialogue: 0,0:10:34.11,0:10:36.15,Default,Kugisaki,0,0,0,,This is plenty!
 Dialogue: 0,0:10:36.15,0:10:39.40,Default,Momo,0,0,0,,{\i1}My broom's bristle? She must've grabbed it just now.
-Dialogue: 0,0:10:40.00,0:10:43.37,Default,Kugisaki,0,0,0,,I don't give a damn about "men" this and "women" that!
+Dialogue: 0,0:10:40.00,0:10:43.37,Default,Kugisaki,0,0,0,,I don't give a damn about "men" this and "women" that!{I believe it should quote +1 word each. "men this" and "women that!" but i could be wrong.}{also: damn this line has gotten famous as-is, on the internet. hm. They use single quotes instead of double tho.}
 Dialogue: 0,0:10:43.62,0:10:46.38,Default,Kugisaki,0,0,0,,You can keep that shit to yourselves!
 Dialogue: 0,0:10:46.38,0:10:49.84,Default,Kugisaki,0,0,0,,I love myself when I'm pretty and all dressed up!
 Dialogue: 0,0:10:49.84,0:10:52.92,Default,Kugisaki,0,0,0,,And I love myself when I'm being strong!
@@ -198,13 +198,13 @@ Dialogue: 0,0:11:08.14,0:11:09.15,Default,Kugisaki,0,0,0,,{\i1}In that case...
 Dialogue: 0,0:11:11.02,0:11:12.11,Default,Momo,0,0,0,,{\i1}A squeaky hammer?!
 Dialogue: 0,0:11:21.42,0:11:23.20,Default,Kugisaki,0,0,0,,One more time!
 Dialogue: 0,0:11:31.25,0:11:33.59,Default,Mai,0,0,0,,Just barely within effective range.
-Dialogue: 0,0:11:34.15,0:11:38.01,Default,Mai,0,0,0,,I'm so glad it hit it's mark.
+Dialogue: 0,0:11:34.15,0:11:38.01,Default,Mai,0,0,0,,I'm so glad it hit its mark.
 Comment: 0,0:11:43.02,0:11:43.06,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:11:48.95,0:11:50.97,Default,Mai,0,0,0,,Hello? Momo?
 Dialogue: 0,0:11:52.11,0:11:54.20,Default,Mai,0,0,0,,Don't worry, it's a rubber bullet.
 Dialogue: 0,0:11:54.20,0:11:58.41,Default,Mai,0,0,0,,More importantly, that light \Nearlier was Ultimate Cannon, right?
 Dialogue: 0,0:11:58.41,0:12:01.28,Default,Mai,0,0,0,,But I can't get in touch with Mechamaru.
-Dialogue: 0,0:12:01.28,0:12:05.91,Default,Mai,0,0,0,,{\i1}If he was forced to use such a powerful technique and this is the end result, he probably lost.
+Dialogue: 0,0:12:01.28,0:12:05.91,Default,Mai,0,0,0,,{\i1}If he was forced to use such a powerful technique{,} and this is the end result, he probably lost.
 Dialogue: 0,0:12:06.25,0:12:08.37,Default,Mai,0,0,0,,{\i1}Panda will probably be back.
 Dialogue: 0,0:12:08.37,0:12:10.95,Default,Mai,0,0,0,,{\i1}Get away from there and \Nsupport everyone from above.
 Dialogue: 0,0:12:11.68,0:12:13.69,Default,Mai,0,0,0,,{\i1}We're all in trouble without you.
@@ -215,22 +215,22 @@ Dialogue: 0,0:12:22.60,0:12:23.39,Default,Momo,0,0,0,,{\i1}Yeah.
 Dialogue: 0,0:12:24.10,0:12:28.02,Default,Maki,0,0,0,,What, not gonna call your friends?
 Dialogue: 0,0:12:28.02,0:12:31.81,Default,Maki,0,0,0,,I don't mind going two-on-one.
 Dialogue: 0,0:12:32.23,0:12:35.74,Default,Mai,0,0,0,,There are lots of ways to enjoy this, you know?
-Dialogue: 0,0:12:36.34,0:12:38.53,Default,Mai,0,0,0,,I could have everyone beat you together,
+Dialogue: 0,0:12:36.34,0:12:38.53,Default,Mai,0,0,0,,I could have everyone beat you{beat you up*} together,{or "defeat you"}
 Dialogue: 0,0:12:38.53,0:12:40.71,Default,Mai,0,0,0,,but I'd like to enjoy you...
-Dialogue: 0,0:12:41.65,0:12:42.78,Default,Mai,0,0,0,,all by myself.
-Dialogue: 0,0:12:43.04,0:12:46.74,Default,Maki,0,0,0,,{*}How about treating me with some respect, kiddo.{*Call me "Onee-chan," little sister.}
+Dialogue: 0,0:12:41.65,0:12:42.78,Default,Mai,0,0,0,,all to myself.{to have X "all to myself", is the right one, about not wanting to share. "All by myself" has an element of being alone/lonely.}
+Dialogue: 0,0:12:43.04,0:12:46.74,Default,Maki,0,0,0,,{*}How about treating me{treating your elder} with some respect, kiddo.{*Call me "Onee-chan," little sister.}
 Dialogue: 0,0:12:47.87,0:12:50.63,Default,Kugisaki,0,0,0,,What do you think of Maki{**-san}?
 Dialogue: 0,0:12:50.63,0:12:53.71,Default,Yuuji,0,0,0,,She'll be mad no matter what I say!
 Dialogue: 0,0:12:54.15,0:12:57.25,Default,Yuuji,0,0,0,,I-I think she's a wonderful woman.
 Dialogue: 0,0:12:57.25,0:13:00.27,Default,Kugisaki,0,0,0,,Huh? I'm talking about as a sorcerer.
-Dialogue: 0,0:13:00.27,0:13:02.88,Default,Yuuji,0,0,0,,Oh, that? Good...
+Dialogue: 0,0:13:00.27,0:13:02.88,Default,Yuuji,0,0,0,,Oh, that? Good...{isn't this "That's good/That's great"?}{"<i>That's</i> good"}
 Dialogue: 0,0:13:04.76,0:13:08.60,Default,Yuuji,0,0,0,,Honestly, I still don't know \Nmuch about jujutsu and all that,
 Dialogue: 0,0:13:09.23,0:13:11.35,Default,Yuuji,0,0,0,,but she's a fighter.
-Dialogue: 0,0:13:11.35,0:13:14.76,Default,Yuuji,0,0,0,,Maybe it's her balance or the way she walks, \Nbut you can tell she's something else.
+Dialogue: 0,0:13:11.35,0:13:14.76,Default,Yuuji,0,0,0,,Maybe it's her balance or the way she walks \Nbut you can tell she's something else.{oof line flies by so fast. comma encourages a pause, but by then ,the line is gone.}
 Dialogue: 0,0:13:15.11,0:13:17.16,Default,Kugisaki,0,0,0,,Maki{**-san} is a fourth-grade.
 Dialogue: 0,0:13:17.16,0:13:19.06,Default,Yuuji,0,0,0,,Huh? Seriously?
 Dialogue: 0,0:13:19.54,0:13:22.42,Default,Kugisaki,0,0,0,,Her family is an annoying clan of sorcerers.
-Dialogue: 0,0:13:23.45,0:13:28.00,Default,Kugisaki,0,0,0,,After she basically expelled herself and left, they've been interfering with her promotion.
+Dialogue: 0,0:13:23.45,0:13:28.00,Default,Kugisaki,0,0,0,,After she basically expelled{exiled*? Isn't expelling only for from schools?} herself and left, they've been interfering with her promotion.
 Dialogue: 0,0:13:28.62,0:13:33.08,Default,Yuuji,0,0,0,,Why wouldn't they want someone that strong?
 Dialogue: 0,0:13:33.08,0:13:36.09,Default,Kugisaki,0,0,0,,They won't acknowledge what they've already rejected,
 Dialogue: 0,0:13:36.09,0:13:37.50,Default,Kugisaki,0,0,0,,because they're idiots.
@@ -244,15 +244,15 @@ Dialogue: 0,0:13:57.32,0:13:58.34,Default,Maki,0,0,0,,Jeez.
 Dialogue: 0,0:13:59.32,0:14:03.07,Default,Maki,0,0,0,,{\i1\fade(220,0)}I shouldn't let myself get distracted.
 Dialogue: 0,0:14:03.53,0:14:06.38,Default,Mai,0,0,0,,What are you smiling about?!
 Dialogue: 0,0:14:14.60,0:14:17.45,Default,Mai,0,0,0,,So what if she hides out of sight?
-Dialogue: 0,0:14:17.95,0:14:21.04,Default,Mai,0,0,0,,Is she an idiot, trying to gain distance from me?
+Dialogue: 0,0:14:17.95,0:14:21.04,Default,Mai,0,0,0,,Is she an idiot, trying to gain distance from me?{something's off with "gain distance from me" but I can't put my finger on it...}{I'd say it'd be better said as "Is she an idiot, trying to put distance between us?" but ofc, the spotlight should be on "me". oof.}
 Dialogue: 0,0:14:22.63,0:14:24.00,Default,Mai,0,0,0,,{\i1}From below?!
 Dialogue: 0,0:14:28.23,0:14:29.26,Default,Mai,0,0,0,,{\i1}I already knew.
-Dialogue: 0,0:14:29.98,0:14:33.77,Default,Mai,0,0,0,,{\i1}Maki has a talent I don't.
+Dialogue: 0,0:14:29.98,0:14:33.77,Default,Mai,0,0,0,,{\i1}Maki has a talent I don't.{"has talents* I don't" When we go down the script to what these talents are, they refer to "physical abilities". I believe that can only be in plural.}
 Dialogue: 0,0:14:34.69,0:14:37.97,Default,Voice A,0,0,0,,Have you heard about Ougi's daughters?
 Dialogue: 0,0:14:37.97,0:14:41.49,Default,Voice A,0,0,0,,One can't even see curses, let alone use techniques.
 Dialogue: 0,0:14:41.49,0:14:43.86,Default,Voice B,0,0,0,,Twins are a sign of ill fortune.
 Dialogue: 0,0:14:44.28,0:14:46.87,Default,Voice C,0,0,0,,Maybe it's better this way.
-Dialogue: 0,0:14:46.87,0:14:49.93,Default,Voice C,0,0,0,,I couldn't bear to see an eldest son as a servant.
+Dialogue: 0,0:14:46.87,0:14:49.93,Default,Voice C,0,0,0,,I couldn't bear to see an eldest{elder} son as a servant.
 Dialogue: 0,0:14:55.04,0:14:55.88,Default,Maki,0,0,0,,Mai.
 Dialogue: 0,0:14:56.58,0:14:59.37,Default,Maki,0,0,0,,What's the matter? Hurry up.
 Dialogue: 0,0:15:01.28,0:15:02.67,Default,Mai,0,0,0,,I don't wanna.
@@ -267,7 +267,7 @@ Dialogue: 0,0:15:21.20,0:15:22.78,Default,Maki,0,0,0,,Close your eyes.
 Dialogue: 0,0:15:22.78,0:15:23.28,Default,Mai,0,0,0,,Huh?
 Dialogue: 0,0:15:28.52,0:15:31.32,Default,Maki,0,0,0,,If you can't see it, then it's like it's not even there.
 Dialogue: 0,0:15:33.03,0:15:36.28,Default,Mai,0,0,0,,{\i1}You've always been so fearless.
-Dialogue: 0,0:15:37.06,0:15:40.06,Default,Mai,0,0,0,,{\i1}And plowed forward toward your future.
+Dialogue: 0,0:15:37.06,0:15:40.06,Default,Mai,0,0,0,,{\i1}And plowed forward toward{s} your future.{oh apparently "s" is more british than US english. aight.}
 Dialogue: 0,0:15:40.06,0:15:42.53,Default,Mai,0,0,0,,{\i1}I hated you.
 Dialogue: 0,0:15:44.29,0:15:47.13,Default,Naobito,0,0,0,,You're leaving the clan, Maki?
 Dialogue: 0,0:15:47.68,0:15:50.01,Default,Maki,0,0,0,,You have plenty of servants, right?
@@ -276,7 +276,7 @@ Dialogue: 0,0:15:51.51,0:15:54.60,Default,Maki,0,0,0,,I'll be back someday, Clan
 Dialogue: 0,0:15:56.69,0:15:57.94,Default,Naobito,0,0,0,,What for?
 Dialogue: 0,0:15:58.64,0:16:01.98,Default,Maki,0,0,0,,To become the head of the Zenin clan!
 Dialogue: 0,0:16:05.25,0:16:09.40,Default,Naobito,0,0,0,,Then I'll put you through ordeals befitting that!
-Dialogue: 0,0:16:11.05,0:16:12.70,Default,Maki,0,0,0,,Do as you please.
+Dialogue: 0,0:16:11.05,0:16:12.70,Default,Maki,0,0,0,,Do as you please!
 Dialogue: 0,0:16:13.49,0:16:15.29,Default,Naobito,0,0,0,,And Mai, as well.
 Dialogue: 0,0:16:18.38,0:16:20.36,Default,Maki,0,0,0,,She has nothing to do with this.
 Dialogue: 0,0:16:29.70,0:16:30.96,Default,Mai,0,0,0,,Liar.
@@ -285,24 +285,24 @@ Dialogue: 0,0:17:22.54,0:17:24.07,Default,Maki,0,0,0,,{\i1}That's six shots!
 Dialogue: 0,0:17:24.07,0:17:25.27,Default,Maki,0,0,0,,{\i1}I won't let you reload!
 Dialogue: 0,0:17:25.27,0:17:30.24,Default,Mai,0,0,0,,{\i1}I hate you!
 Dialogue: 0,0:17:31.74,0:17:32.73,Default,Mai,0,0,0,,{\i1}Which is why
-Dialogue: 0,0:17:35.39,0:17:38.67,Default,Mai,0,0,0,,{\i1}I never told you about things like my first crush
+Dialogue: 0,0:17:35.39,0:17:38.67,Default,Mai,0,0,0,,{\i1}I never told you about {the }things like my first crush
 Dialogue: 0,0:17:39.62,0:17:42.75,Default,Mai,0,0,0,,{\i1}or my cursed technique!
 Dialogue: 0,0:17:44.59,0:17:50.09,Default,Utahime,0,0,0,,{\i1}Construction is a technique which uses one's cursed energy to create matter from nothing.
-Dialogue: 0,0:17:50.59,0:17:56.00,Default,Utahime,0,0,0,,{\i1}Unlike creating objects within \Nthe barrier of a domain expansion,
+Dialogue: 0,0:17:50.59,0:17:56.00,Default,Utahime,0,0,0,,{\i1}Unlike creating objects within \Nthe barrier of a Domain Expansion,
 Dialogue: 0,0:17:56.00,0:18:02.10,Default,Utahime,0,0,0,,{\i1}the matter produced by Construction \Ndoesn't disappear when the technique ends.
 Dialogue: 0,0:18:02.95,0:18:08.07,Default,Utahime,0,0,0,,{\i1}Because of that, it consumes a lot of cursed energy and puts a heavy strain on the body.
 Dialogue: 0,0:18:08.72,0:18:12.14,Default,Utahime,0,0,0,,{\i1}Creating one bullet a day is Mai's limit.
-Dialogue: 0,0:18:13.74,0:18:18.13,Default,Utahime,0,0,0,,{\i1}That's why she uses a revolver \Nto create an obvious bluff of her bullet count.
+Dialogue: 0,0:18:13.74,0:18:18.13,Default,Utahime,0,0,0,,{\i1}That's why she uses a revolver \Nto create an obvious bluff {out }of her bullet count.
 Dialogue: 0,0:18:19.39,0:18:22.16,Default,Mai,0,0,0,,{\i1}I win.
 Dialogue: 0,0:18:28.40,0:18:31.31,Default,Mai,0,0,0,,{\i1}She caught the bullet?
 Dialogue: 0,0:18:32.11,0:18:33.55,Default,,0,0,0,,Ow...
 Dialogue: 0,0:18:34.80,0:18:37.60,Default,Maki,0,0,0,,I shouldn't touch that with my bare hands.
-Dialogue: 0,0:18:42.48,0:18:45.31,Default,Mai,0,0,0,,{\i1}Maki has a talent I don't.
+Dialogue: 0,0:18:42.48,0:18:45.31,Default,Mai,0,0,0,,{\i1}Maki has a talent I don't.{has talents*, same as previously.}
 Dialogue: 0,0:18:46.49,0:18:50.32,Default,Mai,0,0,0,,{\i1}It's similar to Mechamaru's Heavenly Pact, but the opposite.
 Dialogue: 0,0:18:51.38,0:18:54.44,Default,Mai,0,0,0,,{\i1}You were supposed to be born with a cursed technique.
 Dialogue: 0,0:18:55.20,0:18:59.79,Default,Mai,0,0,0,,{\i1}But you traded that for superhuman physical abilities.
-Dialogue: 0,0:19:00.92,0:19:03.08,Default,Mai,0,0,0,,{\i1}The Zenin clan wouldn't acknowledge it.
-Dialogue: 0,0:19:04.17,0:19:08.78,Default,Mai,0,0,0,,{\i1}That talent I lacked.
+Dialogue: 0,0:19:00.92,0:19:03.08,Default,Mai,0,0,0,,{\i1}The Zenin clan wouldn't acknowledge it.{hm if "abilities" is plural, will it be "The Zenin clan wouldn't acknowledge them*."?}
+Dialogue: 0,0:19:04.17,0:19:08.78,Default,Mai,0,0,0,,{\i1}That talent, I lacked.{"Those talents,* I lacked."}
 Dialogue: 0,0:19:09.90,0:19:13.05,Default,Maki,0,0,0,,That's game, set, and match. Wouldn't you say?
 Dialogue: 0,0:19:15.51,0:19:18.30,Default,Mai,0,0,0,,Why did you leave?
 Dialogue: 0,0:19:18.30,0:19:21.16,Default,Maki,0,0,0,,Huh? Do I have to spell it out?
@@ -312,7 +312,7 @@ Dialogue: 0,0:19:24.69,0:19:27.34,Default,Mai,0,0,0,,I never wanted to be a juju
 Dialogue: 0,0:19:28.51,0:19:30.17,Default,Mai,0,0,0,,It's all your fault!
 Dialogue: 0,0:19:30.17,0:19:32.07,Default,Mai,0,0,0,,Always trying your hardest!
 Dialogue: 0,0:19:32.07,0:19:34.19,Default,Mai,0,0,0,,Forcing me to do the same!
-Dialogue: 0,0:19:34.96,0:19:39.11,Default,Mai,0,0,0,,All this effort, pain and fear. I've had enough!
+Dialogue: 0,0:19:34.96,0:19:39.11,Default,Mai,0,0,0,,All this effort, pain, and fear. I've had enough!
 Dialogue: 0,0:19:39.91,0:19:43.04,Default,Mai,0,0,0,,What was so bad about \Nbeing ordered around back home?!
 Dialogue: 0,0:19:43.04,0:19:46.94,Default,Mai,0,0,0,,We could have just done a few chores and lived a normal life!
 Dialogue: 0,0:19:50.00,0:19:54.59,Default,Mai,0,0,0,,Why wouldn't you stay at the bottom with me?
@@ -325,7 +325,7 @@ Dialogue: 0,0:20:20.14,0:20:21.45,Default,Mai,0,0,0,,Promise?
 Dialogue: 0,0:20:21.90,0:20:23.73,Default,Maki,0,0,0,,Jeez, give it a rest.
 Dialogue: 0,0:20:23.73,0:20:26.96,Default,Mai,0,0,0,,Promise me that you'll never leave me behind.
 Dialogue: 0,0:20:26.96,0:20:28.48,Default,Maki,0,0,0,,Of course I won't.
-Dialogue: 0,0:20:28.96,0:20:30.54,Default,Maki,0,0,0,,We're sisters.
+Dialogue: 0,0:20:28.96,0:20:30.54,Default,Maki,0,0,0,,We're sisters!
 Dialogue: 0,0:20:36.02,0:20:37.63,Default,Mai,0,0,0,,You liar.
 Dialogue: 0,0:20:38.62,0:20:40.64,Default,Mai,0,0,0,,I hate you.
 Comment: 0,0:20:45.02,0:20:45.06,Default,chptr,0,0,0,,{Ending}
