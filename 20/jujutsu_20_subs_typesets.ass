@@ -21,9 +21,9 @@ Video File: jujutsu_20.mkv
 Keyframes File: jujutsu_20_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 3
-Active Line: 6
-Video Position: 9774
+Scroll Position: 4
+Active Line: 8
+Video Position: 16590
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,12 +39,12 @@ Dialogue: 0,0:04:05.43,0:04:06.55,Signs,Screen,0,0,0,,{\bord0\shad0\an5\frz270\f
 Dialogue: 0,0:04:05.43,0:04:06.55,Signs,Screen,0,0,0,,{\fnRagnar\bord0\shad0\an5\fs50\b1\pos(949.71,92.57)}Self-Proclaimed IQ: 530,000
 Dialogue: 1,0:06:47.64,0:06:54.39,Signs,Nanami,0,0,0,,{\fnKozuka Gothic Pr6N B\be1\fad(380,380)\b1\fs84\c&H000000&\pos(960,964)}\hNanami Kento, record holder for consecutive Black Flash uses, speaks
 Dialogue: 0,0:06:47.64,0:06:54.39,Signs,Nanami,0,0,0,,{\fad(380,380)\bord0\be1\an5\pos(960,969)\1c&HF0F0F0&\p1}m 0 120 l 1550 120 1550 0 0 0 0 120
-Dialogue: 0,0:11:30.40,0:11:31.90,Signs,Screen,0,0,0,,{\be6\fnRagnar\bord2\shad0\an5\fs56.5\b1\pos(1148.38,460.57)\3c&H000000&\3a&H96&\4c&H000000&\4a&H96&}Happened in 0.01 seconds
+Dialogue: 0,0:11:30.40,0:11:31.92,Signs,Screen,0,0,0,,{\be6\fnRagnar\bord2\shad0\an5\fs56.5\b1\pos(1148.38,460.57)\3c&H000000&\3a&H96&\4c&H000000&\4a&H96&}Happened in 0.01 seconds
 Dialogue: 0,0:11:51.35,0:11:53.35,Signs,Screen,0,0,0,,{\fnKozuka Gothic Pr6N B\fs96\bord4.5\b1\pos(386,925)}National Handshake Event
 Dialogue: 0,0:22:54.93,0:22:57.43,Signs,Three&Screen,0,0,0,,{\fnBrush Strokes\b1\be1\fs110\c&H000101&\pos(1400,150)}Juju Stroll
 Dialogue: 0,0:22:57.43,0:22:59.06,Signs,Screen,0,0,0,,{\an5\blur2\bord0\shad0\fscx100\fscy100\p1\c&HFDFDFD&\pos(987.17,506.5)\clip(m 520 601.33 l 584 572 624 605.33 1788 605.33 1786.67 420 141.33 416 140 597.33)}m 0 0 l 1629 0 1629 173 0 173
 Dialogue: 1,0:22:57.43,0:22:59.06,Signs,Screen,0,0,0,,{\fnAquillia\fs124\be1\c&H4C727F&\3c&HFFFFFF&\shad0\b1\pos(966.66,517)}Question: Dogs or cats?
-Dialogue: 0,0:22:59.06,0:23:19.04,Signs,Screen,0,0,0,,{\be2\p1\c&HF3C92F&\pos(962.5,945.17)}m 0 0 m -1 -2 l -3 138 l 1455 142 l 1457 -3 
+Dialogue: 0,0:22:59.06,0:23:19.04,Signs,Screen,0,0,0,,{\be2\p1\c&HF3C92F&\pos(962.5,945.17)}m 0 0 m -1 -2 l -3 138 l 1455 142 l 1457 -3
 Dialogue: 1,0:22:59.06,0:23:19.04,Signs,Screen,0,0,0,,{\fnBuxton Sketch\fs96\bord3\xshad3\pos(959,944)\be1\3c&H83868A&\4c&H83868A&}Question: Are you a dog person or a cat person?
 Dialogue: 2,0:22:59.06,0:23:19.04,Signs,Screen,0,0,0,,{\fnBuxton Sketch\fs96\pos(959,944)\be2\c&HEFF8FF&}Question: Are you a dog person or a cat person?
 Dialogue: 0,0:23:36.47,0:23:39.93,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1468,\blur0)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 21{\fs70}\NJujutsu Koshien
