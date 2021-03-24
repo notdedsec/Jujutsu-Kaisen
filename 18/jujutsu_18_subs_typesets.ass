@@ -16,8 +16,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: jujutsu_18.mkv
-Video File: jujutsu_18.mkv
+Audio File: jujutsu_18_premux.mkv
+Video File: jujutsu_18_premux.mkv
 Keyframes File: jujutsu_18_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000

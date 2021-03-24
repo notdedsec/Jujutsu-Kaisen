@@ -16,20 +16,27 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: [Kaizoku] Jujutsu Kaisen - 18 [6AEFB2FD].mkv
-Video File: [Kaizoku] Jujutsu Kaisen - 18 [6AEFB2FD].mkv
+Last Style Storage: Default
+Audio File: jujutsu_18_premux.mkv
+Video File: jujutsu_18_premux.mkv
+Keyframes File: jujutsu_18_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 227
-Active Line: 243
-Video Position: 27673
+Scroll Position: 26
+Active Line: 32
+Video Position: 6125
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Memefx-furigana,Cabin,40,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,2,0.8,2,128,128,60,1
+Style: Signs-furigana,Cabin,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Alt-furigana,Cabin,40,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,2,0.8,2,180,180,60,1
+Style: Default-furigana,Cabin,40,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,2,0.8,2,128,128,60,1
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Memefx,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -55,19 +62,29 @@ Dialogue: 0,0:01:57.43,0:01:59.10,Default,Kamo,0,0,0,,Don't lose focus now.
 Dialogue: 0,0:02:06.78,0:02:09.01,Default,Fushiguro,0,0,0,,{\i1}I was too slow to defend with cursed energy?
 Dialogue: 0,0:02:09.01,0:02:12.26,Default,Fushiguro,0,0,0,,{\i1}Both his speed and power are on a different level than before.
 Dialogue: 0,0:02:14.38,0:02:18.64,Default,Kamo,0,0,0,,{\i1}Manipulating blood isn't limited to its shape and motion.
-Dialogue: 0,0:02:19.61,0:02:21.87,Default,Kamo,0,0,0,,{\i1}Body temperature, pulse rate,
-Dialogue: 0,0:02:21.87,0:02:24.70,Default,Kamo,0,0,0,,{\i1}the number of red blood cells and blood composition,
-Dialogue: 0,0:02:24.70,0:02:26.26,Default,Kamo,0,0,0,,{\i1}it's all under my control.
+Dialogue: 0,0:02:19.61,0:02:21.91,Default,Kamo,0,0,0,,{\i1}Body temperature, pulse rate,
+Dialogue: 0,0:02:21.91,0:02:24.70,Default,Kamo,0,0,0,,{\i1}the number of red blood cells and blood composition.
+Dialogue: 0,0:02:24.70,0:02:26.26,Default,Kamo,0,0,0,,{\i1}It's all under my control.
 Dialogue: 0,0:02:28.04,0:02:30.09,Default,Kamo,0,0,0,,Flowing Red Scale!
 Dialogue: 0,0:02:30.48,0:02:32.08,Default,Fushiguro,0,0,0,,You're doping!
 Dialogue: 0,0:02:32.39,0:02:33.66,Default,Kamo,0,0,0,,Very astute.
 Dialogue: 0,0:02:34.09,0:02:36.93,Default,Kamo,0,0,0,,But I wish you wouldn't use such a layman's term for it.
 Comment: 0,0:02:38.01,0:02:38.05,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:04:07.98,0:04:08.02,Default,chptr,0,0,0,,{Part A}
-Dialogue: 0,0:04:15.44,0:04:21.24,Default,Miwa,0,0,0,,{\k94}{\i1\an8}My {\k38}sword {\k100}was {\k78}taken {\k86}away {\k74}from {\k110}me.
+Comment: 0,0:04:15.44,0:04:21.24,Memefx,,0,0,0,template syl,{\pos($x,$y)\t($sstart,$sstart,\fscx115\fscy115)\t($sstart,!$sstart+$sdur!,\fscx100\fscy100)}
+Comment: 0,0:04:15.44,0:04:21.24,Memefx,Miwa,0,0,0,karaoke,{\k24}{\k71}{\i1}My {\k38}sword {\k100}was {\k78}taken {\k86}away {\k74}from {\k110}me.
+Dialogue: 0,0:04:15.44,0:04:21.24,Memefx,Miwa,0,0,0,fx,{\pos(454,1020)\t(0,0,\fscx115\fscy115)\t(0,0,\fscx100\fscy100)\i1}
+Dialogue: 0,0:04:15.44,0:04:21.24,Memefx,Miwa,0,0,0,fx,{\pos(454,1020)\t(0,0,\fscx115\fscy115)\t(0,240,\fscx100\fscy100)\i1}
+Dialogue: 0,0:04:15.44,0:04:21.24,Memefx,Miwa,0,0,0,fx,{\pos(499,1020)\t(240,240,\fscx115\fscy115)\t(240,950,\fscx100\fscy100)\i1}My
+Dialogue: 0,0:04:15.44,0:04:21.24,Memefx,Miwa,0,0,0,fx,{\pos(645,1020)\t(950,950,\fscx115\fscy115)\t(950,1330,\fscx100\fscy100)\i1}sword
+Dialogue: 0,0:04:15.44,0:04:21.24,Memefx,Miwa,0,0,0,fx,{\pos(801,1020)\t(1330,1330,\fscx115\fscy115)\t(1330,2330,\fscx100\fscy100)\i1}was
+Dialogue: 0,0:04:15.44,0:04:21.24,Memefx,Miwa,0,0,0,fx,{\pos(949,1020)\t(2330,2330,\fscx115\fscy115)\t(2330,3110,\fscx100\fscy100)\i1}taken
+Dialogue: 0,0:04:15.44,0:04:21.24,Memefx,Miwa,0,0,0,fx,{\pos(1117,1020)\t(3110,3110,\fscx115\fscy115)\t(3110,3970,\fscx100\fscy100)\i1}away
+Dialogue: 0,0:04:15.44,0:04:21.24,Memefx,Miwa,0,0,0,fx,{\pos(1275,1020)\t(3970,3970,\fscx115\fscy115)\t(3970,4710,\fscx100\fscy100)\i1}from
+Dialogue: 0,0:04:15.44,0:04:21.24,Memefx,Miwa,0,0,0,fx,{\pos(1413,1020)\t(4710,4710,\fscx115\fscy115)\t(4710,5810,\fscx100\fscy100)\i1}me.
 Dialogue: 0,0:04:22.74,0:04:25.86,Default,Miwa,0,0,0,,{\i1}Mai's sister ran off somewhere.
 Dialogue: 0,0:04:25.86,0:04:27.93,Default,Miwa,0,0,0,,{\i1}She runs so fast too.
-Dialogue: 0,0:04:28.53,0:04:33.75,Default,Miwa,0,0,0,,{\i1}Well, I'm useless without my sword, \Nso that was the right call.
+Dialogue: 0,0:04:28.53,0:04:33.75,Default,Miwa,0,0,0,,{\i1}Well, I'm useless without my sword, \Nso I guess it was the right call.
 Dialogue: 0,0:04:34.67,0:04:37.22,Default,Miwa,0,0,0,,{\i1}I wonder if tapioca is as good as they say.
 Dialogue: 0,0:04:41.01,0:04:42.28,Default,Miwa,0,0,0,,{\i1}It's Mechamaru.
 Dialogue: 0,0:04:44.26,0:04:47.18,Default,Miwa,0,0,0,,Hello, useless Miwa here.
@@ -76,14 +93,14 @@ Dialogue: 0,0:05:09.28,0:05:10.28,Default,Toge,0,0,0,,Return.
 Dialogue: 0,0:05:25.35,0:05:27.51,Default,Utahime,0,0,0,,Oh well, she fell asleep.
 Dialogue: 0,0:05:28.36,0:05:30.08,Default,Utahime,0,0,0,,I'm heading over real quick.
 Dialogue: 0,0:05:30.08,0:05:30.73,Default,Gojou,0,0,0,,Huh?
-Dialogue: 0,0:05:31.31,0:05:35.52,Default,Utahime,0,0,0,,It's dangerous to leave her in a forest full of cursed spirits, you know?
+Dialogue: 0,0:05:31.31,0:05:35.52,Default,Utahime,0,0,0,,We can't just leave her in a forest full of cursed spirits, you know?
 Dialogue: 0,0:05:40.84,0:05:41.73,Default,Kamo,0,0,0,,What's this?
-Dialogue: 0,0:05:42.63,0:05:46.28,Default,Gakuganji,0,0,0,,The semi-first-grade cursed spirit to be released in the area.
+Dialogue: 0,0:05:42.63,0:05:46.28,Default,Gakuganji,0,0,0,,The semi-first-grade cursed spirit \Nto be released in the area.
 Dialogue: 0,0:05:46.87,0:05:49.17,Default,Kamo,0,0,0,,Isn't it supposed to be a second-grade?
 Dialogue: 0,0:05:49.17,0:05:52.11,Default,Gakuganji,0,0,0,,I didn't think a second-grade would be enough.
 Dialogue: 0,0:05:53.51,0:05:57.25,Default,Gakuganji,0,0,0,,We're a little disorganized, after all.
-Dialogue: 0,0:05:57.75,0:06:01.76,Default,Gakuganji,0,0,0,,Here's the scent and the whistle used in its training.
-Dialogue: 0,0:06:02.09,0:06:06.39,Default,Gakuganji,0,0,0,,Depending on the situation, use it well{take advantage of it} to kill Itadori.
+Dialogue: 0,0:05:57.75,0:06:01.76,Default,Gakuganji,0,0,0,,Here's the scent and the whistle used to train it.
+Dialogue: 0,0:06:02.09,0:06:06.39,Default,Gakuganji,0,0,0,,Depending on the situation, use it well to kill Itadori.
 Dialogue: 0,0:06:06.39,0:06:09.78,Default,Kamo,0,0,0,,It might get exorcised before I get the chance though.
 Dialogue: 0,0:06:09.78,0:06:11.76,Default,Gakuganji,0,0,0,,Fret not.
 Dialogue: 0,0:06:11.76,0:06:15.90,Default,Gakuganji,0,0,0,,{\fade(0,360)}It's been trained to sit still until the whistle is used.
@@ -95,29 +112,29 @@ Dialogue: 0,0:06:36.40,0:06:41.42,Default,Gakuganji,0,0,0,,{\i1}If he's attacked
 Dialogue: 0,0:06:42.28,0:06:44.16,Default,Gakuganji,0,0,0,,{\i1}he'll surely die.
 Dialogue: 0,0:06:44.96,0:06:46.48,Default,Gakuganji,0,0,0,,That's true.
 Dialogue: 0,0:06:46.48,0:06:48.29,Default,Gakuganji,0,0,0,,I'm worried about Miwa.
-Dialogue: 0,0:06:48.29,0:06:50.30,Default,Gakuganji,0,0,0,,Hurry{ up} and get her.
+Dialogue: 0,0:06:48.29,0:06:50.30,Default,Gakuganji,0,0,0,,Hurry up and get her.
 Dialogue: 0,0:06:58.31,0:06:59.37,Default,Toge,0,0,0,,Kelp.
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(651.04,1023)}O
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(696.22,1020)\fry180}h
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(756.83,1020)\fry180}m
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(793.42,1020)}y
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(816.13,1020)},
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(865.86,1020)\fry180}a
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(884.95,1020)}l
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(901.71,1020)}l
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(943.81,1020)}b
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(978.23,1020)}y
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1034.53,1018)}y
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1076.91,1020)\fry180}o
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1111.25,1020)\fry180}u
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1142.55,1019)\fry180}r
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1172.61,1020)\fry180}s
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1204.89,1020)\fry180}e
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1224.49,1020)}l
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1252.77,1020)\fry180}f
-Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1274.06,1020)}?
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(651.04,1023)}O
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(696.22,1020)\fry180}h
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(756.83,1020)\fry180}m
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(793.42,1020)}y
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(816.13,1020)},
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(865.86,1020)\fry180}a
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(884.95,1020)}l
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(901.71,1020)}l
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(943.81,1020)}b
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(978.23,1020)}y
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1034.53,1018)}y
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1076.91,1020)\fry180}o
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1111.25,1020)\fry180}u
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1142.55,1019)\fry180}r
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1172.61,1020)\fry180}s
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1204.89,1020)\fry180}e
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1224.49,1020)}l
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1252.77,1020)\fry180}f
+Dialogue: 0,0:07:31.40,0:07:33.32,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1274.06,1020)}?
 Dialogue: 0,0:07:35.80,0:07:38.60,Default,Toge,0,0,0,,Salmon, caviar, roe.
-Dialogue: 0,0:07:43.27,0:07:44.27,Default,Mahito,0,0,0,,Well then!
+Dialogue: 0,0:07:43.27,0:07:44.27,Default,Mahito,0,0,0,,Well, then.
 Dialogue: 0,0:07:45.78,0:07:48.08,Default,Mahito,0,0,0,,Time for us to get to work as well.
 Dialogue: 0,0:07:48.72,0:07:50.97,Default,Kumiya,0,0,0,,I think I'll make a coat rack.
 Dialogue: 0,0:07:50.97,0:07:53.91,Default,Kumiya,0,0,0,,Gojo Satoru is 190 centimeters, right?
@@ -134,7 +151,7 @@ Dialogue: 0,0:09:10.45,0:09:12.05,Default,Kamo,0,0,0,,You've improved.
 Dialogue: 0,0:09:12.05,0:09:13.41,Default,Kamo,0,0,0,,That makes me happy.
 Dialogue: 0,0:09:13.97,0:09:17.91,Default,Fushiguro,0,0,0,,Why are you acting all familiar with me all of a sudden?
 Dialogue: 0,0:09:18.25,0:09:19.92,Default,Kamo,0,0,0,,It's sympathy.
-Dialogue: 0,0:09:19.92,0:09:23.68,Default,Kamo,0,0,0,,One day you'll become the pillar that supports the three major clans.
+Dialogue: 0,0:09:19.92,0:09:23.68,Default,Kamo,0,0,0,,One day you'll become the pillar that supports the major clans.
 Dialogue: 0,0:09:26.33,0:09:29.87,Default,Kamo,0,0,0,,I intend to kill Itadori Yuji.
 Dialogue: 0,0:09:31.50,0:09:33.93,Default,Fushiguro,0,0,0,,On Principal Gakuganji's orders?
 Dialogue: 0,0:09:34.49,0:09:37.65,Default,Kamo,0,0,0,,No, it's my own decision.
@@ -151,36 +168,36 @@ Dialogue: 0,0:10:05.34,0:10:06.91,Default,Fushiguro,0,0,0,,We're not.
 Dialogue: 0,0:10:06.91,0:10:09.96,Default,Fushiguro,0,0,0,,Please save those discussions for Maki{**-san}.
 Dialogue: 0,0:10:10.57,0:10:14.47,Default,Fushiguro,0,0,0,,I no longer have any connection with the Zenin clan.
 Dialogue: 0,0:10:15.09,0:10:19.43,Default,Fushiguro,0,0,0,,Besides, I never thought of myself \Nas doing the "right" thing.
-Dialogue: 0,0:10:20.30,0:10:21.70,Default,Fushiguro,0,0,0,,No, wait.
-Dialogue: 0,0:10:22.14,0:10:23.52,Default,Fushiguro,0,0,0,,That's not what I meant.
-Dialogue: 0,0:10:23.90,0:10:27.70,Default,Fushiguro,0,0,0,,I don't {\i1}care{\i0} if I'm right or wrong.
+Dialogue: 0,0:10:20.30,0:10:23.39,Default,Fushiguro,0,0,0,,No, wait. That's not what I meant.
+Dialogue: 0,0:10:23.94,0:10:27.70,Default,Fushiguro,0,0,0,,It's more like, I don't care if I'm right or wrong.
 Dialogue: 0,0:10:28.78,0:10:32.99,Default,Fushiguro,0,0,0,,The only thing I believe in is my own conscience.
 Dialogue: 0,0:10:33.57,0:10:36.78,Default,Fushiguro,0,0,0,,{\fade(250,200)}I'll follow my conscience and save people.
 Dialogue: 0,0:10:38.40,0:10:41.84,Default,Fushiguro,0,0,0,,If you don't agree with that...
 Dialogue: 0,0:10:44.99,0:10:47.76,Default,Fushiguro,0,0,0,,Then we'll just have to curse each other.
 Dialogue: 0,0:10:50.94,0:10:52.01,Default,Kamo,0,0,0,,{\i1}A shikigami?!
-Dialogue: 0,0:10:52.93,0:10:54.81,Default,Kamo,0,0,0,,{\i1}He still had more?!
+Dialogue: 0,0:10:53.17,0:10:54.81,Default,Kamo,0,0,0,,{\i1}He still had more?!
 Dialogue: 0,0:10:56.84,0:10:59.36,Default,Kamo,0,0,0,,{\i1}He used it as a decoy and released it?
 Dialogue: 0,0:11:01.71,0:11:05.31,Default,Fushiguro,0,0,0,,This one burns through cursed energy, \Nso I can only summon it once.
-Dialogue: 0,0:11:05.31,0:11:07.81,Default,Fushiguro,0,0,0,,I only recently tamed it.
+Dialogue: 0,0:11:05.31,0:11:07.81,Default,Fushiguro,0,0,0,,I tamed it just recently.
 Dialogue: 0,0:11:08.87,0:11:10.10,Default,Fushiguro,0,0,0,,Max Elephant.
 Dialogue: 0,0:11:19.73,0:11:20.96,Default,Kamo,0,0,0,,{\i1}It's a large target!
 Dialogue: 0,0:11:20.96,0:11:22.12,Default,Kamo,0,0,0,,{\i1}I'll strike first!
 Dialogue: 0,0:11:26.05,0:11:27.00,Default,Kamo,0,0,0,,{\i1}Water?!
 Dialogue: 0,0:11:29.99,0:11:31.92,Default,Kamo,0,0,0,,{\i1}I'm being swept away by the volume and pressure?!
-Dialogue: 0,0:11:32.39,0:11:34.13,Default,Kamo,0,0,0,,{\i1}No! I'm wide open now!
+Dialogue: 0,0:11:32.39,0:11:34.13,Default,Kamo,0,0,0,,{\i1}No, I'm wide open now!
 Dialogue: 0,0:11:34.13,0:11:35.18,Default,Kamo,0,0,0,,{\i1}It's coming!
 Dialogue: 0,0:11:39.61,0:11:40.51,Default,Fushiguro,0,0,0,,Nue.
-Dialogue: 0,0:11:50.02,0:11:53.82,Default,Kamo's Mother,0,0,0,,If I'm around, I'll just be in your way.
-Dialogue: 0,0:11:53.82,0:11:55.11,Default,Kamo,0,0,0,,I can't...
-Dialogue: 0,0:11:55.87,0:11:57.52,Default,Kamo,0,0,0,,Blood Manipulation:
-Dialogue: 0,0:12:01.48,0:12:02.87,Default,Kamo,0,0,0,,Crimson Binding!
-Dialogue: 0,0:12:05.75,0:12:08.95,Default,Kamo,0,0,0,,I can't afford to lose!
+Dialogue: 0,0:11:50.02,0:11:53.82,Default,Kamo's Mother,0,0,0,,As long as I'm around, I'll just be in your way.
+Dialogue: 0,0:11:53.82,0:11:55.11,Default,Kamo,0,0,0,,{\i1}I can't...
+Dialogue: 0,0:11:55.87,0:11:57.52,Default,Kamo,0,0,0,,{\i1}Blood Manipulation:
+Dialogue: 0,0:12:01.48,0:12:02.87,Default,Kamo,0,0,0,,{\i1}Crimson Binding!
+Dialogue: 0,0:12:05.41,0:12:08.87,Default,Kamo,0,0,0,,I can not afford to lose!
 Dialogue: 0,0:12:14.59,0:12:15.82,Default,Both,0,0,0,,What is that?!
 Dialogue: 0,0:12:17.28,0:12:18.57,Default,Fushiguro,0,0,0,,Inumaki{**-senpai}?!
-Dialogue: 0,0:12:20.14,0:12:20.55,Default,Toge,0,0,0,,{\c&H000000&\3c&HF8F8F8&\4c&HD2D2D2&\4a&H00&}Run away.
-Dialogue: 0,0:12:20.55,0:12:21.05,Default,Toge,0,0,0,,{\c&H000000&\3c&HA3F5FF&\4c&HD2D2D2&\4a&H00&}Run away.
-Dialogue: 0,0:12:21.05,0:12:21.30,Default,Toge,0,0,0,,{\c&H000000&\3c&H85BDCF&\4c&HD2D2D2&\4a&H00&}Run away.
+Dialogue: 0,0:12:20.14,0:12:20.55,Default,Toge,0,0,0,,{\c&H000000&\3c&HF8F8F8&\4c&H99CAD8&\4a&H00&}Run away.
+Dialogue: 0,0:12:20.55,0:12:21.05,Default,Toge,0,0,0,,{\c&H000000&\3c&H6BB7C9&\4c&H6B6040&\4a&H64&}Run away.
+Dialogue: 0,0:12:21.05,0:12:21.18,Default,Toge,0,0,0,,{\c&H000000&\3c&HABD2DD&\4c&HB1D2D3&\4a&H82&}Run away.
+Dialogue: 0,0:12:21.18,0:12:21.30,Default,Toge,0,0,0,,{\c&H000000&\3c&H85BDCF&\4c&H83B8C4&\4a&H32&}Run away.
 Dialogue: 0,0:12:33.58,0:12:34.33,Default,Utahime,0,0,0,,Huh?
 Dialogue: 0,0:12:36.00,0:12:37.92,Default,Utahime,0,0,0,,The game's over?
 Dialogue: 0,0:12:37.92,0:12:40.15,Default,Utahime,0,0,0,,And they all burned red?
@@ -190,22 +207,22 @@ Dialogue: 0,0:12:45.81,0:12:50.92,Default,Gojou,0,0,0,,As the Great Teacher Gojo
 Dialogue: 0,0:12:51.25,0:12:54.92,Default,Yaga,0,0,0,,The charms will burn red for unregistered cursed energy.
 Dialogue: 0,0:12:55.45,0:12:59.18,Default,Utahime,0,0,0,,It must be an outsider. Maybe an intruder?
 Dialogue: 0,0:12:59.68,0:13:03.07,Default,MeiMei,0,0,0,,Does this mean {*}Master Tengen{*Tengen-sama}'s barrier isn't functioning?
-Dialogue: 0,0:13:03.07,0:13:08.93,Default,Gakuganji,0,0,0,,Intruder or not, it doesn't \Nchange the fact that this is an unexpected.{"an unexpected" what? turn of events? or just "this is unexpected."}
+Dialogue: 0,0:13:03.07,0:13:08.93,Default,Gakuganji,0,0,0,,Intruder or not, it doesn't change the fact \Nthat this is an unexpected situation.{"an unexpected" what? turn of events? or just "this is unexpected."}
 Dialogue: 0,0:13:09.73,0:13:13.55,Default,Gakuganji,0,0,0,,{\i1}They must be fairly skilled to exorcise that.
 Dialogue: 0,0:13:14.55,0:13:16.04,Default,Gakuganji,0,0,0,,{\i1}Who could it be?
 Dialogue: 0,0:13:17.53,0:13:20.15,Default,Yaga,0,0,0,,I'm heading over to {*}Master Tengen{*Tengen-sama}.
-Dialogue: 0,0:13:20.57,0:13:23.65,Default,Yaga,0,0,0,,Satoru, will go with Principal Gakuganji to rescue the students.
-Dialogue: 0,0:13:23.65,0:13:27.41,Default,Yaga,0,0,0,,Mei will stay here and find \Nwhere the students are located.
-Dialogue: 0,0:13:27.75,0:13:30.58,Default,Yaga,0,0,0,,Let Satoru and others know as soon as you find out.
+Dialogue: 0,0:13:20.15,0:13:23.65,Default,Yaga,0,0,0,,Satoru will go with Principal Gakuganji to rescue the students.
+Dialogue: 0,0:13:23.65,0:13:27.41,Default,Yaga,0,0,0,,Mei will stay here and locate their positions.
+Dialogue: 0,0:13:27.41,0:13:30.58,Default,Yaga,0,0,0,,Let Satoru and others know as soon as you find out.
 Dialogue: 0,0:13:30.58,0:13:32.27,Default,MeiMei,0,0,0,,Understood.
 Dialogue: 0,0:13:32.27,0:13:34.67,Default,MeiMei,0,0,0,,I look forward to the bonus.
-Dialogue: 0,0:13:35.92,0:13:39.78,Default,Gojou,0,0,0,,Come on, Gramps! Time for a walk!
-Dialogue: 0,0:13:39.78,0:13:42.43,Default,Gojou,0,0,0,,You had your lunch already, remember?
+Dialogue: 0,0:13:35.92,0:13:39.76,Default,Gojou,0,0,0,,C'mon, Gramps! Time for a walk!
+Dialogue: 0,0:13:39.76,0:13:42.43,Default,Gojou,0,0,0,,You had your lunch already, remember?
 Dialogue: 0,0:13:44.19,0:13:45.22,Default,Utahime,0,0,0,,Let's hurry.
-Dialogue: 0,0:14:07.61,0:14:09.79,Default,Kumiya,0,0,0,,They're really going at it!
+Dialogue: 0,0:14:07.61,0:14:10.32,Default,Kumiya,0,0,0,,They're really going at it, huh?
 Dialogue: 0,0:14:10.32,0:14:13.17,Default,Kumiya,0,0,0,,But you know, those cursed spirits,
-Dialogue: 0,0:14:13.17,0:14:16.02,Default,Kumiya,0,0,0,,they don't leave anything behind when they die.
-Dialogue: 0,0:14:17.34,0:14:21.35,Default,Kumiya,0,0,0,,I can't make anything from them!
+Dialogue: 0,0:14:13.17,0:14:16.13,Default,Kumiya,0,0,0,,they don't leave anything behind when they die.
+Dialogue: 0,0:14:17.34,0:14:20.55,Default,Kumiya,0,0,0,,I can't make anything out of them!
 Dialogue: 0,0:14:24.24,0:14:25.97,Default,Kumiya,0,0,0,,Was that good enough?
 Dialogue: 0,0:14:26.77,0:14:29.16,Default,Kumiya,0,0,0,,Oh, right, that. {no, don't touch this. kthx.}
 Dialogue: 0,0:14:30.63,0:14:34.05,Default,Kumiya,0,0,0,,Emerge from darkness, blacker than darkness.
@@ -218,8 +235,8 @@ Dialogue: 0,0:15:13.81,0:15:16.42,Default,Utahime,0,0,0,,You go on ahead before 
 Dialogue: 0,0:15:16.91,0:15:18.04,Default,Gojou,0,0,0,,No, not happening.
 Dialogue: 0,0:15:18.04,0:15:19.15,Default,Utahime,0,0,0,,Huh?!
 Dialogue: 0,0:15:19.52,0:15:22.40,Default,Gojou,0,0,0,,{\i1}That veil is practically complete already.
-Dialogue: 0,0:15:22.40,0:15:25.90,Default,Gojou,0,0,0,,{\i1}They prioritized its effect over its visuals.
-Dialogue: 0,0:15:26.35,0:15:27.58,Default,Gojou,0,0,0,,{\i1}Not bad.
+Dialogue: 0,0:15:22.40,0:15:25.90,Default,Gojou,0,0,0,,{\i1}They prioritized its effects over its visuals.
+Dialogue: 0,0:15:26.35,0:15:27.58,Default,Gojou,0,0,0,,Not bad.
 Dialogue: 0,0:15:33.20,0:15:36.25,Default,Gojou,0,0,0,,Well, now that it's down,
 Dialogue: 0,0:15:36.25,0:15:38.13,Default,Gojou,0,0,0,,I just need to break it apart.
 Dialogue: 0,0:15:44.90,0:15:47.39,Default,Gojou,0,0,0,,{\i1}What's this odd feeling?
@@ -229,7 +246,7 @@ Dialogue: 0,0:15:51.99,0:15:53.98,Default,Utahime,0,0,0,,while I'm able to enter
 Dialogue: 0,0:15:59.31,0:16:00.34,Default,Gojou,0,0,0,,I get it now.
 Dialogue: 0,0:16:02.18,0:16:05.00,Default,Gojou,0,0,0,,Utahime, Gramps, you go on ahead.
 Dialogue: 0,0:16:05.00,0:16:06.44,Default,Gojou,0,0,0,,This veil...
-Dialogue: 0,0:16:06.91,0:16:10.14,Default,Gojou,0,0,0,,is a barrier which gives free access to everyone,
+Dialogue: 0,0:16:06.91,0:16:10.14,Default,Gojou,0,0,0,,is a barrier which gives free access to everyone
 Dialogue: 0,0:16:10.14,0:16:13.73,Default,Gojou,0,0,0,,in exchange for denying entry to Gojo Satoru.
 Dialogue: 0,0:16:16.36,0:16:19.70,Default,Utahime,0,0,0,,{\i1}The balance between give and take does make sense.
 Dialogue: 0,0:16:19.70,0:16:24.21,Default,Utahime,0,0,0,,{\i1}But if they can create a barrier that can single out a specific individual...
@@ -239,7 +256,7 @@ Dialogue: 0,0:16:32.10,0:16:34.21,Default,Gojou,0,0,0,,Go on, get moving.
 Dialogue: 0,0:16:34.21,0:16:36.31,Default,Gojou,0,0,0,,I don't know what their goal is,
 Dialogue: 0,0:16:36.31,0:16:38.98,Default,Gojou,0,0,0,,but we lose if even one of us dies.
 Dialogue: 0,0:16:47.70,0:16:50.06,Default,Utahime,0,0,0,,{\i1}What a strong curse presence!
-Dialogue: 0,0:16:50.06,0:16:53.01,Default,Utahime,0,0,0,,{\i1}Could it possibly be a special-grade curse?
+Dialogue: 0,0:16:50.06,0:16:53.01,Default,Utahime,0,0,0,,{\i1}Could it possibly be a special-grade?
 Dialogue: 0,0:16:53.01,0:16:54.91,Default,Kumiya,0,0,0,,Hey, hey, hey!
 Dialogue: 0,0:16:55.41,0:16:58.41,Default,Kumiya,0,0,0,,Hey, hey, hey, hey!
 Dialogue: 0,0:16:58.85,0:17:01.88,Default,Kumiya,0,0,0,,Gojo Satoru is not here!
@@ -255,15 +272,15 @@ Dialogue: 0,0:17:26.12,0:17:30.53,Default,Kumiya,0,0,0,,I can't make anything ou
 Dialogue: 0,0:17:32.12,0:17:34.24,Default,Gakuganji,0,0,0,,Whether my bones are hollow or not...
 Dialogue: 0,0:17:36.86,0:17:39.70,Default,Gakuganji,0,0,0,,Why don't you kill me and find out?
 Dialogue: 0,0:17:40.16,0:17:44.69,Default,Kumiya,0,0,0,,Go off and drink some milk first, old fart.
-Dialogue: 0,0:17:54.72,0:17:57.13,Default,Kamo,0,0,0,,Why is there a cursed spirit here?
-Dialogue: 0,0:17:57.13,0:17:58.85,Default,Kamo,0,0,0,,And whose veil is that?
-Dialogue: 0,0:17:59.29,0:18:02.54,Default,Fushiguro,0,0,0,,It's probably from whoever{whomever*?} is working with that cursed spirit.
+Dialogue: 0,0:17:54.72,0:17:57.18,Default,Kamo,0,0,0,,Why is there a cursed spirit at school?
+Dialogue: 0,0:17:57.18,0:17:59.29,Default,Kamo,0,0,0,,And whose veil is that?
+Dialogue: 0,0:17:59.29,0:18:02.54,Default,Fushiguro,0,0,0,,It's probably from someone who \Nis working with that cursed spirit.
 Dialogue: 0,0:18:03.98,0:18:05.73,Default,Kamo,0,0,0,,You know something?
-Dialogue: 0,0:18:06.52,0:18:09.69,Default,Gojou,0,0,0,,{\fade(250,0)}These are unregistered special-grade cursed spirits!
+Dialogue: 0,0:18:06.52,0:18:09.69,Default,Gojou,0,0,0,,{\fade(250,0)}These are unregistered special-grades!
 Dialogue: 0,0:18:09.69,0:18:13.07,Default,Gojou,0,0,0,,{\fade(0,500)}And it looks like they're working with a curse user!
-Dialogue: 0,0:18:13.45,0:18:17.62,Default,Fushiguro,0,0,0,,I think it's the special-grade cursed spirit that attacked {*}Mr. Gojo{*Gojo-sensei} before.
+Dialogue: 0,0:18:13.45,0:18:17.62,Default,Fushiguro,0,0,0,,I think it's the special-grade curse that attacked {*}Mr. Gojo{*Gojo-sensei} earlier.
 Dialogue: 0,0:18:18.12,0:18:20.87,Default,Fushiguro,0,0,0,,{\fade(0,500)}Its appearance matches the description.
-Dialogue: 0,0:18:21.41,0:18:23.67,Default,Fushiguro,0,0,0,,I can tell even from that guy's drawing.
+Dialogue: 0,0:18:21.41,0:18:23.67,Default,Fushiguro,0,0,0,,I can tell, even from his drawings.
 Dialogue: 0,0:18:24.63,0:18:25.80,Default,Toge,0,0,0,,Tuna mayo.
 Dialogue: 0,0:18:26.29,0:18:27.74,Default,Fushiguro,0,0,0,,You're right.
 Dialogue: 0,0:18:27.74,0:18:29.52,Default,Fushiguro,0,0,0,,Let's contact {*}Mr. Gojo{*Gojo-sensei}.
@@ -271,40 +288,40 @@ Dialogue: 0,0:18:30.05,0:18:31.63,Default,Kamo,0,0,0,,Wait a minute...
 Dialogue: 0,0:18:32.13,0:18:35.51,Default,Kamo,0,0,0,,You can understand what he's saying?
 Dialogue: 0,0:18:35.51,0:18:37.63,Default,Fushiguro,0,0,0,,That doesn't matter right now.
 Dialogue: 0,0:18:38.26,0:18:40.82,Default,Fushiguro,0,0,0,,Our opponent might use a domain.
-Dialogue: 0,0:18:40.82,0:18:43.96,Default,Fushiguro,0,0,0,,Maintain our distance and retreat to {*}Mr. Gojo{*Gojo-sensei}—{This hardly feels like an incomplete sentence. (and why is he the one to give orders to them anyway) while "Maintaining our distance, and retreating to Mr. Gojo—(should be our priority)" feels like what he'd be saying, and clearly interrupted, imo.}
+Dialogue: 0,0:18:40.82,0:18:43.96,Default,Fushiguro,0,0,0,,Maintaining our distance \Nand retreating to {*}Mr. Gojo{*Gojo-sensei} should—{This hardly feels like an incomplete sentence. (and why is he the one to give orders to them anyway) while "Maintaining our distance, and retreating to Mr. Gojo—(should be our priority)" feels like what he'd be saying, and clearly interrupted, imo.}
 Dialogue: 0,0:18:47.15,0:18:48.15,Default,Toge,0,0,0,,Don't move!
 Dialogue: 0,0:18:53.61,0:18:55.25,Default,Kamo,0,0,0,,{\i1}Blood Manipulation:
 Dialogue: 0,0:18:55.60,0:18:56.62,Default,Kamo,0,0,0,,{\i1}Slicing Exorcism!
-Dialogue: 0,0:19:00.03,0:19:01.51,Default,Kamo,0,0,0,,{\i1}No damage?!
-Dialogue: 0,0:19:12.73,0:19:14.24,Default,Fushiguro,0,0,0,,{\i1}It's really tough.
+Dialogue: 0,0:19:00.04,0:19:01.75,Default,Kamo,0,0,0,,{\i1}No damage at all?!
+Dialogue: 0,0:19:12.73,0:19:14.55,Default,Fushiguro,0,0,0,,{\i1}Didn't even scratch it.
 Dialogue: 0,0:19:16.00,0:19:17.27,Default,Kamo,0,0,0,,{\i1}That sword...
 Dialogue: 0,0:19:18.60,0:19:20.40,Default,Kamo,0,0,0,,{\i1}Where has he been hiding it?
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\c&H291811&\3c&H8E9EA5&\pos(649.34,1021)\fry180}S
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(668.03,940)\frx180}t
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(697.47,1020)}o
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(740.28,1020)\fry180}p
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(773.94,1020)}i
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(794.07,940)\frx180}t
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(813.85,1020)},
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(855.83,1020)\fry180}f
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(879.31,1020)}o
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(921.94,1020)\fry180}o
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(940.9,1020)}l
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(957.55,1020)}i
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(987.87,1019)\fry180}s
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1018.18,1019)\fry180}h
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1058.83,1020)}c
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1098.31,1019)\fry180}h
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1118.3,1020)}i
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1134.95,1020)}l
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1161,1020)}d
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1200.68,1020)\fry180}r
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1233.45,1020)\fry180}e
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1267.44,1020)\fry180}n
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&H8E9EA5&\pos(1284.83,1020)}.
-Dialogue: 0,0:19:24.75,0:19:27.77,Default,Hanami,0,0,0,,{\c&H291811&\3c&H8E9EA5&}Stop it, foolish children.
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(649.34,1021)\fry180}S
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(668.03,940)\frx180}t
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(697.47,1020)}o
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(740.28,1020)\fry180}p
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(773.94,1020)}i
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(794.07,940)\frx180}t
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(813.85,1020)},
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(855.83,1020)\fry180}f
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(879.31,1020)}o
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(921.94,1020)\fry180}o
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(940.9,1020)}l
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(957.55,1020)}i
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(987.87,1019)\fry180}s
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(1018.18,1019)\fry180}h
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(1058.83,1020)}c
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(1098.31,1019)\fry180}h
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(1118.3,1020)}i
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(1134.95,1020)}l
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(1161,1020)}d
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(1200.68,1020)\fry180}r
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(1233.45,1020)\fry180}e
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(1267.44,1020)\fry180}n
+Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\pos(1284.83,1020)}.
+Dialogue: 0,0:19:24.75,0:19:27.77,Default,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\4c&H3F2D26&\4a&H0A&}Stop it, foolish children.
 Dialogue: 0,0:19:30.24,0:19:31.49,Default,Fushiguro,0,0,0,,{\i1}What is this?
-Dialogue: 0,0:19:31.49,0:19:35.66,Default,Fushiguro,0,0,0,,{\i1}I can't tell what it's saying by the sound, but I can understand its meaning?
+Dialogue: 0,0:19:31.49,0:19:35.66,Default,Fushiguro,0,0,0,,{\i1}I can't tell what it's saying, \Nbut I can understand its meaning?
 Dialogue: 0,0:19:35.66,0:19:37.49,Default,Fushiguro,0,0,0,,{\i1}This feels creepy.
 Dialogue: 0,0:19:38.32,0:19:42.25,Default,Hanami,0,0,0,,All I want is to protect this planet.
 Dialogue: 0,0:19:42.79,0:19:45.87,Default,Kamo,0,0,0,,It's the curse talking nonsense! Ignore it!
@@ -312,8 +329,8 @@ Dialogue: 0,0:19:45.87,0:19:48.96,Default,Fushiguro,0,0,0,,It's not some low-lev
 Dialogue: 0,0:19:49.92,0:19:55.84,Default,Hanami,0,0,0,,The forest, the sea, and the sky all weep \Nvehemently from the tragedies they have withstood.
 Dialogue: 0,0:19:55.84,0:19:59.51,Default,Hanami,0,0,0,,It has become impossible to coexist with humans any longer.
 Dialogue: 0,0:20:00.14,0:20:04.81,Default,Hanami,0,0,0,,They know that there are humans \Nwho care for the planet.
-Dialogue: 0,0:20:04.81,0:20:09.02,Default,Hanami,0,0,0,,But there's only so much that\N their mere compassion can achieve.
-Dialogue: 0,0:20:09.56,0:20:12.52,Default,Fushiguro,0,0,0,,It's established its own language system!
+Dialogue: 0,0:20:04.81,0:20:09.02,Default,Hanami,0,0,0,,But there's only so much\N their mere compassion can achieve.
+Dialogue: 0,0:20:09.56,0:20:12.52,Default,Fushiguro,0,0,0,,It has established its own language system!
 Dialogue: 0,0:20:13.23,0:20:17.03,Default,Hanami,0,0,0,,All they desire is time.
 Dialogue: 0,0:20:18.14,0:20:20.29,Default,,0,0,0,,Get Inumaki out of here!
 Dialogue: 0,0:20:21.16,0:20:26.79,Default,Hanami,0,0,0,,Given a bit of time, this planet \Ncan shine a brilliant blue once more.
