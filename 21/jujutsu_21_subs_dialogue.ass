@@ -16,14 +16,14 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: jujutsu_21_premux.mkv
-Video File: jujutsu_21_premux.mkv
-Keyframes File: jujutsu_21_keyframes.txt
+Audio File: [Kaizoku] Jujutsu Kaisen - 21 [8CC9A6D8].mkv
+Video File: [Kaizoku] Jujutsu Kaisen - 21 [8CC9A6D8].mkv
+Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 323
-Active Line: 333
-Video Position: 33645
+Video Zoom Percent: 0.500000
+Scroll Position: 209
+Active Line: 212
+Video Position: 21246
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,12 +47,12 @@ Dialogue: 0,0:01:00.50,0:01:02.96,Default,Haruta,0,0,0,,But I guess a curse woul
 Dialogue: 0,0:01:11.01,0:01:12.84,Default,Haruta,0,0,0,,So, got the goods?
 Dialogue: 0,0:01:13.98,0:01:15.77,Default,Mahito,0,0,0,,Without a hitch.
 Dialogue: 0,0:01:17.70,0:01:23.22,Default,Mahito,0,0,0,,All six of the special-grade cursed objects, \NSukuna's Fingers, that Jujutsu Tech possessed.
-Dialogue: 0,0:01:24.16,0:01:30.74,Default,Mahito,0,0,0,,Plus, I got another special-grade cursed object,\N Cursed Wombs: Death Paintings, One through Three.
+Dialogue: 0,0:01:24.16,0:01:30.74,Default,Mahito,0,0,0,,Plus, I got another special-grade cursed object,\N Cursed Wombs: Death Paintings, One through Three.{#1-#3}
 Dialogue: 0,0:01:31.77,0:01:36.58,Default,Geto,0,0,0,,Most of the temples at Jujutsu Tech\N are actually just a facade.
 Dialogue: 0,0:01:36.58,0:01:40.70,Default,Geto,0,0,0,,Tengen's barrier keeps their position changing every day.
 Dialogue: 0,0:01:42.42,0:01:47.05,Default,Geto,0,0,0,,Among those, only one of over a thousand doors leads to the storeroom
 Dialogue: 0,0:01:47.05,0:01:50.83,Default,Geto,0,0,0,,that holds cursed objects as dangerous as the fingers.
-Dialogue: 0,0:01:56.93,0:02:01.60,Default,Geto,0,0,0,,Only Tengen knows which door leads to the storehouse each day,
+Dialogue: 0,0:01:56.93,0:02:01.60,Default,Geto,0,0,0,,Only Tengen knows which door leads to the storehouse{it was storeroom before. storehouse now?} each day,
 Dialogue: 0,0:02:01.60,0:02:03.48,Default,,0,0,0,,so I doubt anyone will interfere.
 Dialogue: 0,0:02:03.48,0:02:05.75,Default,Mahito,0,0,0,,Who's this Tengen guy anyway?
 Dialogue: 0,0:02:05.75,0:02:08.19,Default,Geto,0,0,0,,A jujutsu sorcerer with an immortality technique.
@@ -89,7 +89,7 @@ Dialogue: 0,0:03:52.55,0:03:57.09,Default,Geto,0,0,0,,Actually, Itadori and even
 Dialogue: 0,0:03:57.09,0:04:00.22,Default,Geto,0,0,0,,Both for us and for Jujutsu Tech.
 Dialogue: 0,0:04:04.04,0:04:09.18,Default,Geto,0,0,0,,We shouldn't set it off until the moment we need the most chaos.
 Dialogue: 0,0:04:11.02,0:04:14.48,Default,Geto,0,0,0,,That is, on October 31st, in Shibuya. {HYPE! HYPE! HYPE!}
-Dialogue: 0,0:04:15.53,0:04:20.88,Default,Geto,0,0,0,,Until then, we should save up \Neverything we can for sealing Gojo Satoru. 
+Dialogue: 0,0:04:15.53,0:04:20.88,Default,Geto,0,0,0,,Until then, we should save up \Neverything we can for sealing Gojo Satoru.
 Dialogue: 0,0:04:24.75,0:04:28.13,Default,Geto,0,0,0,,Also, we'll have a few curse users with us.
 Dialogue: 0,0:04:28.59,0:04:30.13,Default,Geto,0,0,0,,Kumiya Juzo.
 Dialogue: 0,0:04:30.13,0:04:31.60,Default,Geto,0,0,0,,He's disposable.
@@ -111,7 +111,7 @@ Dialogue: 0,0:06:46.97,0:06:48.97,Default,Ijichi,0,0,0,,{\an8}Three second-grade
 Dialogue: 0,0:06:48.97,0:06:50.88,Default,Ijichi,0,0,0,,{\an8}one semi-first-grade sorcerer,
 Dialogue: 0,0:06:50.88,0:06:52.47,Default,Ijichi,0,0,0,,{\an8}five assistant supervisors,
 Dialogue: 0,0:06:52.47,0:06:54.16,Default,Ijichi,0,0,0,,{\an8}and two cursed storehouse guards.
-Dialogue: 0,0:06:54.16,0:07:00.23,Default,Ijichi,0,0,0,,They were all sorcerers standing by at school and working separately from {*}Mr. Gojo{*Gojo-san} and Principal Yaga.
+Dialogue: 0,0:06:54.16,0:07:00.23,Default,Ijichi,0,0,0,,They were all sorcerers standing by at the school and working separately from {*}Mr. Gojo{*Gojo-san} and Principal Yaga.
 Dialogue: 0,0:07:00.73,0:07:03.06,Default,Ijichi,0,0,0,,We're waiting on the report from {*}Miss Ieiri{Ieiri*-san},
 Dialogue: 0,0:07:03.06,0:07:07.87,Default,Ijichi,0,0,0,,but involvement of the curse that \N{*}Mr. Nanami{*Nanami-san} fought is all but confirmed.
 Dialogue: 0,0:07:07.87,0:07:08.74,Default,Gojo,0,0,0,,Tch!
@@ -122,7 +122,7 @@ Dialogue: 0,0:07:18.96,0:07:23.42,Default,Yaga,0,0,0,,We don't want curse users 
 Dialogue: 0,0:07:23.42,0:07:25.63,Default,Yaga,0,0,0,,Did the one we captured spill anything?
 Dialogue: 0,0:07:26.80,0:07:29.51,Default,Ijichi,0,0,0,,It's not hard to get him to talk,
 Dialogue: 0,0:07:29.51,0:07:33.52,Default,Ijichi,0,0,0,,but most of what he says is irrelevant nonsense.
-Dialogue: 0,0:07:33.52,0:07:41.28,Default,Ijichi,0,0,0,,According to him, he was involved with the attack \Nonly because he was ordered to as part of a deal.
+Dialogue: 0,0:07:33.52,0:07:41.28,Default,Ijichi,0,0,0,,According to him, he was involved with the attack \Nonly because he was ordered to{,} as part of a deal.
 Dialogue: 0,0:07:42.21,0:07:45.30,Default,Juzo,0,0,0,,I wanted to make a coat rack.
 Dialogue: 0,0:07:45.30,0:07:47.28,Default,Juzo,0,0,0,,That monk promised me that.
 Dialogue: 0,0:07:47.74,0:07:49.39,Default,Juzo,0,0,0,,I don't know their name.
@@ -190,7 +190,7 @@ Dialogue: 0,0:11:21.70,0:11:24.28,Default,Miwa,0,0,0,,{\i1}Hello! Useless Miwa h
 Dialogue: 0,0:11:24.69,0:11:27.17,Default,Miwa,0,0,0,,{\i1}Even though I call myself useless,
 Dialogue: 0,0:11:27.17,0:11:31.02,Default,Miwa,0,0,0,,{\i1}I don't think I'm actually that bad.
 Dialogue: 0,0:11:32.62,0:11:37.68,Default,Miwa,0,0,0,,{\i1}But while everyone was putting their lives on the line against that special-grade,
-Dialogue: 0,0:11:38.91,0:11:42.92,Default,Miwa,0,0,0,,{\i1}I was fast asleep, so now I'm a little embarrassed.
+Dialogue: 0,0:11:38.91,0:11:42.92,Default,Miwa,0,0,0,,{\i1}I was fast asleep! So now I'm a little embarrassed.
 Dialogue: 0,0:11:44.63,0:11:48.58,Default,Miwa,0,0,0,,{\i1}Also, who broke my sword?
 Dialogue: 0,0:11:48.58,0:11:50.15,Default,Miwa,0,0,0,,{\i1}Was it Mai's sister?
 Dialogue: 0,0:11:50.74,0:11:53.65,Default,Miwa,0,0,0,,{\i1}Between all that, we thought\N the exchange event was canceled,
@@ -200,7 +200,7 @@ Dialogue: 0,0:12:00.32,0:12:02.06,Default,Gojo,0,0,0,,Play ball!
 Dialogue: 0,0:12:02.06,0:12:03.85,Default,Miwa,0,0,0,,{\i1}...playing baseball.
 Comment: 0,0:12:09.96,0:12:10.00,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:12:17.01,0:12:18.21,Default,Gojo,0,0,0,,{\an8}So anyway,
-Dialogue: 0,0:12:18.21,0:12:21.30,Default,Gojo,0,0,0,,a lot happened and some people died,
+Dialogue: 0,0:12:18.21,0:12:21.30,Default,Gojo,0,0,0,,a lot happened, and some people died,
 Dialogue: 0,0:12:21.30,0:12:24.21,Default,Gojo,0,0,0,,but how about it? Wanna continue the event?
 Dialogue: 0,0:12:25.40,0:12:28.22,Default,Yuji,0,0,0,,I don't know what to say, honestly...
 Dialogue: 0,0:12:28.22,0:12:29.22,Default,Todo,0,0,0,,Obviously.
@@ -245,8 +245,8 @@ Dialogue: 0,0:14:34.93,0:14:35.64,Default,Utahime,0,0,0,,Fly ball!
 Dialogue: 0,0:14:36.51,0:14:39.88,Default,Utahime,0,0,0,,Nishimiya, don't run yet!
 Dialogue: 0,0:14:41.23,0:14:42.26,Default,Gojo,0,0,0,,Out!
 Dialogue: 0,0:14:42.26,0:14:43.92,Default,Nishimiya,0,0,0,,Huh? Why?
-Dialogue: 0,0:14:43.92,0:14:46.28,Default,Utahime,0,0,0,,If you don't know the rules, then say so!
-Dialogue: 0,0:14:46.28,0:14:48.90,Default,Nishimiya,0,0,0,,{\an8}I know them! When the ball's hit, I run!
+Dialogue: 0,0:14:43.92,0:14:46.28,Default,Utahime,0,0,0,,If you don't know the rules, just say so!
+Dialogue: 0,0:14:46.28,0:14:48.90,Default,Nishimiya,0,0,0,,{\an8}I know the rules! When the ball's hit, I run!
 Dialogue: 0,0:14:50.26,0:14:51.64,Default,Nishimiya,0,0,0,,A sacrifice fly?!
 Dialogue: 0,0:14:51.64,0:14:54.05,Default,Nishimiya,0,0,0,,What's that, some new form of torture?!
 Dialogue: 0,0:14:54.05,0:14:55.54,Default,Utahime,0,0,0,,You're just plain stupid!
@@ -279,7 +279,7 @@ Dialogue: 0,0:16:04.36,0:16:05.34,Default,Gojo,0,0,0,,Change sides!
 Dialogue: 0,0:16:05.34,0:16:08.02,Default,Utahime,0,0,0,,Kamo! You won't get a hit if you don't swing!
 Dialogue: 0,0:16:10.27,0:16:13.80,Default,Kugisaki,0,0,0,,{\an8}They call me the Mah{**-kun} of Tohoku.
 Dialogue: 0,0:16:13.80,0:16:16.18,Default,Fushiguro,0,0,0,,No, Masahiro Tanaka is the Mah{**-kun} of Tohoku.
-Dialogue: 0,0:16:16.18,0:16:17.73,Default,Yuji,0,0,0,,He's a pitcher, you know!
+Dialogue: 0,0:16:16.18,0:16:17.73,Default,Yuji,0,0,0,,He's a pitcher, you know?
 Dialogue: 0,0:16:17.73,0:16:19.06,Default,Toge,0,0,0,,Bonito flakes.
 Dialogue: 0,0:16:22.04,0:16:22.79,Default,Kugisaki,0,0,0,,Huh?
 Dialogue: 0,0:16:26.66,0:16:28.25,Default,Kugisaki,0,0,0,,Hold it right there!
@@ -292,7 +292,7 @@ Dialogue: 0,0:16:37.73,0:16:40.92,Default,Mai,0,0,0,,We don't have a choice sinc
 Dialogue: 0,0:16:41.37,0:16:43.92,Default,Mai,0,0,0,,{\an8}Pitching machine?
 Dialogue: 0,0:16:43.92,0:16:45.49,Default,Mai,0,0,0,,{\an8}What's that?
 Dialogue: 0,0:16:45.49,0:16:47.48,Default,Mai,0,0,0,,{\an8}You know a lot about machines.
-Dialogue: 0,0:16:47.48,0:16:48.82,Default,Mai,0,0,0,,{\an8}What are you, {*}a geek{*an otaku}?
+Dialogue: 0,0:16:47.48,0:16:48.82,Default,Mai,0,0,0,,{\an8}What are you, {*}a nerd{*an otaku}?{geek is more "acceptable" while nerd is more mocking.}
 Dialogue: 0,0:16:49.12,0:16:52.60,Default,Kugisaki,0,0,0,,It's just one thing after another with you!
 Dialogue: 0,0:16:52.60,0:16:55.44,Default,Kugisaki,0,0,0,,And yet somehow you're still a Jujutsu Tech student!
 Dialogue: 0,0:16:56.41,0:16:59.96,Default,Kugisaki,0,0,0,,Fine, I'll do this!
@@ -347,10 +347,10 @@ Dialogue: 0,0:20:25.76,0:20:27.84,Default,Yuji,0,0,0,,Whoa, he's safe!
 Dialogue: 0,0:20:27.84,0:20:30.25,Default,Fushiguro,0,0,0,,Inumaki{**-senpai} is a fast runner, you know.
 Dialogue: 0,0:20:30.25,0:20:31.74,Default,Toge,0,0,0,,{\an8}Salted roe.
 Dialogue: 0,0:20:32.05,0:20:33.50,Default,Utahime,0,0,0,,Mai! Miwa!
-Dialogue: 0,0:20:33.50,0:20:35.10,Default,Utahime,0,0,0,,Watch for base-stealing!
+Dialogue: 0,0:20:33.50,0:20:35.10,Default,Utahime,0,0,0,,Watch{ out} for base-stealing!
 Dialogue: 0,0:20:36.58,0:20:40.75,Default,Yaga,0,0,0,,Our regrets as adults can wait.
 Dialogue: 0,0:20:59.97,0:21:01.31,Default,Maki,0,0,0,,He nailed it.
-Dialogue: 0,0:21:06.00,0:21:07.21,Default,Yuji,0,0,0,,{\fade(0,300)}All right!
+Dialogue: 0,0:21:06.00,0:21:07.21,Default,Yuji,0,0,0,,{\fade(0,300)}All right!{you can make this one fade to white actually.}
 Dialogue: 0,0:21:20.20,0:21:24.08,Default,Gakuganji,0,0,0,,Yaga, do something about Gojo first.
 Comment: 0,0:21:24.89,0:21:24.93,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:22:54.94,0:22:54.94,Default,chptr,0,0,0,,{Juju Stroll}
