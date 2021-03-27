@@ -16,14 +16,15 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: [Kaizoku] Jujutsu Kaisen - 20 [A44A2E11].mkv
-Video File: [Kaizoku] Jujutsu Kaisen - 20 [A44A2E11].mkv
+Audio File: jujutsu_20.mkv
+Video File: jujutsu_20.mkv
+Keyframes File: jujutsu_20_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.375000
 Scroll Position: 231
-Active Line: 247
-Video Position: 30313
+Active Line: 242
+Video Position: 29973
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,7 +59,7 @@ Dialogue: 0,0:03:07.94,0:03:10.77,Default,Toudou,0,0,0,,{\i1}Let's analyze our o
 Dialogue: 0,0:03:11.15,0:03:13.23,Default,Toudou,0,0,0,,{\i1}There are roots that emerge from the ground.
 Dialogue: 0,0:03:13.75,0:03:19.13,Default,Toudou,0,0,0,,{\i1}That one probably gains power and speed the more it limits quantity and range.
 Dialogue: 0,0:03:19.42,0:03:21.03,Default,Toudou,0,0,0,,{\i1}Then there's Wooden Ball.
-Dialogue: 0,0:03:21.03,0:03:24.05,Default,Toudou,0,0,0,,{\i1}Each ball can attack once or twice, and then it's expended.{"then it's spent." is a less fancy way of saying it.}
+Dialogue: 0,0:03:21.03,0:03:24.05,Default,Toudou,0,0,0,,{\i1}Each ball can attack once or twice, and then it's spent.
 Dialogue: 0,0:03:24.05,0:03:29.04,Default,Toudou,0,0,0,,{\i1}They can remain airborne, and I have to watch for delayed activation.
 Dialogue: 0,0:03:29.04,0:03:30.52,Default,Toudou,0,0,0,,{\i1}Then there's Cursed Bud.
 Dialogue: 0,0:03:30.52,0:03:33.52,Default,Toudou,0,0,0,,{\i1}That's probably what Fushiguro got hit with.
@@ -70,11 +71,11 @@ Dialogue: 0,0:03:42.08,0:03:44.49,Default,Toudou,0,0,0,,{\i1}but its injuries ar
 Dialogue: 0,0:03:44.49,0:03:46.28,Default,Toudou,0,0,0,,{\i1}Nothing to be afraid of.
 Dialogue: 0,0:03:46.28,0:03:49.88,Default,Toudou,0,0,0,,{\i1\fade(0,100)}Then there's that unleashed left arm.
 Dialogue: 0,0:03:51.63,0:03:55.29,Default,Toudou,0,0,0,,{\i1\fade(100,0)}There's also the possibility \Nthat all of these are just bluffs!
-Dialogue: 0,0:03:55.80,0:04:00.11,Default,Toudou,0,0,0,,{\i1}However, it doesn't matter what a technique is\N if you don't let them activate it!
+Dialogue: 0,0:03:55.80,0:04:00.11,Default,Toudou,0,0,0,,{\i1}But it doesn't matter how powerful a technique is if you never let them activate it!
 Dialogue: 0,0:04:01.01,0:04:06.55,Default,Toudou,0,0,0,,{\i1}Even accounting for any unexpected situations thanks to my 530,000 IQ,
 Dialogue: 0,0:04:08.58,0:04:13.04,Default,Toudou,0,0,0,,{\i1}my galaxy-brain CPU produces only one conclusion:
 Dialogue: 0,0:04:15.31,0:04:16.96,Default,,0,0,0,,{\i1}Victory!
-Dialogue: 0,0:04:18.90,0:04:22.40,Default,,0,0,0,,Because I'm not alone,
+Dialogue: 0,0:04:18.90,0:04:22.40,Default,,0,0,0,,Because I'm not alone.
 Dialogue: 0,0:04:23.15,0:04:24.03,Default,,0,0,0,,Brother!
 Dialogue: 0,0:04:25.10,0:04:26.95,Default,,0,0,0,,Because you're here!
 Dialogue: 0,0:04:36.33,0:04:37.38,Default,Yuuji,0,0,0,,Todo!
@@ -82,9 +83,9 @@ Dialogue: 0,0:04:43.92,0:04:44.95,Default,,0,0,0,,Todo!
 Dialogue: 0,0:04:47.37,0:04:49.35,Default,Hanami,0,0,0,,That's one down.
 Dialogue: 0,0:05:01.70,0:05:02.82,Default,Yuuji,0,0,0,,Oh, Todo!
 Dialogue: 0,0:05:03.09,0:05:04.48,Default,Hanami,0,0,0,,I see.
-Dialogue: 0,0:05:04.48,0:05:06.00,Default,Hanami,0,0,0,,It's simple...
+Dialogue: 0,0:05:04.48,0:05:06.00,Default,Hanami,0,0,0,,It's a simple...
 Dialogue: 0,0:05:07.44,0:05:10.24,Default,Hanami,0,0,0,,and therefore a troublesome technique.{"It's a simple," "and therefore troublesome, technique."}
-Dialogue: 0,0:05:10.24,0:05:11.16,Default,Toudou,0,0,0,,Yeah.
+Dialogue: 0,0:05:10.24,0:05:11.16,Default,Toudou,0,0,0,,Exactly.
 Dialogue: 0,0:05:11.16,0:05:15.20,Default,Toudou,0,0,0,,My technique swaps my position with my opponent's.
 Dialogue: 0,0:05:15.20,0:05:16.75,Default,Toudou,0,0,0,,Boogie Woogie!
 Dialogue: 0,0:05:18.77,0:05:19.46,Default,Yuuji,0,0,0,,Todo!
@@ -96,23 +97,23 @@ Dialogue: 0,0:05:46.14,0:05:48.07,Default,Hanami,0,0,0,,{\i1}Their builds are to
 Dialogue: 0,0:05:48.07,0:05:50.24,Default,Hanami,0,0,0,,{\i1}There's a big difference after they swap!
 Dialogue: 0,0:05:53.81,0:05:55.76,Default,Hanami,0,0,0,,{\i1}Is he swapping with me?
 Dialogue: 0,0:05:55.76,0:05:58.44,Default,Hanami,0,0,0,,{\i1}Or is he swapping with Sukuna's vessel?
-Dialogue: 0,0:05:58.44,0:06:02.88,Default,Hanami,0,0,0,,{\i1}Every time he claps, that split decision makes my thoughts falter!{"split decision"? "split-second need for decisiveness"? but that's a mouthful. }
+Dialogue: 0,0:05:58.44,0:06:02.88,Default,Hanami,0,0,0,,{\i1}Every time he claps, that split-second\N decision makes my thoughts falter!{"split decision"? "split-second need for decisiveness"? but that's a mouthful. }
 Dialogue: 0,0:06:08.16,0:06:10.47,Default,Hanami,0,0,0,,{\i1}This isn't good! I can't...
 Dialogue: 0,0:06:28.32,0:06:30.24,Default,Hanami,0,0,0,,{\i1}...break out of this!
 Dialogue: 0,0:06:36.92,0:06:38.29,Default,Hanami,0,0,0,,{\i1}They're using that again!
 Dialogue: 0,0:06:41.56,0:06:44.77,Default,Nanami,0,0,0,,Using Black Flash consecutively isn't anything amazing.
-Dialogue: 0,0:06:48.44,0:06:54.53,Default,Nanami,0,0,0,,{\an8}Using it more than twice in a row, \Nor on the same day might be difficult.{ayo put this on the bottom.}
+Dialogue: 0,0:06:48.51,0:06:54.53,Default,Nanami,0,0,0,,{\an8}Using it more than twice in a row, \Nor on the same day might be difficult.{ayo put this on the bottom.}
 Dialogue: 0,0:06:54.53,0:06:58.82,Default,Nanami,0,0,0,,It doesn't matter if the first time was pure luck or skill.
 Dialogue: 0,0:06:58.82,0:07:05.53,Default,Nanami,0,0,0,,Once they land a Black Flash, sorcerers temporarily enter a state athletes call "the zone."
 Dialogue: 0,0:07:05.80,0:07:11.45,Default,Nanami,0,0,0,,The otherwise conscious manipulation of cursed energy becomes as natural as breathing.
-Dialogue: 0,0:07:11.45,0:07:16.56,Default,Nanami,0,0,0,,There's a sense of omnipotence, \Nas if everything else revolves around them.
-Dialogue: 0,0:07:16.56,0:07:19.06,Default,Nanami,0,0,0,,That might be a good way to put it.
+Dialogue: 0,0:07:11.45,0:07:16.83,Default,Nanami,0,0,0,,There's a sense of omnipotence, \Nas if everything else revolves around them.
+Dialogue: 0,0:07:16.83,0:07:19.06,Default,Nanami,0,0,0,,That might be a good way to put it.
 Dialogue: 0,0:07:20.18,0:07:22.54,Default,Nanami,0,0,0,,My record?
 Dialogue: 0,0:07:25.65,0:07:26.96,Default,Nanami,0,0,0,,Four times.
 Dialogue: 0,0:07:27.57,0:07:29.67,Default,Nanami,0,0,0,,I just got lucky.
 Dialogue: 0,0:07:36.40,0:07:37.74,Default,Yuuji,0,0,0,,{\i1}Black Flash!
 Dialogue: 0,0:07:38.18,0:07:39.54,Default,Toudou,0,0,0,,{\i1}Brother,
-Dialogue: 0,0:07:39.54,0:07:42.21,Default,Toudou,0,0,0,,{\i1}I always get that premonition from you...
+Dialogue: 0,0:07:39.54,0:07:42.21,Default,Toudou,0,0,0,,{\i1}I always get that premonition from you!
 Dialogue: 0,0:07:50.16,0:07:51.86,Default,Yuuji,0,0,0,,{\i1}Black Flash!
 Dialogue: 0,0:07:56.50,0:07:57.60,Default,Yuuji,0,0,0,,{\i1}Black Flash!
 Dialogue: 0,0:07:58.05,0:08:00.10,Default,Toudou,0,0,0,,{\i1}Three in a row!
@@ -123,7 +124,7 @@ Dialogue: 0,0:08:08.63,0:08:10.00,Default,Hanami,0,0,0,,{\i1}is Sukuna's...
 Dialogue: 0,0:08:11.96,0:08:13.49,Default,Hanami,0,0,0,,{\i1}They didn't swap?!
 Dialogue: 0,0:08:17.66,0:08:22.08,Default,Toudou,0,0,0,,A clap doesn't necessarily mean I'm activating my technique!
 Dialogue: 0,0:08:22.08,0:08:25.50,Default,Toudou,0,0,0,,It's a simple but effective trick, wouldn't you say?
-Dialogue: 0,0:08:26.57,0:08:32.70,Default,Toudou,0,0,0,,{\i1}...I'm getting that same premonition of my boredom being turned upside-down!{because this counterpart sentence is the only way line 80 makes sense as a completed sentence}
+Dialogue: 0,0:08:26.57,0:08:32.70,Default,Toudou,0,0,0,,{\i1}I'm getting that same premonition of my boredom being turned upside-down!{because this counterpart sentence is the only way line 80 makes sense as a completed sentence}
 Dialogue: 0,0:08:36.98,0:08:38.56,Default,Yuuji,0,0,0,,{\i1}Black Flash!
 Comment: 0,0:08:43.96,0:08:44.00,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:09:31.67,0:09:33.60,Default,Yuuji,0,0,0,,{\i1}It's attacking before each swap!
@@ -131,7 +132,7 @@ Dialogue: 0,0:09:33.60,0:09:36.91,Default,Yuuji,0,0,0,,{\i1}It's getting used to
 Dialogue: 0,0:09:37.41,0:09:41.39,Default,Toudou,0,0,0,,{\i1}But that Black Flash barrage definitely did some damage.
 Dialogue: 0,0:09:41.39,0:09:42.85,Default,Toudou,0,0,0,,{\i1}We can exorcise it!
 Dialogue: 0,0:09:42.85,0:09:44.18,Default,Toudou,0,0,0,,{\i1}Together!
-Dialogue: 0,0:09:45.14,0:09:49.22,Default,Hanami,0,0,0,,{\i1}This is the first time I've ever been hurt so badly,
+Dialogue: 0,0:09:45.14,0:09:49.22,Default,Hanami,0,0,0,,{\i1}This is the first time I've taken so much damage,
 Dialogue: 0,0:09:49.85,0:09:51.88,Default,Hanami,0,0,0,,{\i1}and despite that...{is it really "despite" that? isn't the danger and risk, the REASON that the battle is thrilling?}
 Dialogue: 0,0:09:54.18,0:09:57.70,Default,Hanami,0,0,0,,{\i1}the thrill of this battle isn't waning!
 Dialogue: 0,0:10:15.86,0:10:18.22,Default,Hanami,0,0,0,,{\i1}His technique reveal was full of lies!
@@ -139,7 +140,7 @@ Dialogue: 0,0:10:18.86,0:10:22.60,Default,Hanami,0,0,0,,{\i1}He can make others 
 Dialogue: 0,0:10:22.86,0:10:23.98,Default,Yuuji,0,0,0,,Todo!
 Dialogue: 0,0:10:24.83,0:10:26.84,Default,Yuuji,0,0,0,,{\i1}He's protecting me!
 Dialogue: 0,0:10:27.10,0:10:29.44,Default,Toudou,0,0,0,,{\i1}Not to worry, Brother!
-Dialogue: 0,0:10:30.32,0:10:34.11,Default,Toudou,0,0,0,,{\i1}By using everything I've got\Nto harden my body and cursed energy,{clearer this way}
+Dialogue: 0,0:10:30.32,0:10:34.11,Default,Toudou,0,0,0,,{\i1}By using everything I've got\Nto harden my body with cursed energy,{clearer this way}
 Dialogue: 0,0:10:34.66,0:10:39.07,Default,Toudou,0,0,0,,{\i1}I'll easily repel these buds!
 Dialogue: 0,0:10:45.26,0:10:46.97,Default,Takada,0,0,0,,Are you sure about that?
 Dialogue: 0,0:10:49.87,0:10:52.33,Default,Toudou,0,0,0,,T-Takada{**-chan}?!
@@ -171,7 +172,7 @@ Dialogue: 0,0:12:28.94,0:12:30.23,Default,Toudou,0,0,0,,{\i1}Non!{why suddenly f
 Dialogue: 0,0:12:30.23,0:12:34.38,Default,Toudou,0,0,0,,{\i1}My technique works on cursed corpses \Nand inanimate objects as well.
 Dialogue: 0,0:12:34.38,0:12:36.40,Default,Toudou,0,0,0,,{\i1}So, the answer is:{or —}
 Dialogue: 0,0:12:36.97,0:12:40.11,Default,Toudou,0,0,0,,{\i1}anything that possesses \Ncursed energy above a certain level!
-Dialogue: 0,0:12:43.06,0:12:45.94,Default,Toudou,0,0,0,,{\i1}Hey, special-grade, have you noticed?
+Dialogue: 0,0:12:43.06,0:12:45.94,Default,Toudou,0,0,0,,{\i1}Tell me, special-grade, have you noticed?
 Dialogue: 0,0:12:46.58,0:12:50.49,Default,Toudou,0,0,0,,{\fade(120,0)\i1}We're back at that spot again.
 Dialogue: 0,0:12:50.83,0:12:53.40,Default,Toudou,0,0,0,,{\i1}This is where it lies waiting!
 Dialogue: 0,0:12:59.36,0:13:02.55,Default,Fushiguro,0,0,0,,Maki{**-san}'s special-grade cursed tool is in the riverbed.
@@ -185,18 +186,18 @@ Dialogue: 0,0:13:52.96,0:13:56.30,Default,Hanami,0,0,0,,Plants do not generate c
 Dialogue: 0,0:13:56.80,0:14:03.70,Default,Hanami,0,0,0,,So my left arm steals the life from plants and converts it to cursed energy.
 Dialogue: 0,0:14:05.37,0:14:08.49,Default,Hanami,0,0,0,,But that energy never comes to me.
 Dialogue: 0,0:14:08.49,0:14:11.60,Default,Hanami,0,0,0,,It all goes to this flower offering.
-Dialogue: 0,0:14:11.60,0:14:14.71,Default,Hanami,0,0,0,,{\fade(0,200)}I would've liked to avoid using this.
+Dialogue: 0,0:14:11.60,0:14:14.71,Default,Hanami,0,0,0,,{\fade(0,200)\i1}I would've liked to avoid using this.
 Dialogue: 0,0:14:23.09,0:14:24.19,Default,Yuuji,0,0,0,,Todo!
 Dialogue: 0,0:14:24.19,0:14:25.48,Default,Toudou,0,0,0,,Stay away, Brother!
 Dialogue: 0,0:14:25.48,0:14:27.83,Default,Toudou,0,0,0,,It's gonna be an incredible blast of cursed energy!
-Dialogue: 0,0:14:27.83,0:14:33.07,Default,Hanami,0,0,0,,However, you'll easily avoid it with your technique.
+Dialogue: 0,0:14:27.83,0:14:33.07,Default,Hanami,0,0,0,,However, you can easily avoid it with your technique.
 Dialogue: 0,0:14:33.07,0:14:35.47,Default,Hanami,0,0,0,,So what shall I do?
 Dialogue: 0,0:14:36.56,0:14:37.52,Default,Hanami,0,0,0,,Domain Ex—
 Dialogue: 0,0:14:40.96,0:14:42.10,Default,Yuuji,0,0,0,,The veil?!
 Dialogue: 0,0:15:09.53,0:15:11.57,Default,Kumiya,0,0,0,,{\i1}I see.
 Dialogue: 0,0:15:11.57,0:15:15.10,Default,Kumiya,0,0,0,,{\i1}I thought he sounded pretty good without the amp,
 Dialogue: 0,0:15:15.52,0:15:18.39,Default,Kumiya,0,0,0,,{\i1}but this geezer is the amp himself.
-Dialogue: 0,0:15:18.39,0:15:23.63,Default,Kumiya,0,0,0,,{\i1}His technique amplifies the tune \Nhe plays and launches it as cursed energy.
+Dialogue: 0,0:15:18.39,0:15:23.63,Default,Kumiya,0,0,0,,{\i1}His technique amplifies the tune he plays \Nand launches it as cursed energy.
 Dialogue: 0,0:15:24.24,0:15:26.78,Default,Kumiya,0,0,0,,{\i1}He's a predictable mid-range fighter.
 Dialogue: 0,0:15:26.78,0:15:29.57,Default,Kumiya,0,0,0,,{\i1}He obviously doesn't want people closing in on him.
 Dialogue: 0,0:15:32.20,0:15:34.33,Default,Kumiya,0,0,0,,I'll make a wallet out of you!
@@ -221,7 +222,7 @@ Dialogue: 0,0:16:39.30,0:16:43.73,Default,Juuzuu,0,0,0,,You're weak, so even you
 Dialogue: 0,0:16:44.11,0:16:44.97,Default,Haruta,0,0,0,,...he said.
 Dialogue: 0,0:16:48.28,0:16:51.49,Default,Haruta,0,0,0,,So, what are you gonna give me, lady?
 Dialogue: 0,0:16:52.11,0:16:54.99,Default,Kugisaki,0,0,0,,I bet you're not popular with the ladies!
-Dialogue: 0,0:16:54.99,0:16:58.48,Default,Kugisaki,0,0,0,,You meet someone new, \Nand all you talk about is yourself.
+Dialogue: 0,0:16:54.99,0:16:58.48,Default,Kugisaki,0,0,0,,You meet someone new, \Nand all you do is talk about yourself.
 Dialogue: 0,0:16:59.14,0:17:00.54,Default,Kugisaki,0,0,0,,I'd charge you for this.
 Dialogue: 0,0:17:00.54,0:17:04.39,Default,Mai,0,0,0,,What makes you think you're a good enough listener to charge for it?
 Dialogue: 0,0:17:05.25,0:17:06.72,Default,Utahime,0,0,0,,You guys!
@@ -230,7 +231,7 @@ Dialogue: 0,0:17:09.81,0:17:13.50,Default,Haruta,0,0,0,,Wow! So many girls!
 Dialogue: 0,0:17:13.50,0:17:14.88,Default,Haruta,0,0,0,,I'm so popular!
 Dialogue: 0,0:17:16.06,0:17:18.48,Default,Kugisaki,0,0,0,,Are you even listening?
 Dialogue: 0,0:17:18.48,0:17:22.60,Default,Mai,0,0,0,,I'll back you up. Just make sure you\N don't get caught in some friendly fire.
-Dialogue: 0,0:17:22.60,0:17:24.84,Default,Kugisaki,0,0,0,,You better be careful not to hit me!
+Dialogue: 0,0:17:22.60,0:17:24.57,Default,Kugisaki,0,0,0,,You better watch out!
 Dialogue: 0,0:17:31.98,0:17:33.60,Default,Utahime,0,0,0,,The veil is gone?!
 Dialogue: 0,0:17:34.34,0:17:35.73,Default,Haruta,0,0,0,,For real?
 Dialogue: 0,0:17:35.73,0:17:38.13,Default,Haruta,0,0,0,,Has it even been thirty minutes?
@@ -258,7 +259,7 @@ Dialogue: 0,0:19:09.47,0:19:11.03,Default,Gojou,0,0,0,,Go on, treat him.
 Dialogue: 0,0:19:16.38,0:19:19.61,Default,Gojou,0,0,0,,{\i1}The guy near Utahime disappeared.
 Dialogue: 0,0:19:20.43,0:19:23.04,Default,Gojou,0,0,0,,{\i1}Seems that running away \Nwas an option from the start.
 Dialogue: 0,0:19:24.15,0:19:25.93,Default,Gojou,0,0,0,,{\i1}All that's left is that one?
-Dialogue: 0,0:19:26.32,0:19:28.21,Default,Gojou,0,0,0,,{\i1}Also good at running away.
+Dialogue: 0,0:19:26.32,0:19:28.21,Default,Gojou,0,0,0,,{\i1}One adept at running too.
 Dialogue: 0,0:19:29.33,0:19:31.78,Default,Gojou,0,0,0,,{\i1}Yuji and the others are a little far away.
 Dialogue: 0,0:19:32.45,0:19:33.70,Default,Gojou,0,0,0,,Oh, well.
 Dialogue: 0,0:19:34.31,0:19:36.91,Default,Gojou,0,0,0,,Guess I'll be a little rough.
@@ -275,7 +276,7 @@ Dialogue: 0,0:20:07.61,0:20:09.21,Default,Toudou,0,0,0,,Or you'll get caught in 
 Dialogue: 0,0:20:13.01,0:20:14.22,Default,Gojou,0,0,0,,Hollow...
 Dialogue: 0,0:20:17.42,0:20:18.63,Default,Gojou,0,0,0,,Purple!
 Dialogue: 0,0:20:45.65,0:20:48.02,Default,Toudou,0,0,0,,He's just as nonstandard as ever.
-Dialogue: 0,0:20:50.10,0:20:53.41,Default,Toudou,0,0,0,,I can't tell if it was exorcised or not.
+Dialogue: 0,0:20:50.10,0:20:53.41,Default,Toudou,0,0,0,,I can't even tell if it was exorcised or not.
 Dialogue: 0,0:20:54.96,0:20:57.88,Default,Kumiya,0,0,0,,Ow! It hurts!
 Dialogue: 0,0:20:57.88,0:20:58.86,Default,Gakuganji,0,0,0,,Quiet!
 Dialogue: 0,0:20:59.11,0:21:00.95,Default,Gojou,0,0,0,,Yay!
