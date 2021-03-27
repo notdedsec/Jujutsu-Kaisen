@@ -1,0 +1,35 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:07:19.29,0:07:26.37,Signs,Screen,0,0,0,,{\fad(613,520)\pos(612,310)}Episode 23: {\fs26\fscx80}The Origin of Blind Obedience - 2 -
+Dialogue: 1,0:07:19.29,0:07:26.37,Signs,Screen,0,0,0,,{\fad(613,520)\pos(612,310)}Episode 23: {\fs26\fscx80}The Origin of Blind Obedience - 2 -
+Dialogue: 0,0:19:09.95,0:19:11.95,Signs,Screen,0,0,0,,{\p1\shad0\bord2\an2\pos(548,320)}m 0 0 l 0 -150 l 98 -150 l 96 0
+Dialogue: 1,0:19:09.95,0:19:11.95,Signs,Screen,0,0,0,,{\pos(548,96)\fscx95\fscy120}Fushiguro\NFell\NAsleep
+Dialogue: 0,0:22:14.93,0:22:17.44,Signs,All&Screen,0,0,0,,Juju Stroll
+Dialogue: 0,0:23:36.43,0:23:39.89,Signs,Screen,0,0,0,,{\fad(1029,1)}Episode 24:\NThe Origin of Blind Obedience - 3 -
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_23_premux.mkv
+Video File: jujutsu_23_premux.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_23_keyframes.txt

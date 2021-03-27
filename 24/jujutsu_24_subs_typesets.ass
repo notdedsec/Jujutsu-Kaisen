@@ -1,0 +1,40 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:03:43.99,0:03:51.00,Signs_Shadow,Screen,0,0,0,,{\fad(613,520)}Episode 24: Accomplices
+Dialogue: 1,0:03:43.99,0:03:51.00,Signs,Screen,0,0,0,,{\fad(613,520)}Episode 24: Accomplices
+Dialogue: 0,0:19:12.25,0:19:12.75,Signs,,0,0,0,,{\an8\fs20\shad0\3c&H271A10&\frz355.8\pos(329,34)}Iori Utahime
+Dialogue: 0,0:19:26.22,0:19:27.85,Signs,,0,0,0,,{\fs18\an8\c&HA2A2A2&\3c&HEEEEEE&\shad0\pos(347,77)\frx2\fry358\frz358.2}Payment for: Gojo Satoru
+Dialogue: 0,0:19:26.22,0:19:27.85,Signs,,0,0,0,,{\fs16\an7\c&HAAAAAA&\3c&HEEEEEE&\shad0\frx2\fry358\pos(208,118)\frz358}Enter password to verify
+Dialogue: 0,0:19:26.22,0:19:27.85,Signs,,0,0,0,,{\fs14\an7\c&HAAAAAA&\3c&HEBEADE&\shad0\frx2\fry358\frz358\pos(251,146)}Password
+Dialogue: 0,0:19:26.22,0:19:27.85,Signs,,0,0,0,,{\fs18\an8\c&HFFFFFF&\3c&HC1BB43&\shad0\frx2\fry358\frz357.3\pos(335,243)}Confirm Payment
+Dialogue: 0,0:19:27.85,0:19:30.23,Signs,,0,0,0,,{\fs16\an7\c&HAAAAAA&\3c&HEEEEEE&\shad0\frx2\fry358\pos(190.667,84)\frz359.9}Payment Complete
+Dialogue: 0,0:19:27.85,0:19:30.23,Signs,,0,0,0,,{\fs16\an8\c&HAAAAAA&\3c&HEEEEEE&\shad0\frx2\fry358\frz359.9\pos(330.667,278)}The payment has been sent.
+Dialogue: 0,0:19:35.19,0:19:37.19,Signs,,0,0,0,,{\an7\fs16\c&H7A7E7D&\3c&HD2E4E3&\shad0\pos(159,290)\frz6}Gojo Satoru
+Dialogue: 0,0:23:38.93,0:23:39.93,Signs,Screen,0,0,0,,{\fnTimes New Roman\b1\an3\bord0\shad0\pos(560,350)\c&HEEF7FA&}To Be Continued
+
+[Aegisub Project Garbage]
+Audio File: jujutsu_24_premux.mkv
+Video File: jujutsu_24_premux.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jujutsu_24_keyframes.txt
