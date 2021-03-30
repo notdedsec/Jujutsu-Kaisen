@@ -13,14 +13,18 @@ PlayResX: 1920
 PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: jujutsu_22_premux.mkv
 Video File: jujutsu_22_premux.mkv
 Keyframes File: jujutsu_22_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Video Position: 251
+Video Zoom Percent: 0.625000
+Scroll Position: 246
+Active Line: 250
+Video Position: 7959
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,51 +32,969 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.44,0:00:12.47,Signs,Screen,0,0,0,,{\pos(592,80)\an8\fs18\bord0\shad0}Operating Pro
-Dialogue: 0,0:00:10.44,0:00:12.47,Signs,Screen,0,0,0,,{\pos(592,130)\an8\fs10\bord0\shad0}1) Please\Nthe room you wish to visit.
-Dialogue: 0,0:00:10.44,0:00:12.47,Signs,Screen,0,0,0,,{\pos(592,194)\an8\fs10\bord0\shad0}2) Please\Nconfirm on the display.
-Dialogue: 0,0:00:10.44,0:00:12.47,Signs,Screen,0,0,0,,{\pos(592,250)\an8\fs10\bord0\shad0}3) Please\Nthe room you're visiting.
-Dialogue: 0,0:02:01.40,0:02:04.47,Signs,Akari,0,0,0,,{\pos(320,342)}Kanada Taichi in Morioka, in June.
-Dialogue: 0,0:02:02.10,0:02:04.85,Signs,Screen,0,0,0,,{\pos(350,32)}Name: Kanada Taichi\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
-Dialogue: 0,0:02:02.10,0:02:04.85,Signs,,0,0,0,,{\pos(350,62)}Gender: Male
-Dialogue: 0,0:02:02.10,0:02:04.85,Signs,,0,0,0,,{\pos(350,92)\q2}Date of Birth: {\fs12\fscx95}February 10th, 1984 (34 years old)
-Dialogue: 0,0:02:02.10,0:02:04.85,Signs,,0,0,0,,{\pos(350,120)}Blood-type: A
-Dialogue: 0,0:02:02.10,0:02:04.85,Signs,,0,0,0,,{\pos(350,150)}Height: {\fs14}175cm / Weight: 63kg
-Dialogue: 0,0:02:02.10,0:02:04.85,Signs,,0,0,0,,{\an7\pos(350,172)\q2}History: {\fs10\fscy120}Saitama Prefecture, Saitama Municipal Urami\h\h\h\h\h\NElementary School. Same city, Urami East Middle School. After\h\h\Ngraduation, he enrolled in the same city's Iwasa Commercial\h\h\h\h\h\h\NHigh School. Dropped out in second year. Hired by Misaki\h\h\h\h\h\h\h\h\h\h\NConstruction, INC. Worked as an on-site laborer for two years,\h\h\Nthen changed jobs. Moved to Morioka City, Iwate Prefecture.\h\h\h\h\h\h\NWorked for Sakino Civil Engineering, LTC for four years.\h\h\h\h\h\h\h\h\h\h\h\h\NTransferred to Soma Manufacturing Inc. and worked as on-site\Nlaborer. Currently still listed as an on-site supervisor at the\h\h\h\h\h\h\h\Nsame company. He was confirmed dead inside the entrance of\h\h\Nhis apartment in Morioka City on June 23rd of this year, just past \h\N8:00 PM. It's believed he was stabbed to death by a cursed spirit.\h\NRight before his death, a resident witnessed Kanada shouting on\Nthe phone after returning from his shopping.
-Dialogue: 0,0:02:04.85,0:02:08.85,Signs,Screen,0,0,0,,{\pos(350,32)}Name: Shimada Osamu\h\h\h\h\h\h\h\h\h\h\h\h\h
-Dialogue: 0,0:02:04.85,0:02:08.85,Signs,,0,0,0,,{\pos(350,62)}Gender: Male
-Dialogue: 0,0:02:04.85,0:02:08.85,Signs,,0,0,0,,{\pos(350,92)\q2}Date of Birth: {\fs12\fscx95}July 27th, 1983 (35 years old)\h\h\h\h\h\h
-Dialogue: 0,0:02:04.85,0:02:08.85,Signs,,0,0,0,,{\pos(350,120)}Blood-type: AB
-Dialogue: 0,0:02:04.85,0:02:08.85,Signs,,0,0,0,,{\pos(350,150)}Height: {\fs14}169cm / Weight: 74kg
-Dialogue: 0,0:02:04.85,0:02:08.85,Signs,,0,0,0,,{\an7\pos(350,172)\q2}History: {\fs10\fscy120}Saitama Prefecture, Saitama Municipal Urami\h\h\h\h\h\NElementary School. Same city, Urami East Middle School. After\h\h\Ngraduation, he enrolled in Shounan Private High School and\h\h\h\h\h\h\h\Ngraduated. He spent two years working several part-time jobs\h\h\h\Ndoing construction work, office work, and independent\h\h\h\h\h\h\h\h\h\h\h\h\h\h\Ncontracts. Afterward he enrolled in Tongmyong University, and\h\h\Nafter graduating he joined Rinne & Kidd Inc. He worked there as\Na programmer for four years before transferring to SRAD'D Inc.\h\h\NHe worked there as a system engineer until the present. He was\h\Nconfirmed dead in front of the entrance of his apartment in\h\h\h\h\h\h\h\NTsurumi Ward, Yokohama, on August 18th of this year, around \h\h\N3:00 PM. It is suspected that he was stabbed to death by a cursed \Nspirit when he returned home from a nearby convenience store.
-Dialogue: 0,0:02:05.51,0:02:08.64,Signs,Akari,0,0,0,,{\pos(320,342)}Shimada Osamu in Yokohama, in August.
-Dialogue: 0,0:02:08.85,0:02:17.24,Signs,Screen,0,0,0,,{\pos(350,32)}Name: Yamato Hiroshi\h\h\h\h\h\h\h\h\h\h\h\h\h\h
-Dialogue: 0,0:02:08.85,0:02:17.24,Signs,,0,0,0,,{\pos(350,62)}Gender: Male
-Dialogue: 0,0:02:08.85,0:02:17.24,Signs,,0,0,0,,{\pos(350,92)\q2}Date of Birth: {\fs12\fscx95}October 9th, 1983 (35 years old)\h\h\h
-Dialogue: 0,0:02:08.85,0:02:17.24,Signs,,0,0,0,,{\pos(350,120)}Blood-type: B
-Dialogue: 0,0:02:08.85,0:02:17.24,Signs,,0,0,0,,{\pos(350,150)}Height: {\fs14}180cm / Weight: 69kg
-Dialogue: 0,0:02:08.85,0:02:17.24,Signs,,0,0,0,,{\an7\pos(350,176)\q2}History: {\fs10\fscy120}Saitama Prefecture, Saitama Municipal Yoha\h\h\h\h\h\h\h\h\NElementary School. Same city, Urami East Middle School. After\h\h\h\Ngraduation, he enrolled in the same city's Urami High School and\h\Ngraduated. He then advanced to Kanbe Commercial College.\h\h\h\h\h\h\h\NAfter graduating, he joined Bereact Inc. One year later, he\h\h\h\h\h\h\h\h\h\Ntransferred to Sangent Inc. After working there for three years,\h\h\h\Nhe transferred to Houwa Home Inc. There, he worked in sales for\h\Nthe Nagoya branch until the present. He was confirmed dead inside\Nthe entrance of his apartment in Midori Ward, Nagoya, on\h\h\h\h\h\h\h\h\h\h\h\h\h\NSeptember 7th of this year, around 11:00 PM. It is believed that he\h\Nwas stabbed to death by a cursed spirit upon returning from work.
-Dialogue: 0,0:02:09.55,0:02:12.65,Signs,Akari,0,0,0,,{\pos(320,342)}Yamato Hiroshi in Nagoya, in September.
-Dialogue: 0,0:02:22.74,0:02:27.73,Signs,Screen,0,0,0,,{\fad(441,392)\fnTimes New Roman\c&H000000&\bord0\pos(58,42)}Jujutsu High Assistant Supervisor\N\NNitta Akari
-Dialogue: 0,0:02:22.81,0:02:27.73,Signs,Screen,0,0,0,,{\fad(441,392)\p1\shad0\bord1\an7\pos(50,72)}m 0 0 l 0 -60 l 240 -60 l 240 0
-Dialogue: 0,0:02:28.96,0:02:36.03,Signs,Screen,0,0,0,,{\fad(529,475)\pos(612,310)}Episode 22: {\fscx80}The Origin of Blind Obedience
-Dialogue: 0,0:02:29.02,0:02:36.03,Signs,Screen,0,0,0,,{\fad(529,475)\pos(612,310)}Episode 22: {\fscx80}The Origin of Blind Obedience
-Dialogue: 0,0:03:48.24,0:03:50.27,Signs,Lantern,0,0,0,,{\pos(178,128)\an5\c&H2D2F2F&\fnTimes New Roman\bord0\shad0\b1}Spirit\NLantern
-Dialogue: 0,0:03:50.27,0:03:53.73,Signs,Sign,0,0,0,,{\fad(2320,1)\pos(536,112)\fs18\shad0\fnTimes New Roman\c&H3B3D3F&\3c&HDCDEE0&}Morishita Family\NFuneral 11:00~
-Dialogue: 0,0:04:24.86,0:04:27.89,Signs,Sign,0,0,0,,{\fs12\fnTimes New Roman\c&H8A8D8C&\3c&H25271E&\shad0\fay.18\fax-.2\frx10\fry6\move(194,15,72,77)}Saitama Municipal\NUrami East Middle School
-Dialogue: 0,0:04:24.86,0:04:27.89,Signs,WhiteSign,0,0,0,,{\c&HD0C1E5&\3c&HFAF7FA&\shad0\fs10\fay.2\frx14\fry28\move(484,2,375,54)}Congratulations,\N{\c&HC0BDBF&}Making it to Koushien!
-Dialogue: 0,0:05:20.75,0:05:32.79,Signs,Screen,0,0,0,,{\an8\b1\c&H1DE2F2&\bord0\fnArial\frz14.15\4a&H88&\pos(152,85.333)}Grinding
-Dialogue: 0,0:05:20.75,0:05:32.79,Signs,Screen,0,0,0,,{\an8\b1\c&H1DE2F2&\bord0\fnArial\frz14.15\4a&H88&\pos(442,268)}Grinding
-Dialogue: 0,0:05:48.53,0:05:55.56,Signs,Screen,0,0,0,,{\an8\b1\c&H1DE2F2&\bord0\fnArial\frz14.15\4a&H88&\pos(152,85.333)}Grinding...
-Dialogue: 0,0:05:48.53,0:05:55.56,Signs,Screen,0,0,0,,{\an8\b1\c&H1DE2F2&\bord0\fnArial\frz14.15\4a&H88&\pos(442,268)}Grinding...
-Dialogue: 0,0:10:43.03,0:10:49.75,Signs,Screen,0,0,0,,{\fscx85}Koi no Kuchi Canyon, Yasohachi Bridge
-Dialogue: 0,0:11:14.86,0:11:15.57,Signs,Wrapper,0,0,0,,{\fnTimes New Roman\b1\c&H392627&\3c&HDECDCB&\shad0\fs18\frz35.58\pos(448.667,294.666)}Spicy Cod Roe
-Dialogue: 0,0:11:15.86,0:11:23.86,Signs,Sign,0,0,0,,{\move(423,97,285,97)\fs10\fnArial\b1\c&H2F7E37&\3c&H8B8D59&\4c&H724842&\frx8\fry350\frz2.595}Pounded Fish Cake is finally here!
-Dialogue: 0,0:11:42.01,0:11:47.89,Signs,Screen&Akari,0,0,0,,{\fnArial\b1\c&H0D02C7&\3c&H07193D&\pos(230,12)\an8}Ding-ding
-Dialogue: 0,0:12:04.74,0:12:08.41,Signs,,0,0,0,,{\fad(400,1)\fnTimes New Roman\b1\fsp4\c&H281CE3&\shad0\bord1.5\fs30\frz298\pos(142,136)}Gyaaah!
-Dialogue: 0,0:12:33.12,0:12:37.60,Signs,Sign,0,0,0,,{\pos(370,245)\c&H93847B&\fnArial\b1\bord0\shad0}Bank ATM
-Dialogue: 0,0:13:25.11,0:13:34.95,Signs,Sign,0,0,0,,{\fad(776,2000)\fnTimes New Roman\bord3\shad0\fs16\pos(80,90)}Mugiwara\N{\fs15}Open for business
-Dialogue: 0,0:22:15.10,0:22:17.61,Signs,All&Screen,0,0,0,,Juju Stroll
-Dialogue: 0,0:22:36.17,0:22:40.92,Signs,Signs,0,0,0,,{\pos(213.333,66)\an8\b1\c&HA6908B&\bord1\shad0\fnArial\3c&H897F73&}Chinese Restaurant {\c&H586ACE&}Manpuku
-Dialogue: 0,0:23:03.40,0:23:06.28,Signs,Signs,0,0,0,,{\pos(270,70)\an8\b1\c&HA6908B&\bord1\shad0\fnArial\3c&H897F73&}Chinese Restaurant {\c&H586ACE&}Manpuku
-Dialogue: 0,0:23:36.60,0:23:40.06,Signs,Screen,0,0,0,,{\fad(1071,1)}Episode 23: \NThe Origin of Blind Obedience - 2 -
+Comment: 0,0:11:14.86,0:11:15.57,Signs,Wrapper,0,0,0,,{\fnTimes New Roman\b1\c&H392627&\3c&HDECDCB&\shad0\fs18\frz35.58\pos(448.667,294.666)}Spicy Cod Roe
+Comment: 0,0:12:33.12,0:12:37.60,Signs,Sign,0,0,0,,{\pos(370,245)\c&H93847B&\fnArial\b1\bord0\shad0}Bank ATM
+Comment: 0,0:13:25.11,0:13:34.95,Signs,Sign,0,0,0,,{\fad(776,2000)\fnTimes New Roman\bord3\shad0\fs16\pos(80,90)}Mugiwara\N{\fs15}Open for business
+Comment: 0,0:00:10.44,0:00:12.47,Signs,Screen,0,0,0,,{\pos(592,130)\an8\fs10\bord0\shad0}1) Please\Nthe room you wish to visit.
+Comment: 0,0:00:10.44,0:00:12.47,Signs,Screen,0,0,0,,{\pos(592,194)\an8\fs10\bord0\shad0}2) Please\Nconfirm on the display.
+Comment: 0,0:00:10.44,0:00:12.47,Signs,Screen,0,0,0,,{\pos(592,250)\an8\fs10\bord0\shad0}3) Please\Nthe room you're visiting.
+Comment: 0,0:02:02.10,0:02:04.85,Signs,Screen,0,0,0,,{\pos(350,32)}Name: Kanada Taichi
+Comment: 0,0:02:02.10,0:02:04.85,Signs,,0,0,0,,{\pos(350,62)}Gender: Male
+Comment: 0,0:02:02.10,0:02:04.85,Signs,,0,0,0,,{\pos(350,92)\q2}Date of Birth: {\fs12\fscx95}February 10th, 1984 (34 years old)
+Comment: 0,0:02:02.10,0:02:04.85,Signs,,0,0,0,,{\pos(350,120)}Blood-type: A
+Comment: 0,0:02:02.10,0:02:04.85,Signs,,0,0,0,,{\pos(350,150)}Height: {\fs14}175cm / Weight: 63kg
+Comment: 0,0:02:02.10,0:02:04.85,Signs,,0,0,0,,{\an7\pos(350,172)\q2}History: {\fs10\fscy120}Saitama Prefecture, Saitama Municipal Urami\NElementary School. Same city, Urami East Middle School. After\Ngraduation, he enrolled in the same city's Iwasa Commercial\NHigh School. Dropped out in second year. Hired by Misaki\NConstruction, INC. Worked as an on-site laborer for two years,\Nthen changed jobs. Moved to Morioka City, Iwate Prefecture.\NWorked for Sakino Civil Engineering, LTC for four years.\NTransferred to Soma Manufacturing Inc. and worked as on-site\Nlaborer. Currently still listed as an on-site supervisor at the\Nsame company. He was confirmed dead inside the entrance of\Nhis apartment in Morioka City on June 23rd of this year, just past \N8:00 PM. It's believed he was stabbed to death by a cursed spirit.\NRight before his death, a resident witnessed Kanada shouting on\Nthe phone after returning from his shopping.
+Comment: 0,0:02:04.85,0:02:08.85,Signs,Screen,0,0,0,,{\pos(350,32)}Name: Shimada Osamu
+Comment: 0,0:02:04.85,0:02:08.85,Signs,,0,0,0,,{\pos(350,62)}Gender: Male
+Comment: 0,0:02:04.85,0:02:08.85,Signs,,0,0,0,,{\pos(350,92)\q2}Date of Birth: {\fs12\fscx95}July 27th, 1983 (35 years old)
+Comment: 0,0:02:04.85,0:02:08.85,Signs,,0,0,0,,{\pos(350,120)}Blood-type: AB
+Comment: 0,0:02:04.85,0:02:08.85,Signs,,0,0,0,,{\pos(350,150)}Height: {\fs14}169cm / Weight: 74kg
+Comment: 0,0:02:04.85,0:02:08.85,Signs,,0,0,0,,{\an7\pos(350,172)\q2}History: {\fs10\fscy120}Saitama Prefecture, Saitama Municipal Urami\NElementary School. Same city, Urami East Middle School. After\Ngraduation, he enrolled in Shounan Private High School and\Ngraduated. He spent two years working several part-time jobs\Ndoing construction work, office work, and independent\Ncontracts. Afterward he enrolled in Tongmyong University, and\Nafter graduating he joined Rinne & Kidd Inc. He worked there as\Na programmer for four years before transferring to SRAD'D Inc.\NHe worked there as a system engineer until the present. He was\Nconfirmed dead in front of the entrance of his apartment in\NTsurumi Ward, Yokohama, on August 18th of this year, around \N3:00 PM. It is suspected that he was stabbed to death by a cursed \Nspirit when he returned home from a nearby convenience store.
+Comment: 0,0:02:08.85,0:02:17.24,Signs,Screen,0,0,0,,{\pos(350,32)}Name: Yamato Hiroshi
+Comment: 0,0:02:08.85,0:02:17.24,Signs,,0,0,0,,{\pos(350,62)}Gender: Male
+Comment: 0,0:02:08.85,0:02:17.24,Signs,,0,0,0,,{\pos(350,92)\q2}Date of Birth: {\fs12\fscx95}October 9th, 1983 (35 years old)
+Comment: 0,0:02:08.85,0:02:17.24,Signs,,0,0,0,,{\pos(350,120)}Blood-type: B
+Comment: 0,0:02:08.85,0:02:17.24,Signs,,0,0,0,,{\pos(350,150)}Height: {\fs14}180cm / Weight: 69kg
+Comment: 0,0:02:08.85,0:02:17.24,Signs,,0,0,0,,{\an7\pos(350,176)\q2}History: {\fs10\fscy120}Saitama Prefecture, Saitama Municipal Yoha\NElementary School. Same city, Urami East Middle School. After\Ngraduation, he enrolled in the same city's Urami High School and\Ngraduated. He then advanced to Kanbe Commercial College.\NAfter graduating, he joined Bereact Inc. One year later, he\Ntransferred to Sangent Inc. After working there for three years,\Nhe transferred to Houwa Home Inc. There, he worked in sales for\Nthe Nagoya branch until the present. He was confirmed dead inside\Nthe entrance of his apartment in Midori Ward, Nagoya, on\NSeptember 7th of this year, around 11:00 PM. It is believed that he\Nwas stabbed to death by a cursed spirit upon returning from work.
+Comment: 0,0:04:24.86,0:04:27.89,Signs,WhiteSign,0,0,0,,{\c&HD0C1E5&\3c&HFAF7FA&\shad0\fs10\fay.2\frx14\fry28\move(484,2,375,54)}Congratulations,\N{\c&HC0BDBF&}Making it to Koushien!
+Comment: 0,0:12:04.91,0:12:05.04,Signs,,0,0,0,,{\fnDanger Diabolik\b1\fsp4\c&H281CE3&\shad0\bord1.5\fs26\fscx180\frz298\pos(384,926)}Gyaaah!
+Comment: 0,0:12:05.04,0:12:05.16,Signs,,0,0,0,,{\fnDanger Diabolik\b1\fsp18\c&H281CE3&\shad0\bord1.5\fs40\fscx188\frz298\pos(254,726)}Gyaaah!
+Comment: 0,0:12:05.16,0:12:08.41,Signs,,0,0,0,,{\fnDanger Diabolik\b1\fsp4\c&H281CE3&\shad0\bord1.5\fs50\fscx180\frz298\pos(242.67,719.33)}Gyaaah!
+Dialogue: 0,0:00:10.44,0:00:10.49,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1801.33,230.67)}Operating Procedure
+Dialogue: 0,0:00:10.49,0:00:10.53,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1801.36,230.29)}Operating Procedure
+Dialogue: 0,0:00:10.53,0:00:10.57,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1801.41,229.9)}Operating Procedure
+Dialogue: 0,0:00:10.57,0:00:10.61,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1801.59,229.48)}Operating Procedure
+Dialogue: 0,0:00:10.61,0:00:10.65,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1801.81,229.2)}Operating Procedure
+Dialogue: 0,0:00:10.65,0:00:10.69,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1802.09,228.95)}Operating Procedure
+Dialogue: 0,0:00:10.69,0:00:10.74,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1802.43,228.68)}Operating Procedure
+Dialogue: 0,0:00:10.74,0:00:10.78,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1802.79,228.45)}Operating Procedure
+Dialogue: 0,0:00:10.78,0:00:10.82,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1803.18,228.23)}Operating Procedure
+Dialogue: 0,0:00:10.82,0:00:10.86,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1803.58,228.09)}Operating Procedure
+Dialogue: 0,0:00:10.86,0:00:10.90,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1803.96,227.94)}Operating Procedure
+Dialogue: 0,0:00:10.90,0:00:10.94,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1804.36,227.81)}Operating Procedure
+Dialogue: 0,0:00:10.94,0:00:10.99,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1804.68,227.68)}Operating Procedure
+Dialogue: 0,0:00:10.99,0:00:11.03,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1804.98,227.59)}Operating Procedure
+Dialogue: 0,0:00:11.03,0:00:11.07,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1805.28,227.5)}Operating Procedure
+Dialogue: 0,0:00:11.07,0:00:11.11,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1805.52,227.42)}Operating Procedure
+Dialogue: 0,0:00:11.11,0:00:11.15,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1805.75,227.34)}Operating Procedure
+Dialogue: 0,0:00:11.15,0:00:11.19,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1805.9,227.29)}Operating Procedure
+Dialogue: 0,0:00:11.19,0:00:11.24,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1806.05,227.24)}Operating Procedure
+Dialogue: 0,0:00:11.24,0:00:11.28,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1806.12,227.2)}Operating Procedure
+Dialogue: 0,0:00:11.28,0:00:11.32,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1806.19,227.15)}Operating Procedure
+Dialogue: 0,0:00:11.32,0:00:11.36,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1806.18,227.12)}Operating Procedure
+Dialogue: 0,0:00:11.36,0:00:11.40,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1806.16,227.08)}Operating Procedure
+Dialogue: 0,0:00:11.40,0:00:11.44,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1806.1,227.04)}Operating Procedure
+Dialogue: 0,0:00:11.44,0:00:11.49,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1806.05,226.99)}Operating Procedure
+Dialogue: 0,0:00:11.49,0:00:11.53,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1805.98,226.94)}Operating Procedure
+Dialogue: 0,0:00:11.53,0:00:11.57,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1805.96,226.9)}Operating Procedure
+Dialogue: 0,0:00:11.57,0:00:11.61,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1806.01,226.81)}Operating Procedure
+Dialogue: 0,0:00:11.61,0:00:11.65,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1806.07,226.72)}Operating Procedure
+Dialogue: 0,0:00:11.65,0:00:11.69,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1806.26,226.55)}Operating Procedure
+Dialogue: 0,0:00:11.69,0:00:11.74,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1806.46,226.39)}Operating Procedure
+Dialogue: 0,0:00:11.74,0:00:11.78,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1806.68,226.2)}Operating Procedure
+Dialogue: 0,0:00:11.78,0:00:11.82,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1806.9,226.02)}Operating Procedure
+Dialogue: 0,0:00:11.82,0:00:11.86,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1807.1,225.8)}Operating Procedure
+Dialogue: 0,0:00:11.86,0:00:11.90,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1807.32,225.65)}Operating Procedure
+Dialogue: 0,0:00:11.90,0:00:11.95,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1807.54,225.5)}Operating Procedure
+Dialogue: 0,0:00:11.95,0:00:11.99,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1807.7,225.36)\c&H32231B&}Operating Procedure
+Dialogue: 0,0:00:11.99,0:00:12.03,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1807.84,225.31)\c&H32231B&}Operating Procedure
+Dialogue: 0,0:00:12.03,0:00:12.07,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1807.93,225.19)\c&H32231B&}Operating Procedure
+Dialogue: 0,0:00:12.07,0:00:12.11,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1808.1,225.15)}Operating Procedure
+Dialogue: 0,0:00:12.11,0:00:12.15,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1808.12,225.14)}Operating Procedure
+Dialogue: 0,0:00:12.15,0:00:12.20,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1808.13,225.14)}Operating Procedure
+Dialogue: 0,0:00:12.20,0:00:12.24,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1808.1,225.18)}Operating Procedure
+Dialogue: 0,0:00:12.24,0:00:12.28,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1808.08,225.22)}Operating Procedure
+Dialogue: 0,0:00:12.28,0:00:12.32,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1807.91,225.34)}Operating Procedure
+Dialogue: 0,0:00:12.32,0:00:12.36,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1807.74,225.46)}Operating Procedure
+Dialogue: 0,0:00:12.36,0:00:12.40,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1807.51,225.6)}Operating Procedure
+Dialogue: 0,0:00:12.40,0:00:12.45,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1807.28,225.74)}Operating Procedure
+Dialogue: 0,0:02:22.79,0:02:27.73,Signs,Screen,0,0,0,,{\fad(441,392)\p1\shad0\bord6\be1\pos(125.4,63.8)\c&HFFFFFF&\1a&HC8&}m 145.27 144.53 l 394 144 394 317 145 317
+Dialogue: 1,0:02:22.79,0:02:27.73,Signs,Screen,0,0,0,,{\fad(441,392)\p1\shad0\bord0\be2\pos(125.4,63.8)}m 145.27 144.53 l 394 144 394 317 145 317
+Dialogue: 2,0:02:22.79,0:02:27.73,Signs,Screen,0,0,0,,{\fad(140,140)\an4\fs30.6\fnIwata Mincho Pro En B\bord0\c&H000000&\pos(160.66,197.22)\be1}Assistant Supervisor
+Dialogue: 2,0:02:22.79,0:02:27.73,Signs,Screen,0,0,0,,{\fad(140,140)\an4\fs50\fnIwata Mincho Pro En B\bord0\c&H000000&\pos(162.66,153.22)\be1}Jujutsu Tech
+Dialogue: 2,0:02:22.79,0:02:27.73,Signs,Screen,0,0,0,,{\fad(140,140)\an4\fs55\fnIwata Mincho Pro En B\bord0\c&H000000&\pos(162.66,254.22)\be1}Nitta Akari
+Dialogue: 0,0:02:28.96,0:02:36.03,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\c&HE6E7E7&\pos(1413,884)}Episode 22: {\fs70}The Origin of Obedience
+Dialogue: 0,0:03:48.24,0:03:50.27,Signs,Lantern,0,0,0,,{\an5\c&H2D2F2F&\b1\fnBuxton Sketch\bord0\shad0\be1\fs38\frz2.008\pos(726.49,520.38)}Spirit Lantern
+Dialogue: 0,0:03:50.25,0:03:50.29,Signs,Sign,0,0,0,,{=41}{\fscy100\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx105\blur7.93\frx0\fry0\c&HFFFFFF&\pos(1829.4,445.4)\be1}Morishita Family
+Dialogue: 0,0:03:50.29,0:03:50.33,Signs,Sign,0,0,0,,{=41}{\fscy99.65\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx104.63\blur7.79\frx0\fry0\c&HFFFFFF&\pos(1826.31,445.04)\be1}Morishita Family
+Dialogue: 0,0:03:50.33,0:03:50.37,Signs,Sign,0,0,0,,{=41}{\fscy99.26\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx104.22\blur7.63\frx0\fry0\c&HFFFFFF&\pos(1823.24,444.8)\be1}Morishita Family
+Dialogue: 0,0:03:50.37,0:03:50.41,Signs,Sign,0,0,0,,{=41}{\fscy98.92\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx103.86\blur7.48\frx0\fry0\c&HFFFFFF&\pos(1820.18,444.4)\be1}Morishita Family
+Dialogue: 0,0:03:50.41,0:03:50.46,Signs,Sign,0,0,0,,{=41}{\fscy98.58\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx103.5\blur7.33\frx0\fry0\c&HFFFFFF&\pos(1817.12,444.11)\be1}Morishita Family
+Dialogue: 0,0:03:50.46,0:03:50.50,Signs,Sign,0,0,0,,{=41}{\fscy98.21\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx103.12\blur7.19\frx0\fry0\c&HFFFFFF&\pos(1814.07,443.81)\be1}Morishita Family
+Dialogue: 0,0:03:50.50,0:03:50.54,Signs,Sign,0,0,0,,{=41}{\fscy97.89\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx102.78\blur7.04\frx0\fry0\c&HFFFFFF&\pos(1811.09,443.44)\be1}Morishita Family
+Dialogue: 0,0:03:50.54,0:03:50.58,Signs,Sign,0,0,0,,{=41}{\fscy97.54\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx102.41\blur6.9\frx0\fry0\c&HFFFFFF&\pos(1808.08,443.13)\be1}Morishita Family
+Dialogue: 0,0:03:50.58,0:03:50.62,Signs,Sign,0,0,0,,{=41}{\fscy97.18\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx102.04\blur6.75\frx0\fry0\c&HFFFFFF&\pos(1805.11,442.85)\be1}Morishita Family
+Dialogue: 0,0:03:50.62,0:03:50.66,Signs,Sign,0,0,0,,{=41}{\fscy96.83\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx101.68\blur6.61\frx0\fry0\c&HFFFFFF&\pos(1802.15,442.55)\be1}Morishita Family
+Dialogue: 0,0:03:50.66,0:03:50.71,Signs,Sign,0,0,0,,{=41}{\fscy96.5\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx101.33\blur6.47\frx0\fry0\c&HFFFFFF&\pos(1799.22,442.25)\be1}Morishita Family
+Dialogue: 0,0:03:50.71,0:03:50.75,Signs,Sign,0,0,0,,{=41}{\fscy96.16\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx100.97\blur6.33\frx0\fry0\c&HFFFFFF&\pos(1796.27,441.94)\be1}Morishita Family
+Dialogue: 0,0:03:50.75,0:03:50.79,Signs,Sign,0,0,0,,{=41}{\fscy95.84\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx100.63\blur6.19\frx0\fry0\c&HFFFFFF&\pos(1793.36,441.63)\be1}Morishita Family
+Dialogue: 0,0:03:50.79,0:03:50.83,Signs,Sign,0,0,0,,{=41}{\fscy95.49\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx100.27\blur6.05\frx0\fry0\c&HFFFFFF&\pos(1790.47,441.3)\be1}Morishita Family
+Dialogue: 0,0:03:50.83,0:03:50.87,Signs,Sign,0,0,0,,{=41}{\fscy95.17\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx99.93\blur5.91\frx0\fry0\c&HFFFFFF&\pos(1787.6,441.01)\be1}Morishita Family
+Dialogue: 0,0:03:50.87,0:03:50.91,Signs,Sign,0,0,0,,{=41}{\fscy94.83\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx99.57\blur5.77\frx0\fry0\c&HFFFFFF&\pos(1784.74,440.74)\be1}Morishita Family
+Dialogue: 0,0:03:50.91,0:03:50.96,Signs,Sign,0,0,0,,{=41}{\fscy94.5\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx99.22\blur5.63\frx0\fry0\c&HFFFFFF&\pos(1781.88,440.48)\be1}Morishita Family
+Dialogue: 0,0:03:50.96,0:03:51.00,Signs,Sign,0,0,0,,{=41}{\fscy94.18\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx98.89\blur5.5\frx0\fry0\c&HFFFFFF&\pos(1779.06,440.2)\be1}Morishita Family
+Dialogue: 0,0:03:51.00,0:03:51.04,Signs,Sign,0,0,0,,{=41}{\fscy93.85\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx98.54\blur5.36\frx0\fry0\c&HFFFFFF&\pos(1776.27,439.9)\be1}Morishita Family
+Dialogue: 0,0:03:51.04,0:03:51.08,Signs,Sign,0,0,0,,{=41}{\fscy93.53\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx98.21\blur5.23\frx0\fry0\c&HFFFFFF&\pos(1773.44,439.65)\be1}Morishita Family
+Dialogue: 0,0:03:51.08,0:03:51.12,Signs,Sign,0,0,0,,{=41}{\fscy93.2\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx97.86\blur5.09\frx0\fry0\c&HFFFFFF&\pos(1770.67,439.38)\be1}Morishita Family
+Dialogue: 0,0:03:51.12,0:03:51.16,Signs,Sign,0,0,0,,{=41}{\fscy92.88\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx97.52\blur4.96\frx0\fry0\c&HFFFFFF&\pos(1767.9,439.07)\be1}Morishita Family
+Dialogue: 0,0:03:51.16,0:03:51.21,Signs,Sign,0,0,0,,{=41}{\fscy92.56\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx97.19\blur4.83\frx0\fry0\c&HFFFFFF&\pos(1765.14,438.83)\be1}Morishita Family
+Dialogue: 0,0:03:51.21,0:03:51.25,Signs,Sign,0,0,0,,{=41}{\fscy92.25\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx96.86\blur4.7\frx0\fry0\c&HFFFFFF&\pos(1762.4,438.52)\be1}Morishita Family
+Dialogue: 0,0:03:51.25,0:03:51.29,Signs,Sign,0,0,0,,{=41}{\fscy91.94\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx96.53\blur4.57\frx0\fry0\c&HFFFFFF&\pos(1759.68,438.29)\be1}Morishita Family
+Dialogue: 0,0:03:51.29,0:03:51.33,Signs,Sign,0,0,0,,{=41}{\fscy91.62\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx96.2\blur4.44\frx0\fry0\c&HFFFFFF&\pos(1757,438.03)\be1}Morishita Family
+Dialogue: 0,0:03:51.33,0:03:51.37,Signs,Sign,0,0,0,,{=41}{\fscy91.3\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx95.86\blur4.31\frx0\fry0\c&HFFFFFF&\pos(1754.27,437.78)\be1}Morishita Family
+Dialogue: 0,0:03:51.37,0:03:51.41,Signs,Sign,0,0,0,,{=41}{\fscy91\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx95.54\blur4.19\frx0\fry0\c&HFFFFFF&\pos(1751.61,437.53)\be1}Morishita Family
+Dialogue: 0,0:03:51.41,0:03:51.46,Signs,Sign,0,0,0,,{=41}{\fscy90.69\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx95.22\blur4.06\frx0\fry0\c&HFFFFFF&\pos(1748.95,437.28)\be1}Morishita Family
+Dialogue: 0,0:03:51.46,0:03:51.50,Signs,Sign,0,0,0,,{=41}{\fscy90.39\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx94.9\blur3.94\frx0\fry0\c&HFFFFFF&\pos(1746.33,437)\be1}Morishita Family
+Dialogue: 0,0:03:51.50,0:03:51.54,Signs,Sign,0,0,0,,{=41}{\fscy90.08\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx94.58\blur3.81\frx0\fry0\c&HFFFFFF&\pos(1743.67,436.76)\be1}Morishita Family
+Dialogue: 0,0:03:51.54,0:03:51.58,Signs,Sign,0,0,0,,{=41}{\fscy89.76\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx94.25\blur3.69\frx0\fry0\c&HFFFFFF&\pos(1741.04,436.51)\be1}Morishita Family
+Dialogue: 0,0:03:51.58,0:03:51.62,Signs,Sign,0,0,0,,{=41}{\fscy89.48\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx93.95\blur3.57\frx0\fry0\c&HFFFFFF&\pos(1738.46,436.27)\be1}Morishita Family
+Dialogue: 0,0:03:51.62,0:03:51.66,Signs,Sign,0,0,0,,{=41}{\fscy89.17\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx93.63\blur3.44\frx0\fry0\c&HFFFFFF&\pos(1735.85,435.99)\be1}Morishita Family
+Dialogue: 0,0:03:51.66,0:03:51.71,Signs,Sign,0,0,0,,{=41}{\fscy88.88\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx93.33\blur3.32\frx0\fry0\c&HFFFFFF&\pos(1733.27,435.78)\be1}Morishita Family
+Dialogue: 0,0:03:51.71,0:03:51.75,Signs,Sign,0,0,0,,{=41}{\fscy88.57\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx93\blur3.2\frx0\fry0\c&HFFFFFF&\pos(1730.74,435.59)\be1}Morishita Family
+Dialogue: 0,0:03:51.75,0:03:51.79,Signs,Sign,0,0,0,,{=41}{\fscy88.29\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx92.7\blur3.08\frx0\fry0\c&HFFFFFF&\pos(1728.17,435.34)\be1}Morishita Family
+Dialogue: 0,0:03:51.79,0:03:51.83,Signs,Sign,0,0,0,,{=41}{\fscy87.98\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx92.38\blur2.96\frx0\fry0\c&HFFFFFF&\pos(1725.59,435.09)\be1}Morishita Family
+Dialogue: 0,0:03:51.83,0:03:51.87,Signs,Sign,0,0,0,,{=41}{\fscy87.7\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx92.08\blur2.84\frx0\fry0\c&HFFFFFF&\pos(1723.08,434.83)\be1}Morishita Family
+Dialogue: 0,0:03:51.87,0:03:51.91,Signs,Sign,0,0,0,,{=41}{\fscy87.39\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx91.76\blur2.73\frx0\fry0\c&HFFFFFF&\pos(1720.58,434.64)\be1}Morishita Family
+Dialogue: 0,0:03:51.91,0:03:51.96,Signs,Sign,0,0,0,,{=41}{\fscy87.11\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx91.47\blur2.61\frx0\fry0\c&HFFFFFF&\pos(1718.09,434.41)\be1}Morishita Family
+Dialogue: 0,0:03:51.96,0:03:52.00,Signs,Sign,0,0,0,,{=41}{\fscy86.83\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx91.17\blur2.49\frx0\fry0\c&HFFFFFF&\pos(1715.54,434.14)\be1}Morishita Family
+Dialogue: 0,0:03:52.00,0:03:52.04,Signs,Sign,0,0,0,,{=41}{\fscy86.54\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx90.87\blur2.38\frx0\fry0\c&HFFFFFF&\pos(1713.11,433.96)\be1}Morishita Family
+Dialogue: 0,0:03:52.04,0:03:52.08,Signs,Sign,0,0,0,,{=41}{\fscy86.25\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx90.56\blur2.27\frx0\fry0\c&HFFFFFF&\pos(1710.63,433.76)\be1}Morishita Family
+Dialogue: 0,0:03:52.08,0:03:52.12,Signs,Sign,0,0,0,,{=41}{\fscy85.96\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx90.26\blur2.15\frx0\fry0\c&HFFFFFF&\pos(1708.19,433.59)\be1}Morishita Family
+Dialogue: 0,0:03:52.12,0:03:52.17,Signs,Sign,0,0,0,,{=41}{\fscy85.67\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx89.95\blur2.04\frx0\fry0\c&HFFFFFF&\pos(1705.75,433.37)\be1}Morishita Family
+Dialogue: 0,0:03:52.17,0:03:52.21,Signs,Sign,0,0,0,,{=41}{\fscy85.4\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx89.67\blur1.93\frx0\fry0\c&HFFFFFF&\pos(1703.33,433.18)\be1}Morishita Family
+Dialogue: 0,0:03:52.21,0:03:52.25,Signs,Sign,0,0,0,,{=41}{\fscy85.12\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx89.37\blur1.82\frx0\fry0\c&HFFFFFF&\pos(1700.91,432.97)\be1}Morishita Family
+Dialogue: 0,0:03:52.25,0:03:52.29,Signs,Sign,0,0,0,,{=41}{\fscy84.84\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx89.08\blur1.7\frx0\fry0\c&HFFFFFF&\pos(1698.53,432.77)\be1}Morishita Family
+Dialogue: 0,0:03:52.29,0:03:52.33,Signs,Sign,0,0,0,,{=41}{\fscy84.56\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx88.78\blur1.6\frx0\fry0\c&HFFFFFF&\pos(1696.15,432.56)\be1}Morishita Family
+Dialogue: 0,0:03:52.33,0:03:52.37,Signs,Sign,0,0,0,,{=41}{\fscy84.28\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx88.49\blur1.49\frx0\fry0\c&HFFFFFF&\pos(1693.8,432.41)\be1}Morishita Family
+Dialogue: 0,0:03:52.37,0:03:52.42,Signs,Sign,0,0,0,,{=41}{\fscy84\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx88.2\blur1.38\frx0\fry0\c&HFFFFFF&\pos(1691.42,432.22)\be1}Morishita Family
+Dialogue: 0,0:03:52.42,0:03:52.46,Signs,Sign,0,0,0,,{=41}{\fscy83.73\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx87.91\blur1.27\frx0\fry0\c&HFFFFFF&\pos(1689.08,432.05)\be1}Morishita Family
+Dialogue: 0,0:03:52.46,0:03:52.50,Signs,Sign,0,0,0,,{=41}{\fscy83.45\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx87.62\blur1.16\frx0\fry0\c&HFFFFFF&\pos(1686.74,431.88)\be1}Morishita Family
+Dialogue: 0,0:03:52.50,0:03:52.54,Signs,Sign,0,0,0,,{=41}{\fscy83.17\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx87.33\blur1.06\frx0\fry0\c&HFFFFFF&\pos(1684.4,431.74)\be1}Morishita Family
+Dialogue: 0,0:03:52.54,0:03:52.58,Signs,Sign,0,0,0,,{=41}{\fscy82.91\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx87.05\blur0.95\frx0\fry0\c&HFFFFFF&\pos(1682.09,431.54)\be1}Morishita Family
+Dialogue: 0,0:03:52.58,0:03:52.62,Signs,Sign,0,0,0,,{=41}{\fscy82.64\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx86.77\blur0.85\frx0\fry0\c&HFFFFFF&\pos(1679.79,431.37)\be1}Morishita Family
+Dialogue: 0,0:03:52.62,0:03:52.67,Signs,Sign,0,0,0,,{=41}{\fscy82.37\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx86.49\blur0.74\frx0\fry0\c&HFFFFFF&\pos(1677.52,431.18)\be1}Morishita Family
+Dialogue: 0,0:03:52.67,0:03:52.71,Signs,Sign,0,0,0,,{=41}{\fscy82.1\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx86.21\blur0.64\frx0\fry0\c&HFFFFFF&\pos(1675.23,431.01)\be1}Morishita Family
+Dialogue: 0,0:03:52.71,0:03:52.75,Signs,Sign,0,0,0,,{=41}{\fscy81.85\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx85.94\blur0.53\frx0\fry0\c&HFFFFFF&\pos(1672.97,430.8)\be1}Morishita Family
+Dialogue: 0,0:03:52.75,0:03:52.79,Signs,Sign,0,0,0,,{=41}{\fscy81.58\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx85.65\blur0.49\frx0\fry0\c&HFFFFFF&\pos(1670.71,430.65)\be1}Morishita Family
+Dialogue: 0,0:03:52.79,0:03:52.83,Signs,Sign,0,0,0,,{=41}{\fscy81.32\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx85.39\blur0.49\frx0\fry0\c&HFFFFFF&\pos(1668.48,430.44)\be1}Morishita Family
+Dialogue: 0,0:03:52.83,0:03:52.87,Signs,Sign,0,0,0,,{=41}{\fscy81.06\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx85.11\blur0.49\frx0\fry0\c&HFFFFFF&\pos(1666.23,430.29)\be1}Morishita Family
+Dialogue: 0,0:03:52.87,0:03:52.92,Signs,Sign,0,0,0,,{=41}{\fscy80.8\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx84.84\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1664.04,430.1)\be1}Morishita Family
+Dialogue: 0,0:03:52.92,0:03:52.96,Signs,Sign,0,0,0,,{=41}{\fscy80.55\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx84.58\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1661.83,429.92)\be1}Morishita Family
+Dialogue: 0,0:03:52.96,0:03:53.00,Signs,Sign,0,0,0,,{=41}{\fscy80.3\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx84.32\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1659.64,429.74)\be1}Morishita Family
+Dialogue: 0,0:03:53.00,0:03:53.04,Signs,Sign,0,0,0,,{=41}{\fscy80.05\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx84.05\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1657.44,429.57)\be1}Morishita Family
+Dialogue: 0,0:03:53.04,0:03:53.08,Signs,Sign,0,0,0,,{=41}{\fscy79.79\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx83.78\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1655.28,429.4)\be1}Morishita Family
+Dialogue: 0,0:03:53.08,0:03:53.12,Signs,Sign,0,0,0,,{=41}{\fscy79.54\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx83.52\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1653.12,429.23)\be1}Morishita Family
+Dialogue: 0,0:03:53.12,0:03:53.17,Signs,Sign,0,0,0,,{=41}{\fscy79.29\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx83.26\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1650.94,429.07)\be1}Morishita Family
+Dialogue: 0,0:03:53.17,0:03:53.21,Signs,Sign,0,0,0,,{=41}{\fscy79.04\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx83\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1648.81,428.9)\be1}Morishita Family
+Dialogue: 0,0:03:53.21,0:03:53.25,Signs,Sign,0,0,0,,{=41}{\fscy78.8\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx82.74\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1646.68,428.75)\be1}Morishita Family
+Dialogue: 0,0:03:53.25,0:03:53.29,Signs,Sign,0,0,0,,{=41}{\fscy78.56\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx82.49\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1644.56,428.56)\be1}Morishita Family
+Dialogue: 0,0:03:53.29,0:03:53.33,Signs,Sign,0,0,0,,{=41}{\fscy78.31\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx82.22\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1642.44,428.41)\be1}Morishita Family
+Dialogue: 0,0:03:53.33,0:03:53.37,Signs,Sign,0,0,0,,{=41}{\fscy78.08\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx81.98\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1640.33,428.24)\be1}Morishita Family
+Dialogue: 0,0:03:53.37,0:03:53.42,Signs,Sign,0,0,0,,{=41}{\fscy77.83\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx81.72\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1638.27,428.08)\be1}Morishita Family
+Dialogue: 0,0:03:53.42,0:03:53.46,Signs,Sign,0,0,0,,{=41}{\fscy77.59\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx81.47\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1636.16,427.93)\be1}Morishita Family
+Dialogue: 0,0:03:53.46,0:03:53.50,Signs,Sign,0,0,0,,{=41}{\fscy77.36\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx81.22\blur0.46\frx0\fry0\c&HFFFFFF&\pos(1634.09,427.76)\be1}Morishita Family
+Dialogue: 0,0:03:53.50,0:03:53.54,Signs,Sign,0,0,0,,{=41}{\fscy77.12\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx80.97\blur0.46\frx0\fry0\c&HFFFFFF&\pos(1632.03,427.61)\be1}Morishita Family
+Dialogue: 0,0:03:53.54,0:03:53.58,Signs,Sign,0,0,0,,{=41}{\fscy76.87\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx80.71\blur0.46\frx0\fry0\c&HFFFFFF&\pos(1629.99,427.49)\be1}Morishita Family
+Dialogue: 0,0:03:53.58,0:03:53.62,Signs,Sign,0,0,0,,{=41}{\fscy76.64\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx80.48\blur0.46\frx0\fry0\c&HFFFFFF&\pos(1627.97,427.32)\be1}Morishita Family
+Dialogue: 0,0:03:53.62,0:03:53.67,Signs,Sign,0,0,0,,{=41}{\fscy76.4\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx80.22\blur0.46\frx0\fry0\c&HFFFFFF&\pos(1625.93,427.2)\be1}Morishita Family
+Dialogue: 0,0:03:53.67,0:03:53.71,Signs,Sign,0,0,0,,{=41}{\fscy76.18\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx79.99\blur0.46\frx0\fry0\c&HFFFFFF&\pos(1623.91,427)\be1}Morishita Family
+Dialogue: 0,0:03:50.25,0:03:50.29,Signs,Sign,0,0,0,,{=40}{\fscx100\fscy100\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.94\frx0\fry0\c&H343434&\pos(1737.83,941.8)\be1}Funeral
+Dialogue: 0,0:03:50.29,0:03:50.33,Signs,Sign,0,0,0,,{=40}{\fscx99.65\fscy99.65\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.81\frx0\fry0\c&H343434&\pos(1735.07,939.69)\be1}Funeral
+Dialogue: 0,0:03:50.33,0:03:50.37,Signs,Sign,0,0,0,,{=40}{\fscx99.26\fscy99.26\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.67\frx0\fry0\c&H343434&\pos(1732.36,937.5)\be1}Funeral
+Dialogue: 0,0:03:50.37,0:03:50.41,Signs,Sign,0,0,0,,{=40}{\fscx98.92\fscy98.92\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.54\frx0\fry0\c&H343434&\pos(1729.6,935.43)\be1}Funeral
+Dialogue: 0,0:03:50.41,0:03:50.46,Signs,Sign,0,0,0,,{=40}{\fscx98.58\fscy98.58\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.4\frx0\fry0\c&H343434&\pos(1726.85,933.44)\be1}Funeral
+Dialogue: 0,0:03:50.46,0:03:50.50,Signs,Sign,0,0,0,,{=40}{\fscx98.21\fscy98.21\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.27\frx0\fry0\c&H343434&\pos(1724.14,931.32)\be1}Funeral
+Dialogue: 0,0:03:50.50,0:03:50.54,Signs,Sign,0,0,0,,{=40}{\fscx97.89\fscy97.89\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.14\frx0\fry0\c&H343434&\pos(1721.46,929.35)\be1}Funeral
+Dialogue: 0,0:03:50.54,0:03:50.58,Signs,Sign,0,0,0,,{=40}{\fscx97.54\fscy97.54\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.01\frx0\fry0\c&H343434&\pos(1718.76,927.3)\be1}Funeral
+Dialogue: 0,0:03:50.58,0:03:50.62,Signs,Sign,0,0,0,,{=40}{\fscx97.18\fscy97.18\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.88\frx0\fry0\c&H343434&\pos(1716.12,925.28)\be1}Funeral
+Dialogue: 0,0:03:50.62,0:03:50.66,Signs,Sign,0,0,0,,{=40}{\fscx96.83\fscy96.83\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.75\frx0\fry0\c&H343434&\pos(1713.48,923.23)\be1}Funeral
+Dialogue: 0,0:03:50.66,0:03:50.71,Signs,Sign,0,0,0,,{=40}{\fscx96.5\fscy96.5\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.62\frx0\fry0\c&H343434&\pos(1710.85,921.29)\be1}Funeral
+Dialogue: 0,0:03:50.71,0:03:50.75,Signs,Sign,0,0,0,,{=40}{\fscx96.16\fscy96.16\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.49\frx0\fry0\c&H343434&\pos(1708.22,919.3)\be1}Funeral
+Dialogue: 0,0:03:50.75,0:03:50.79,Signs,Sign,0,0,0,,{=40}{\fscx95.84\fscy95.84\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.37\frx0\fry0\c&H343434&\pos(1705.61,917.36)\be1}Funeral
+Dialogue: 0,0:03:50.79,0:03:50.83,Signs,Sign,0,0,0,,{=40}{\fscx95.49\fscy95.49\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.24\frx0\fry0\c&H343434&\pos(1703.02,915.33)\be1}Funeral
+Dialogue: 0,0:03:50.83,0:03:50.87,Signs,Sign,0,0,0,,{=40}{\fscx95.17\fscy95.17\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.12\frx0\fry0\c&H343434&\pos(1700.45,913.43)\be1}Funeral
+Dialogue: 0,0:03:50.87,0:03:50.91,Signs,Sign,0,0,0,,{=40}{\fscx94.83\fscy94.83\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.99\frx0\fry0\c&H343434&\pos(1697.9,911.49)\be1}Funeral
+Dialogue: 0,0:03:50.91,0:03:50.96,Signs,Sign,0,0,0,,{=40}{\fscx94.5\fscy94.5\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.87\frx0\fry0\c&H343434&\pos(1695.35,909.58)\be1}Funeral
+Dialogue: 0,0:03:50.96,0:03:51.00,Signs,Sign,0,0,0,,{=40}{\fscx94.18\fscy94.18\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.75\frx0\fry0\c&H343434&\pos(1692.82,907.73)\be1}Funeral
+Dialogue: 0,0:03:51.00,0:03:51.04,Signs,Sign,0,0,0,,{=40}{\fscx93.85\fscy93.85\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.63\frx0\fry0\c&H343434&\pos(1690.33,905.75)\be1}Funeral
+Dialogue: 0,0:03:51.04,0:03:51.08,Signs,Sign,0,0,0,,{=40}{\fscx93.53\fscy93.53\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.51\frx0\fry0\c&H343434&\pos(1687.79,903.92)\be1}Funeral
+Dialogue: 0,0:03:51.08,0:03:51.12,Signs,Sign,0,0,0,,{=40}{\fscx93.2\fscy93.2\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.38\frx0\fry0\c&H343434&\pos(1685.32,902.02)\be1}Funeral
+Dialogue: 0,0:03:51.12,0:03:51.16,Signs,Sign,0,0,0,,{=40}{\fscx92.88\fscy92.88\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.26\frx0\fry0\c&H343434&\pos(1682.85,900.11)\be1}Funeral
+Dialogue: 0,0:03:51.16,0:03:51.21,Signs,Sign,0,0,0,,{=40}{\fscx92.56\fscy92.56\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.15\frx0\fry0\c&H343434&\pos(1680.38,898.31)\be1}Funeral
+Dialogue: 0,0:03:51.21,0:03:51.25,Signs,Sign,0,0,0,,{=40}{\fscx92.25\fscy92.25\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.03\frx0\fry0\c&H343434&\pos(1677.93,896.44)\be1}Funeral
+Dialogue: 0,0:03:51.25,0:03:51.29,Signs,Sign,0,0,0,,{=40}{\fscx91.94\fscy91.94\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.91\frx0\fry0\c&H343434&\pos(1675.5,894.66)\be1}Funeral
+Dialogue: 0,0:03:51.29,0:03:51.33,Signs,Sign,0,0,0,,{=40}{\fscx91.62\fscy91.62\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.8\frx0\fry0\c&H343434&\pos(1673.11,892.84)\be1}Funeral
+Dialogue: 0,0:03:51.33,0:03:51.37,Signs,Sign,0,0,0,,{=40}{\fscx91.3\fscy91.3\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.68\frx0\fry0\c&H343434&\pos(1670.67,890.98)\be1}Funeral
+Dialogue: 0,0:03:51.37,0:03:51.41,Signs,Sign,0,0,0,,{=40}{\fscx91\fscy91\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.57\frx0\fry0\c&H343434&\pos(1668.28,889.22)\be1}Funeral
+Dialogue: 0,0:03:51.41,0:03:51.46,Signs,Sign,0,0,0,,{=40}{\fscx90.69\fscy90.69\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.45\frx0\fry0\c&H343434&\pos(1665.91,887.47)\be1}Funeral
+Dialogue: 0,0:03:51.46,0:03:51.50,Signs,Sign,0,0,0,,{=40}{\fscx90.39\fscy90.39\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.34\frx0\fry0\c&H343434&\pos(1663.56,885.67)\be1}Funeral
+Dialogue: 0,0:03:51.50,0:03:51.54,Signs,Sign,0,0,0,,{=40}{\fscx90.08\fscy90.08\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.23\frx0\fry0\c&H343434&\pos(1661.19,883.89)\be1}Funeral
+Dialogue: 0,0:03:51.54,0:03:51.58,Signs,Sign,0,0,0,,{=40}{\fscx89.76\fscy89.76\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.12\frx0\fry0\c&H343434&\pos(1658.85,882.09)\be1}Funeral
+Dialogue: 0,0:03:51.58,0:03:51.62,Signs,Sign,0,0,0,,{=40}{\fscx89.48\fscy89.48\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.01\frx0\fry0\c&H343434&\pos(1656.53,880.43)\be1}Funeral
+Dialogue: 0,0:03:51.62,0:03:51.66,Signs,Sign,0,0,0,,{=40}{\fscx89.17\fscy89.17\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.9\frx0\fry0\c&H343434&\pos(1654.2,878.64)\be1}Funeral
+Dialogue: 0,0:03:51.66,0:03:51.71,Signs,Sign,0,0,0,,{=40}{\fscx88.88\fscy88.88\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.79\frx0\fry0\c&H343434&\pos(1651.88,876.99)\be1}Funeral
+Dialogue: 0,0:03:51.71,0:03:51.75,Signs,Sign,0,0,0,,{=40}{\fscx88.57\fscy88.57\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.68\frx0\fry0\c&H343434&\pos(1649.64,875.25)\be1}Funeral
+Dialogue: 0,0:03:51.75,0:03:51.79,Signs,Sign,0,0,0,,{=40}{\fscx88.29\fscy88.29\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.57\frx0\fry0\c&H343434&\pos(1647.33,873.6)\be1}Funeral
+Dialogue: 0,0:03:51.79,0:03:51.83,Signs,Sign,0,0,0,,{=40}{\fscx87.98\fscy87.98\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.46\frx0\fry0\c&H343434&\pos(1645.02,871.83)\be1}Funeral
+Dialogue: 0,0:03:51.83,0:03:51.87,Signs,Sign,0,0,0,,{=40}{\fscx87.7\fscy87.7\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.36\frx0\fry0\c&H343434&\pos(1642.77,870.16)\be1}Funeral
+Dialogue: 0,0:03:51.87,0:03:51.91,Signs,Sign,0,0,0,,{=40}{\fscx87.39\fscy87.39\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.25\frx0\fry0\c&H343434&\pos(1640.56,868.42)\be1}Funeral
+Dialogue: 0,0:03:51.91,0:03:51.96,Signs,Sign,0,0,0,,{=40}{\fscx87.11\fscy87.11\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.15\frx0\fry0\c&H343434&\pos(1638.32,866.84)\be1}Funeral
+Dialogue: 0,0:03:51.96,0:03:52.00,Signs,Sign,0,0,0,,{=40}{\fscx86.83\fscy86.83\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.04\frx0\fry0\c&H343434&\pos(1636.03,865.17)\be1}Funeral
+Dialogue: 0,0:03:52.00,0:03:52.04,Signs,Sign,0,0,0,,{=40}{\fscx86.54\fscy86.54\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.94\frx0\fry0\c&H343434&\pos(1633.86,863.55)\be1}Funeral
+Dialogue: 0,0:03:52.04,0:03:52.08,Signs,Sign,0,0,0,,{=40}{\fscx86.25\fscy86.25\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.84\frx0\fry0\c&H343434&\pos(1631.65,861.9)\be1}Funeral
+Dialogue: 0,0:03:52.08,0:03:52.12,Signs,Sign,0,0,0,,{=40}{\fscx85.96\fscy85.96\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.73\frx0\fry0\c&H343434&\pos(1629.48,860.3)\be1}Funeral
+Dialogue: 0,0:03:52.12,0:03:52.17,Signs,Sign,0,0,0,,{=40}{\fscx85.67\fscy85.67\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.63\frx0\fry0\c&H343434&\pos(1627.31,858.62)\be1}Funeral
+Dialogue: 0,0:03:52.17,0:03:52.21,Signs,Sign,0,0,0,,{=40}{\fscx85.4\fscy85.4\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.53\frx0\fry0\c&H343434&\pos(1625.14,857.08)\be1}Funeral
+Dialogue: 0,0:03:52.21,0:03:52.25,Signs,Sign,0,0,0,,{=40}{\fscx85.12\fscy85.12\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.43\frx0\fry0\c&H343434&\pos(1622.97,855.48)\be1}Funeral
+Dialogue: 0,0:03:52.25,0:03:52.29,Signs,Sign,0,0,0,,{=40}{\fscx84.84\fscy84.84\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.33\frx0\fry0\c&H343434&\pos(1620.85,853.91)\be1}Funeral
+Dialogue: 0,0:03:52.29,0:03:52.33,Signs,Sign,0,0,0,,{=40}{\fscx84.56\fscy84.56\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.23\frx0\fry0\c&H343434&\pos(1618.73,852.3)\be1}Funeral
+Dialogue: 0,0:03:52.33,0:03:52.37,Signs,Sign,0,0,0,,{=40}{\fscx84.28\fscy84.28\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.13\frx0\fry0\c&H343434&\pos(1616.62,850.78)\be1}Funeral
+Dialogue: 0,0:03:52.37,0:03:52.42,Signs,Sign,0,0,0,,{=40}{\fscx84\fscy84\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.03\frx0\fry0\c&H343434&\pos(1614.5,849.21)\be1}Funeral
+Dialogue: 0,0:03:52.42,0:03:52.46,Signs,Sign,0,0,0,,{=40}{\fscx83.73\fscy83.73\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.94\frx0\fry0\c&H343434&\pos(1612.41,847.67)\be1}Funeral
+Dialogue: 0,0:03:52.46,0:03:52.50,Signs,Sign,0,0,0,,{=40}{\fscx83.45\fscy83.45\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.84\frx0\fry0\c&H343434&\pos(1610.32,846.12)\be1}Funeral
+Dialogue: 0,0:03:52.50,0:03:52.54,Signs,Sign,0,0,0,,{=40}{\fscx83.17\fscy83.17\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.74\frx0\fry0\c&H343434&\pos(1608.24,844.6)\be1}Funeral
+Dialogue: 0,0:03:52.54,0:03:52.58,Signs,Sign,0,0,0,,{=40}{\fscx82.91\fscy82.91\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.65\frx0\fry0\c&H343434&\pos(1606.18,843.09)\be1}Funeral
+Dialogue: 0,0:03:52.58,0:03:52.62,Signs,Sign,0,0,0,,{=40}{\fscx82.64\fscy82.64\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.55\frx0\fry0\c&H343434&\pos(1604.12,841.58)\be1}Funeral
+Dialogue: 0,0:03:52.62,0:03:52.67,Signs,Sign,0,0,0,,{=40}{\fscx82.37\fscy82.37\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.46\frx0\fry0\c&H343434&\pos(1602.09,840.08)\be1}Funeral
+Dialogue: 0,0:03:52.67,0:03:52.71,Signs,Sign,0,0,0,,{=40}{\fscx82.1\fscy82.1\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.36\frx0\fry0\c&H343434&\pos(1600.05,838.57)\be1}Funeral
+Dialogue: 0,0:03:52.71,0:03:52.75,Signs,Sign,0,0,0,,{=40}{\fscx81.85\fscy81.85\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.27\frx0\fry0\c&H343434&\pos(1598.02,837.09)\be1}Funeral
+Dialogue: 0,0:03:52.75,0:03:52.79,Signs,Sign,0,0,0,,{=40}{\fscx81.58\fscy81.58\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.18\frx0\fry0\c&H343434&\pos(1596.01,835.59)\be1}Funeral
+Dialogue: 0,0:03:52.79,0:03:52.83,Signs,Sign,0,0,0,,{=40}{\fscx81.32\fscy81.32\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.09\frx0\fry0\c&H343434&\pos(1594.01,834.13)\be1}Funeral
+Dialogue: 0,0:03:52.83,0:03:52.87,Signs,Sign,0,0,0,,{=40}{\fscx81.06\fscy81.06\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1\frx0\fry0\c&H343434&\pos(1592.01,832.67)\be1}Funeral
+Dialogue: 0,0:03:52.87,0:03:52.92,Signs,Sign,0,0,0,,{=40}{\fscx80.8\fscy80.8\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.91\frx0\fry0\c&H343434&\pos(1590.05,831.2)\be1}Funeral
+Dialogue: 0,0:03:52.92,0:03:52.96,Signs,Sign,0,0,0,,{=40}{\fscx80.55\fscy80.55\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.82\frx0\fry0\c&H343434&\pos(1588.07,829.77)\be1}Funeral
+Dialogue: 0,0:03:52.96,0:03:53.00,Signs,Sign,0,0,0,,{=40}{\fscx80.3\fscy80.3\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.73\frx0\fry0\c&H343434&\pos(1586.11,828.35)\be1}Funeral
+Dialogue: 0,0:03:53.00,0:03:53.04,Signs,Sign,0,0,0,,{=40}{\fscx80.05\fscy80.05\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.64\frx0\fry0\c&H343434&\pos(1584.14,826.91)\be1}Funeral
+Dialogue: 0,0:03:53.04,0:03:53.08,Signs,Sign,0,0,0,,{=40}{\fscx79.79\fscy79.79\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.55\frx0\fry0\c&H343434&\pos(1582.21,825.5)\be1}Funeral
+Dialogue: 0,0:03:53.08,0:03:53.12,Signs,Sign,0,0,0,,{=40}{\fscx79.54\fscy79.54\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.48\frx0\fry0\c&H343434&\pos(1580.28,824.07)\be1}Funeral
+Dialogue: 0,0:03:53.12,0:03:53.17,Signs,Sign,0,0,0,,{=40}{\fscx79.29\fscy79.29\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.48\frx0\fry0\c&H343434&\pos(1578.33,822.69)\be1}Funeral
+Dialogue: 0,0:03:53.17,0:03:53.21,Signs,Sign,0,0,0,,{=40}{\fscx79.04\fscy79.04\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1576.43,821.27)\be1}Funeral
+Dialogue: 0,0:03:53.21,0:03:53.25,Signs,Sign,0,0,0,,{=40}{\fscx78.8\fscy78.8\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1574.53,819.9)\be1}Funeral
+Dialogue: 0,0:03:53.25,0:03:53.29,Signs,Sign,0,0,0,,{=40}{\fscx78.56\fscy78.56\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1572.63,818.52)\be1}Funeral
+Dialogue: 0,0:03:53.29,0:03:53.33,Signs,Sign,0,0,0,,{=40}{\fscx78.31\fscy78.31\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1570.73,817.14)\be1}Funeral
+Dialogue: 0,0:03:53.33,0:03:53.37,Signs,Sign,0,0,0,,{=40}{\fscx78.08\fscy78.08\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1568.84,815.8)\be1}Funeral
+Dialogue: 0,0:03:53.37,0:03:53.42,Signs,Sign,0,0,0,,{=40}{\fscx77.83\fscy77.83\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1567,814.44)\be1}Funeral
+Dialogue: 0,0:03:53.42,0:03:53.46,Signs,Sign,0,0,0,,{=40}{\fscx77.59\fscy77.59\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1565.11,813.07)\be1}Funeral
+Dialogue: 0,0:03:53.46,0:03:53.50,Signs,Sign,0,0,0,,{=40}{\fscx77.36\fscy77.36\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.46\frx0\fry0\c&H343434&\pos(1563.26,811.75)\be1}Funeral
+Dialogue: 0,0:03:53.50,0:03:53.54,Signs,Sign,0,0,0,,{=40}{\fscx77.12\fscy77.12\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.46\frx0\fry0\c&H343434&\pos(1561.41,810.42)\be1}Funeral
+Dialogue: 0,0:03:53.54,0:03:53.58,Signs,Sign,0,0,0,,{=40}{\fscx76.87\fscy76.87\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.46\frx0\fry0\c&H343434&\pos(1559.6,809.07)\be1}Funeral
+Dialogue: 0,0:03:53.58,0:03:53.62,Signs,Sign,0,0,0,,{=40}{\fscx76.64\fscy76.64\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.46\frx0\fry0\c&H343434&\pos(1557.79,807.77)\be1}Funeral
+Dialogue: 0,0:03:53.62,0:03:53.67,Signs,Sign,0,0,0,,{=40}{\fscx76.4\fscy76.4\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.46\frx0\fry0\c&H343434&\pos(1555.97,806.46)\be1}Funeral
+Dialogue: 0,0:03:53.67,0:03:53.71,Signs,Sign,0,0,0,,{=40}{\fscx76.18\fscy76.18\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.46\frx0\fry0\c&H343434&\pos(1554.15,805.15)\be1}Funeral
+Dialogue: 0,0:04:24.86,0:04:27.89,Signs,Sign,0,0,0,,{\fnArtificeSSK\fs72\fscx96\bord7\blur4\c&H717944&\1a&H21&\pos(940,100)\3c&H0E1200&}Saitama Municipal Urami East Middle School
+Dialogue: 0,0:05:20.75,0:05:21.00,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz11.72}Grinding
+Dialogue: 0,0:05:21.00,0:05:21.25,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz6.239}Grinding
+Dialogue: 0,0:05:21.25,0:05:21.50,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz360}Grinding
+Dialogue: 0,0:05:21.50,0:05:21.75,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz360\fs120}Grinding
+Dialogue: 0,0:05:21.75,0:05:22.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz354.8}Grinding
+Dialogue: 0,0:05:22.01,0:05:22.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz360}Grinding
+Dialogue: 0,0:05:22.26,0:05:22.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz356.1}Grinding
+Dialogue: 0,0:05:22.51,0:05:22.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz1.868}Grinding
+Dialogue: 0,0:05:22.76,0:05:23.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz354.8}Grinding
+Dialogue: 0,0:05:23.01,0:05:23.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz2.671\fs120}Grinding
+Dialogue: 0,0:05:23.26,0:05:23.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz356.8}Grinding
+Dialogue: 0,0:05:23.51,0:05:23.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz6.318}Grinding
+Dialogue: 0,0:05:23.76,0:05:24.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz355.8}Grinding
+Dialogue: 0,0:05:24.01,0:05:24.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz4.078}Grinding
+Dialogue: 0,0:05:24.26,0:05:24.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz356.6}Grinding
+Dialogue: 0,0:05:24.51,0:05:24.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz2.208\fs120}Grinding
+Dialogue: 0,0:05:24.76,0:05:25.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz356.8}Grinding
+Dialogue: 0,0:05:25.01,0:05:25.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz2.971}Grinding
+Dialogue: 0,0:05:25.26,0:05:25.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz356}Grinding
+Dialogue: 0,0:05:25.51,0:05:25.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz4.469}Grinding
+Dialogue: 0,0:05:25.76,0:05:26.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz355.1}Grinding
+Dialogue: 0,0:05:26.01,0:05:26.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz4.901\fs120}Grinding
+Dialogue: 0,0:05:26.26,0:05:26.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz357.7}Grinding
+Dialogue: 0,0:05:26.51,0:05:26.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz6.995}Grinding
+Dialogue: 0,0:05:26.76,0:05:27.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz355.9}Grinding
+Dialogue: 0,0:05:27.01,0:05:27.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz4.971}Grinding
+Dialogue: 0,0:05:27.51,0:05:27.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz4.971\fs120}Grinding
+Dialogue: 0,0:05:27.76,0:05:28.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz358.7}Grinding
+Dialogue: 0,0:05:28.01,0:05:28.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz5.159}Grinding
+Dialogue: 0,0:05:28.26,0:05:28.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz357.5}Grinding
+Dialogue: 0,0:05:28.51,0:05:28.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz5.777}Grinding
+Dialogue: 0,0:05:28.76,0:05:29.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz357.5}Grinding
+Dialogue: 0,0:05:29.01,0:05:29.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz3.22\fs120}Grinding
+Dialogue: 0,0:05:29.26,0:05:29.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz358.8}Grinding
+Dialogue: 0,0:05:29.51,0:05:29.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz4.118}Grinding
+Dialogue: 0,0:05:29.76,0:05:30.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz356.1}Grinding
+Dialogue: 0,0:05:30.01,0:05:30.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz6.073}Grinding
+Dialogue: 0,0:05:30.26,0:05:30.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz357.5}Grinding
+Dialogue: 0,0:05:30.51,0:05:30.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\fs85\frz3.567}Grinding
+Dialogue: 0,0:05:30.76,0:05:31.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz356.9}Grinding
+Dialogue: 0,0:05:31.01,0:05:31.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz3.499}Grinding
+Dialogue: 0,0:05:31.26,0:05:31.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz357.8}Grinding
+Dialogue: 0,0:05:31.51,0:05:31.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz3.125}Grinding
+Dialogue: 0,0:05:31.76,0:05:32.02,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz357.7}Grinding
+Dialogue: 0,0:05:32.02,0:05:32.27,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz3.291\fs120}Grinding
+Dialogue: 0,0:05:32.27,0:05:32.52,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz357.6}Grinding
+Dialogue: 0,0:05:32.52,0:05:32.79,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz4.212}Grinding
+Dialogue: 0,0:05:48.53,0:05:48.78,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz11.72}Grinding
+Dialogue: 0,0:05:48.78,0:05:49.03,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz6.239}Grinding
+Dialogue: 0,0:05:49.03,0:05:49.28,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz360}Grinding
+Dialogue: 0,0:05:49.28,0:05:49.53,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz360\fs120}Grinding
+Dialogue: 0,0:05:49.53,0:05:49.78,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz354.8}Grinding
+Dialogue: 0,0:05:49.78,0:05:50.03,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz360}Grinding
+Dialogue: 0,0:05:50.03,0:05:50.28,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz356.1}Grinding
+Dialogue: 0,0:05:50.28,0:05:50.53,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz1.868}Grinding
+Dialogue: 0,0:05:50.53,0:05:50.78,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz354.8}Grinding
+Dialogue: 0,0:05:50.78,0:05:51.03,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz2.671\fs120}Grinding
+Dialogue: 0,0:05:51.03,0:05:51.28,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz356.8}Grinding
+Dialogue: 0,0:05:51.28,0:05:51.53,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz6.318}Grinding
+Dialogue: 0,0:05:51.53,0:05:51.78,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz355.8}Grinding
+Dialogue: 0,0:05:51.78,0:05:52.04,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz4.078}Grinding
+Dialogue: 0,0:05:52.04,0:05:52.29,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz356.6}Grinding
+Dialogue: 0,0:05:52.29,0:05:52.54,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz2.208\fs120}Grinding
+Dialogue: 0,0:05:52.54,0:05:52.79,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz356.8}Grinding
+Dialogue: 0,0:05:52.79,0:05:53.04,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz2.971}Grinding
+Dialogue: 0,0:05:53.04,0:05:53.29,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz356}Grinding
+Dialogue: 0,0:05:53.29,0:05:53.54,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz4.469}Grinding
+Dialogue: 0,0:05:53.54,0:05:53.79,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz355.1}Grinding
+Dialogue: 0,0:05:53.79,0:05:54.04,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz4.901\fs120}Grinding
+Dialogue: 0,0:05:54.04,0:05:54.29,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz357.7}Grinding
+Dialogue: 0,0:05:54.29,0:05:54.54,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz6.995}Grinding
+Dialogue: 0,0:05:54.54,0:05:54.79,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz355.9}Grinding
+Dialogue: 0,0:05:54.79,0:05:55.29,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz4.971}Grinding
+Dialogue: 0,0:05:55.29,0:05:55.54,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz4.971\fs120}Grinding
+Dialogue: 0,0:05:20.75,0:05:21.00,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz11.72}Grinding
+Dialogue: 0,0:05:21.00,0:05:21.25,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz6.239}Grinding
+Dialogue: 0,0:05:21.25,0:05:21.50,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz360}Grinding
+Dialogue: 0,0:05:21.50,0:05:21.75,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz360\fs96}Grinding
+Dialogue: 0,0:05:21.75,0:05:22.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz354.8}Grinding
+Dialogue: 0,0:05:22.01,0:05:22.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz360}Grinding
+Dialogue: 0,0:05:22.26,0:05:22.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz356.1}Grinding
+Dialogue: 0,0:05:22.51,0:05:22.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz1.868}Grinding
+Dialogue: 0,0:05:22.76,0:05:23.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz354.8}Grinding
+Dialogue: 0,0:05:23.01,0:05:23.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz2.671\fs96}Grinding
+Dialogue: 0,0:05:23.26,0:05:23.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz356.8}Grinding
+Dialogue: 0,0:05:23.51,0:05:23.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz6.318}Grinding
+Dialogue: 0,0:05:23.76,0:05:24.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz355.8}Grinding
+Dialogue: 0,0:05:24.01,0:05:24.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz4.078}Grinding
+Dialogue: 0,0:05:24.26,0:05:24.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz356.6}Grinding
+Dialogue: 0,0:05:24.51,0:05:24.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz2.208\fs96}Grinding
+Dialogue: 0,0:05:24.76,0:05:25.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz356.8}Grinding
+Dialogue: 0,0:05:25.01,0:05:25.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz2.971}Grinding
+Dialogue: 0,0:05:25.26,0:05:25.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz356}Grinding
+Dialogue: 0,0:05:25.51,0:05:25.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz4.469}Grinding
+Dialogue: 0,0:05:25.76,0:05:26.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz355.1}Grinding
+Dialogue: 0,0:05:26.01,0:05:26.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz4.901\fs96}Grinding
+Dialogue: 0,0:05:26.26,0:05:26.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz357.7}Grinding
+Dialogue: 0,0:05:26.51,0:05:26.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz6.995}Grinding
+Dialogue: 0,0:05:26.76,0:05:27.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz355.9}Grinding
+Dialogue: 0,0:05:27.01,0:05:27.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz4.971}Grinding
+Dialogue: 0,0:05:27.51,0:05:27.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz4.971\fs96}Grinding
+Dialogue: 0,0:05:27.76,0:05:28.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz358.7}Grinding
+Dialogue: 0,0:05:28.01,0:05:28.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz5.159}Grinding
+Dialogue: 0,0:05:28.26,0:05:28.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz357.5}Grinding
+Dialogue: 0,0:05:28.51,0:05:28.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz5.777}Grinding
+Dialogue: 0,0:05:28.76,0:05:29.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz357.5}Grinding
+Dialogue: 0,0:05:29.01,0:05:29.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz3.22\fs96}Grinding
+Dialogue: 0,0:05:29.26,0:05:29.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz358.8}Grinding
+Dialogue: 0,0:05:29.51,0:05:29.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz4.118}Grinding
+Dialogue: 0,0:05:29.76,0:05:30.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz356.1}Grinding
+Dialogue: 0,0:05:30.01,0:05:30.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz6.073}Grinding
+Dialogue: 0,0:05:30.26,0:05:30.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz357.5}Grinding
+Dialogue: 0,0:05:30.51,0:05:30.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\fs85\frz3.567}Grinding
+Dialogue: 0,0:05:30.76,0:05:31.01,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz356.9}Grinding
+Dialogue: 0,0:05:31.01,0:05:31.26,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz3.499}Grinding
+Dialogue: 0,0:05:31.26,0:05:31.51,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz357.8}Grinding
+Dialogue: 0,0:05:31.51,0:05:31.76,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz3.125}Grinding
+Dialogue: 0,0:05:31.76,0:05:32.02,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz357.7}Grinding
+Dialogue: 0,0:05:32.02,0:05:32.27,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz3.291\fs96}Grinding
+Dialogue: 0,0:05:32.27,0:05:32.52,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz357.6}Grinding
+Dialogue: 0,0:05:32.52,0:05:32.79,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz4.212}Grinding
+Dialogue: 0,0:05:48.53,0:05:48.78,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz11.72}Grinding
+Dialogue: 0,0:05:48.78,0:05:49.03,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz6.239}Grinding
+Dialogue: 0,0:05:49.03,0:05:49.28,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz360}Grinding
+Dialogue: 0,0:05:49.28,0:05:49.53,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz360\fs96}Grinding
+Dialogue: 0,0:05:49.53,0:05:49.78,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz354.8}Grinding
+Dialogue: 0,0:05:49.78,0:05:50.03,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz360}Grinding
+Dialogue: 0,0:05:50.03,0:05:50.28,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz356.1}Grinding
+Dialogue: 0,0:05:50.28,0:05:50.53,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz1.868}Grinding
+Dialogue: 0,0:05:50.53,0:05:50.78,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz354.8}Grinding
+Dialogue: 0,0:05:50.78,0:05:51.03,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz2.671\fs96}Grinding
+Dialogue: 0,0:05:51.03,0:05:51.28,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz356.8}Grinding
+Dialogue: 0,0:05:51.28,0:05:51.53,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz6.318}Grinding
+Dialogue: 0,0:05:51.53,0:05:51.78,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz355.8}Grinding
+Dialogue: 0,0:05:51.78,0:05:52.04,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz4.078}Grinding
+Dialogue: 0,0:05:52.04,0:05:52.29,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz356.6}Grinding
+Dialogue: 0,0:05:52.29,0:05:52.54,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz2.208\fs96}Grinding
+Dialogue: 0,0:05:52.54,0:05:52.79,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz356.8}Grinding
+Dialogue: 0,0:05:52.79,0:05:53.04,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz2.971}Grinding
+Dialogue: 0,0:05:53.04,0:05:53.29,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz356}Grinding
+Dialogue: 0,0:05:53.29,0:05:53.54,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz4.469}Grinding
+Dialogue: 0,0:05:53.54,0:05:53.79,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz355.1}Grinding
+Dialogue: 0,0:05:53.79,0:05:54.04,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz4.901\fs96}Grinding
+Dialogue: 0,0:05:54.04,0:05:54.29,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz357.7}Grinding
+Dialogue: 0,0:05:54.29,0:05:54.54,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz6.995}Grinding
+Dialogue: 0,0:05:54.54,0:05:54.79,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz355.9}Grinding
+Dialogue: 0,0:05:54.79,0:05:55.29,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz4.971}Grinding
+Dialogue: 0,0:05:55.29,0:05:55.54,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(167.8,493.73)\frz4.971\fs96}Grinding
+Dialogue: 0,0:10:43.03,0:10:49.75,Signs,Screen,0,0,0,,{\fade(600,0)\fnFOT-ManyoKoinLargeStd B-EN\fs67.8\fscx85\pos(527,794.67)}Koinokuchi Canyon, Yasohachi Bridge
+Dialogue: 0,0:11:15.86,0:11:23.86,Signs,Sign,0,0,0,,{=2}{\clip()\t(24,7990,\clip())\fscx100\t(24,7990,\fscx100)\fscy100\t(24,7990,\fscy100)\alpha&H00&\fs21\xshad3\t(24,7990,\xshad3)\fax-0.02\b1\c&H2F7E37&\3c&H8B8D59&\4c&H724842&\frz3.1\move(1267.11,278.33,854.8,278.36,24,7990)}Pounded Fish Cake is finally here!
+Dialogue: 1,0:11:15.86,0:11:23.86,Signs,Sign,0,0,0,,{=1}{\clip()\t(24,7990,\clip())\fscx100\t(24,7990,\fscx100)\fscy100\t(24,7990,\fscy100)\alpha&H00&\fs21\be1\b1\fax-0.02\c&H2F7E37&\3c&H8B8D59&\4c&H724842&\frz3.1\move(1267.11,278.33,854.8,278.36,24,7990)}Pounded Fish Cake is finally here!
+Comment: 0,0:11:42.01,0:11:47.89,Signs,Screen&Akari,0,0,0,,{\fnArial\b1\c&H0D02C7&\3c&H07193D&\pos(230,12)\an8\shad0\c&H171EE5&\3c&H1D283D&}Ding-Ding
+Dialogue: 0,0:11:42.01,0:11:42.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\blur0.3\frz13\pos(805.6,299.6)\shad0\c&H171EE5&\3c&H1D283D&\clip(m 858 250 l 855 266)}Ding
+Dialogue: 0,0:11:42.01,0:11:42.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\bord7\blur0.3\frz13\pos(805.6,299.6)\shad0\c&H171EE5&\3c&H1D283D&\clip(m 858 250 l 855 266 855 283 853 306 854 325 742 353 710 265)}Ding
+Dialogue: 0,0:11:42.10,0:11:42.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\bord7\blur0.3\frz13\pos(805.6,299.6)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.01,0:11:42.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\blur0.3\pos(1606,556)\frz353.4\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.01,0:11:42.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\bord7\blur0.3\pos(1606,556)\frz353.4\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.14,0:11:42.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100\bord8\fscx100\blur0.3\frz25.08\fs52\pos(650,58)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.14,0:11:42.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100\bord8\fscx100\blur0.3\fs52\frz4.14\pos(1856,542)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.18,0:11:42.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100.09\bord8.01\fscx100.09\blur0.3\frz25.08\fs52\pos(649.99,57.89)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.18,0:11:42.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100.43\bord8.03\fscx100.43\blur0.3\fs52\frz3.97\pos(1856.07,541.75)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.22,0:11:42.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100.18\bord8.01\fscx100.18\blur0.3\frz25.08\fs52\pos(649.99,57.78)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.22,0:11:42.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100.87\bord8.07\fscx100.87\blur0.3\fs52\frz3.81\pos(1856.12,541.5)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.26,0:11:42.30,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.84\bord8.71\fscx108.84\blur0.33\frz20.97\fs52\pos(668.57,54.71)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.26,0:11:42.30,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.43\bord8.35\fscx104.43\blur0.31\fs52\frz1.26\pos(1854.84,546.63)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.30,0:11:42.34,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.93\bord8.71\fscx108.93\blur0.33\frz20.98\fs52\pos(668.56,54.59)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.30,0:11:42.34,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.87\bord8.39\fscx104.87\blur0.31\fs52\frz1.11\pos(1854.87,546.39)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.34,0:11:42.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.02\bord8.72\fscx109.02\blur0.33\frz20.98\fs52\pos(668.55,54.48)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.34,0:11:42.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy105.32\bord8.43\fscx105.32\blur0.32\fs52\frz0.95\pos(1854.9,546.15)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.39,0:11:42.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.07\bord9.45\fscx118.07\blur0.35\frz15.94\fs52\pos(689.66,54.76)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.39,0:11:42.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy110.98\bord8.88\fscx110.98\blur0.33\fs52\frz-2.24\pos(1852.96,550.54)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.43,0:11:42.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.03\bord9.44\fscx118.03\blur0.35\frz16.12\fs52\pos(689.03,54.54)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.43,0:11:42.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy111.08\bord8.89\fscx111.08\blur0.33\fs52\frz-2.35\pos(1853,550.6)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.47,0:11:42.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy117.98\bord9.44\fscx117.98\blur0.35\frz16.31\fs52\pos(688.39,54.31)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.47,0:11:42.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy111.2\bord8.9\fscx111.2\blur0.33\fs52\frz-2.46\pos(1853.06,550.64)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.51,0:11:42.55,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.26\bord10.02\fscx125.26\blur0.38\frz13.07\fs52\pos(705.63,56.41)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.51,0:11:42.55,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.3\bord9.22\fscx115.3\blur0.35\fs52\frz-3.96\pos(1849.6,553.61)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.55,0:11:42.59,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.21\bord10.02\fscx125.21\blur0.38\frz13.25\fs52\pos(704.99,56.14)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.55,0:11:42.59,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.41\bord9.23\fscx115.41\blur0.35\fs52\frz-4.06\pos(1849.65,553.64)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.59,0:11:42.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.35\bord10.03\fscx125.35\blur0.38\frz13.25\fs52\pos(705.09,56.11)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.59,0:11:42.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.37\bord9.23\fscx115.37\blur0.35\fs52\frz-4.04\pos(1849.49,553.73)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.64,0:11:42.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.35\bord10.75\fscx134.35\blur0.4\frz10.05\fs52\pos(723.1,58.35)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.64,0:11:42.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.47\bord9.8\fscx122.47\blur0.37\fs52\frz-7.58\pos(1850.09,558.56)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.68,0:11:42.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.49\bord10.76\fscx134.49\blur0.4\frz10.06\fs52\pos(723.21,58.32)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.68,0:11:42.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.45\bord9.8\fscx122.45\blur0.37\fs52\frz-7.56\pos(1849.95,558.64)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.72,0:11:42.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.64\bord10.77\fscx134.64\blur0.4\frz10.07\fs52\pos(723.32,58.28)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.72,0:11:42.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.41\bord9.79\fscx122.41\blur0.37\fs52\frz-7.54\pos(1849.78,558.73)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.76,0:11:42.80,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.36\bord11.63\fscx145.36\blur0.44\frz7.07\fs52\pos(745.22,57.67)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.76,0:11:42.80,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.85\bord10.39\fscx129.85\blur0.39\fs52\frz-8.95\pos(1850.99,559.84)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.80,0:11:42.84,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.39\bord11.63\fscx145.39\blur0.44\frz7.07\fs52\pos(745.19,57.66)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.80,0:11:42.84,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.82\bord10.39\fscx129.82\blur0.39\fs52\frz-8.99\pos(1851.03,559.97)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.84,0:11:42.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.43\bord11.63\fscx145.43\blur0.44\frz7.06\fs52\pos(745.16,57.65)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.84,0:11:42.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.79\bord10.38\fscx129.79\blur0.39\fs52\frz-9.03\pos(1851.07,560.11)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.89,0:11:42.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy155.4\bord12.43\fscx155.4\blur0.47\frz3.99\fs52\pos(765.07,61.22)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.89,0:11:42.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy137.26\bord10.98\fscx137.26\blur0.41\fs52\frz-10.28\pos(1852.79,562.43)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.93,0:11:42.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy155.43\bord12.43\fscx155.43\blur0.47\frz3.98\fs52\pos(765.03,61.22)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.93,0:11:42.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy137.23\bord10.98\fscx137.23\blur0.41\fs52\frz-10.32\pos(1852.84,562.57)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.97,0:11:43.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy155.45\bord12.44\fscx155.45\blur0.47\frz3.98\fs52\pos(764.99,61.22)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:42.97,0:11:43.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy137.2\bord10.98\fscx137.2\blur0.41\fs52\frz-10.36\pos(1852.88,562.71)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.01,0:11:43.05,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy148.92\bord11.91\fscx148.92\blur0.45\frz5.88\fs52\pos(759.34,61.8)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.01,0:11:43.05,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.92\bord10.39\fscx129.92\blur0.39\fs52\frz-12.95\pos(1857.21,579.35)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.05,0:11:43.09,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy148.67\bord11.89\fscx148.67\blur0.45\frz5.93\fs52\pos(758.91,61.93)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.05,0:11:43.09,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.84\bord10.39\fscx129.84\blur0.39\fs52\frz-13.05\pos(1857.32,579.66)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.09,0:11:43.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy148.41\bord11.87\fscx148.41\blur0.45\frz5.99\fs52\pos(758.47,62.06)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.09,0:11:43.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.76\bord10.38\fscx129.76\blur0.39\fs52\frz-13.14\pos(1857.41,579.98)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.14,0:11:43.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy139.36\bord11.15\fscx139.36\blur0.42\frz8.23\fs52\pos(748.26,65.46)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.14,0:11:43.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.52\bord9.8\fscx122.52\blur0.37\fs52\frz-14.02\pos(1857.85,595.34)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.18,0:11:43.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy139.12\bord11.13\fscx139.12\blur0.42\frz8.29\fs52\pos(747.85,65.58)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.18,0:11:43.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.45\bord9.8\fscx122.45\blur0.37\fs52\frz-14.11\pos(1857.92,595.64)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.22,0:11:43.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy138.74\bord11.1\fscx138.74\blur0.42\frz8.33\fs52\pos(747.39,65.92)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.22,0:11:43.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.97\bord9.76\fscx121.97\blur0.37\fs52\frz-13.84\pos(1857.52,595.57)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.26,0:11:43.30,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy130.39\bord10.43\fscx130.39\blur0.39\frz10.73\fs52\pos(728.41,61.98)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.26,0:11:43.30,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy112.44\bord9\fscx112.44\blur0.34\fs52\frz-9.9\pos(1856.48,583.81)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.30,0:11:43.34,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy130\bord10.4\fscx130\blur0.39\frz10.79\fs52\pos(727.96,62.34)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.30,0:11:43.34,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy111.99\bord8.96\fscx111.99\blur0.34\fs52\frz-9.62\pos(1856.07,583.79)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.34,0:11:43.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.62\bord10.37\fscx129.62\blur0.39\frz10.84\fs52\pos(727.53,62.7)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.34,0:11:43.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy111.56\bord8.92\fscx111.56\blur0.33\fs52\frz-9.35\pos(1855.68,583.77)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.39,0:11:43.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy120.72\bord9.66\fscx120.72\blur0.36\frz14.37\fs52\pos(705.37,59.73)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.39,0:11:43.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy106.74\bord8.54\fscx106.74\blur0.32\fs52\frz-7.41\pos(1858.55,572.3)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.43,0:11:43.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy120.65\bord9.65\fscx120.65\blur0.36\frz14.37\fs52\pos(705.28,59.79)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.43,0:11:43.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy106.58\bord8.53\fscx106.58\blur0.32\fs52\frz-7.28\pos(1858.54,572.17)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.47,0:11:43.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy120.58\bord9.65\fscx120.58\blur0.36\frz14.38\fs52\pos(705.18,59.86)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.47,0:11:43.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy106.41\bord8.51\fscx106.41\blur0.32\fs52\frz-7.14\pos(1858.53,572.05)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.51,0:11:43.55,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.55\bord8.76\fscx109.55\blur0.33\frz18.76\fs52\pos(678.07,60.46)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.51,0:11:43.55,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.55\bord8.2\fscx102.55\blur0.31\fs52\frz-1.59\pos(1856.25,557.48)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.55,0:11:43.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.49\bord8.76\fscx109.49\blur0.33\frz18.76\fs52\pos(677.99,60.52)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.55,0:11:43.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.35\bord8.19\fscx102.35\blur0.31\fs52\frz-1.44\pos(1856.13,557.38)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.60,0:11:43.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.43\bord8.75\fscx109.43\blur0.33\frz18.77\fs52\pos(677.91,60.59)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.60,0:11:43.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.16\bord8.17\fscx102.16\blur0.31\fs52\frz-1.29\pos(1856,557.29)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.64,0:11:43.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.54\bord7.88\fscx98.54\blur0.3\frz24.36\fs52\pos(649.97,62.2)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.64,0:11:43.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy97.01\bord7.76\fscx97.01\blur0.29\fs52\frz6.18\pos(1851.8,543.63)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.68,0:11:43.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.59\bord7.89\fscx98.59\blur0.3\frz24.31\fs52\pos(650.1,62.06)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.68,0:11:43.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy97.6\bord7.81\fscx97.6\blur0.29\fs52\frz5.69\pos(1852.65,543.2)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.72,0:11:43.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.65\bord7.89\fscx98.65\blur0.3\frz24.26\fs52\pos(650.24,61.92)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.72,0:11:43.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.21\bord7.86\fscx98.21\blur0.29\fs52\frz5.19\pos(1853.52,542.77)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.76,0:11:43.80,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy107.07\bord8.57\fscx107.07\blur0.32\frz20.06\fs52\pos(668.73,59.34)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.76,0:11:43.80,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.44\bord8.12\fscx101.44\blur0.3\fs52\frz3.33\pos(1851.23,547.5)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.80,0:11:43.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy107.12\bord8.57\fscx107.12\blur0.32\frz20.02\fs52\pos(668.85,59.22)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.80,0:11:43.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.07\bord8.17\fscx102.07\blur0.31\fs52\frz2.83\pos(1852.14,547.07)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.85,0:11:43.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy107.46\bord8.6\fscx107.46\blur0.32\frz19.92\fs52\pos(669.5,58.98)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.85,0:11:43.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.23\bord8.18\fscx102.23\blur0.31\fs52\frz2.55\pos(1852.39,547.31)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.89,0:11:43.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.45\bord9.32\fscx116.45\blur0.35\frz15.9\fs52\pos(687.74,58.34)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.89,0:11:43.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy105.88\bord8.47\fscx105.88\blur0.32\fs52\frz1.43\pos(1846.81,550.49)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.93,0:11:43.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.84\bord9.35\fscx116.84\blur0.35\frz15.8\fs52\pos(688.48,58.12)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.93,0:11:43.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy106.06\bord8.48\fscx106.06\blur0.32\fs52\frz1.14\pos(1847.04,550.73)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.97,0:11:44.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy117.21\bord9.38\fscx117.21\blur0.35\frz15.71\fs52\pos(689.2,57.9)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:43.97,0:11:44.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy106.23\bord8.5\fscx106.23\blur0.32\fs52\frz0.85\pos(1847.27,550.96)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.01,0:11:44.05,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy124.9\bord9.99\fscx124.9\blur0.37\frz12.2\fs52\pos(707.6,60.33)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.01,0:11:44.05,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy110.27\bord8.82\fscx110.27\blur0.33\fs52\frz-1.08\pos(1843.86,554.32)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.05,0:11:44.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.02\bord10\fscx125.02\blur0.38\frz12.21\fs52\pos(707.68,60.12)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.05,0:11:44.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy110.33\bord8.83\fscx110.33\blur0.33\fs52\frz-1.13\pos(1843.9,554.32)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.10,0:11:44.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.15\bord10.01\fscx125.15\blur0.38\frz12.21\fs52\pos(707.76,59.9)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.10,0:11:44.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy110.38\bord8.83\fscx110.38\blur0.33\fs52\frz-1.18\pos(1843.94,554.33)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.14,0:11:44.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.15\bord10.73\fscx134.15\blur0.4\frz9.01\fs52\pos(725.74,62.37)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.14,0:11:44.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.9\bord9.35\fscx116.9\blur0.35\fs52\frz-4.59\pos(1843.75,558.81)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.18,0:11:44.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.29\bord10.74\fscx134.29\blur0.4\frz9.02\fs52\pos(725.86,62.16)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.18,0:11:44.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.96\bord9.36\fscx116.96\blur0.35\fs52\frz-4.64\pos(1843.79,558.82)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.22,0:11:44.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.44\bord10.75\fscx134.44\blur0.4\frz9.02\fs52\pos(725.99,61.95)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.22,0:11:44.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy117.01\bord9.36\fscx117.01\blur0.35\fs52\frz-4.69\pos(1843.83,558.83)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.26,0:11:44.30,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy144\bord11.52\fscx144\blur0.43\frz6.75\fs52\pos(744.68,60.75)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.26,0:11:44.30,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy124.05\bord9.92\fscx124.05\blur0.37\fs52\frz-6.19\pos(1845.17,559.92)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.30,0:11:44.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy144.11\bord11.53\fscx144.11\blur0.43\frz6.74\fs52\pos(744.81,60.76)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.30,0:11:44.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy124.4\bord9.95\fscx124.4\blur0.37\fs52\frz-6.21\pos(1845.15,559.64)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.35,0:11:44.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy144.21\bord11.54\fscx144.21\blur0.43\frz6.73\fs52\pos(744.95,60.78)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.35,0:11:44.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy124.75\bord9.98\fscx124.75\blur0.37\fs52\frz-6.22\pos(1845.12,559.35)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.39,0:11:44.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy152.57\bord12.21\fscx152.57\blur0.46\frz4.9\fs52\pos(759.86,63.33)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.39,0:11:44.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy132.31\bord10.58\fscx132.31\blur0.4\fs52\frz-7.5\pos(1846.45,561.34)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.43,0:11:44.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy152.68\bord12.21\fscx152.68\blur0.46\frz4.89\fs52\pos(760.01,63.35)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.43,0:11:44.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy132.68\bord10.61\fscx132.68\blur0.4\fs52\frz-7.51\pos(1846.42,561.05)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.47,0:11:44.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy152.56\bord12.2\fscx152.56\blur0.46\frz4.93\fs52\pos(759.76,63.4)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.47,0:11:44.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy132.58\bord10.61\fscx132.58\blur0.4\fs52\frz-7.63\pos(1846.57,561.4)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.51,0:11:44.55,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy146.19\bord11.69\fscx146.19\blur0.44\frz6.79\fs52\pos(754.47,64.1)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.51,0:11:44.55,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.48\bord10.04\fscx125.48\blur0.38\fs52\frz-10.34\pos(1851.19,578.1)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.55,0:11:44.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy146.06\bord11.68\fscx146.06\blur0.44\frz6.83\fs52\pos(754.22,64.15)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.55,0:11:44.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.4\bord10.03\fscx125.4\blur0.38\fs52\frz-10.46\pos(1851.32,578.46)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.60,0:11:44.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.93\bord11.67\fscx145.93\blur0.44\frz6.87\fs52\pos(753.98,64.21)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.60,0:11:44.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.32\bord10.03\fscx125.32\blur0.38\fs52\frz-10.59\pos(1851.44,578.81)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.64,0:11:44.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy136.64\bord10.93\fscx136.64\blur0.41\frz9.34\fs52\pos(743.07,67.63)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.64,0:11:44.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.22\bord9.46\fscx118.22\blur0.35\fs52\frz-11.66\pos(1852.13,594.74)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.68,0:11:44.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy136.36\bord10.91\fscx136.36\blur0.41\frz9.42\fs52\pos(742.62,67.78)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.68,0:11:44.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.06\bord9.44\fscx118.06\blur0.35\fs52\frz-11.69\pos(1852.01,594.93)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.72,0:11:44.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy136.09\bord10.89\fscx136.09\blur0.41\frz9.5\fs52\pos(742.18,67.93)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.72,0:11:44.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy117.91\bord9.43\fscx117.91\blur0.35\fs52\frz-11.73\pos(1851.89,595.1)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.76,0:11:44.80,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy128.06\bord10.24\fscx128.06\blur0.38\frz11.84\fs52\pos(723.95,63.98)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.76,0:11:44.80,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.04\bord8.72\fscx109.04\blur0.33\fs52\frz-7.96\pos(1851.19,583.66)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.80,0:11:44.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy127.79\bord10.22\fscx127.79\blur0.38\frz11.92\fs52\pos(723.53,64.16)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.80,0:11:44.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.9\bord8.71\fscx108.9\blur0.33\fs52\frz-7.99\pos(1851.08,583.81)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.85,0:11:44.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy127.53\bord10.2\fscx127.53\blur0.38\frz12\fs52\pos(723.12,64.34)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.85,0:11:44.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.75\bord8.7\fscx108.75\blur0.33\fs52\frz-8.01\pos(1850.96,583.97)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.89,0:11:44.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.66\bord9.49\fscx118.66\blur0.36\frz15.73\fs52\pos(700.74,61.12)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.89,0:11:44.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.63\bord8.37\fscx104.63\blur0.31\fs52\frz-6.25\pos(1854.89,572.21)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.93,0:11:44.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.45\bord9.48\fscx118.45\blur0.36\frz15.81\fs52\pos(700.5,61.18)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.93,0:11:44.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.47\bord8.36\fscx104.47\blur0.31\fs52\frz-6.2\pos(1855.18,572.2)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.97,0:11:45.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.24\bord9.46\fscx118.24\blur0.35\frz15.89\fs52\pos(700.25,61.23)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:44.97,0:11:45.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.31\bord8.35\fscx104.31\blur0.31\fs52\frz-6.14\pos(1855.48,572.18)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.01,0:11:45.05,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy107.39\bord8.59\fscx107.39\blur0.32\frz20.4\fs52\pos(673.56,62)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.01,0:11:45.05,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100.03\bord8\fscx100.03\blur0.3\fs52\frz0.23\pos(1853.06,556.92)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.05,0:11:45.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy107.21\bord8.58\fscx107.21\blur0.32\frz20.47\fs52\pos(673.39,62.09)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.05,0:11:45.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.84\bord7.99\fscx99.84\blur0.3\fs52\frz0.3\pos(1853.2,556.95)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.10,0:11:45.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy107.27\bord8.58\fscx107.27\blur0.32\frz20.52\fs52\pos(673.33,61.9)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.10,0:11:45.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.72\bord7.98\fscx99.72\blur0.3\fs52\frz0.2\pos(1853.4,557.16)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.14,0:11:45.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.34\bord7.71\fscx96.34\blur0.29\frz25.91\fs52\pos(646.17,64.19)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.14,0:11:45.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.94\bord7.76\fscx96.94\blur0.29\fs52\frz2.7\pos(1854.77,547.97)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.18,0:11:45.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.39\bord7.71\fscx96.39\blur0.29\frz25.96\fs52\pos(646.11,64.01)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.18,0:11:45.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.82\bord7.75\fscx96.82\blur0.29\fs52\frz2.61\pos(1854.89,548.2)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.22,0:11:45.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.45\bord7.72\fscx96.45\blur0.29\frz26.01\fs52\pos(646.05,63.84)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.22,0:11:45.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.7\bord7.74\fscx96.7\blur0.29\fs52\frz2.52\pos(1855.03,548.43)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.26,0:11:45.31,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.86\bord8.39\fscx104.86\blur0.31\frz21.8\fs52\pos(664.25,60.82)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.26,0:11:45.31,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.47\bord8.12\fscx101.47\blur0.3\fs52\frz-0.51\pos(1853.55,553.08)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.31,0:11:45.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.96\bord8.4\fscx104.96\blur0.31\frz21.82\fs52\pos(664.26,60.64)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.31,0:11:45.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.54\bord8.12\fscx101.54\blur0.3\fs52\frz-0.53\pos(1853.55,553.04)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.35,0:11:45.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy105.05\bord8.4\fscx105.05\blur0.32\frz21.83\fs52\pos(664.28,60.46)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.35,0:11:45.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.61\bord8.13\fscx101.61\blur0.3\fs52\frz-0.55\pos(1853.54,553.01)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.39,0:11:45.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy113.79\bord9.1\fscx113.79\blur0.34\frz17.86\fs52\pos(681.71,59.38)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.39,0:11:45.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.77\bord8.38\fscx104.77\blur0.31\fs52\frz-1.28\pos(1847.39,556.31)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.43,0:11:45.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy113.91\bord9.11\fscx113.91\blur0.34\frz17.87\fs52\pos(681.78,59.2)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.43,0:11:45.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.85\bord8.39\fscx104.85\blur0.31\fs52\frz-1.3\pos(1847.38,556.27)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.47,0:11:45.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy114.02\bord9.12\fscx114.02\blur0.34\frz17.88\fs52\pos(681.84,59.01)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.47,0:11:45.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.92\bord8.39\fscx104.92\blur0.31\fs52\frz-1.32\pos(1847.36,556.22)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.51,0:11:45.56,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.41\bord9.71\fscx121.41\blur0.36\frz14.33\fs52\pos(699.53,60.98)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.51,0:11:45.56,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.65\bord8.69\fscx108.65\blur0.33\fs52\frz-3.35\pos(1844.32,560.28)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.56,0:11:45.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.68\bord9.73\fscx121.68\blur0.37\frz14.23\fs52\pos(700.02,60.74)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.56,0:11:45.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.27\bord8.74\fscx109.27\blur0.33\fs52\frz-3.9\pos(1844.9,560.66)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.60,0:11:45.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.96\bord9.76\fscx121.96\blur0.37\frz14.13\fs52\pos(700.52,60.5)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.60,0:11:45.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.92\bord8.79\fscx109.92\blur0.33\fs52\frz-4.48\pos(1845.51,561.05)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.64,0:11:45.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy130.97\bord10.48\fscx130.97\blur0.39\frz10.79\fs52\pos(718.55,62.65)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.64,0:11:45.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy114.55\bord9.16\fscx114.55\blur0.34\fs52\frz-6.07\pos(1841.72,565.15)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.68,0:11:45.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy131.29\bord10.5\fscx131.29\blur0.39\frz10.67\fs52\pos(719.13,62.45)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.68,0:11:45.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.25\bord9.22\fscx115.25\blur0.35\fs52\frz-6.65\pos(1842.32,565.55)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.72,0:11:45.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy131.2\bord10.5\fscx131.2\blur0.39\frz10.74\fs52\pos(718.79,62.45)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.72,0:11:45.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.61\bord9.25\fscx115.61\blur0.35\fs52\frz-6.67\pos(1842.21,565.28)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.76,0:11:45.81,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy137.89\bord11.03\fscx137.89\blur0.41\frz9.24\fs52\pos(732.33,62.93)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.76,0:11:45.81,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.42\bord9.71\fscx121.42\blur0.36\fs52\frz-8.17\pos(1843.48,567.8)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.81,0:11:45.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy137.79\bord11.02\fscx137.79\blur0.41\frz9.31\fs52\pos(731.98,62.92)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.81,0:11:45.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.81\bord9.74\fscx121.81\blur0.37\fs52\frz-8.19\pos(1843.37,567.5)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.85,0:11:45.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy137.7\bord11.02\fscx137.7\blur0.41\frz9.38\fs52\pos(731.63,62.9)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.85,0:11:45.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.19\bord9.77\fscx122.19\blur0.37\fs52\frz-8.21\pos(1843.24,567.21)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.89,0:11:45.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.27\bord11.62\fscx145.27\blur0.44\frz7.76\fs52\pos(744.64,65.02)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.89,0:11:45.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.41\bord10.35\fscx129.41\blur0.39\fs52\frz-9.37\pos(1844.28,569.49)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.93,0:11:45.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.21\bord11.62\fscx145.21\blur0.44\frz7.75\fs52\pos(744.59,65.14)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.93,0:11:45.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.24\bord10.34\fscx129.24\blur0.39\fs52\frz-9.3\pos(1844.21,569.53)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.97,0:11:46.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.15\bord11.61\fscx145.15\blur0.44\frz7.74\fs52\pos(744.53,65.25)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:45.97,0:11:46.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.07\bord10.33\fscx129.07\blur0.39\fs52\frz-9.23\pos(1844.12,569.57)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.01,0:11:46.06,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy138.85\bord11.11\fscx138.85\blur0.42\frz9.72\fs52\pos(739.41,66.29)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.01,0:11:46.06,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.06\bord9.77\fscx122.06\blur0.37\fs52\frz-11.76\pos(1848.32,585.54)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.06,0:11:46.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy138.79\bord11.1\fscx138.79\blur0.42\frz9.7\fs52\pos(739.36,66.41)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.06,0:11:46.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.91\bord9.75\fscx121.91\blur0.37\fs52\frz-11.69\pos(1848.27,585.56)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.10,0:11:46.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy138.74\bord11.1\fscx138.74\blur0.42\frz9.69\fs52\pos(739.32,66.53)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.10,0:11:46.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.76\bord9.74\fscx121.76\blur0.37\fs52\frz-11.62\pos(1848.21,585.57)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.14,0:11:46.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.91\bord10.39\fscx129.91\blur0.39\frz12.11\fs52\pos(729.52,70.58)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.14,0:11:46.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy114.53\bord9.16\fscx114.53\blur0.34\fs52\frz-12.71\pos(1848.88,601.4)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.18,0:11:46.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.74\bord10.38\fscx129.74\blur0.39\frz12.19\fs52\pos(729.17,70.46)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.18,0:11:46.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy114.3\bord9.14\fscx114.3\blur0.34\fs52\frz-12.7\pos(1848.89,601.54)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.22,0:11:46.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.56\bord10.36\fscx129.56\blur0.39\frz12.27\fs52\pos(728.81,70.33)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.22,0:11:46.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy114.06\bord9.12\fscx114.06\blur0.34\fs52\frz-12.68\pos(1848.91,601.69)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.26,0:11:46.31,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.79\bord9.74\fscx121.79\blur0.37\frz14.63\fs52\pos(711.31,66.91)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.26,0:11:46.31,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy105.95\bord8.48\fscx105.95\blur0.32\fs52\frz-9.25\pos(1848.95,589.98)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.31,0:11:46.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.65\bord9.73\fscx121.65\blur0.36\frz14.7\fs52\pos(711,66.81)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.31,0:11:46.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy105.73\bord8.46\fscx105.73\blur0.32\fs52\frz-9.23\pos(1848.94,590.14)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.35,0:11:46.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.38\bord9.71\fscx121.38\blur0.36\frz14.84\fs52\pos(710.44,66.75)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.35,0:11:46.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy105.85\bord8.47\fscx105.85\blur0.32\fs52\frz-9.26\pos(1849.37,590.08)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.39,0:11:46.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy113.38\bord9.07\fscx113.38\blur0.34\frz18.07\fs52\pos(690.7,64.61)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.39,0:11:46.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.27\bord8.1\fscx101.27\blur0.3\fs52\frz-6.97\pos(1853.3,577.97)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.43,0:11:46.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy113.12\bord9.05\fscx113.12\blur0.34\frz18.21\fs52\pos(690.16,64.61)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.43,0:11:46.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.39\bord8.11\fscx101.39\blur0.3\fs52\frz-7.01\pos(1853.65,577.92)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.47,0:11:46.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy112.87\bord9.03\fscx112.87\blur0.34\frz18.35\fs52\pos(689.62,64.62)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.47,0:11:46.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.51\bord8.12\fscx101.51\blur0.3\fs52\frz-7.04\pos(1854,577.87)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.51,0:11:46.56,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.04\bord8.16\fscx102.04\blur0.31\frz23.07\fs52\pos(663.23,66.36)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.51,0:11:46.56,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.31\bord7.7\fscx96.31\blur0.29\fs52\frz1.2\pos(1849.18,561.63)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.56,0:11:46.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.83\bord8.15\fscx101.83\blur0.31\frz23.09\fs52\pos(662.99,66.43)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.56,0:11:46.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.3\bord7.7\fscx96.3\blur0.29\fs52\frz1.16\pos(1849.48,561.64)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.60,0:11:46.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.63\bord8.13\fscx101.63\blur0.3\frz23.1\fs52\pos(662.75,66.51)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.60,0:11:46.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.28\bord7.7\fscx96.28\blur0.29\fs52\frz1.12\pos(1849.79,561.66)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.64,0:11:46.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy91.16\bord7.29\fscx91.16\blur0.27\frz28.61\fs52\pos(637,69.39)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.64,0:11:46.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy91.64\bord7.33\fscx91.64\blur0.27\fs52\frz7.19\pos(1849.03,549.28)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.68,0:11:46.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy91\bord7.28\fscx91\blur0.27\frz28.61\fs52\pos(636.85,69.46)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.68,0:11:46.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy91.59\bord7.33\fscx91.59\blur0.27\fs52\frz7.18\pos(1849.24,549.31)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.72,0:11:46.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy90.84\bord7.27\fscx90.84\blur0.27\frz28.62\fs52\pos(636.71,69.52)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.72,0:11:46.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy91.55\bord7.32\fscx91.55\blur0.27\fs52\frz7.16\pos(1849.43,549.34)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.76,0:11:46.81,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.25\bord7.94\fscx99.25\blur0.3\frz24.53\fs52\pos(653.42,65.42)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.76,0:11:46.81,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy94.14\bord7.53\fscx94.14\blur0.28\fs52\frz4.85\pos(1847.56,554.62)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.81,0:11:46.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.33\bord7.95\fscx99.33\blur0.3\frz24.6\fs52\pos(653.32,65.27)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.81,0:11:46.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy94.04\bord7.52\fscx94.04\blur0.28\fs52\frz5.01\pos(1847.26,554.38)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.85,0:11:46.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.41\bord7.95\fscx99.41\blur0.3\frz24.67\fs52\pos(653.23,65.11)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.85,0:11:46.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy93.94\bord7.52\fscx93.94\blur0.28\fs52\frz5.17\pos(1846.97,554.14)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.89,0:11:46.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.17\bord8.65\fscx108.17\blur0.32\frz20.69\fs52\pos(669.7,62.6)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.89,0:11:46.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.09\bord7.93\fscx99.09\blur0.3\fs52\frz2.12\pos(1844.4,557.87)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.93,0:11:46.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.27\bord8.66\fscx108.27\blur0.32\frz20.75\fs52\pos(669.64,62.42)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.93,0:11:46.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.96\bord7.92\fscx98.96\blur0.3\fs52\frz2.29\pos(1844.06,557.63)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.97,0:11:47.02,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.42\bord8.67\fscx108.42\blur0.33\frz20.67\fs52\pos(669.96,62.37)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:46.97,0:11:47.02,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.35\bord7.95\fscx99.35\blur0.3\fs52\frz2.1\pos(1844.26,557.52)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.02,0:11:47.06,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.92\bord9.27\fscx115.92\blur0.35\frz16.95\fs52\pos(687.47,63.4)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.02,0:11:47.06,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.46\bord8.2\fscx102.46\blur0.31\fs52\frz-0.08\pos(1841.32,562.04)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.06,0:11:47.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.08\bord9.29\fscx116.08\blur0.35\frz16.87\fs52\pos(687.83,63.37)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.06,0:11:47.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.88\bord8.23\fscx102.88\blur0.31\fs52\frz-0.28\pos(1841.5,561.93)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.10,0:11:47.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.23\bord9.3\fscx116.23\blur0.35\frz16.8\fs52\pos(688.17,63.34)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.10,0:11:47.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy103.28\bord8.26\fscx103.28\blur0.31\fs52\frz-0.47\pos(1841.69,561.82)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.14,0:11:47.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.05\bord10\fscx125.05\blur0.38\frz13.65\fs52\pos(704.93,63.98)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.14,0:11:47.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.18\bord8.73\fscx109.18\blur0.33\fs52\frz-3.54\pos(1840.1,566.53)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.18,0:11:47.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.26\bord10.02\fscx125.26\blur0.38\frz13.58\fs52\pos(705.24,63.82)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.18,0:11:47.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.58\bord8.77\fscx109.58\blur0.33\fs52\frz-3.64\pos(1840.16,566.25)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.22,0:11:47.27,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.47\bord10.04\fscx125.47\blur0.38\frz13.51\fs52\pos(705.55,63.67)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.22,0:11:47.27,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.98\bord8.8\fscx109.98\blur0.33\fs52\frz-3.76\pos(1840.23,565.98)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.27,0:11:47.31,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy130.81\bord10.46\fscx130.81\blur0.39\frz12.25\fs52\pos(716.92,65.09)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.27,0:11:47.31,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.63\bord9.25\fscx115.63\blur0.35\fs52\frz-5.28\pos(1841.04,568.56)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.31,0:11:47.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy131.01\bord10.48\fscx131.01\blur0.39\frz12.19\fs52\pos(717.25,64.96)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.31,0:11:47.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.05\bord9.28\fscx116.05\blur0.35\fs52\frz-5.39\pos(1841.11,568.29)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.35,0:11:47.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy131.23\bord10.5\fscx131.23\blur0.39\frz12.12\fs52\pos(717.58,64.82)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.35,0:11:47.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.48\bord9.32\fscx116.48\blur0.35\fs52\frz-5.5\pos(1841.18,568)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.39,0:11:47.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy138.75\bord11.1\fscx138.75\blur0.42\frz10.2\fs52\pos(730.94,66.83)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.39,0:11:47.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.91\bord9.83\fscx122.91\blur0.37\fs52\frz-6.83\pos(1842.18,570.95)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.43,0:11:47.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy139.1\bord11.13\fscx139.1\blur0.42\frz9.94\fs52\pos(732,66.9)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.43,0:11:47.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.75\bord9.82\fscx122.75\blur0.37\fs52\frz-6.81\pos(1842.09,571.07)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.47,0:11:47.52,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy139.47\bord11.16\fscx139.47\blur0.42\frz9.69\fs52\pos(733.08,66.98)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.47,0:11:47.52,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.58\bord9.81\fscx122.58\blur0.37\fs52\frz-6.8\pos(1841.98,571.2)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.52,0:11:47.56,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy133.84\bord10.71\fscx133.84\blur0.4\frz11.67\fs52\pos(728.3,67.97)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.52,0:11:47.56,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.73\bord9.26\fscx115.73\blur0.35\fs52\frz-9.28\pos(1845.86,587.08)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.56,0:11:47.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.19\bord10.74\fscx134.19\blur0.4\frz11.41\fs52\pos(729.34,68.04)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.56,0:11:47.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.57\bord9.25\fscx115.57\blur0.35\fs52\frz-9.26\pos(1845.75,587.19)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.60,0:11:47.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy133.89\bord10.71\fscx133.89\blur0.4\frz11.61\fs52\pos(728.55,67.73)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.60,0:11:47.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.32\bord9.23\fscx115.32\blur0.35\fs52\frz-9.28\pos(1845.76,587.32)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.64,0:11:47.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.18\bord10.01\fscx125.18\blur0.38\frz14.13\fs52\pos(719,72.2)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.64,0:11:47.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.64\bord8.69\fscx108.64\blur0.33\fs52\frz-11.91\pos(1847.23,605.61)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.68,0:11:47.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy124.9\bord9.99\fscx124.9\blur0.37\frz14.33\fs52\pos(718.24,71.92)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.68,0:11:47.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.41\bord8.67\fscx108.41\blur0.33\fs52\frz-11.94\pos(1847.24,605.71)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.72,0:11:47.77,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy124.62\bord9.97\fscx124.62\blur0.37\frz14.52\fs52\pos(717.5,71.65)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.72,0:11:47.77,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.19\bord8.66\fscx108.19\blur0.32\fs52\frz-11.96\pos(1847.25,605.81)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.77,0:11:47.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.76\bord9.34\fscx116.76\blur0.35\frz17.05\fs52\pos(700.11,68.89)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.77,0:11:47.81,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.52\bord7.88\fscx98.52\blur0.3\fs52\frz-7.15\pos(1845.89,593.82)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.81,0:11:47.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.53\bord7.88\fscx98.53\blur0.3\fs52\frz-7.14\pos(1845.9,593.8)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 0,0:11:47.85,0:11:47.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.52\bord7.88\fscx98.52\blur0.3\fs52\frz-7.14\pos(1845.91,593.8)\shad0\c&H171EE5&\3c&H1D283D&}Ding
+Dialogue: 1,0:11:42.14,0:11:42.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100\fscx100\bord0\blur0.3\frz25.08\fs52\pos(650,58)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.14,0:11:42.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100\fscx100\bord0\blur0.3\fs52\frz4.14\pos(1856,542)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.18,0:11:42.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100.09\fscx100.09\bord0\blur0.3\frz25.08\fs52\pos(649.99,57.89)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.18,0:11:42.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100.43\fscx100.43\bord0\blur0.3\fs52\frz3.97\pos(1856.07,541.75)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.22,0:11:42.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100.18\fscx100.18\bord0\blur0.3\frz25.08\fs52\pos(649.99,57.78)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.22,0:11:42.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100.87\fscx100.87\bord0\blur0.3\fs52\frz3.81\pos(1856.12,541.5)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.26,0:11:42.30,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.84\fscx108.84\bord0\blur0.33\frz20.97\fs52\pos(668.57,54.71)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.26,0:11:42.30,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.43\fscx104.43\bord0\blur0.31\fs52\frz1.26\pos(1854.84,546.63)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.30,0:11:42.34,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.93\fscx108.93\bord0\blur0.33\frz20.98\fs52\pos(668.56,54.59)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.30,0:11:42.34,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.87\fscx104.87\bord0\blur0.31\fs52\frz1.11\pos(1854.87,546.39)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.34,0:11:42.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.02\fscx109.02\bord0\blur0.33\frz20.98\fs52\pos(668.55,54.48)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.34,0:11:42.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy105.32\fscx105.32\bord0\blur0.32\fs52\frz0.95\pos(1854.9,546.15)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.39,0:11:42.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.07\fscx118.07\bord0\blur0.35\frz15.94\fs52\pos(689.66,54.76)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.39,0:11:42.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy110.98\fscx110.98\bord0\blur0.33\fs52\frz-2.24\pos(1852.96,550.54)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.43,0:11:42.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.03\fscx118.03\bord0\blur0.35\frz16.12\fs52\pos(689.03,54.54)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.43,0:11:42.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy111.08\fscx111.08\bord0\blur0.33\fs52\frz-2.35\pos(1853,550.6)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.47,0:11:42.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy117.98\fscx117.98\bord0\blur0.35\frz16.31\fs52\pos(688.39,54.31)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.47,0:11:42.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy111.2\fscx111.2\bord0\blur0.33\fs52\frz-2.46\pos(1853.06,550.64)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.51,0:11:42.55,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.26\fscx125.26\bord0\blur0.38\frz13.07\fs52\pos(705.63,56.41)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.51,0:11:42.55,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.3\fscx115.3\bord0\blur0.35\fs52\frz-3.96\pos(1849.6,553.61)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.55,0:11:42.59,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.21\fscx125.21\bord0\blur0.38\frz13.25\fs52\pos(704.99,56.14)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.55,0:11:42.59,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.41\fscx115.41\bord0\blur0.35\fs52\frz-4.06\pos(1849.65,553.64)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.59,0:11:42.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.35\fscx125.35\bord0\blur0.38\frz13.25\fs52\pos(705.09,56.11)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.59,0:11:42.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.37\fscx115.37\bord0\blur0.35\fs52\frz-4.04\pos(1849.49,553.73)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.64,0:11:42.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.35\fscx134.35\bord0\blur0.4\frz10.05\fs52\pos(723.1,58.35)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.64,0:11:42.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.47\fscx122.47\bord0\blur0.37\fs52\frz-7.58\pos(1850.09,558.56)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.68,0:11:42.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.49\fscx134.49\bord0\blur0.4\frz10.06\fs52\pos(723.21,58.32)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.68,0:11:42.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.45\fscx122.45\bord0\blur0.37\fs52\frz-7.56\pos(1849.95,558.64)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.72,0:11:42.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.64\fscx134.64\bord0\blur0.4\frz10.07\fs52\pos(723.32,58.28)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.72,0:11:42.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.41\fscx122.41\bord0\blur0.37\fs52\frz-7.54\pos(1849.78,558.73)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.76,0:11:42.80,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.36\fscx145.36\bord0\blur0.44\frz7.07\fs52\pos(745.22,57.67)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.76,0:11:42.80,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.85\fscx129.85\bord0\blur0.39\fs52\frz-8.95\pos(1850.99,559.84)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.80,0:11:42.84,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.39\fscx145.39\bord0\blur0.44\frz7.07\fs52\pos(745.19,57.66)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.80,0:11:42.84,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.82\fscx129.82\bord0\blur0.39\fs52\frz-8.99\pos(1851.03,559.97)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.84,0:11:42.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.43\fscx145.43\bord0\blur0.44\frz7.06\fs52\pos(745.16,57.65)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.84,0:11:42.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.79\fscx129.79\bord0\blur0.39\fs52\frz-9.03\pos(1851.07,560.11)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.89,0:11:42.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy155.4\fscx155.4\bord0\blur0.47\frz3.99\fs52\pos(765.07,61.22)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.89,0:11:42.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy137.26\fscx137.26\bord0\blur0.41\fs52\frz-10.28\pos(1852.79,562.43)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.93,0:11:42.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy155.43\fscx155.43\bord0\blur0.47\frz3.98\fs52\pos(765.03,61.22)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.93,0:11:42.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy137.23\fscx137.23\bord0\blur0.41\fs52\frz-10.32\pos(1852.84,562.57)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.97,0:11:43.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy155.45\fscx155.45\bord0\blur0.47\frz3.98\fs52\pos(764.99,61.22)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:42.97,0:11:43.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy137.2\fscx137.2\bord0\blur0.41\fs52\frz-10.36\pos(1852.88,562.71)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.01,0:11:43.05,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy148.92\fscx148.92\bord0\blur0.45\frz5.88\fs52\pos(759.34,61.8)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.01,0:11:43.05,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.92\fscx129.92\bord0\blur0.39\fs52\frz-12.95\pos(1857.21,579.35)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.05,0:11:43.09,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy148.67\fscx148.67\bord0\blur0.45\frz5.93\fs52\pos(758.91,61.93)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.05,0:11:43.09,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.84\fscx129.84\bord0\blur0.39\fs52\frz-13.05\pos(1857.32,579.66)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.09,0:11:43.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy148.41\fscx148.41\bord0\blur0.45\frz5.99\fs52\pos(758.47,62.06)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.09,0:11:43.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.76\fscx129.76\bord0\blur0.39\fs52\frz-13.14\pos(1857.41,579.98)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.14,0:11:43.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy139.36\fscx139.36\bord0\blur0.42\frz8.23\fs52\pos(748.26,65.46)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.14,0:11:43.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.52\fscx122.52\bord0\blur0.37\fs52\frz-14.02\pos(1857.85,595.34)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.18,0:11:43.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy139.12\fscx139.12\bord0\blur0.42\frz8.29\fs52\pos(747.85,65.58)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.18,0:11:43.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.45\fscx122.45\bord0\blur0.37\fs52\frz-14.11\pos(1857.92,595.64)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.22,0:11:43.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy138.74\fscx138.74\bord0\blur0.42\frz8.33\fs52\pos(747.39,65.92)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.22,0:11:43.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.97\fscx121.97\bord0\blur0.37\fs52\frz-13.84\pos(1857.52,595.57)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.26,0:11:43.30,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy130.39\fscx130.39\bord0\blur0.39\frz10.73\fs52\pos(728.41,61.98)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.26,0:11:43.30,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy112.44\fscx112.44\bord0\blur0.34\fs52\frz-9.9\pos(1856.48,583.81)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.30,0:11:43.34,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy130\fscx130\bord0\blur0.39\frz10.79\fs52\pos(727.96,62.34)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.30,0:11:43.34,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy111.99\fscx111.99\bord0\blur0.34\fs52\frz-9.62\pos(1856.07,583.79)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.34,0:11:43.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.62\fscx129.62\bord0\blur0.39\frz10.84\fs52\pos(727.53,62.7)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.34,0:11:43.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy111.56\fscx111.56\bord0\blur0.33\fs52\frz-9.35\pos(1855.68,583.77)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.39,0:11:43.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy120.72\fscx120.72\bord0\blur0.36\frz14.37\fs52\pos(705.37,59.73)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.39,0:11:43.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy106.74\fscx106.74\bord0\blur0.32\fs52\frz-7.41\pos(1858.55,572.3)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.43,0:11:43.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy120.65\fscx120.65\bord0\blur0.36\frz14.37\fs52\pos(705.28,59.79)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.43,0:11:43.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy106.58\fscx106.58\bord0\blur0.32\fs52\frz-7.28\pos(1858.54,572.17)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.47,0:11:43.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy120.58\fscx120.58\bord0\blur0.36\frz14.38\fs52\pos(705.18,59.86)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.47,0:11:43.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy106.41\fscx106.41\bord0\blur0.32\fs52\frz-7.14\pos(1858.53,572.05)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.51,0:11:43.55,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.55\fscx109.55\bord0\blur0.33\frz18.76\fs52\pos(678.07,60.46)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.51,0:11:43.55,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.55\fscx102.55\bord0\blur0.31\fs52\frz-1.59\pos(1856.25,557.48)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.55,0:11:43.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.49\fscx109.49\bord0\blur0.33\frz18.76\fs52\pos(677.99,60.52)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.55,0:11:43.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.35\fscx102.35\bord0\blur0.31\fs52\frz-1.44\pos(1856.13,557.38)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.60,0:11:43.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.43\fscx109.43\bord0\blur0.33\frz18.77\fs52\pos(677.91,60.59)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.60,0:11:43.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.16\fscx102.16\bord0\blur0.31\fs52\frz-1.29\pos(1856,557.29)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.64,0:11:43.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.54\fscx98.54\bord0\blur0.3\frz24.36\fs52\pos(649.97,62.2)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.64,0:11:43.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy97.01\fscx97.01\bord0\blur0.29\fs52\frz6.18\pos(1851.8,543.63)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.68,0:11:43.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.59\fscx98.59\bord0\blur0.3\frz24.31\fs52\pos(650.1,62.06)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.68,0:11:43.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy97.6\fscx97.6\bord0\blur0.29\fs52\frz5.69\pos(1852.65,543.2)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.72,0:11:43.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.65\fscx98.65\bord0\blur0.3\frz24.26\fs52\pos(650.24,61.92)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.72,0:11:43.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.21\fscx98.21\bord0\blur0.29\fs52\frz5.19\pos(1853.52,542.77)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.76,0:11:43.80,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy107.07\fscx107.07\bord0\blur0.32\frz20.06\fs52\pos(668.73,59.34)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.76,0:11:43.80,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.44\fscx101.44\bord0\blur0.3\fs52\frz3.33\pos(1851.23,547.5)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.80,0:11:43.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy107.12\fscx107.12\bord0\blur0.32\frz20.02\fs52\pos(668.85,59.22)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.80,0:11:43.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.07\fscx102.07\bord0\blur0.31\fs52\frz2.83\pos(1852.14,547.07)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.85,0:11:43.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy107.46\fscx107.46\bord0\blur0.32\frz19.92\fs52\pos(669.5,58.98)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.85,0:11:43.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.23\fscx102.23\bord0\blur0.31\fs52\frz2.55\pos(1852.39,547.31)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.89,0:11:43.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.45\fscx116.45\bord0\blur0.35\frz15.9\fs52\pos(687.74,58.34)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.89,0:11:43.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy105.88\fscx105.88\bord0\blur0.32\fs52\frz1.43\pos(1846.81,550.49)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.93,0:11:43.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.84\fscx116.84\bord0\blur0.35\frz15.8\fs52\pos(688.48,58.12)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.93,0:11:43.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy106.06\fscx106.06\bord0\blur0.32\fs52\frz1.14\pos(1847.04,550.73)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.97,0:11:44.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy117.21\fscx117.21\bord0\blur0.35\frz15.71\fs52\pos(689.2,57.9)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:43.97,0:11:44.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy106.23\fscx106.23\bord0\blur0.32\fs52\frz0.85\pos(1847.27,550.96)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.01,0:11:44.05,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy124.9\fscx124.9\bord0\blur0.37\frz12.2\fs52\pos(707.6,60.33)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.01,0:11:44.05,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy110.27\fscx110.27\bord0\blur0.33\fs52\frz-1.08\pos(1843.86,554.32)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.05,0:11:44.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.02\fscx125.02\bord0\blur0.38\frz12.21\fs52\pos(707.68,60.12)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.05,0:11:44.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy110.33\fscx110.33\bord0\blur0.33\fs52\frz-1.13\pos(1843.9,554.32)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.10,0:11:44.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.15\fscx125.15\bord0\blur0.38\frz12.21\fs52\pos(707.76,59.9)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.10,0:11:44.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy110.38\fscx110.38\bord0\blur0.33\fs52\frz-1.18\pos(1843.94,554.33)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.14,0:11:44.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.15\fscx134.15\bord0\blur0.4\frz9.01\fs52\pos(725.74,62.37)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.14,0:11:44.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.9\fscx116.9\bord0\blur0.35\fs52\frz-4.59\pos(1843.75,558.81)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.18,0:11:44.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.29\fscx134.29\bord0\blur0.4\frz9.02\fs52\pos(725.86,62.16)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.18,0:11:44.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.96\fscx116.96\bord0\blur0.35\fs52\frz-4.64\pos(1843.79,558.82)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.22,0:11:44.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.44\fscx134.44\bord0\blur0.4\frz9.02\fs52\pos(725.99,61.95)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.22,0:11:44.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy117.01\fscx117.01\bord0\blur0.35\fs52\frz-4.69\pos(1843.83,558.83)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.26,0:11:44.30,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy144\fscx144\bord0\blur0.43\frz6.75\fs52\pos(744.68,60.75)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.26,0:11:44.30,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy124.05\fscx124.05\bord0\blur0.37\fs52\frz-6.19\pos(1845.17,559.92)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.30,0:11:44.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy144.11\fscx144.11\bord0\blur0.43\frz6.74\fs52\pos(744.81,60.76)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.30,0:11:44.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy124.4\fscx124.4\bord0\blur0.37\fs52\frz-6.21\pos(1845.15,559.64)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.35,0:11:44.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy144.21\fscx144.21\bord0\blur0.43\frz6.73\fs52\pos(744.95,60.78)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.35,0:11:44.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy124.75\fscx124.75\bord0\blur0.37\fs52\frz-6.22\pos(1845.12,559.35)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.39,0:11:44.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy152.57\fscx152.57\bord0\blur0.46\frz4.9\fs52\pos(759.86,63.33)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.39,0:11:44.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy132.31\fscx132.31\bord0\blur0.4\fs52\frz-7.5\pos(1846.45,561.34)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.43,0:11:44.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy152.68\fscx152.68\bord0\blur0.46\frz4.89\fs52\pos(760.01,63.35)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.43,0:11:44.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy132.68\fscx132.68\bord0\blur0.4\fs52\frz-7.51\pos(1846.42,561.05)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.47,0:11:44.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy152.56\fscx152.56\bord0\blur0.46\frz4.93\fs52\pos(759.76,63.4)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.47,0:11:44.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy132.58\fscx132.58\bord0\blur0.4\fs52\frz-7.63\pos(1846.57,561.4)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.51,0:11:44.55,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy146.19\fscx146.19\bord0\blur0.44\frz6.79\fs52\pos(754.47,64.1)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.51,0:11:44.55,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.48\fscx125.48\bord0\blur0.38\fs52\frz-10.34\pos(1851.19,578.1)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.55,0:11:44.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy146.06\fscx146.06\bord0\blur0.44\frz6.83\fs52\pos(754.22,64.15)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.55,0:11:44.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.4\fscx125.4\bord0\blur0.38\fs52\frz-10.46\pos(1851.32,578.46)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.60,0:11:44.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.93\fscx145.93\bord0\blur0.44\frz6.87\fs52\pos(753.98,64.21)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.60,0:11:44.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.32\fscx125.32\bord0\blur0.38\fs52\frz-10.59\pos(1851.44,578.81)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.64,0:11:44.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy136.64\fscx136.64\bord0\blur0.41\frz9.34\fs52\pos(743.07,67.63)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.64,0:11:44.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.22\fscx118.22\bord0\blur0.35\fs52\frz-11.66\pos(1852.13,594.74)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.68,0:11:44.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy136.36\fscx136.36\bord0\blur0.41\frz9.42\fs52\pos(742.62,67.78)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.68,0:11:44.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.06\fscx118.06\bord0\blur0.35\fs52\frz-11.69\pos(1852.01,594.93)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.72,0:11:44.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy136.09\fscx136.09\bord0\blur0.41\frz9.5\fs52\pos(742.18,67.93)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.72,0:11:44.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy117.91\fscx117.91\bord0\blur0.35\fs52\frz-11.73\pos(1851.89,595.1)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.76,0:11:44.80,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy128.06\fscx128.06\bord0\blur0.38\frz11.84\fs52\pos(723.95,63.98)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.76,0:11:44.80,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.04\fscx109.04\bord0\blur0.33\fs52\frz-7.96\pos(1851.19,583.66)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.80,0:11:44.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy127.79\fscx127.79\bord0\blur0.38\frz11.92\fs52\pos(723.53,64.16)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.80,0:11:44.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.9\fscx108.9\bord0\blur0.33\fs52\frz-7.99\pos(1851.08,583.81)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.85,0:11:44.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy127.53\fscx127.53\bord0\blur0.38\frz12\fs52\pos(723.12,64.34)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.85,0:11:44.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.75\fscx108.75\bord0\blur0.33\fs52\frz-8.01\pos(1850.96,583.97)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.89,0:11:44.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.66\fscx118.66\bord0\blur0.36\frz15.73\fs52\pos(700.74,61.12)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.89,0:11:44.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.63\fscx104.63\bord0\blur0.31\fs52\frz-6.25\pos(1854.89,572.21)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.93,0:11:44.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.45\fscx118.45\bord0\blur0.36\frz15.81\fs52\pos(700.5,61.18)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.93,0:11:44.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.47\fscx104.47\bord0\blur0.31\fs52\frz-6.2\pos(1855.18,572.2)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.97,0:11:45.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy118.24\fscx118.24\bord0\blur0.35\frz15.89\fs52\pos(700.25,61.23)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:44.97,0:11:45.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.31\fscx104.31\bord0\blur0.31\fs52\frz-6.14\pos(1855.48,572.18)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.01,0:11:45.05,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy107.39\fscx107.39\bord0\blur0.32\frz20.4\fs52\pos(673.56,62)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.01,0:11:45.05,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy100.03\fscx100.03\bord0\blur0.3\fs52\frz0.23\pos(1853.06,556.92)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.05,0:11:45.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy107.21\fscx107.21\bord0\blur0.32\frz20.47\fs52\pos(673.39,62.09)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.05,0:11:45.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.84\fscx99.84\bord0\blur0.3\fs52\frz0.3\pos(1853.2,556.95)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.10,0:11:45.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy107.27\fscx107.27\bord0\blur0.32\frz20.52\fs52\pos(673.33,61.9)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.10,0:11:45.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.72\fscx99.72\bord0\blur0.3\fs52\frz0.2\pos(1853.4,557.16)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.14,0:11:45.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.34\fscx96.34\bord0\blur0.29\frz25.91\fs52\pos(646.17,64.19)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.14,0:11:45.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.94\fscx96.94\bord0\blur0.29\fs52\frz2.7\pos(1854.77,547.97)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.18,0:11:45.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.39\fscx96.39\bord0\blur0.29\frz25.96\fs52\pos(646.11,64.01)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.18,0:11:45.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.82\fscx96.82\bord0\blur0.29\fs52\frz2.61\pos(1854.89,548.2)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.22,0:11:45.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.45\fscx96.45\bord0\blur0.29\frz26.01\fs52\pos(646.05,63.84)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.22,0:11:45.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.7\fscx96.7\bord0\blur0.29\fs52\frz2.52\pos(1855.03,548.43)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.26,0:11:45.31,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.86\fscx104.86\bord0\blur0.31\frz21.8\fs52\pos(664.25,60.82)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.26,0:11:45.31,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.47\fscx101.47\bord0\blur0.3\fs52\frz-0.51\pos(1853.55,553.08)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.31,0:11:45.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.96\fscx104.96\bord0\blur0.31\frz21.82\fs52\pos(664.26,60.64)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.31,0:11:45.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.54\fscx101.54\bord0\blur0.3\fs52\frz-0.53\pos(1853.55,553.04)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.35,0:11:45.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy105.05\fscx105.05\bord0\blur0.32\frz21.83\fs52\pos(664.28,60.46)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.35,0:11:45.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.61\fscx101.61\bord0\blur0.3\fs52\frz-0.55\pos(1853.54,553.01)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.39,0:11:45.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy113.79\fscx113.79\bord0\blur0.34\frz17.86\fs52\pos(681.71,59.38)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.39,0:11:45.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.77\fscx104.77\bord0\blur0.31\fs52\frz-1.28\pos(1847.39,556.31)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.43,0:11:45.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy113.91\fscx113.91\bord0\blur0.34\frz17.87\fs52\pos(681.78,59.2)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.43,0:11:45.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.85\fscx104.85\bord0\blur0.31\fs52\frz-1.3\pos(1847.38,556.27)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.47,0:11:45.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy114.02\fscx114.02\bord0\blur0.34\frz17.88\fs52\pos(681.84,59.01)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.47,0:11:45.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy104.92\fscx104.92\bord0\blur0.31\fs52\frz-1.32\pos(1847.36,556.22)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.51,0:11:45.56,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.41\fscx121.41\bord0\blur0.36\frz14.33\fs52\pos(699.53,60.98)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.51,0:11:45.56,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.65\fscx108.65\bord0\blur0.33\fs52\frz-3.35\pos(1844.32,560.28)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.56,0:11:45.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.68\fscx121.68\bord0\blur0.37\frz14.23\fs52\pos(700.02,60.74)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.56,0:11:45.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.27\fscx109.27\bord0\blur0.33\fs52\frz-3.9\pos(1844.9,560.66)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.60,0:11:45.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.96\fscx121.96\bord0\blur0.37\frz14.13\fs52\pos(700.52,60.5)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.60,0:11:45.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.92\fscx109.92\bord0\blur0.33\fs52\frz-4.48\pos(1845.51,561.05)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.64,0:11:45.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy130.97\fscx130.97\bord0\blur0.39\frz10.79\fs52\pos(718.55,62.65)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.64,0:11:45.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy114.55\fscx114.55\bord0\blur0.34\fs52\frz-6.07\pos(1841.72,565.15)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.68,0:11:45.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy131.29\fscx131.29\bord0\blur0.39\frz10.67\fs52\pos(719.13,62.45)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.68,0:11:45.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.25\fscx115.25\bord0\blur0.35\fs52\frz-6.65\pos(1842.32,565.55)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.72,0:11:45.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy131.2\fscx131.2\bord0\blur0.39\frz10.74\fs52\pos(718.79,62.45)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.72,0:11:45.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.61\fscx115.61\bord0\blur0.35\fs52\frz-6.67\pos(1842.21,565.28)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.76,0:11:45.81,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy137.89\fscx137.89\bord0\blur0.41\frz9.24\fs52\pos(732.33,62.93)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.76,0:11:45.81,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.42\fscx121.42\bord0\blur0.36\fs52\frz-8.17\pos(1843.48,567.8)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.81,0:11:45.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy137.79\fscx137.79\bord0\blur0.41\frz9.31\fs52\pos(731.98,62.92)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.81,0:11:45.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.81\fscx121.81\bord0\blur0.37\fs52\frz-8.19\pos(1843.37,567.5)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.85,0:11:45.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy137.7\fscx137.7\bord0\blur0.41\frz9.38\fs52\pos(731.63,62.9)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.85,0:11:45.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.19\fscx122.19\bord0\blur0.37\fs52\frz-8.21\pos(1843.24,567.21)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.89,0:11:45.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.27\fscx145.27\bord0\blur0.44\frz7.76\fs52\pos(744.64,65.02)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.89,0:11:45.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.41\fscx129.41\bord0\blur0.39\fs52\frz-9.37\pos(1844.28,569.49)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.93,0:11:45.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.21\fscx145.21\bord0\blur0.44\frz7.75\fs52\pos(744.59,65.14)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.93,0:11:45.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.24\fscx129.24\bord0\blur0.39\fs52\frz-9.3\pos(1844.21,569.53)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.97,0:11:46.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy145.15\fscx145.15\bord0\blur0.44\frz7.74\fs52\pos(744.53,65.25)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:45.97,0:11:46.01,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.07\fscx129.07\bord0\blur0.39\fs52\frz-9.23\pos(1844.12,569.57)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.01,0:11:46.06,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy138.85\fscx138.85\bord0\blur0.42\frz9.72\fs52\pos(739.41,66.29)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.01,0:11:46.06,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.06\fscx122.06\bord0\blur0.37\fs52\frz-11.76\pos(1848.32,585.54)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.06,0:11:46.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy138.79\fscx138.79\bord0\blur0.42\frz9.7\fs52\pos(739.36,66.41)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.06,0:11:46.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.91\fscx121.91\bord0\blur0.37\fs52\frz-11.69\pos(1848.27,585.56)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.10,0:11:46.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy138.74\fscx138.74\bord0\blur0.42\frz9.69\fs52\pos(739.32,66.53)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.10,0:11:46.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.76\fscx121.76\bord0\blur0.37\fs52\frz-11.62\pos(1848.21,585.57)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.14,0:11:46.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.91\fscx129.91\bord0\blur0.39\frz12.11\fs52\pos(729.52,70.58)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.14,0:11:46.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy114.53\fscx114.53\bord0\blur0.34\fs52\frz-12.71\pos(1848.88,601.4)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.18,0:11:46.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.74\fscx129.74\bord0\blur0.39\frz12.19\fs52\pos(729.17,70.46)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.18,0:11:46.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy114.3\fscx114.3\bord0\blur0.34\fs52\frz-12.7\pos(1848.89,601.54)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.22,0:11:46.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy129.56\fscx129.56\bord0\blur0.39\frz12.27\fs52\pos(728.81,70.33)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.22,0:11:46.26,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy114.06\fscx114.06\bord0\blur0.34\fs52\frz-12.68\pos(1848.91,601.69)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.26,0:11:46.31,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.79\fscx121.79\bord0\blur0.37\frz14.63\fs52\pos(711.31,66.91)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.26,0:11:46.31,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy105.95\fscx105.95\bord0\blur0.32\fs52\frz-9.25\pos(1848.95,589.98)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.31,0:11:46.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.65\fscx121.65\bord0\blur0.36\frz14.7\fs52\pos(711,66.81)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.31,0:11:46.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy105.73\fscx105.73\bord0\blur0.32\fs52\frz-9.23\pos(1848.94,590.14)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.35,0:11:46.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy121.38\fscx121.38\bord0\blur0.36\frz14.84\fs52\pos(710.44,66.75)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.35,0:11:46.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy105.85\fscx105.85\bord0\blur0.32\fs52\frz-9.26\pos(1849.37,590.08)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.39,0:11:46.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy113.38\fscx113.38\bord0\blur0.34\frz18.07\fs52\pos(690.7,64.61)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.39,0:11:46.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.27\fscx101.27\bord0\blur0.3\fs52\frz-6.97\pos(1853.3,577.97)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.43,0:11:46.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy113.12\fscx113.12\bord0\blur0.34\frz18.21\fs52\pos(690.16,64.61)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.43,0:11:46.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.39\fscx101.39\bord0\blur0.3\fs52\frz-7.01\pos(1853.65,577.92)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.47,0:11:46.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy112.87\fscx112.87\bord0\blur0.34\frz18.35\fs52\pos(689.62,64.62)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.47,0:11:46.51,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.51\fscx101.51\bord0\blur0.3\fs52\frz-7.04\pos(1854,577.87)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.51,0:11:46.56,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.04\fscx102.04\bord0\blur0.31\frz23.07\fs52\pos(663.23,66.36)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.51,0:11:46.56,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.31\fscx96.31\bord0\blur0.29\fs52\frz1.2\pos(1849.18,561.63)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.56,0:11:46.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.83\fscx101.83\bord0\blur0.31\frz23.09\fs52\pos(662.99,66.43)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.56,0:11:46.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.3\fscx96.3\bord0\blur0.29\fs52\frz1.16\pos(1849.48,561.64)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.60,0:11:46.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy101.63\fscx101.63\bord0\blur0.3\frz23.1\fs52\pos(662.75,66.51)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.60,0:11:46.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy96.28\fscx96.28\bord0\blur0.29\fs52\frz1.12\pos(1849.79,561.66)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.64,0:11:46.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy91.16\fscx91.16\bord0\blur0.27\frz28.61\fs52\pos(637,69.39)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.64,0:11:46.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy91.64\fscx91.64\bord0\blur0.27\fs52\frz7.19\pos(1849.03,549.28)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.68,0:11:46.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy91\fscx91\bord0\blur0.27\frz28.61\fs52\pos(636.85,69.46)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.68,0:11:46.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy91.59\fscx91.59\bord0\blur0.27\fs52\frz7.18\pos(1849.24,549.31)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.72,0:11:46.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy90.84\fscx90.84\bord0\blur0.27\frz28.62\fs52\pos(636.71,69.52)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.72,0:11:46.76,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy91.55\fscx91.55\bord0\blur0.27\fs52\frz7.16\pos(1849.43,549.34)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.76,0:11:46.81,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.25\fscx99.25\bord0\blur0.3\frz24.53\fs52\pos(653.42,65.42)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.76,0:11:46.81,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy94.14\fscx94.14\bord0\blur0.28\fs52\frz4.85\pos(1847.56,554.62)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.81,0:11:46.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.33\fscx99.33\bord0\blur0.3\frz24.6\fs52\pos(653.32,65.27)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.81,0:11:46.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy94.04\fscx94.04\bord0\blur0.28\fs52\frz5.01\pos(1847.26,554.38)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.85,0:11:46.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.41\fscx99.41\bord0\blur0.3\frz24.67\fs52\pos(653.23,65.11)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.85,0:11:46.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy93.94\fscx93.94\bord0\blur0.28\fs52\frz5.17\pos(1846.97,554.14)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.89,0:11:46.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.17\fscx108.17\bord0\blur0.32\frz20.69\fs52\pos(669.7,62.6)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.89,0:11:46.93,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.09\fscx99.09\bord0\blur0.3\fs52\frz2.12\pos(1844.4,557.87)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.93,0:11:46.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.27\fscx108.27\bord0\blur0.32\frz20.75\fs52\pos(669.64,62.42)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.93,0:11:46.97,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.96\fscx98.96\bord0\blur0.3\fs52\frz2.29\pos(1844.06,557.63)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.97,0:11:47.02,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.42\fscx108.42\bord0\blur0.33\frz20.67\fs52\pos(669.96,62.37)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:46.97,0:11:47.02,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy99.35\fscx99.35\bord0\blur0.3\fs52\frz2.1\pos(1844.26,557.52)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.02,0:11:47.06,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.92\fscx115.92\bord0\blur0.35\frz16.95\fs52\pos(687.47,63.4)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.02,0:11:47.06,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.46\fscx102.46\bord0\blur0.31\fs52\frz-0.08\pos(1841.32,562.04)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.06,0:11:47.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.08\fscx116.08\bord0\blur0.35\frz16.87\fs52\pos(687.83,63.37)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.06,0:11:47.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy102.88\fscx102.88\bord0\blur0.31\fs52\frz-0.28\pos(1841.5,561.93)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.10,0:11:47.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.23\fscx116.23\bord0\blur0.35\frz16.8\fs52\pos(688.17,63.34)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.10,0:11:47.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy103.28\fscx103.28\bord0\blur0.31\fs52\frz-0.47\pos(1841.69,561.82)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.14,0:11:47.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.05\fscx125.05\bord0\blur0.38\frz13.65\fs52\pos(704.93,63.98)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.14,0:11:47.18,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.18\fscx109.18\bord0\blur0.33\fs52\frz-3.54\pos(1840.1,566.53)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.18,0:11:47.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.26\fscx125.26\bord0\blur0.38\frz13.58\fs52\pos(705.24,63.82)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.18,0:11:47.22,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.58\fscx109.58\bord0\blur0.33\fs52\frz-3.64\pos(1840.16,566.25)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.22,0:11:47.27,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.47\fscx125.47\bord0\blur0.38\frz13.51\fs52\pos(705.55,63.67)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.22,0:11:47.27,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy109.98\fscx109.98\bord0\blur0.33\fs52\frz-3.76\pos(1840.23,565.98)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.27,0:11:47.31,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy130.81\fscx130.81\bord0\blur0.39\frz12.25\fs52\pos(716.92,65.09)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.27,0:11:47.31,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.63\fscx115.63\bord0\blur0.35\fs52\frz-5.28\pos(1841.04,568.56)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.31,0:11:47.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy131.01\fscx131.01\bord0\blur0.39\frz12.19\fs52\pos(717.25,64.96)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.31,0:11:47.35,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.05\fscx116.05\bord0\blur0.35\fs52\frz-5.39\pos(1841.11,568.29)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.35,0:11:47.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy131.23\fscx131.23\bord0\blur0.39\frz12.12\fs52\pos(717.58,64.82)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.35,0:11:47.39,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.48\fscx116.48\bord0\blur0.35\fs52\frz-5.5\pos(1841.18,568)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.39,0:11:47.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy138.75\fscx138.75\bord0\blur0.42\frz10.2\fs52\pos(730.94,66.83)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.39,0:11:47.43,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.91\fscx122.91\bord0\blur0.37\fs52\frz-6.83\pos(1842.18,570.95)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.43,0:11:47.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy139.1\fscx139.1\bord0\blur0.42\frz9.94\fs52\pos(732,66.9)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.43,0:11:47.47,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.75\fscx122.75\bord0\blur0.37\fs52\frz-6.81\pos(1842.09,571.07)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.47,0:11:47.52,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy139.47\fscx139.47\bord0\blur0.42\frz9.69\fs52\pos(733.08,66.98)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.47,0:11:47.52,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy122.58\fscx122.58\bord0\blur0.37\fs52\frz-6.8\pos(1841.98,571.2)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.52,0:11:47.56,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy133.84\fscx133.84\bord0\blur0.4\frz11.67\fs52\pos(728.3,67.97)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.52,0:11:47.56,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.73\fscx115.73\bord0\blur0.35\fs52\frz-9.28\pos(1845.86,587.08)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.56,0:11:47.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy134.19\fscx134.19\bord0\blur0.4\frz11.41\fs52\pos(729.34,68.04)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.56,0:11:47.60,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.57\fscx115.57\bord0\blur0.35\fs52\frz-9.26\pos(1845.75,587.19)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.60,0:11:47.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy133.89\fscx133.89\bord0\blur0.4\frz11.61\fs52\pos(728.55,67.73)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.60,0:11:47.64,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy115.32\fscx115.32\bord0\blur0.35\fs52\frz-9.28\pos(1845.76,587.32)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.64,0:11:47.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy125.18\fscx125.18\bord0\blur0.38\frz14.13\fs52\pos(719,72.2)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.64,0:11:47.68,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.64\fscx108.64\bord0\blur0.33\fs52\frz-11.91\pos(1847.23,605.61)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.68,0:11:47.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy124.9\fscx124.9\bord0\blur0.37\frz14.33\fs52\pos(718.24,71.92)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.68,0:11:47.72,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.41\fscx108.41\bord0\blur0.33\fs52\frz-11.94\pos(1847.24,605.71)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.72,0:11:47.77,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy124.62\fscx124.62\bord0\blur0.37\frz14.52\fs52\pos(717.5,71.65)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.72,0:11:47.77,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy108.19\fscx108.19\bord0\blur0.32\fs52\frz-11.96\pos(1847.25,605.81)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.77,0:11:47.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy116.76\fscx116.76\bord0\blur0.35\frz17.05\fs52\pos(700.11,68.89)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.77,0:11:47.81,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.52\fscx98.52\bord0\blur0.3\fs52\frz-7.15\pos(1845.89,593.82)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.81,0:11:47.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.53\fscx98.53\bord0\blur0.3\fs52\frz-7.14\pos(1845.9,593.8)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 1,0:11:47.85,0:11:47.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.52\fscx98.52\bord0\blur0.3\fs52\frz-7.14\pos(1845.91,593.8)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
+Dialogue: 0,0:22:15.10,0:22:17.61,Signs,All&Screen,0,0,0,,{\fnBrush Strokes\b1\be1\fs110\c&H000101&\pos(1400,150)}Juju Stroll
+Dialogue: 0,0:22:36.17,0:22:40.92,Signs,Signs,0,0,0,,{\fnDK Full Blast\fscx90\fs40\be2\frz1.267\c&HE2DFFF&\pos(664.98,353.67)}Chinese Restaurant Manpuku
+Dialogue: 0,0:23:03.40,0:23:06.28,Signs,Signs,0,0,0,,{\fnDK Full Blast\fscx90\fs40\be2\frz1.267\c&HE2DFFF&\pos(832.55,366.96)}Chinese Restaurant Manpuku
+Dialogue: 0,0:23:36.60,0:23:40.06,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1468,\blur0)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 23{\fs70}\NThe Origin of Obedience 2
+
+[Aegisub Extradata]
+Data: 0,a-mo,e{"uuid"#3A"820027ef-1935-430c-8780-7984c72b0598"#2C"originalText"#3A"{\\fs50\\be1\\fscx90\\fnFOT-HummingStd-Accel-B\\bord0\\shad0\\pos(1803.33#2C250.67)}Operating Procedure"}
+Data: 1,a-mo,e{"uuid"#3A"5725e488-57b8-41bd-b9b0-9883bd1cb619"#2C"originalText"#3A"{\\fnBerlin Sans FB Demi\\fs21\\be1\\b1\\fax-0.02\\c&H2F7E37&\\3c&H8B8D59&\\4c&H724842&\\frz3.1\\pos(1267.11#2C278.33)}Pounded Fish Cake is finally here!"}
+Data: 2,a-mo,e{"uuid"#3A"4f9eb64c-5b21-46ab-8aee-8a427618a611"#2C"originalText"#3A"{\\fnBerlin Sans FB Demi\\fs21\\xshad3\\fax-0.02\\b1\\c&H2F7E37&\\3c&H8B8D59&\\4c&H724842&\\frz3.1\\pos(1267.11#2C278.33)}Pounded Fish Cake is finally here!"}
+Data: 40,a-mo,e{"uuid"#3A"d1ebf75e-6c9c-43ca-aed5-96354a9f03b4"#2C"originalText"#3A"{\\fnIwata Mincho Pro En B\\fs41.8\\blur8\\t(0#2C2850#2C\\blur0.6)\\frx0\\fry0\\c&H343434&\\pos(1737.83#2C941.8)\\be1}Funeral"}
+Data: 41,a-mo,e{"uuid"#3A"cee278c4-e5e7-4f8a-b631-6543256d01e0"#2C"originalText"#3A"{\\fnIwata Mincho Pro En B\\fs32\\fscx105\\blur8\\t(0#2C2500#2C\\blur0.6)\\frx0\\fry0\\c&HFFFFFF&\\pos(1829.4#2C445.4)\\be1}Morishita Family"}
