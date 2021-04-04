@@ -16,14 +16,15 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: [Kaizoku] Jujutsu Kaisen - 22 [2B253CDB].mkv
-Video File: [Kaizoku] Jujutsu Kaisen - 22 [2B253CDB].mkv
+Audio File: jujutsu_22_premux.mkv
+Video File: jujutsu_22_premux.mkv
+Keyframes File: jujutsu_22_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 331
-Active Line: 345
-Video Position: 28472
+Video Zoom Percent: 0.375000
+Scroll Position: 312
+Active Line: 320
+Video Position: 25782
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -82,8 +83,8 @@ Dialogue: 0,0:04:04.06,0:04:07.14,Default,Akari,0,0,0,,He died the same way as t
 Dialogue: 0,0:04:08.58,0:04:12.37,Default,Akari,0,0,0,,He lived with his family,\N so there was no automatic door,
 Dialogue: 0,0:04:12.37,0:04:14.67,Default,Akari,0,0,0,,but he was killed in front of the entrance.
 Dialogue: 0,0:04:15.78,0:04:18.11,Default,Akari,0,0,0,,Previously, he told his family that
-Dialogue: 0,0:04:18.11,0:04:23.62,Default,Akari,0,0,0,,{\fade(0,500)}when he was alone, the door wouldn't open even though it was unlocked.
-Dialogue: 0,0:04:26.22,0:04:32.21,Default,Akari,0,0,0,,I asked his parents too but they don't know about his relationship with the other three either.
+Dialogue: 0,0:04:18.11,0:04:23.62,Default,Akari,0,0,0,,{\fade(0,350)}when he was alone, the door wouldn't open even though it was unlocked.
+Dialogue: 0,0:04:26.22,0:04:32.21,Default,Akari,0,0,0,,I asked his parents but they have no idea about his relationship with the other three either.
 Dialogue: 0,0:04:32.21,0:04:34.96,Default,Akari,0,0,0,,Man, there goes our only lead!
 Dialogue: 0,0:04:34.96,0:04:35.90,Default,Yuji,0,0,0,,Don't worry!
 Dialogue: 0,0:04:35.90,0:04:38.40,Default,Yuji,0,0,0,,There's gotta be something at this school!
@@ -91,7 +92,7 @@ Dialogue: 0,0:04:38.40,0:04:40.78,Default,Akari,0,0,0,,I sure hope so.
 Dialogue: 0,0:04:40.78,0:04:44.34,Default,Akari,0,0,0,,One of the staff members agreed to talk with us so let's try that.
 Dialogue: 0,0:04:44.63,0:04:45.57,Default,Yuji,0,0,0,,Roger.
 Dialogue: 0,0:04:48.94,0:04:52.40,Default,Kugisaki,0,0,0,,We got some punks over there. \NLet's beat 'em up and set 'em straight!
-Dialogue: 0,0:04:52.40,0:04:53.04,Default,Yuji,0,0,0,,{What?+}Why? {sounds like both spoke so whynot have two}
+Dialogue: 0,0:04:52.40,0:04:53.04,Default,Yuji,0,0,0,,Wait, why? {sounds like both spoke so whynot have two}
 Dialogue: 0,0:04:53.78,0:04:54.63,Default,Delinquents,0,0,0,,Huh?
 Dialogue: 0,0:04:54.63,0:04:55.41,Default,Delinquents,0,0,0,,What?
 Dialogue: 0,0:05:00.00,0:05:02.05,Default,Delinquents,0,0,0,,I-It's good to see you!
@@ -107,21 +108,21 @@ Dialogue: 0,0:05:27.40,0:05:29.95,Default,Yuji,0,0,0,,Wait, we should just ask t
 Dialogue: 0,0:05:29.95,0:05:31.56,Default,Kugisaki,0,0,0,,Hey, Idiot A and Idiot B!
 Dialogue: 0,0:05:31.56,0:05:32.79,Default,Kugisaki,0,0,0,,What did this guy do to you?
 Dialogue: 0,0:05:33.05,0:05:34.29,Default,Pompadour,0,0,0,,To us?
-Dialogue: 0,0:05:34.29,0:05:38.14,Default,Pompadour,0,0,0,,Nah, every punk, gang member, and so on, in this area{is "and so on" needed?}
-Dialogue: 0,0:05:38.14,0:05:40.52,Default,Pompadour,0,0,0,,got beaten up by Fushiguro{**-san}.
-Dialogue: 0,0:05:46.52,0:05:48.55,Default,Fushiguro,0,0,0,,I beat them up.
+Dialogue: 0,0:05:34.29,0:05:38.28,Default,Pompadour,0,0,0,,Nah, every punk, gang member, and so in this area{is "and so on" needed?}
+Dialogue: 0,0:05:38.28,0:05:40.52,Default,Pompadour,0,0,0,,got beaten up by Fushiguro{**-san}.
+Dialogue: 0,0:05:46.52,0:05:48.55,Default,Fushiguro,0,0,0,,I... beat... them.
 Dialogue: 0,0:05:48.55,0:05:50.80,Default,Kugisaki,0,0,0,,Why can't you talk all of a sudden?!
-Dialogue: 0,0:05:50.80,0:05:51.96,Default,Kugisaki,0,0,0,,Look at me!
-Dialogue: 0,0:05:51.96,0:05:52.95,Default,Yuji,0,0,0,,What's going on?!
-Dialogue: 0,0:05:52.95,0:05:54.60,Default,Yuji,0,0,0,,Tell me, what's going on here?!
+Dialogue: 0,0:05:50.80,0:05:51.96,Default,Kugisaki,0,0,0,,Look at me, damn it!
+Dialogue: 0,0:05:51.96,0:05:52.95,Default,Yuji,0,0,0,,What did you do?!
+Dialogue: 0,0:05:52.95,0:05:54.60,Default,Yuji,0,0,0,,Tell me, what did you do to them?!
 Dialogue: 0,0:05:54.60,0:05:55.62,Default,Takeda,0,0,0,,Hey!
-Dialogue: 0,0:05:56.56,0:06:00.04,Default,Takeda,0,0,0,,Who are you? Students from other schools aren't allowed in here!
+Dialogue: 0,0:05:56.56,0:06:00.04,Default,Takeda,0,0,0,,Who are you? Students from \Nother schools aren't allowed in here!
 Dialogue: 0,0:06:00.44,0:06:02.81,Default,Kugisaki,0,0,0,,Who the hell are {\i1}you{\i0}?!
 Dialogue: 0,0:06:02.81,0:06:04.36,Default,Yuji,0,0,0,,He's clearly a staff member.
 Dialogue: 0,0:06:04.36,0:06:05.88,Default,Yuji,0,0,0,,What's with the attitude?
 Dialogue: 0,0:06:05.88,0:06:07.82,Default,Akari,0,0,0,,We have a permit.
 Dialogue: 0,0:06:09.01,0:06:11.22,Default,Takeda,0,0,0,,Oh, you're the ones?
-Dialogue: 0,0:06:11.22,0:06:13.35,Default,Takeda,0,0,0,,You're all {so }young!
+Dialogue: 0,0:06:11.22,0:06:13.35,Default,Takeda,0,0,0,,You're all so young!
 Dialogue: 0,0:06:13.35,0:06:16.63,Default,Takeda,0,0,0,,You need to wear your pass around your neck.
 Dialogue: 0,0:06:17.83,0:06:19.33,Default,Takeda,0,0,0,,Is that you Fushiguro{**-kun}?
 Dialogue: 0,0:06:20.66,0:06:21.56,Default,Fushiguro,0,0,0,,Hello.
@@ -144,17 +145,17 @@ Dialogue: 0,0:06:27.65,0:06:30.10,Default,Fushiguro,0,0,0,,{*}Mr. Takeda{*Takeda
 Dialogue: 0,0:06:30.10,0:06:31.89,Default,Akari,0,0,0,,Then I leave the rest to you!
 Dialogue: 0,0:06:31.89,0:06:33.83,Default,Fushiguro,0,0,0,,{\i1}Abandoning her duty...
 Dialogue: 0,0:06:34.61,0:06:37.60,Default,Takeda,0,0,0,,Kanada, Shimada, Yamato,
-Dialogue: 0,0:06:37.97,0:06:40.23,Default,Takeda,0,0,0,,and Morishita, huh?
+Dialogue: 0,0:06:38.00,0:06:40.23,Default,Takeda,0,0,0,,and Morishita too.
 Dialogue: 0,0:06:40.82,0:06:43.42,Default,Takeda,0,0,0,,I was shocked to hear about their deaths.
 Dialogue: 0,0:06:43.42,0:06:47.85,Default,Takeda,0,0,0,,I can't believe it's been twenty years since they graduated.
 Dialogue: 0,0:06:47.85,0:06:50.99,Default,Takeda,0,0,0,,It feels like it was only yesterday.{no real reason except that it's a ghibli reference}
 Dialogue: 0,0:06:51.89,0:06:56.06,Default,Takeda,0,0,0,,They were problem children in their own right, though not as bad as you.
 Dialogue: 0,0:06:56.06,0:06:57.35,Default,Takeda,0,0,0,,What did you want to know?
-Dialogue: 0,0:06:57.92,0:07:02.19,Default,Fushiguro,0,0,0,,Any strange and dark rumors \Nconnected with bad people?{alternatively, "related to"?}
+Dialogue: 0,0:06:57.92,0:07:02.19,Default,Fushiguro,0,0,0,,Any strange and dark rumors related to bad people?{alternatively, "related to"?}
 Dialogue: 0,0:07:02.19,0:07:04.69,Default,Yuji/Kugisaki,0,0,0,,Hey, problem child!
-Dialogue: 0,0:07:04.69,0:07:07.34,Default,Fushiguro,0,0,0,,It could be karma: getting what they had coming.
+Dialogue: 0,0:07:04.69,0:07:07.34,Default,Fushiguro,0,0,0,,Maybe something like karma, \Ngetting what they had coming.
 Dialogue: 0,0:07:07.79,0:07:09.74,Default,Takeda,0,0,0,,Dark rumors?
-Dialogue: 0,0:07:09.74,0:07:14.00,Default,Takeda,0,0,0,,There{They*?} may have been troublemakers, \Nbut nothing beyond average middle school stuff.
+Dialogue: 0,0:07:09.74,0:07:14.00,Default,Takeda,0,0,0,,There may have been troublemakers, \Nbut nothing beyond average middle school stuff.
 Dialogue: 0,0:07:14.82,0:07:17.02,Default,Takeda,0,0,0,,And as for karma...
 Dialogue: 0,0:07:17.50,0:07:18.81,Default,Pompadour,0,0,0,,Do you mean that rumor?
 Dialogue: 0,0:07:19.33,0:07:21.50,Default,Pompadour,0,0,0,,About the Yasohachi Bridge bungee jumping?
@@ -181,7 +182,7 @@ Dialogue: 0,0:08:20.74,0:08:22.83,Default,Akari,0,0,0,,I think that's it.
 Dialogue: 0,0:08:22.83,0:08:25.81,Default,Fushiguro,0,0,0,,I've been to Yasohachi Bridge before.
 Dialogue: 0,0:08:25.81,0:08:27.07,Default,Yuji,0,0,0,,To bungee jump?
 Dialogue: 0,0:08:27.07,0:08:28.26,Default,Yuji,0,0,0,,Ow!
-Dialogue: 0,0:08:28.26,0:08:32.84,Default,Fushiguro,0,0,0,,It's easy for curses to take root in haunted locations, just like in schools,{wait why in schools?}
+Dialogue: 0,0:08:28.26,0:08:32.84,Default,Fushiguro,0,0,0,,It's easy for curses to take root in haunted locations, just like in schools,{wait why in schools?}{first episode reference}
 Dialogue: 0,0:08:32.84,0:08:36.45,Default,Fushiguro,0,0,0,,so people from Jujutsu Tech regularly patrol it.
 Dialogue: 0,0:08:37.16,0:08:39.49,Default,Fushiguro,0,0,0,,I didn't find anything unusual at the time.
 Dialogue: 0,0:08:39.49,0:08:43.56,Default,Fushiguro,0,0,0,,There might be rumors but it's still used as a normal bridge.
@@ -190,7 +191,7 @@ Dialogue: 0,0:08:46.64,0:08:47.90,Default,Akari,0,0,0,,Yeah.
 Dialogue: 0,0:08:47.90,0:08:49.44,Default,Takeda,0,0,0,,Fushiguro{**-kun}?
 Dialogue: 0,0:08:50.10,0:08:53.30,Default,Takeda,0,0,0,,Sorry, there's something I wanted to ask.
 Dialogue: 0,0:08:53.30,0:08:54.38,Default,Fushiguro,0,0,0,,What is it?
-Dialogue: 0,0:08:54.38,0:08:58.70,Default,Takeda,0,0,0,,Tsukimi{**-kun} used to take awfully good care of you back then...{ellipses because this is a half sentence solely made to segue into the next}{my ears could be messing with me, but is it Tsukimi or Tsumiki?}
+Dialogue: 0,0:08:54.38,0:08:58.70,Default,Takeda,0,0,0,,Tsumiki{**-kun} used to take awfully good care of you back then...{ellipses because this is a half sentence solely made to segue into the next}{my ears could be messing with me, but is it Tsumiki or Tsumiki?}{lol typo}
 Dialogue: 0,0:08:58.70,0:09:01.33,Default,Takeda,0,0,0,,Is she doing well?
 Dialogue: 0,0:09:02.82,0:09:03.81,Default,Fushiguro,0,0,0,,Yes.
 Dialogue: 0,0:09:04.22,0:09:05.84,Default,Yuji,0,0,0,,Who's Tsumiki?
@@ -205,13 +206,12 @@ Dialogue: 0,0:09:21.78,0:09:23.71,Default,Geto,0,0,0,,Not when it's a special-gr
 Dialogue: 0,0:09:23.71,0:09:29.59,Default,Geto,0,0,0,,They halt its life but preserve its existence using a pact,\Npreventing it from doing any further damage.
 Dialogue: 0,0:09:29.96,0:09:32.55,Default,Mahito,0,0,0,,Sukuna's fingers are causing harm, though.
 Dialogue: 0,0:09:32.55,0:09:34.50,Default,Geto,0,0,0,,That's an exception.
-Dialogue: 0,0:09:34.50,0:09:36.14,Default,Geto,0,0,0,,He became a cursed object,
-Dialogue: 0,0:09:36.14,0:09:42.10,Default,Geto,0,0,0,,but it's strong enough to attract curses even after being split into twenty pieces.
+Dialogue: 0,0:09:34.50,0:09:42.10,Default,Geto,0,0,0,,Sukuna is strong enough to attract curses \Neven as a cursed object split into twenty pieces.
 Dialogue: 0,0:09:42.44,0:09:45.10,Default,Geto,0,0,0,,And because of that, it can choose its vessel.
 Dialogue: 0,0:09:46.86,0:09:51.11,Default,Mahito,0,0,0,,Then anyone works for these?
 Dialogue: 0,0:09:52.69,0:09:54.77,Default,Man,0,0,0,,Hey, you.
 Dialogue: 0,0:09:55.27,0:09:57.49,Default,Man,0,0,0,,Money? You want money, right?
-Dialogue: 0,0:09:57.49,0:10:00.01,Default,Man,0,0,0,,I don't have that much on me!
+Dialogue: 0,0:09:57.49,0:10:00.01,Default,Man,0,0,0,,I don't have much on me!
 Dialogue: 0,0:10:00.01,0:10:02.64,Default,Man,0,0,0,,But I can take a loan or something!
 Dialogue: 0,0:10:02.96,0:10:05.11,Default,Mahito,0,0,0,,Will he work okay?{this sentence... is perfectly functional. but seems odd somehow. "Will he work out all right?"}
 Dialogue: 0,0:10:05.11,0:10:07.91,Default,Mahito,0,0,0,,He still can't see me, even at this point.
@@ -226,13 +226,14 @@ Dialogue: 0,0:10:53.57,0:10:54.53,Default,Mahito,0,0,0,,'Sup!
 Dialogue: 0,0:10:54.53,0:10:56.71,Default,Mahito,0,0,0,,Sorry to bother you right after you woke up,
 Dialogue: 0,0:10:57.51,0:11:00.39,Default,Mahito,0,0,0,,but could you go run a little errand for me?
 Dialogue: 0,0:11:10.31,0:11:14.03,Default,Kugisaki,0,0,0,,Hey, we found neither hide nor hair of any cursed spirit.{"nor" needs to come after a "neither"}
-Dialogue: 0,0:11:15.85,0:11:19.22,Default,Fushiguro,0,0,0,,We didn't sense any presences or residuals.
+Dialogue: 0,0:11:15.85,0:11:19.22,Default,Fushiguro,0,0,0,,We didn't sense any presence or residuals.
 Dialogue: 0,0:11:19.79,0:11:20.94,Default,Akari,0,0,0,,Really?
-Dialogue: 0,0:11:20.94,0:11:23.86,Default,Akari,0,0,0,,Guess it's a lost cause. Back to square one.
-Dialogue: 0,0:11:23.86,0:11:26.44,Default,Yuji,0,0,0,,But it'd be a problem if we take too long.
-Dialogue: 0,0:11:26.44,0:11:27.59,Default,Kugisaki,0,0,0,,Why?
+Dialogue: 0,0:11:20.94,0:11:22.62,Default,Akari,0,0,0,,Guess it's a lost cause.
+Dialogue: 0,0:11:22.62,0:11:23.86,Default,Akari,0,0,0,,Back to square one.
+Dialogue: 0,0:11:23.86,0:11:26.46,Default,Yuji,0,0,0,,Wouldn't it be a problem if we take too long?
+Dialogue: 0,0:11:26.46,0:11:27.59,Default,Kugisaki,0,0,0,,Why?
 Dialogue: 0,0:11:27.59,0:11:30.87,Default,Yuji,0,0,0,,Well, it's famous for paranormal activity, right?
-Dialogue: 0,0:11:31.21,0:11:34.17,Default,Yuji,0,0,0,,There may be plenty of others who got cursed.
+Dialogue: 0,0:11:31.21,0:11:34.17,Default,Yuji,0,0,0,,There may be plenty others who got cursed.
 Dialogue: 0,0:11:34.17,0:11:37.37,Default,Yuji,0,0,0,,And right now, the death rate is at a hundred percent.
 Dialogue: 0,0:11:37.84,0:11:40.19,Default,Yuji,0,0,0,,We can't afford to let more people die.
 Dialogue: 0,0:11:40.19,0:11:41.88,Default,Kugisaki,0,0,0,,True.
@@ -260,14 +261,14 @@ Dialogue: 0,0:12:29.87,0:12:33.12,Default,Fujinuma,0,0,0,,I'm glad you remember 
 Dialogue: 0,0:12:33.12,0:12:37.61,Default,Pompadour,0,0,0,,I was telling my sis about how I saw you yesterday...
 Dialogue: 0,0:12:37.61,0:12:41.87,Default,Fujinuma,0,0,0,,Um, Morishita{**-san} from the neighborhood passed away recently...
 Dialogue: 0,0:12:43.30,0:12:48.62,Default,Fujinuma,0,0,0,,Then my brother told me{ that} you were investigating him and the Yasohachi Bridge.
-Dialogue: 0,0:12:48.62,0:12:52.12,Default,Fujinuma,0,0,0,,I thought, "maybe it was more than a coincidence."{or just "I thought that it was perhaps(/maybe) more than a coincidence."}
+Dialogue: 0,0:12:48.62,0:12:52.12,Default,Fujinuma,0,0,0,,I thought, maybe it was more than a coincidence.
 Dialogue: 0,0:12:55.04,0:12:56.30,Default,Fushiguro,0,0,0,,What do you mean?
 Dialogue: 0,0:12:56.30,0:13:00.05,Default,Fujinuma,0,0,0,,I mean, is Morishita{**-san}'s death \Nsomehow related to the bridge?
 Dialogue: 0,0:13:00.05,0:13:01.11,Default,Fushiguro,0,0,0,,It's not.
 Dialogue: 0,0:13:01.11,0:13:02.09,Default,Fushiguro,0,0,0,,We're just—
 Dialogue: 0,0:13:02.09,0:13:02.89,Default,Fujinuma,0,0,0,,I...
 Dialogue: 0,0:13:03.20,0:13:04.90,Default,Fujinuma,0,0,0,,I went there.
-Dialogue: 0,0:13:04.90,0:13:06.39,Default,Fujinuma,0,0,0,,When I was in the eighth grade...
+Dialogue: 0,0:13:04.90,0:13:06.39,Default,Fujinuma,0,0,0,,When I was in eighth grade...
 Dialogue: 0,0:13:06.39,0:13:08.31,Default,Fujinuma,0,0,0,,I went to Yasohachi Bridge at night.
 Dialogue: 0,0:13:09.16,0:13:10.13,Default,Kugisaki,0,0,0,,Welp.
 Dialogue: 0,0:13:10.64,0:13:14.19,Default,Akari,0,0,0,,Anything weird going on at home these days?
@@ -294,7 +295,7 @@ Dialogue: 0,0:14:27.64,0:14:28.93,Default,Akari,0,0,0,,It's a huge pain in my gu
 Dialogue: 0,0:14:29.53,0:14:32.48,Default,Akari,0,0,0,,But I want to hear from as many people as possible,
 Dialogue: 0,0:14:32.48,0:14:34.85,Default,Akari,0,0,0,,so I'd love to know who you went with.
 Dialogue: 0,0:14:35.57,0:14:38.34,Default,Akari,0,0,0,,{\i1}We'd better save her, after lying to her like this.
-Dialogue: 0,0:14:41.33,0:14:45.17,Default,Fujinuma,0,0,0,,I went on a test of courage{a dare. Normal people call that a dare.} with two others from my club.{what is this test of courage? It appears again, and looks like a ceremony in that second instance, will address it there.}
+Dialogue: 0,0:14:41.33,0:14:45.17,Default,Fujinuma,0,0,0,,I went on a test of courage{a dare. Normal people call that a dare.} with two others from my club.{what is this test of courage? It appears again, and looks like a ceremony in that second instance, will address it there.}{it's... a japanese/anime thing where you go to haunted places. very different from a dare.}
 Dialogue: 0,0:14:45.17,0:14:46.93,Default,Fujinuma,0,0,0,,That's right. Fushiguro{**-kun},
 Dialogue: 0,0:14:46.93,0:14:49.36,Default,Fujinuma,0,0,0,,Tsumiki{**-san} was with us then, too.
 Dialogue: 0,0:14:50.85,0:14:51.94,Default,Yuji,0,0,0,,{\i1\pos(988,1020)}Tsumiki?
@@ -318,8 +319,8 @@ Dialogue: 0,0:15:52.37,0:15:53.76,Default,Fushiguro,0,0,0,,Second-grade...
 Dialogue: 0,0:15:53.76,0:16:01.10,Default,Ijichi,0,0,0,,{\i1}If the number of victims exceeds our estimates, \Nwe'll have to re-evaluate the curse's grade as well.
 Dialogue: 0,0:16:02.26,0:16:07.78,Default,Ijichi,0,0,0,,You were probably assigned to this mission with Itadori{**-kun}'s recent growth in mind.
 Dialogue: 0,0:16:07.78,0:16:13.06,Default,Ijichi,0,0,0,,If it seems to be getting more dangerous, \Nsecond-grade sorcerers may not be enough.
-Dialogue: 0,0:16:13.63,0:16:15.83,Default,Ijichi,0,0,0,,It's just as dangerous for all of you, as well.
-Dialogue: 0,0:16:15.83,0:16:18.40,Default,Ijichi,0,0,0,,Personally, I{'d} recommend you withdraw.
+Dialogue: 0,0:16:13.58,0:16:15.75,Default,Ijichi,0,0,0,,It's just as dangerous for all of you, as well.
+Dialogue: 0,0:16:15.75,0:16:18.46,Default,Ijichi,0,0,0,,Personally, I'd recommend you withdraw.
 Dialogue: 0,0:16:20.10,0:16:21.36,Default,Fushiguro,0,0,0,,{\i1}What now?
 Dialogue: 0,0:16:22.17,0:16:24.25,Default,Fushiguro,0,0,0,,{\i1}Should I go back by myself?
 Dialogue: 0,0:16:25.24,0:16:28.72,Default,Fushiguro,0,0,0,,{\i1}No, the mission was already dangerous for all three of us.
@@ -334,16 +335,16 @@ Dialogue: 0,0:16:45.99,0:16:48.95,Default,Fushiguro,0,0,0,,{\i1}There's no point
 Dialogue: 0,0:16:48.95,0:16:51.24,Default,Fushiguro,0,0,0,,{\i1}It must be exorcised right now!
 Dialogue: 0,0:16:51.24,0:16:53.89,Default,Kugisaki,0,0,0,,Why were you talking to {*}Mr. Ijichi{*Ijichi-san}?
 Dialogue: 0,0:16:53.89,0:16:55.99,Default,Yuji,0,0,0,,Is your sister okay?
-Dialogue: 0,0:16:56.74,0:16:58.49,Default,Fushiguro,0,0,0,,She's fine.
-Dialogue: 0,0:16:58.49,0:17:01.38,Default,Fushiguro,0,0,0,,More importantly, this mission's \Ndanger level just shot up.
-Dialogue: 0,0:17:01.38,0:17:04.00,Default,Fushiguro,0,0,0,,Other sorcerers will be taking over this case.
+Dialogue: 0,0:16:56.74,0:16:58.41,Default,Fushiguro,0,0,0,,She's fine.
+Dialogue: 0,0:16:58.41,0:17:01.46,Default,Fushiguro,0,0,0,,More importantly, the mission's danger level just shot up.
+Dialogue: 0,0:17:01.46,0:17:04.00,Default,Fushiguro,0,0,0,,Other sorcerers will be taking over this case.
 Dialogue: 0,0:17:04.42,0:17:06.00,Default,Fushiguro,0,0,0,,You guys can go home.
 Dialogue: 0,0:17:08.00,0:17:09.51,Default,Yuji,0,0,0,,Huh? Why?
 Dialogue: 0,0:17:09.92,0:17:12.09,Default,Yuji,0,0,0,,Just us? What about you?
 Dialogue: 0,0:17:12.47,0:17:14.99,Default,Fushiguro,0,0,0,,I'll be right back after I see {*}Mr. Takeda{*Takeda-san}.
 Dialogue: 0,0:17:14.99,0:17:15.84,Default,Fushiguro,0,0,0,,Now go!
-Dialogue: 0,0:17:25.96,0:17:27.32,Default,Fushiguro,0,0,0,,Thanks for your help.
-Dialogue: 0,0:17:27.32,0:17:28.86,Default,Fushiguro,0,0,0,,Is this {*}Miss Nitta{*Nitta-san}?
+Dialogue: 0,0:17:26.07,0:17:27.28,Default,Fushiguro,0,0,0,,Good evening.
+Dialogue: 0,0:17:27.28,0:17:28.86,Default,Fushiguro,0,0,0,,Am I speaking to {*}Miss Nitta{*Nitta-san}?
 Dialogue: 0,0:17:28.86,0:17:30.78,Default,Fushiguro,0,0,0,,There's something I want to ask you.
 Dialogue: 0,0:17:31.29,0:17:32.74,Default,Akari,0,0,0,,The procedure, right?{The dare? because the sentence two lines later could be preserved as-is, if you change this one instead to "dare"}{or..this one literally means procedure, like the way to replicate an experiment in a lab. Maybe it could be phrased better.}
 Dialogue: 0,0:17:33.87,0:17:37.32,Default,Akari,0,0,0,,Fujinuma{**-san} didn't go over the bridge itself.
@@ -353,7 +354,7 @@ Dialogue: 0,0:17:44.02,0:17:46.92,Default,Akari,0,0,0,,You probably can't get in
 Dialogue: 0,0:17:46.92,0:17:50.26,Default,Akari,0,0,0,,Since the curse is within a barrier, the order is gonna be important.
 Dialogue: 0,0:17:50.67,0:17:52.78,Default,Akari,0,0,0,,You go at night, from underneath.
 Dialogue: 0,0:17:52.78,0:17:54.01,Default,Akari,0,0,0,,And one more thing...
-Dialogue: 0,0:17:55.29,0:18:00.79,Default,Fushiguro,0,0,0,,{\i1}It's impossible to constantly keep a domain imbued with a technique deployed forever.
+Dialogue: 0,0:17:55.29,0:18:00.79,Default,Fushiguro,0,0,0,,{\i1}It's impossible to keep a domain \Nimbued with a technique deployed forever.
 Dialogue: 0,0:18:01.17,0:18:05.41,Default,Fushiguro,0,0,0,,{\i1}Which means this barrier is like the one from the juvenile detention center.
 Dialogue: 0,0:18:05.41,0:18:07.23,Default,Fushiguro,0,0,0,,{\i1}An incomplete domain.
 Dialogue: 0,0:18:07.98,0:18:09.99,Default,Fushiguro,0,0,0,,{\i1}I'm actually lucky for once.
@@ -368,19 +369,19 @@ Dialogue: 0,0:18:43.14,0:18:44.52,Default,Fushiguro,0,0,0,,Tsumiki is...
 Dialogue: 0,0:18:47.19,0:18:48.45,Default,Fushiguro,0,0,0,,still bedridden.
 Dialogue: 0,0:18:50.32,0:18:55.79,Default,Fushiguro,0,0,0,,The curse of Yasohachi Bridge only appears before its victims.
 Dialogue: 0,0:18:58.28,0:19:00.74,Default,Fushiguro,0,0,0,,And since she can't give us any information,
-Dialogue: 0,0:19:01.86,0:19:04.34,Default,Fushiguro,0,0,0,,I have no idea when she'll be killed.
+Dialogue: 0,0:19:01.86,0:19:04.34,Default,Fushiguro,0,0,0,,I have no idea when she could be killed.
 Dialogue: 0,0:19:06.93,0:19:09.17,Default,Fushiguro,0,0,0,,That's why I want to exorcise it right away.
-Dialogue: 0,0:19:09.99,0:19:12.59,Default,Fushiguro,0,0,0,,But it's true that the mission's danger level has increased—
+Dialogue: 0,0:19:09.99,0:19:12.59,Default,Fushiguro,0,0,0,,The mission's danger level really has gone up, though.
 Dialogue: 0,0:19:12.59,0:19:15.23,Default,Kugisaki,0,0,0,,Yeah, yeah, we get it!
-Dialogue: 0,0:19:15.23,0:19:17.69,Default,Yuji,0,0,0,,You should've told us from the start!
+Dialogue: 0,0:19:15.23,0:19:17.69,Default,Yuji,0,0,0,,You should've told us from the start.
 Dialogue: 0,0:19:23.48,0:19:26.94,Default,Akari,0,0,0,,{\i1}Since the curse is within a barrier, the order is gonna be important.
 Dialogue: 0,0:19:27.81,0:19:29.65,Default,Akari,0,0,0,,{\i1}You go at night, from underneath.
 Dialogue: 0,0:19:30.25,0:19:31.69,Default,Akari,0,0,0,,{\i1}And one more thing...
-Dialogue: 0,0:19:32.45,0:19:33.69,Default,Akari,0,0,0,,{\i1}At the bottom,
+Dialogue: 0,0:19:32.45,0:19:33.69,Default,Akari,0,0,0,,{\i1}At the bottom of the valley,
 Dialogue: 0,0:19:34.98,0:19:36.50,Default,Akari,0,0,0,,{\i1}there might be a river.
-Dialogue: 0,0:19:41.80,0:19:45.61,Default,Akari,0,0,0,,{\i1}Crossing a river or a border:\N acts that symbolize crossing to the afterlife,
+Dialogue: 0,0:19:41.74,0:19:45.61,Default,Akari,0,0,0,,{\i1}Crossing a river or a border:\N acts that symbolize crossing to the afterlife,
 Dialogue: 0,0:19:46.56,0:19:50.01,Default,Akari,0,0,0,,{\i1}carry significant meaning in sorcery.
-Dialogue: 0,0:20:02.58,0:20:04.11,Default,Yuji,0,0,0,,There it is.
+Dialogue: 0,0:20:02.58,0:20:03.68,Default,Yuji,0,0,0,,There it is.
 Dialogue: 0,0:20:06.05,0:20:08.23,Default,Kugisaki,0,0,0,,This one will be rewarding to exorcise.
 Dialogue: 0,0:20:22.51,0:20:25.74,Default,Curse,0,0,0,,What's this? Someone beat me here?
 Dialogue: 0,0:20:25.74,0:20:26.75,Default,Kugisaki,0,0,0,,Huh?!
@@ -404,17 +405,17 @@ Dialogue: 0,0:22:36.40,0:22:38.78,Default,Woman,0,0,0,,This restaurant has laste
 Dialogue: 0,0:22:38.78,0:22:43.49,Default,Woman,0,0,0,,That was supposed to end with my father,
 Dialogue: 0,0:22:43.49,0:22:47.19,Default,Woman,0,0,0,,but I insisted and kept it running.
 Dialogue: 0,0:22:47.86,0:22:53.40,Default,Woman,0,0,0,,I wanted to preserve this restaurant and its flavor.
-Dialogue: 0,0:22:53.78,0:22:56.44,Default,Both,0,0,0,,{\i1}What a nice story.
+Dialogue: 0,0:22:53.78,0:22:56.44,Default,Both,0,0,0,,{\i1}Such a nice story.
 Dialogue: 0,0:22:56.90,0:22:59.43,Default,Woman,0,0,0,,Sorry for the wait. Here's our pride and joy,
 Dialogue: 0,0:22:59.43,0:23:01.70,Default,Woman,0,0,0,,the gyoza meal passed down for generations!
 Dialogue: 0,0:23:01.70,0:23:03.41,Default,All,0,0,0,,Time to dig in!
 Dialogue: 0,0:23:04.28,0:23:06.28,Default,All,0,0,0,,Thank you for the meal!
 Dialogue: 0,0:23:12.10,0:23:13.44,Default,Fushiguro,0,0,0,,You guys...
-Dialogue: 0,0:23:13.44,0:23:17.63,Default,Fushiguro,0,0,0,,Don't you think gyoza without meat flavor, is basically just cabbage and thickener?
-Dialogue: 0,0:23:17.63,0:23:19.57,Default,Kugisaki,0,0,0,,You said it, Fushiguro!
-Dialogue: 0,0:23:19.57,0:23:21.29,Default,Yuji,0,0,0,,I know she was nice and all!
+Dialogue: 0,0:23:13.44,0:23:17.75,Default,Fushiguro,0,0,0,,Don't you think gyoza without meat flavor, is basically just cabbage and thickener?
+Dialogue: 0,0:23:17.75,0:23:19.57,Default,Kugisaki,0,0,0,,You said it, Fushiguro!
+Dialogue: 0,0:23:19.57,0:23:21.29,Default,Yuji,0,0,0,,I know she was so nice!
 Dialogue: 0,0:23:21.29,0:23:23.42,Default,Yuji,0,0,0,,I {\i1}know{\i0} she was nice and all, but still!
-Dialogue: 0,0:23:24.42,0:23:28.68,Default,Yuji,0,0,0,,But apparently, gyoza is meant to be a vegetable dish, not a meat dish.
+Dialogue: 0,0:23:24.42,0:23:28.68,Default,Yuji,0,0,0,,So apparently, gyoza is meant to \Nbe a vegetable dish, not a meat dish.
 Dialogue: 0,0:23:28.68,0:23:30.06,Default,Both,0,0,0,,For real?
 Comment: 0,0:23:30.06,0:23:30.10,Default,chptr,0,0,0,,{Preview}
 

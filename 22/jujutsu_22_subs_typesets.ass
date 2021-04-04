@@ -21,10 +21,10 @@ Audio File: jujutsu_22_premux.mkv
 Video File: jujutsu_22_premux.mkv
 Keyframes File: jujutsu_22_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 246
-Active Line: 250
-Video Position: 7959
+Video Zoom Percent: 0.500000
+Scroll Position: 874
+Active Line: 876
+Video Position: 33965
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -60,6 +60,89 @@ Comment: 0,0:04:24.86,0:04:27.89,Signs,WhiteSign,0,0,0,,{\c&HD0C1E5&\3c&HFAF7FA&
 Comment: 0,0:12:04.91,0:12:05.04,Signs,,0,0,0,,{\fnDanger Diabolik\b1\fsp4\c&H281CE3&\shad0\bord1.5\fs26\fscx180\frz298\pos(384,926)}Gyaaah!
 Comment: 0,0:12:05.04,0:12:05.16,Signs,,0,0,0,,{\fnDanger Diabolik\b1\fsp18\c&H281CE3&\shad0\bord1.5\fs40\fscx188\frz298\pos(254,726)}Gyaaah!
 Comment: 0,0:12:05.16,0:12:08.41,Signs,,0,0,0,,{\fnDanger Diabolik\b1\fsp4\c&H281CE3&\shad0\bord1.5\fs50\fscx180\frz298\pos(242.67,719.33)}Gyaaah!
+Dialogue: 0,0:03:50.25,0:03:50.29,Signs,Sign,0,0,0,,{=41}{\fscx100\fscy100\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur8\be1\c&H1C1C1C&\pos(1812.2,385.6)}Morishita Family Funeral
+Dialogue: 0,0:03:50.29,0:03:50.33,Signs,Sign,0,0,0,,{=41}{\fscx99.62\fscy99.62\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur7.97\be1\c&H1C1C1C&\pos(1809.2,385.52)}Morishita Family Funeral
+Dialogue: 0,0:03:50.33,0:03:50.37,Signs,Sign,0,0,0,,{=41}{\fscx99.25\fscy99.25\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur7.94\be1\c&H1C1C1C&\pos(1806.18,385.43)}Morishita Family Funeral
+Dialogue: 0,0:03:50.37,0:03:50.41,Signs,Sign,0,0,0,,{=41}{\fscx98.89\fscy98.89\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur7.91\be1\c&H1C1C1C&\pos(1803.18,385.31)}Morishita Family Funeral
+Dialogue: 0,0:03:50.41,0:03:50.46,Signs,Sign,0,0,0,,{=41}{\fscx98.55\fscy98.55\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur7.88\be1\c&H1C1C1C&\pos(1800.18,385.23)}Morishita Family Funeral
+Dialogue: 0,0:03:50.46,0:03:50.50,Signs,Sign,0,0,0,,{=41}{\fscx98.17\fscy98.17\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur7.85\be1\c&H1C1C1C&\pos(1797.21,385.16)}Morishita Family Funeral
+Dialogue: 0,0:03:50.50,0:03:50.54,Signs,Sign,0,0,0,,{=41}{\fscx97.83\fscy97.83\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur7.83\be1\c&H1C1C1C&\pos(1794.28,385.04)}Morishita Family Funeral
+Dialogue: 0,0:03:50.54,0:03:50.58,Signs,Sign,0,0,0,,{=41}{\fscx97.48\fscy97.48\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur7.8\be1\c&H1C1C1C&\pos(1791.36,384.97)}Morishita Family Funeral
+Dialogue: 0,0:03:50.58,0:03:50.62,Signs,Sign,0,0,0,,{=41}{\fscx97.12\fscy97.12\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur7.77\be1\c&H1C1C1C&\pos(1788.42,384.88)}Morishita Family Funeral
+Dialogue: 0,0:03:50.62,0:03:50.66,Signs,Sign,0,0,0,,{=41}{\fscx96.75\fscy96.75\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur7.74\be1\c&H1C1C1C&\pos(1785.55,384.83)}Morishita Family Funeral
+Dialogue: 0,0:03:50.66,0:03:50.71,Signs,Sign,0,0,0,,{=41}{\fscx96.42\fscy96.42\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur7.59\be1\c&H1C1C1C&\pos(1782.67,384.73)}Morishita Family Funeral
+Dialogue: 0,0:03:50.71,0:03:50.75,Signs,Sign,0,0,0,,{=41}{\fscx96.07\fscy96.07\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur7.42\be1\c&H1C1C1C&\pos(1779.77,384.65)}Morishita Family Funeral
+Dialogue: 0,0:03:50.75,0:03:50.79,Signs,Sign,0,0,0,,{=41}{\fscx95.74\fscy95.74\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur7.26\be1\c&H1C1C1C&\pos(1776.92,384.56)}Morishita Family Funeral
+Dialogue: 0,0:03:50.79,0:03:50.83,Signs,Sign,0,0,0,,{=41}{\fscx95.38\fscy95.38\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur7.1\be1\c&H1C1C1C&\pos(1774.12,384.48)}Morishita Family Funeral
+Dialogue: 0,0:03:50.83,0:03:50.87,Signs,Sign,0,0,0,,{=41}{\fscx95.05\fscy95.05\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur6.94\be1\c&H1C1C1C&\pos(1771.31,384.39)}Morishita Family Funeral
+Dialogue: 0,0:03:50.87,0:03:50.91,Signs,Sign,0,0,0,,{=41}{\fscx94.71\fscy94.71\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur6.78\be1\c&H1C1C1C&\pos(1768.5,384.34)}Morishita Family Funeral
+Dialogue: 0,0:03:50.91,0:03:50.96,Signs,Sign,0,0,0,,{=41}{\fscx94.39\fscy94.39\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur6.62\be1\c&H1C1C1C&\pos(1765.72,384.23)}Morishita Family Funeral
+Dialogue: 0,0:03:50.96,0:03:51.00,Signs,Sign,0,0,0,,{=41}{\fscx94.06\fscy94.06\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur6.46\be1\c&H1C1C1C&\pos(1762.95,384.17)}Morishita Family Funeral
+Dialogue: 0,0:03:51.00,0:03:51.04,Signs,Sign,0,0,0,,{=41}{\fscx93.73\fscy93.73\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur6.31\be1\c&H1C1C1C&\pos(1760.19,384.09)}Morishita Family Funeral
+Dialogue: 0,0:03:51.04,0:03:51.08,Signs,Sign,0,0,0,,{=41}{\fscx93.4\fscy93.4\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur6.15\be1\c&H1C1C1C&\pos(1757.47,384.02)}Morishita Family Funeral
+Dialogue: 0,0:03:51.08,0:03:51.12,Signs,Sign,0,0,0,,{=41}{\fscx93.08\fscy93.08\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur6\be1\c&H1C1C1C&\pos(1754.75,383.93)}Morishita Family Funeral
+Dialogue: 0,0:03:51.12,0:03:51.16,Signs,Sign,0,0,0,,{=41}{\fscx92.74\fscy92.74\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur5.84\be1\c&H1C1C1C&\pos(1752.07,383.85)}Morishita Family Funeral
+Dialogue: 0,0:03:51.16,0:03:51.21,Signs,Sign,0,0,0,,{=41}{\fscx92.42\fscy92.42\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur5.7\be1\c&H1C1C1C&\pos(1749.36,383.8)}Morishita Family Funeral
+Dialogue: 0,0:03:51.21,0:03:51.25,Signs,Sign,0,0,0,,{=41}{\fscx92.09\fscy92.09\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur5.54\be1\c&H1C1C1C&\pos(1746.67,383.73)}Morishita Family Funeral
+Dialogue: 0,0:03:51.25,0:03:51.29,Signs,Sign,0,0,0,,{=41}{\fscx91.78\fscy91.78\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur5.39\be1\c&H1C1C1C&\pos(1744.01,383.7)}Morishita Family Funeral
+Dialogue: 0,0:03:51.29,0:03:51.33,Signs,Sign,0,0,0,,{=41}{\fscx91.45\fscy91.45\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur5.25\be1\c&H1C1C1C&\pos(1741.39,383.64)}Morishita Family Funeral
+Dialogue: 0,0:03:51.33,0:03:51.37,Signs,Sign,0,0,0,,{=41}{\fscx91.13\fscy91.13\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur5.1\be1\c&H1C1C1C&\pos(1738.72,383.58)}Morishita Family Funeral
+Dialogue: 0,0:03:51.37,0:03:51.41,Signs,Sign,0,0,0,,{=41}{\fscx90.82\fscy90.82\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur4.95\be1\c&H1C1C1C&\pos(1736.14,383.51)}Morishita Family Funeral
+Dialogue: 0,0:03:51.41,0:03:51.46,Signs,Sign,0,0,0,,{=41}{\fscx90.51\fscy90.51\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur4.8\be1\c&H1C1C1C&\pos(1733.52,383.45)}Morishita Family Funeral
+Dialogue: 0,0:03:51.46,0:03:51.50,Signs,Sign,0,0,0,,{=41}{\fscx90.19\fscy90.19\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur4.66\be1\c&H1C1C1C&\pos(1730.95,383.4)}Morishita Family Funeral
+Dialogue: 0,0:03:51.50,0:03:51.54,Signs,Sign,0,0,0,,{=41}{\fscx89.89\fscy89.89\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur4.52\be1\c&H1C1C1C&\pos(1728.36,383.33)}Morishita Family Funeral
+Dialogue: 0,0:03:51.54,0:03:51.58,Signs,Sign,0,0,0,,{=41}{\fscx89.56\fscy89.56\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur4.37\be1\c&H1C1C1C&\pos(1725.8,383.3)}Morishita Family Funeral
+Dialogue: 0,0:03:51.58,0:03:51.62,Signs,Sign,0,0,0,,{=41}{\fscx89.27\fscy89.27\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur4.23\be1\c&H1C1C1C&\pos(1723.26,383.25)}Morishita Family Funeral
+Dialogue: 0,0:03:51.62,0:03:51.66,Signs,Sign,0,0,0,,{=41}{\fscx88.95\fscy88.95\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur4.09\be1\c&H1C1C1C&\pos(1720.71,383.2)}Morishita Family Funeral
+Dialogue: 0,0:03:51.66,0:03:51.71,Signs,Sign,0,0,0,,{=41}{\fscx88.65\fscy88.65\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur3.95\be1\c&H1C1C1C&\pos(1718.18,383.18)}Morishita Family Funeral
+Dialogue: 0,0:03:51.71,0:03:51.75,Signs,Sign,0,0,0,,{=41}{\fscx88.35\fscy88.35\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur3.81\be1\c&H1C1C1C&\pos(1715.68,383.12)}Morishita Family Funeral
+Dialogue: 0,0:03:51.75,0:03:51.79,Signs,Sign,0,0,0,,{=41}{\fscx88.07\fscy88.07\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur3.67\be1\c&H1C1C1C&\pos(1713.15,383.05)}Morishita Family Funeral
+Dialogue: 0,0:03:51.79,0:03:51.83,Signs,Sign,0,0,0,,{=41}{\fscx87.78\fscy87.78\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur3.54\be1\c&H1C1C1C&\pos(1710.62,382.97)}Morishita Family Funeral
+Dialogue: 0,0:03:51.83,0:03:51.87,Signs,Sign,0,0,0,,{=41}{\fscx87.52\fscy87.52\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur3.4\be1\c&H1C1C1C&\pos(1708.14,382.86)}Morishita Family Funeral
+Dialogue: 0,0:03:51.87,0:03:51.91,Signs,Sign,0,0,0,,{=41}{\fscx87.24\fscy87.24\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur3.27\be1\c&H1C1C1C&\pos(1705.67,382.79)}Morishita Family Funeral
+Dialogue: 0,0:03:51.91,0:03:51.96,Signs,Sign,0,0,0,,{=41}{\fscx86.99\fscy86.99\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur3.13\be1\c&H1C1C1C&\pos(1703.18,382.71)}Morishita Family Funeral
+Dialogue: 0,0:03:51.96,0:03:52.00,Signs,Sign,0,0,0,,{=41}{\fscx86.72\fscy86.72\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur3\be1\c&H1C1C1C&\pos(1700.66,382.6)}Morishita Family Funeral
+Dialogue: 0,0:03:52.00,0:03:52.04,Signs,Sign,0,0,0,,{=41}{\fscx86.46\fscy86.46\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur2.87\be1\c&H1C1C1C&\pos(1698.24,382.57)}Morishita Family Funeral
+Dialogue: 0,0:03:52.04,0:03:52.08,Signs,Sign,0,0,0,,{=41}{\fscx86.19\fscy86.19\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur2.74\be1\c&H1C1C1C&\pos(1695.77,382.49)}Morishita Family Funeral
+Dialogue: 0,0:03:52.08,0:03:52.12,Signs,Sign,0,0,0,,{=41}{\fscx85.94\fscy85.94\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur2.61\be1\c&H1C1C1C&\pos(1693.33,382.42)}Morishita Family Funeral
+Dialogue: 0,0:03:52.12,0:03:52.17,Signs,Sign,0,0,0,,{=41}{\fscx85.66\fscy85.66\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur2.48\be1\c&H1C1C1C&\pos(1690.88,382.35)}Morishita Family Funeral
+Dialogue: 0,0:03:52.17,0:03:52.21,Signs,Sign,0,0,0,,{=41}{\fscx85.42\fscy85.42\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur2.35\be1\c&H1C1C1C&\pos(1688.52,382.27)}Morishita Family Funeral
+Dialogue: 0,0:03:52.21,0:03:52.25,Signs,Sign,0,0,0,,{=41}{\fscx85.15\fscy85.15\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur2.22\be1\c&H1C1C1C&\pos(1686.14,382.22)}Morishita Family Funeral
+Dialogue: 0,0:03:52.25,0:03:52.29,Signs,Sign,0,0,0,,{=41}{\fscx84.89\fscy84.89\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur2.09\be1\c&H1C1C1C&\pos(1683.79,382.14)}Morishita Family Funeral
+Dialogue: 0,0:03:52.29,0:03:52.33,Signs,Sign,0,0,0,,{=41}{\fscx84.63\fscy84.63\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur1.97\be1\c&H1C1C1C&\pos(1681.45,382.08)}Morishita Family Funeral
+Dialogue: 0,0:03:52.33,0:03:52.37,Signs,Sign,0,0,0,,{=41}{\fscx84.38\fscy84.38\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur1.84\be1\c&H1C1C1C&\pos(1679.11,382.02)}Morishita Family Funeral
+Dialogue: 0,0:03:52.37,0:03:52.42,Signs,Sign,0,0,0,,{=41}{\fscx84.11\fscy84.11\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur1.71\be1\c&H1C1C1C&\pos(1676.82,381.99)}Morishita Family Funeral
+Dialogue: 0,0:03:52.42,0:03:52.46,Signs,Sign,0,0,0,,{=41}{\fscx83.84\fscy83.84\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur1.59\be1\c&H1C1C1C&\pos(1674.51,381.96)}Morishita Family Funeral
+Dialogue: 0,0:03:52.46,0:03:52.50,Signs,Sign,0,0,0,,{=41}{\fscx83.58\fscy83.58\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur1.47\be1\c&H1C1C1C&\pos(1672.24,381.93)}Morishita Family Funeral
+Dialogue: 0,0:03:52.50,0:03:52.54,Signs,Sign,0,0,0,,{=41}{\fscx83.31\fscy83.31\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur1.34\be1\c&H1C1C1C&\pos(1669.95,381.91)}Morishita Family Funeral
+Dialogue: 0,0:03:52.54,0:03:52.58,Signs,Sign,0,0,0,,{=41}{\fscx83.05\fscy83.05\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur1.22\be1\c&H1C1C1C&\pos(1667.7,381.88)}Morishita Family Funeral
+Dialogue: 0,0:03:52.58,0:03:52.62,Signs,Sign,0,0,0,,{=41}{\fscx82.78\fscy82.78\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur1.1\be1\c&H1C1C1C&\pos(1665.45,381.86)}Morishita Family Funeral
+Dialogue: 0,0:03:52.62,0:03:52.67,Signs,Sign,0,0,0,,{=41}{\fscx82.52\fscy82.52\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.98\be1\c&H1C1C1C&\pos(1663.21,381.81)}Morishita Family Funeral
+Dialogue: 0,0:03:52.67,0:03:52.71,Signs,Sign,0,0,0,,{=41}{\fscx82.26\fscy82.26\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.86\be1\c&H1C1C1C&\pos(1660.98,381.79)}Morishita Family Funeral
+Dialogue: 0,0:03:52.71,0:03:52.75,Signs,Sign,0,0,0,,{=41}{\fscx82\fscy82\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.74\be1\c&H1C1C1C&\pos(1658.74,381.74)}Morishita Family Funeral
+Dialogue: 0,0:03:52.75,0:03:52.79,Signs,Sign,0,0,0,,{=41}{\fscx81.74\fscy81.74\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.62\be1\c&H1C1C1C&\pos(1656.53,381.72)}Morishita Family Funeral
+Dialogue: 0,0:03:52.79,0:03:52.83,Signs,Sign,0,0,0,,{=41}{\fscx81.48\fscy81.48\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.5\be1\c&H1C1C1C&\pos(1654.34,381.68)}Morishita Family Funeral
+Dialogue: 0,0:03:52.83,0:03:52.87,Signs,Sign,0,0,0,,{=41}{\fscx81.22\fscy81.22\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.41\be1\c&H1C1C1C&\pos(1652.15,381.68)}Morishita Family Funeral
+Dialogue: 0,0:03:52.87,0:03:52.92,Signs,Sign,0,0,0,,{=41}{\fscx80.96\fscy80.96\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.4\be1\c&H1C1C1C&\pos(1650.01,381.63)}Morishita Family Funeral
+Dialogue: 0,0:03:52.92,0:03:52.96,Signs,Sign,0,0,0,,{=41}{\fscx80.71\fscy80.71\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.4\be1\c&H1C1C1C&\pos(1647.83,381.61)}Morishita Family Funeral
+Dialogue: 0,0:03:52.96,0:03:53.00,Signs,Sign,0,0,0,,{=41}{\fscx80.45\fscy80.45\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.4\be1\c&H1C1C1C&\pos(1645.69,381.59)}Morishita Family Funeral
+Dialogue: 0,0:03:53.00,0:03:53.04,Signs,Sign,0,0,0,,{=41}{\fscx80.19\fscy80.19\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.4\be1\c&H1C1C1C&\pos(1643.53,381.59)}Morishita Family Funeral
+Dialogue: 0,0:03:53.04,0:03:53.08,Signs,Sign,0,0,0,,{=41}{\fscx79.95\fscy79.95\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.4\be1\c&H1C1C1C&\pos(1641.41,381.55)}Morishita Family Funeral
+Dialogue: 0,0:03:53.08,0:03:53.12,Signs,Sign,0,0,0,,{=41}{\fscx79.7\fscy79.7\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.4\be1\c&H1C1C1C&\pos(1639.3,381.53)}Morishita Family Funeral
+Dialogue: 0,0:03:53.12,0:03:53.17,Signs,Sign,0,0,0,,{=41}{\fscx79.44\fscy79.44\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.4\be1\c&H1C1C1C&\pos(1637.19,381.53)}Morishita Family Funeral
+Dialogue: 0,0:03:53.17,0:03:53.21,Signs,Sign,0,0,0,,{=41}{\fscx79.2\fscy79.2\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.4\be1\c&H1C1C1C&\pos(1635.08,381.51)}Morishita Family Funeral
+Dialogue: 0,0:03:53.21,0:03:53.25,Signs,Sign,0,0,0,,{=41}{\fscx78.95\fscy78.95\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.39\be1\c&H1C1C1C&\pos(1633,381.49)}Morishita Family Funeral
+Dialogue: 0,0:03:53.25,0:03:53.29,Signs,Sign,0,0,0,,{=41}{\fscx78.7\fscy78.7\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.39\be1\c&H1C1C1C&\pos(1630.92,381.48)}Morishita Family Funeral
+Dialogue: 0,0:03:53.29,0:03:53.33,Signs,Sign,0,0,0,,{=41}{\fscx78.45\fscy78.45\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.39\be1\c&H1C1C1C&\pos(1628.84,381.49)}Morishita Family Funeral
+Dialogue: 0,0:03:53.33,0:03:53.37,Signs,Sign,0,0,0,,{=41}{\fscx78.21\fscy78.21\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.39\be1\c&H1C1C1C&\pos(1626.77,381.47)}Morishita Family Funeral
+Dialogue: 0,0:03:53.37,0:03:53.42,Signs,Sign,0,0,0,,{=41}{\fscx77.96\fscy77.96\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.39\be1\c&H1C1C1C&\pos(1624.74,381.48)}Morishita Family Funeral
+Dialogue: 0,0:03:53.42,0:03:53.46,Signs,Sign,0,0,0,,{=41}{\fscx77.72\fscy77.72\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.39\be1\c&H1C1C1C&\pos(1622.69,381.46)}Morishita Family Funeral
+Dialogue: 0,0:03:53.46,0:03:53.50,Signs,Sign,0,0,0,,{=41}{\fscx77.47\fscy77.47\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.39\be1\c&H1C1C1C&\pos(1620.67,381.47)}Morishita Family Funeral
+Dialogue: 0,0:03:53.50,0:03:53.54,Signs,Sign,0,0,0,,{=41}{\fscx77.23\fscy77.23\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.39\be1\c&H1C1C1C&\pos(1618.64,381.45)}Morishita Family Funeral
+Dialogue: 0,0:03:53.54,0:03:53.58,Signs,Sign,0,0,0,,{=41}{\fscx76.99\fscy76.99\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.38\be1\c&H1C1C1C&\pos(1616.65,381.46)}Morishita Family Funeral
+Dialogue: 0,0:03:53.58,0:03:53.62,Signs,Sign,0,0,0,,{=41}{\fscx76.76\fscy76.76\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.38\be1\c&H1C1C1C&\pos(1614.65,381.43)}Morishita Family Funeral
+Dialogue: 0,0:03:53.62,0:03:53.67,Signs,Sign,0,0,0,,{=41}{\fscx76.52\fscy76.52\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.38\be1\c&H1C1C1C&\pos(1612.65,381.45)}Morishita Family Funeral
+Dialogue: 0,0:03:53.67,0:03:53.71,Signs,Sign,0,0,0,,{=41}{\fscx76.28\fscy76.28\alpha&H00&\fnIwata Mincho Pro En B\fs34.2\blur0.38\be1\c&H1C1C1C&\pos(1610.68,381.43)}Morishita Family Funeral
 Dialogue: 0,0:00:10.44,0:00:10.49,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1801.33,230.67)}Operating Procedure
 Dialogue: 0,0:00:10.49,0:00:10.53,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1801.36,230.29)}Operating Procedure
 Dialogue: 0,0:00:10.53,0:00:10.57,Signs,Screen,0,0,0,,{=0}{\fscy100\alpha&H00&\fs50\be1\fscx88\fnFOT-HummingStd-Accel-B\bord0\shad0\pos(1801.41,229.9)}Operating Procedure
@@ -113,175 +196,11 @@ Dialogue: 1,0:02:22.79,0:02:27.73,Signs,Screen,0,0,0,,{\fad(441,392)\p1\shad0\bo
 Dialogue: 2,0:02:22.79,0:02:27.73,Signs,Screen,0,0,0,,{\fad(140,140)\an4\fs30.6\fnIwata Mincho Pro En B\bord0\c&H000000&\pos(160.66,197.22)\be1}Assistant Supervisor
 Dialogue: 2,0:02:22.79,0:02:27.73,Signs,Screen,0,0,0,,{\fad(140,140)\an4\fs50\fnIwata Mincho Pro En B\bord0\c&H000000&\pos(162.66,153.22)\be1}Jujutsu Tech
 Dialogue: 2,0:02:22.79,0:02:27.73,Signs,Screen,0,0,0,,{\fad(140,140)\an4\fs55\fnIwata Mincho Pro En B\bord0\c&H000000&\pos(162.66,254.22)\be1}Nitta Akari
-Dialogue: 0,0:02:28.96,0:02:36.03,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\c&HE6E7E7&\pos(1413,884)}Episode 22: {\fs70}The Origin of Obedience
+Dialogue: 0,0:02:28.96,0:02:36.03,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\c&HE6E4E4&\pos(1413,884)}Episode 22: {\fs70}The Origin of Obedience
+Dialogue: 1,0:03:48.24,0:03:50.27,Signs,Lantern,0,0,0,,{\blur10\fs100\pos(727.12,512.89)}--
 Dialogue: 0,0:03:48.24,0:03:50.27,Signs,Lantern,0,0,0,,{\an5\c&H2D2F2F&\b1\fnBuxton Sketch\bord0\shad0\be1\fs38\frz2.008\pos(726.49,520.38)}Spirit Lantern
-Dialogue: 0,0:03:50.25,0:03:50.29,Signs,Sign,0,0,0,,{=41}{\fscy100\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx105\blur7.93\frx0\fry0\c&HFFFFFF&\pos(1829.4,445.4)\be1}Morishita Family
-Dialogue: 0,0:03:50.29,0:03:50.33,Signs,Sign,0,0,0,,{=41}{\fscy99.65\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx104.63\blur7.79\frx0\fry0\c&HFFFFFF&\pos(1826.31,445.04)\be1}Morishita Family
-Dialogue: 0,0:03:50.33,0:03:50.37,Signs,Sign,0,0,0,,{=41}{\fscy99.26\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx104.22\blur7.63\frx0\fry0\c&HFFFFFF&\pos(1823.24,444.8)\be1}Morishita Family
-Dialogue: 0,0:03:50.37,0:03:50.41,Signs,Sign,0,0,0,,{=41}{\fscy98.92\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx103.86\blur7.48\frx0\fry0\c&HFFFFFF&\pos(1820.18,444.4)\be1}Morishita Family
-Dialogue: 0,0:03:50.41,0:03:50.46,Signs,Sign,0,0,0,,{=41}{\fscy98.58\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx103.5\blur7.33\frx0\fry0\c&HFFFFFF&\pos(1817.12,444.11)\be1}Morishita Family
-Dialogue: 0,0:03:50.46,0:03:50.50,Signs,Sign,0,0,0,,{=41}{\fscy98.21\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx103.12\blur7.19\frx0\fry0\c&HFFFFFF&\pos(1814.07,443.81)\be1}Morishita Family
-Dialogue: 0,0:03:50.50,0:03:50.54,Signs,Sign,0,0,0,,{=41}{\fscy97.89\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx102.78\blur7.04\frx0\fry0\c&HFFFFFF&\pos(1811.09,443.44)\be1}Morishita Family
-Dialogue: 0,0:03:50.54,0:03:50.58,Signs,Sign,0,0,0,,{=41}{\fscy97.54\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx102.41\blur6.9\frx0\fry0\c&HFFFFFF&\pos(1808.08,443.13)\be1}Morishita Family
-Dialogue: 0,0:03:50.58,0:03:50.62,Signs,Sign,0,0,0,,{=41}{\fscy97.18\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx102.04\blur6.75\frx0\fry0\c&HFFFFFF&\pos(1805.11,442.85)\be1}Morishita Family
-Dialogue: 0,0:03:50.62,0:03:50.66,Signs,Sign,0,0,0,,{=41}{\fscy96.83\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx101.68\blur6.61\frx0\fry0\c&HFFFFFF&\pos(1802.15,442.55)\be1}Morishita Family
-Dialogue: 0,0:03:50.66,0:03:50.71,Signs,Sign,0,0,0,,{=41}{\fscy96.5\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx101.33\blur6.47\frx0\fry0\c&HFFFFFF&\pos(1799.22,442.25)\be1}Morishita Family
-Dialogue: 0,0:03:50.71,0:03:50.75,Signs,Sign,0,0,0,,{=41}{\fscy96.16\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx100.97\blur6.33\frx0\fry0\c&HFFFFFF&\pos(1796.27,441.94)\be1}Morishita Family
-Dialogue: 0,0:03:50.75,0:03:50.79,Signs,Sign,0,0,0,,{=41}{\fscy95.84\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx100.63\blur6.19\frx0\fry0\c&HFFFFFF&\pos(1793.36,441.63)\be1}Morishita Family
-Dialogue: 0,0:03:50.79,0:03:50.83,Signs,Sign,0,0,0,,{=41}{\fscy95.49\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx100.27\blur6.05\frx0\fry0\c&HFFFFFF&\pos(1790.47,441.3)\be1}Morishita Family
-Dialogue: 0,0:03:50.83,0:03:50.87,Signs,Sign,0,0,0,,{=41}{\fscy95.17\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx99.93\blur5.91\frx0\fry0\c&HFFFFFF&\pos(1787.6,441.01)\be1}Morishita Family
-Dialogue: 0,0:03:50.87,0:03:50.91,Signs,Sign,0,0,0,,{=41}{\fscy94.83\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx99.57\blur5.77\frx0\fry0\c&HFFFFFF&\pos(1784.74,440.74)\be1}Morishita Family
-Dialogue: 0,0:03:50.91,0:03:50.96,Signs,Sign,0,0,0,,{=41}{\fscy94.5\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx99.22\blur5.63\frx0\fry0\c&HFFFFFF&\pos(1781.88,440.48)\be1}Morishita Family
-Dialogue: 0,0:03:50.96,0:03:51.00,Signs,Sign,0,0,0,,{=41}{\fscy94.18\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx98.89\blur5.5\frx0\fry0\c&HFFFFFF&\pos(1779.06,440.2)\be1}Morishita Family
-Dialogue: 0,0:03:51.00,0:03:51.04,Signs,Sign,0,0,0,,{=41}{\fscy93.85\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx98.54\blur5.36\frx0\fry0\c&HFFFFFF&\pos(1776.27,439.9)\be1}Morishita Family
-Dialogue: 0,0:03:51.04,0:03:51.08,Signs,Sign,0,0,0,,{=41}{\fscy93.53\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx98.21\blur5.23\frx0\fry0\c&HFFFFFF&\pos(1773.44,439.65)\be1}Morishita Family
-Dialogue: 0,0:03:51.08,0:03:51.12,Signs,Sign,0,0,0,,{=41}{\fscy93.2\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx97.86\blur5.09\frx0\fry0\c&HFFFFFF&\pos(1770.67,439.38)\be1}Morishita Family
-Dialogue: 0,0:03:51.12,0:03:51.16,Signs,Sign,0,0,0,,{=41}{\fscy92.88\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx97.52\blur4.96\frx0\fry0\c&HFFFFFF&\pos(1767.9,439.07)\be1}Morishita Family
-Dialogue: 0,0:03:51.16,0:03:51.21,Signs,Sign,0,0,0,,{=41}{\fscy92.56\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx97.19\blur4.83\frx0\fry0\c&HFFFFFF&\pos(1765.14,438.83)\be1}Morishita Family
-Dialogue: 0,0:03:51.21,0:03:51.25,Signs,Sign,0,0,0,,{=41}{\fscy92.25\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx96.86\blur4.7\frx0\fry0\c&HFFFFFF&\pos(1762.4,438.52)\be1}Morishita Family
-Dialogue: 0,0:03:51.25,0:03:51.29,Signs,Sign,0,0,0,,{=41}{\fscy91.94\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx96.53\blur4.57\frx0\fry0\c&HFFFFFF&\pos(1759.68,438.29)\be1}Morishita Family
-Dialogue: 0,0:03:51.29,0:03:51.33,Signs,Sign,0,0,0,,{=41}{\fscy91.62\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx96.2\blur4.44\frx0\fry0\c&HFFFFFF&\pos(1757,438.03)\be1}Morishita Family
-Dialogue: 0,0:03:51.33,0:03:51.37,Signs,Sign,0,0,0,,{=41}{\fscy91.3\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx95.86\blur4.31\frx0\fry0\c&HFFFFFF&\pos(1754.27,437.78)\be1}Morishita Family
-Dialogue: 0,0:03:51.37,0:03:51.41,Signs,Sign,0,0,0,,{=41}{\fscy91\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx95.54\blur4.19\frx0\fry0\c&HFFFFFF&\pos(1751.61,437.53)\be1}Morishita Family
-Dialogue: 0,0:03:51.41,0:03:51.46,Signs,Sign,0,0,0,,{=41}{\fscy90.69\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx95.22\blur4.06\frx0\fry0\c&HFFFFFF&\pos(1748.95,437.28)\be1}Morishita Family
-Dialogue: 0,0:03:51.46,0:03:51.50,Signs,Sign,0,0,0,,{=41}{\fscy90.39\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx94.9\blur3.94\frx0\fry0\c&HFFFFFF&\pos(1746.33,437)\be1}Morishita Family
-Dialogue: 0,0:03:51.50,0:03:51.54,Signs,Sign,0,0,0,,{=41}{\fscy90.08\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx94.58\blur3.81\frx0\fry0\c&HFFFFFF&\pos(1743.67,436.76)\be1}Morishita Family
-Dialogue: 0,0:03:51.54,0:03:51.58,Signs,Sign,0,0,0,,{=41}{\fscy89.76\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx94.25\blur3.69\frx0\fry0\c&HFFFFFF&\pos(1741.04,436.51)\be1}Morishita Family
-Dialogue: 0,0:03:51.58,0:03:51.62,Signs,Sign,0,0,0,,{=41}{\fscy89.48\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx93.95\blur3.57\frx0\fry0\c&HFFFFFF&\pos(1738.46,436.27)\be1}Morishita Family
-Dialogue: 0,0:03:51.62,0:03:51.66,Signs,Sign,0,0,0,,{=41}{\fscy89.17\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx93.63\blur3.44\frx0\fry0\c&HFFFFFF&\pos(1735.85,435.99)\be1}Morishita Family
-Dialogue: 0,0:03:51.66,0:03:51.71,Signs,Sign,0,0,0,,{=41}{\fscy88.88\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx93.33\blur3.32\frx0\fry0\c&HFFFFFF&\pos(1733.27,435.78)\be1}Morishita Family
-Dialogue: 0,0:03:51.71,0:03:51.75,Signs,Sign,0,0,0,,{=41}{\fscy88.57\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx93\blur3.2\frx0\fry0\c&HFFFFFF&\pos(1730.74,435.59)\be1}Morishita Family
-Dialogue: 0,0:03:51.75,0:03:51.79,Signs,Sign,0,0,0,,{=41}{\fscy88.29\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx92.7\blur3.08\frx0\fry0\c&HFFFFFF&\pos(1728.17,435.34)\be1}Morishita Family
-Dialogue: 0,0:03:51.79,0:03:51.83,Signs,Sign,0,0,0,,{=41}{\fscy87.98\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx92.38\blur2.96\frx0\fry0\c&HFFFFFF&\pos(1725.59,435.09)\be1}Morishita Family
-Dialogue: 0,0:03:51.83,0:03:51.87,Signs,Sign,0,0,0,,{=41}{\fscy87.7\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx92.08\blur2.84\frx0\fry0\c&HFFFFFF&\pos(1723.08,434.83)\be1}Morishita Family
-Dialogue: 0,0:03:51.87,0:03:51.91,Signs,Sign,0,0,0,,{=41}{\fscy87.39\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx91.76\blur2.73\frx0\fry0\c&HFFFFFF&\pos(1720.58,434.64)\be1}Morishita Family
-Dialogue: 0,0:03:51.91,0:03:51.96,Signs,Sign,0,0,0,,{=41}{\fscy87.11\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx91.47\blur2.61\frx0\fry0\c&HFFFFFF&\pos(1718.09,434.41)\be1}Morishita Family
-Dialogue: 0,0:03:51.96,0:03:52.00,Signs,Sign,0,0,0,,{=41}{\fscy86.83\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx91.17\blur2.49\frx0\fry0\c&HFFFFFF&\pos(1715.54,434.14)\be1}Morishita Family
-Dialogue: 0,0:03:52.00,0:03:52.04,Signs,Sign,0,0,0,,{=41}{\fscy86.54\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx90.87\blur2.38\frx0\fry0\c&HFFFFFF&\pos(1713.11,433.96)\be1}Morishita Family
-Dialogue: 0,0:03:52.04,0:03:52.08,Signs,Sign,0,0,0,,{=41}{\fscy86.25\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx90.56\blur2.27\frx0\fry0\c&HFFFFFF&\pos(1710.63,433.76)\be1}Morishita Family
-Dialogue: 0,0:03:52.08,0:03:52.12,Signs,Sign,0,0,0,,{=41}{\fscy85.96\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx90.26\blur2.15\frx0\fry0\c&HFFFFFF&\pos(1708.19,433.59)\be1}Morishita Family
-Dialogue: 0,0:03:52.12,0:03:52.17,Signs,Sign,0,0,0,,{=41}{\fscy85.67\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx89.95\blur2.04\frx0\fry0\c&HFFFFFF&\pos(1705.75,433.37)\be1}Morishita Family
-Dialogue: 0,0:03:52.17,0:03:52.21,Signs,Sign,0,0,0,,{=41}{\fscy85.4\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx89.67\blur1.93\frx0\fry0\c&HFFFFFF&\pos(1703.33,433.18)\be1}Morishita Family
-Dialogue: 0,0:03:52.21,0:03:52.25,Signs,Sign,0,0,0,,{=41}{\fscy85.12\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx89.37\blur1.82\frx0\fry0\c&HFFFFFF&\pos(1700.91,432.97)\be1}Morishita Family
-Dialogue: 0,0:03:52.25,0:03:52.29,Signs,Sign,0,0,0,,{=41}{\fscy84.84\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx89.08\blur1.7\frx0\fry0\c&HFFFFFF&\pos(1698.53,432.77)\be1}Morishita Family
-Dialogue: 0,0:03:52.29,0:03:52.33,Signs,Sign,0,0,0,,{=41}{\fscy84.56\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx88.78\blur1.6\frx0\fry0\c&HFFFFFF&\pos(1696.15,432.56)\be1}Morishita Family
-Dialogue: 0,0:03:52.33,0:03:52.37,Signs,Sign,0,0,0,,{=41}{\fscy84.28\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx88.49\blur1.49\frx0\fry0\c&HFFFFFF&\pos(1693.8,432.41)\be1}Morishita Family
-Dialogue: 0,0:03:52.37,0:03:52.42,Signs,Sign,0,0,0,,{=41}{\fscy84\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx88.2\blur1.38\frx0\fry0\c&HFFFFFF&\pos(1691.42,432.22)\be1}Morishita Family
-Dialogue: 0,0:03:52.42,0:03:52.46,Signs,Sign,0,0,0,,{=41}{\fscy83.73\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx87.91\blur1.27\frx0\fry0\c&HFFFFFF&\pos(1689.08,432.05)\be1}Morishita Family
-Dialogue: 0,0:03:52.46,0:03:52.50,Signs,Sign,0,0,0,,{=41}{\fscy83.45\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx87.62\blur1.16\frx0\fry0\c&HFFFFFF&\pos(1686.74,431.88)\be1}Morishita Family
-Dialogue: 0,0:03:52.50,0:03:52.54,Signs,Sign,0,0,0,,{=41}{\fscy83.17\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx87.33\blur1.06\frx0\fry0\c&HFFFFFF&\pos(1684.4,431.74)\be1}Morishita Family
-Dialogue: 0,0:03:52.54,0:03:52.58,Signs,Sign,0,0,0,,{=41}{\fscy82.91\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx87.05\blur0.95\frx0\fry0\c&HFFFFFF&\pos(1682.09,431.54)\be1}Morishita Family
-Dialogue: 0,0:03:52.58,0:03:52.62,Signs,Sign,0,0,0,,{=41}{\fscy82.64\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx86.77\blur0.85\frx0\fry0\c&HFFFFFF&\pos(1679.79,431.37)\be1}Morishita Family
-Dialogue: 0,0:03:52.62,0:03:52.67,Signs,Sign,0,0,0,,{=41}{\fscy82.37\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx86.49\blur0.74\frx0\fry0\c&HFFFFFF&\pos(1677.52,431.18)\be1}Morishita Family
-Dialogue: 0,0:03:52.67,0:03:52.71,Signs,Sign,0,0,0,,{=41}{\fscy82.1\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx86.21\blur0.64\frx0\fry0\c&HFFFFFF&\pos(1675.23,431.01)\be1}Morishita Family
-Dialogue: 0,0:03:52.71,0:03:52.75,Signs,Sign,0,0,0,,{=41}{\fscy81.85\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx85.94\blur0.53\frx0\fry0\c&HFFFFFF&\pos(1672.97,430.8)\be1}Morishita Family
-Dialogue: 0,0:03:52.75,0:03:52.79,Signs,Sign,0,0,0,,{=41}{\fscy81.58\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx85.65\blur0.49\frx0\fry0\c&HFFFFFF&\pos(1670.71,430.65)\be1}Morishita Family
-Dialogue: 0,0:03:52.79,0:03:52.83,Signs,Sign,0,0,0,,{=41}{\fscy81.32\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx85.39\blur0.49\frx0\fry0\c&HFFFFFF&\pos(1668.48,430.44)\be1}Morishita Family
-Dialogue: 0,0:03:52.83,0:03:52.87,Signs,Sign,0,0,0,,{=41}{\fscy81.06\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx85.11\blur0.49\frx0\fry0\c&HFFFFFF&\pos(1666.23,430.29)\be1}Morishita Family
-Dialogue: 0,0:03:52.87,0:03:52.92,Signs,Sign,0,0,0,,{=41}{\fscy80.8\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx84.84\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1664.04,430.1)\be1}Morishita Family
-Dialogue: 0,0:03:52.92,0:03:52.96,Signs,Sign,0,0,0,,{=41}{\fscy80.55\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx84.58\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1661.83,429.92)\be1}Morishita Family
-Dialogue: 0,0:03:52.96,0:03:53.00,Signs,Sign,0,0,0,,{=41}{\fscy80.3\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx84.32\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1659.64,429.74)\be1}Morishita Family
-Dialogue: 0,0:03:53.00,0:03:53.04,Signs,Sign,0,0,0,,{=41}{\fscy80.05\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx84.05\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1657.44,429.57)\be1}Morishita Family
-Dialogue: 0,0:03:53.04,0:03:53.08,Signs,Sign,0,0,0,,{=41}{\fscy79.79\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx83.78\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1655.28,429.4)\be1}Morishita Family
-Dialogue: 0,0:03:53.08,0:03:53.12,Signs,Sign,0,0,0,,{=41}{\fscy79.54\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx83.52\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1653.12,429.23)\be1}Morishita Family
-Dialogue: 0,0:03:53.12,0:03:53.17,Signs,Sign,0,0,0,,{=41}{\fscy79.29\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx83.26\blur0.48\frx0\fry0\c&HFFFFFF&\pos(1650.94,429.07)\be1}Morishita Family
-Dialogue: 0,0:03:53.17,0:03:53.21,Signs,Sign,0,0,0,,{=41}{\fscy79.04\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx83\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1648.81,428.9)\be1}Morishita Family
-Dialogue: 0,0:03:53.21,0:03:53.25,Signs,Sign,0,0,0,,{=41}{\fscy78.8\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx82.74\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1646.68,428.75)\be1}Morishita Family
-Dialogue: 0,0:03:53.25,0:03:53.29,Signs,Sign,0,0,0,,{=41}{\fscy78.56\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx82.49\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1644.56,428.56)\be1}Morishita Family
-Dialogue: 0,0:03:53.29,0:03:53.33,Signs,Sign,0,0,0,,{=41}{\fscy78.31\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx82.22\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1642.44,428.41)\be1}Morishita Family
-Dialogue: 0,0:03:53.33,0:03:53.37,Signs,Sign,0,0,0,,{=41}{\fscy78.08\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx81.98\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1640.33,428.24)\be1}Morishita Family
-Dialogue: 0,0:03:53.37,0:03:53.42,Signs,Sign,0,0,0,,{=41}{\fscy77.83\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx81.72\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1638.27,428.08)\be1}Morishita Family
-Dialogue: 0,0:03:53.42,0:03:53.46,Signs,Sign,0,0,0,,{=41}{\fscy77.59\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx81.47\blur0.47\frx0\fry0\c&HFFFFFF&\pos(1636.16,427.93)\be1}Morishita Family
-Dialogue: 0,0:03:53.46,0:03:53.50,Signs,Sign,0,0,0,,{=41}{\fscy77.36\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx81.22\blur0.46\frx0\fry0\c&HFFFFFF&\pos(1634.09,427.76)\be1}Morishita Family
-Dialogue: 0,0:03:53.50,0:03:53.54,Signs,Sign,0,0,0,,{=41}{\fscy77.12\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx80.97\blur0.46\frx0\fry0\c&HFFFFFF&\pos(1632.03,427.61)\be1}Morishita Family
-Dialogue: 0,0:03:53.54,0:03:53.58,Signs,Sign,0,0,0,,{=41}{\fscy76.87\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx80.71\blur0.46\frx0\fry0\c&HFFFFFF&\pos(1629.99,427.49)\be1}Morishita Family
-Dialogue: 0,0:03:53.58,0:03:53.62,Signs,Sign,0,0,0,,{=41}{\fscy76.64\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx80.48\blur0.46\frx0\fry0\c&HFFFFFF&\pos(1627.97,427.32)\be1}Morishita Family
-Dialogue: 0,0:03:53.62,0:03:53.67,Signs,Sign,0,0,0,,{=41}{\fscy76.4\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx80.22\blur0.46\frx0\fry0\c&HFFFFFF&\pos(1625.93,427.2)\be1}Morishita Family
-Dialogue: 0,0:03:53.67,0:03:53.71,Signs,Sign,0,0,0,,{=41}{\fscy76.18\alpha&H00&\fnIwata Mincho Pro En B\fs32\fscx79.99\blur0.46\frx0\fry0\c&HFFFFFF&\pos(1623.91,427)\be1}Morishita Family
-Dialogue: 0,0:03:50.25,0:03:50.29,Signs,Sign,0,0,0,,{=40}{\fscx100\fscy100\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.94\frx0\fry0\c&H343434&\pos(1737.83,941.8)\be1}Funeral
-Dialogue: 0,0:03:50.29,0:03:50.33,Signs,Sign,0,0,0,,{=40}{\fscx99.65\fscy99.65\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.81\frx0\fry0\c&H343434&\pos(1735.07,939.69)\be1}Funeral
-Dialogue: 0,0:03:50.33,0:03:50.37,Signs,Sign,0,0,0,,{=40}{\fscx99.26\fscy99.26\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.67\frx0\fry0\c&H343434&\pos(1732.36,937.5)\be1}Funeral
-Dialogue: 0,0:03:50.37,0:03:50.41,Signs,Sign,0,0,0,,{=40}{\fscx98.92\fscy98.92\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.54\frx0\fry0\c&H343434&\pos(1729.6,935.43)\be1}Funeral
-Dialogue: 0,0:03:50.41,0:03:50.46,Signs,Sign,0,0,0,,{=40}{\fscx98.58\fscy98.58\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.4\frx0\fry0\c&H343434&\pos(1726.85,933.44)\be1}Funeral
-Dialogue: 0,0:03:50.46,0:03:50.50,Signs,Sign,0,0,0,,{=40}{\fscx98.21\fscy98.21\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.27\frx0\fry0\c&H343434&\pos(1724.14,931.32)\be1}Funeral
-Dialogue: 0,0:03:50.50,0:03:50.54,Signs,Sign,0,0,0,,{=40}{\fscx97.89\fscy97.89\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.14\frx0\fry0\c&H343434&\pos(1721.46,929.35)\be1}Funeral
-Dialogue: 0,0:03:50.54,0:03:50.58,Signs,Sign,0,0,0,,{=40}{\fscx97.54\fscy97.54\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur7.01\frx0\fry0\c&H343434&\pos(1718.76,927.3)\be1}Funeral
-Dialogue: 0,0:03:50.58,0:03:50.62,Signs,Sign,0,0,0,,{=40}{\fscx97.18\fscy97.18\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.88\frx0\fry0\c&H343434&\pos(1716.12,925.28)\be1}Funeral
-Dialogue: 0,0:03:50.62,0:03:50.66,Signs,Sign,0,0,0,,{=40}{\fscx96.83\fscy96.83\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.75\frx0\fry0\c&H343434&\pos(1713.48,923.23)\be1}Funeral
-Dialogue: 0,0:03:50.66,0:03:50.71,Signs,Sign,0,0,0,,{=40}{\fscx96.5\fscy96.5\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.62\frx0\fry0\c&H343434&\pos(1710.85,921.29)\be1}Funeral
-Dialogue: 0,0:03:50.71,0:03:50.75,Signs,Sign,0,0,0,,{=40}{\fscx96.16\fscy96.16\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.49\frx0\fry0\c&H343434&\pos(1708.22,919.3)\be1}Funeral
-Dialogue: 0,0:03:50.75,0:03:50.79,Signs,Sign,0,0,0,,{=40}{\fscx95.84\fscy95.84\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.37\frx0\fry0\c&H343434&\pos(1705.61,917.36)\be1}Funeral
-Dialogue: 0,0:03:50.79,0:03:50.83,Signs,Sign,0,0,0,,{=40}{\fscx95.49\fscy95.49\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.24\frx0\fry0\c&H343434&\pos(1703.02,915.33)\be1}Funeral
-Dialogue: 0,0:03:50.83,0:03:50.87,Signs,Sign,0,0,0,,{=40}{\fscx95.17\fscy95.17\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur6.12\frx0\fry0\c&H343434&\pos(1700.45,913.43)\be1}Funeral
-Dialogue: 0,0:03:50.87,0:03:50.91,Signs,Sign,0,0,0,,{=40}{\fscx94.83\fscy94.83\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.99\frx0\fry0\c&H343434&\pos(1697.9,911.49)\be1}Funeral
-Dialogue: 0,0:03:50.91,0:03:50.96,Signs,Sign,0,0,0,,{=40}{\fscx94.5\fscy94.5\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.87\frx0\fry0\c&H343434&\pos(1695.35,909.58)\be1}Funeral
-Dialogue: 0,0:03:50.96,0:03:51.00,Signs,Sign,0,0,0,,{=40}{\fscx94.18\fscy94.18\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.75\frx0\fry0\c&H343434&\pos(1692.82,907.73)\be1}Funeral
-Dialogue: 0,0:03:51.00,0:03:51.04,Signs,Sign,0,0,0,,{=40}{\fscx93.85\fscy93.85\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.63\frx0\fry0\c&H343434&\pos(1690.33,905.75)\be1}Funeral
-Dialogue: 0,0:03:51.04,0:03:51.08,Signs,Sign,0,0,0,,{=40}{\fscx93.53\fscy93.53\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.51\frx0\fry0\c&H343434&\pos(1687.79,903.92)\be1}Funeral
-Dialogue: 0,0:03:51.08,0:03:51.12,Signs,Sign,0,0,0,,{=40}{\fscx93.2\fscy93.2\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.38\frx0\fry0\c&H343434&\pos(1685.32,902.02)\be1}Funeral
-Dialogue: 0,0:03:51.12,0:03:51.16,Signs,Sign,0,0,0,,{=40}{\fscx92.88\fscy92.88\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.26\frx0\fry0\c&H343434&\pos(1682.85,900.11)\be1}Funeral
-Dialogue: 0,0:03:51.16,0:03:51.21,Signs,Sign,0,0,0,,{=40}{\fscx92.56\fscy92.56\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.15\frx0\fry0\c&H343434&\pos(1680.38,898.31)\be1}Funeral
-Dialogue: 0,0:03:51.21,0:03:51.25,Signs,Sign,0,0,0,,{=40}{\fscx92.25\fscy92.25\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur5.03\frx0\fry0\c&H343434&\pos(1677.93,896.44)\be1}Funeral
-Dialogue: 0,0:03:51.25,0:03:51.29,Signs,Sign,0,0,0,,{=40}{\fscx91.94\fscy91.94\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.91\frx0\fry0\c&H343434&\pos(1675.5,894.66)\be1}Funeral
-Dialogue: 0,0:03:51.29,0:03:51.33,Signs,Sign,0,0,0,,{=40}{\fscx91.62\fscy91.62\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.8\frx0\fry0\c&H343434&\pos(1673.11,892.84)\be1}Funeral
-Dialogue: 0,0:03:51.33,0:03:51.37,Signs,Sign,0,0,0,,{=40}{\fscx91.3\fscy91.3\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.68\frx0\fry0\c&H343434&\pos(1670.67,890.98)\be1}Funeral
-Dialogue: 0,0:03:51.37,0:03:51.41,Signs,Sign,0,0,0,,{=40}{\fscx91\fscy91\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.57\frx0\fry0\c&H343434&\pos(1668.28,889.22)\be1}Funeral
-Dialogue: 0,0:03:51.41,0:03:51.46,Signs,Sign,0,0,0,,{=40}{\fscx90.69\fscy90.69\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.45\frx0\fry0\c&H343434&\pos(1665.91,887.47)\be1}Funeral
-Dialogue: 0,0:03:51.46,0:03:51.50,Signs,Sign,0,0,0,,{=40}{\fscx90.39\fscy90.39\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.34\frx0\fry0\c&H343434&\pos(1663.56,885.67)\be1}Funeral
-Dialogue: 0,0:03:51.50,0:03:51.54,Signs,Sign,0,0,0,,{=40}{\fscx90.08\fscy90.08\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.23\frx0\fry0\c&H343434&\pos(1661.19,883.89)\be1}Funeral
-Dialogue: 0,0:03:51.54,0:03:51.58,Signs,Sign,0,0,0,,{=40}{\fscx89.76\fscy89.76\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.12\frx0\fry0\c&H343434&\pos(1658.85,882.09)\be1}Funeral
-Dialogue: 0,0:03:51.58,0:03:51.62,Signs,Sign,0,0,0,,{=40}{\fscx89.48\fscy89.48\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur4.01\frx0\fry0\c&H343434&\pos(1656.53,880.43)\be1}Funeral
-Dialogue: 0,0:03:51.62,0:03:51.66,Signs,Sign,0,0,0,,{=40}{\fscx89.17\fscy89.17\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.9\frx0\fry0\c&H343434&\pos(1654.2,878.64)\be1}Funeral
-Dialogue: 0,0:03:51.66,0:03:51.71,Signs,Sign,0,0,0,,{=40}{\fscx88.88\fscy88.88\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.79\frx0\fry0\c&H343434&\pos(1651.88,876.99)\be1}Funeral
-Dialogue: 0,0:03:51.71,0:03:51.75,Signs,Sign,0,0,0,,{=40}{\fscx88.57\fscy88.57\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.68\frx0\fry0\c&H343434&\pos(1649.64,875.25)\be1}Funeral
-Dialogue: 0,0:03:51.75,0:03:51.79,Signs,Sign,0,0,0,,{=40}{\fscx88.29\fscy88.29\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.57\frx0\fry0\c&H343434&\pos(1647.33,873.6)\be1}Funeral
-Dialogue: 0,0:03:51.79,0:03:51.83,Signs,Sign,0,0,0,,{=40}{\fscx87.98\fscy87.98\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.46\frx0\fry0\c&H343434&\pos(1645.02,871.83)\be1}Funeral
-Dialogue: 0,0:03:51.83,0:03:51.87,Signs,Sign,0,0,0,,{=40}{\fscx87.7\fscy87.7\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.36\frx0\fry0\c&H343434&\pos(1642.77,870.16)\be1}Funeral
-Dialogue: 0,0:03:51.87,0:03:51.91,Signs,Sign,0,0,0,,{=40}{\fscx87.39\fscy87.39\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.25\frx0\fry0\c&H343434&\pos(1640.56,868.42)\be1}Funeral
-Dialogue: 0,0:03:51.91,0:03:51.96,Signs,Sign,0,0,0,,{=40}{\fscx87.11\fscy87.11\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.15\frx0\fry0\c&H343434&\pos(1638.32,866.84)\be1}Funeral
-Dialogue: 0,0:03:51.96,0:03:52.00,Signs,Sign,0,0,0,,{=40}{\fscx86.83\fscy86.83\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur3.04\frx0\fry0\c&H343434&\pos(1636.03,865.17)\be1}Funeral
-Dialogue: 0,0:03:52.00,0:03:52.04,Signs,Sign,0,0,0,,{=40}{\fscx86.54\fscy86.54\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.94\frx0\fry0\c&H343434&\pos(1633.86,863.55)\be1}Funeral
-Dialogue: 0,0:03:52.04,0:03:52.08,Signs,Sign,0,0,0,,{=40}{\fscx86.25\fscy86.25\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.84\frx0\fry0\c&H343434&\pos(1631.65,861.9)\be1}Funeral
-Dialogue: 0,0:03:52.08,0:03:52.12,Signs,Sign,0,0,0,,{=40}{\fscx85.96\fscy85.96\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.73\frx0\fry0\c&H343434&\pos(1629.48,860.3)\be1}Funeral
-Dialogue: 0,0:03:52.12,0:03:52.17,Signs,Sign,0,0,0,,{=40}{\fscx85.67\fscy85.67\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.63\frx0\fry0\c&H343434&\pos(1627.31,858.62)\be1}Funeral
-Dialogue: 0,0:03:52.17,0:03:52.21,Signs,Sign,0,0,0,,{=40}{\fscx85.4\fscy85.4\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.53\frx0\fry0\c&H343434&\pos(1625.14,857.08)\be1}Funeral
-Dialogue: 0,0:03:52.21,0:03:52.25,Signs,Sign,0,0,0,,{=40}{\fscx85.12\fscy85.12\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.43\frx0\fry0\c&H343434&\pos(1622.97,855.48)\be1}Funeral
-Dialogue: 0,0:03:52.25,0:03:52.29,Signs,Sign,0,0,0,,{=40}{\fscx84.84\fscy84.84\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.33\frx0\fry0\c&H343434&\pos(1620.85,853.91)\be1}Funeral
-Dialogue: 0,0:03:52.29,0:03:52.33,Signs,Sign,0,0,0,,{=40}{\fscx84.56\fscy84.56\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.23\frx0\fry0\c&H343434&\pos(1618.73,852.3)\be1}Funeral
-Dialogue: 0,0:03:52.33,0:03:52.37,Signs,Sign,0,0,0,,{=40}{\fscx84.28\fscy84.28\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.13\frx0\fry0\c&H343434&\pos(1616.62,850.78)\be1}Funeral
-Dialogue: 0,0:03:52.37,0:03:52.42,Signs,Sign,0,0,0,,{=40}{\fscx84\fscy84\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur2.03\frx0\fry0\c&H343434&\pos(1614.5,849.21)\be1}Funeral
-Dialogue: 0,0:03:52.42,0:03:52.46,Signs,Sign,0,0,0,,{=40}{\fscx83.73\fscy83.73\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.94\frx0\fry0\c&H343434&\pos(1612.41,847.67)\be1}Funeral
-Dialogue: 0,0:03:52.46,0:03:52.50,Signs,Sign,0,0,0,,{=40}{\fscx83.45\fscy83.45\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.84\frx0\fry0\c&H343434&\pos(1610.32,846.12)\be1}Funeral
-Dialogue: 0,0:03:52.50,0:03:52.54,Signs,Sign,0,0,0,,{=40}{\fscx83.17\fscy83.17\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.74\frx0\fry0\c&H343434&\pos(1608.24,844.6)\be1}Funeral
-Dialogue: 0,0:03:52.54,0:03:52.58,Signs,Sign,0,0,0,,{=40}{\fscx82.91\fscy82.91\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.65\frx0\fry0\c&H343434&\pos(1606.18,843.09)\be1}Funeral
-Dialogue: 0,0:03:52.58,0:03:52.62,Signs,Sign,0,0,0,,{=40}{\fscx82.64\fscy82.64\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.55\frx0\fry0\c&H343434&\pos(1604.12,841.58)\be1}Funeral
-Dialogue: 0,0:03:52.62,0:03:52.67,Signs,Sign,0,0,0,,{=40}{\fscx82.37\fscy82.37\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.46\frx0\fry0\c&H343434&\pos(1602.09,840.08)\be1}Funeral
-Dialogue: 0,0:03:52.67,0:03:52.71,Signs,Sign,0,0,0,,{=40}{\fscx82.1\fscy82.1\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.36\frx0\fry0\c&H343434&\pos(1600.05,838.57)\be1}Funeral
-Dialogue: 0,0:03:52.71,0:03:52.75,Signs,Sign,0,0,0,,{=40}{\fscx81.85\fscy81.85\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.27\frx0\fry0\c&H343434&\pos(1598.02,837.09)\be1}Funeral
-Dialogue: 0,0:03:52.75,0:03:52.79,Signs,Sign,0,0,0,,{=40}{\fscx81.58\fscy81.58\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.18\frx0\fry0\c&H343434&\pos(1596.01,835.59)\be1}Funeral
-Dialogue: 0,0:03:52.79,0:03:52.83,Signs,Sign,0,0,0,,{=40}{\fscx81.32\fscy81.32\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1.09\frx0\fry0\c&H343434&\pos(1594.01,834.13)\be1}Funeral
-Dialogue: 0,0:03:52.83,0:03:52.87,Signs,Sign,0,0,0,,{=40}{\fscx81.06\fscy81.06\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur1\frx0\fry0\c&H343434&\pos(1592.01,832.67)\be1}Funeral
-Dialogue: 0,0:03:52.87,0:03:52.92,Signs,Sign,0,0,0,,{=40}{\fscx80.8\fscy80.8\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.91\frx0\fry0\c&H343434&\pos(1590.05,831.2)\be1}Funeral
-Dialogue: 0,0:03:52.92,0:03:52.96,Signs,Sign,0,0,0,,{=40}{\fscx80.55\fscy80.55\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.82\frx0\fry0\c&H343434&\pos(1588.07,829.77)\be1}Funeral
-Dialogue: 0,0:03:52.96,0:03:53.00,Signs,Sign,0,0,0,,{=40}{\fscx80.3\fscy80.3\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.73\frx0\fry0\c&H343434&\pos(1586.11,828.35)\be1}Funeral
-Dialogue: 0,0:03:53.00,0:03:53.04,Signs,Sign,0,0,0,,{=40}{\fscx80.05\fscy80.05\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.64\frx0\fry0\c&H343434&\pos(1584.14,826.91)\be1}Funeral
-Dialogue: 0,0:03:53.04,0:03:53.08,Signs,Sign,0,0,0,,{=40}{\fscx79.79\fscy79.79\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.55\frx0\fry0\c&H343434&\pos(1582.21,825.5)\be1}Funeral
-Dialogue: 0,0:03:53.08,0:03:53.12,Signs,Sign,0,0,0,,{=40}{\fscx79.54\fscy79.54\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.48\frx0\fry0\c&H343434&\pos(1580.28,824.07)\be1}Funeral
-Dialogue: 0,0:03:53.12,0:03:53.17,Signs,Sign,0,0,0,,{=40}{\fscx79.29\fscy79.29\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.48\frx0\fry0\c&H343434&\pos(1578.33,822.69)\be1}Funeral
-Dialogue: 0,0:03:53.17,0:03:53.21,Signs,Sign,0,0,0,,{=40}{\fscx79.04\fscy79.04\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1576.43,821.27)\be1}Funeral
-Dialogue: 0,0:03:53.21,0:03:53.25,Signs,Sign,0,0,0,,{=40}{\fscx78.8\fscy78.8\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1574.53,819.9)\be1}Funeral
-Dialogue: 0,0:03:53.25,0:03:53.29,Signs,Sign,0,0,0,,{=40}{\fscx78.56\fscy78.56\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1572.63,818.52)\be1}Funeral
-Dialogue: 0,0:03:53.29,0:03:53.33,Signs,Sign,0,0,0,,{=40}{\fscx78.31\fscy78.31\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1570.73,817.14)\be1}Funeral
-Dialogue: 0,0:03:53.33,0:03:53.37,Signs,Sign,0,0,0,,{=40}{\fscx78.08\fscy78.08\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1568.84,815.8)\be1}Funeral
-Dialogue: 0,0:03:53.37,0:03:53.42,Signs,Sign,0,0,0,,{=40}{\fscx77.83\fscy77.83\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1567,814.44)\be1}Funeral
-Dialogue: 0,0:03:53.42,0:03:53.46,Signs,Sign,0,0,0,,{=40}{\fscx77.59\fscy77.59\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.47\frx0\fry0\c&H343434&\pos(1565.11,813.07)\be1}Funeral
-Dialogue: 0,0:03:53.46,0:03:53.50,Signs,Sign,0,0,0,,{=40}{\fscx77.36\fscy77.36\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.46\frx0\fry0\c&H343434&\pos(1563.26,811.75)\be1}Funeral
-Dialogue: 0,0:03:53.50,0:03:53.54,Signs,Sign,0,0,0,,{=40}{\fscx77.12\fscy77.12\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.46\frx0\fry0\c&H343434&\pos(1561.41,810.42)\be1}Funeral
-Dialogue: 0,0:03:53.54,0:03:53.58,Signs,Sign,0,0,0,,{=40}{\fscx76.87\fscy76.87\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.46\frx0\fry0\c&H343434&\pos(1559.6,809.07)\be1}Funeral
-Dialogue: 0,0:03:53.58,0:03:53.62,Signs,Sign,0,0,0,,{=40}{\fscx76.64\fscy76.64\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.46\frx0\fry0\c&H343434&\pos(1557.79,807.77)\be1}Funeral
-Dialogue: 0,0:03:53.62,0:03:53.67,Signs,Sign,0,0,0,,{=40}{\fscx76.4\fscy76.4\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.46\frx0\fry0\c&H343434&\pos(1555.97,806.46)\be1}Funeral
-Dialogue: 0,0:03:53.67,0:03:53.71,Signs,Sign,0,0,0,,{=40}{\fscx76.18\fscy76.18\alpha&H00&\fnIwata Mincho Pro En B\fs41.8\blur0.46\frx0\fry0\c&H343434&\pos(1554.15,805.15)\be1}Funeral
 Dialogue: 0,0:04:24.86,0:04:27.89,Signs,Sign,0,0,0,,{\fnArtificeSSK\fs72\fscx96\bord7\blur4\c&H717944&\1a&H21&\pos(940,100)\3c&H0E1200&}Saitama Municipal Urami East Middle School
+Dialogue: 0,0:04:24.86,0:04:27.89,Signs,Sign,0,0,0,,{\fnArtificeSSK\fs72\fscx96\bord0\be1\c&H717944&\1a&H21&\pos(940,100)\3c&H0E1200&}Saitama Municipal Urami East Middle School
 Dialogue: 0,0:05:20.75,0:05:21.00,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz11.72}Grinding
 Dialogue: 0,0:05:21.00,0:05:21.25,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz6.239}Grinding
 Dialogue: 0,0:05:21.25,0:05:21.50,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs100\fscx110\b1\shad3\4c&H000000&\4a&H96&\c&H24D8F5&\blur0.8\pos(1398.8,882.73)\frz360}Grinding
@@ -433,7 +352,6 @@ Dialogue: 0,0:05:55.29,0:05:55.54,Signs,Screen,0,0,0,,{\fnSoft Marshmallow\fs80\
 Dialogue: 0,0:10:43.03,0:10:49.75,Signs,Screen,0,0,0,,{\fade(600,0)\fnFOT-ManyoKoinLargeStd B-EN\fs67.8\fscx85\pos(527,794.67)}Koinokuchi Canyon, Yasohachi Bridge
 Dialogue: 0,0:11:15.86,0:11:23.86,Signs,Sign,0,0,0,,{=2}{\clip()\t(24,7990,\clip())\fscx100\t(24,7990,\fscx100)\fscy100\t(24,7990,\fscy100)\alpha&H00&\fs21\xshad3\t(24,7990,\xshad3)\fax-0.02\b1\c&H2F7E37&\3c&H8B8D59&\4c&H724842&\frz3.1\move(1267.11,278.33,854.8,278.36,24,7990)}Pounded Fish Cake is finally here!
 Dialogue: 1,0:11:15.86,0:11:23.86,Signs,Sign,0,0,0,,{=1}{\clip()\t(24,7990,\clip())\fscx100\t(24,7990,\fscx100)\fscy100\t(24,7990,\fscy100)\alpha&H00&\fs21\be1\b1\fax-0.02\c&H2F7E37&\3c&H8B8D59&\4c&H724842&\frz3.1\move(1267.11,278.33,854.8,278.36,24,7990)}Pounded Fish Cake is finally here!
-Comment: 0,0:11:42.01,0:11:47.89,Signs,Screen&Akari,0,0,0,,{\fnArial\b1\c&H0D02C7&\3c&H07193D&\pos(230,12)\an8\shad0\c&H171EE5&\3c&H1D283D&}Ding-Ding
 Dialogue: 0,0:11:42.01,0:11:42.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\blur0.3\frz13\pos(805.6,299.6)\shad0\c&H171EE5&\3c&H1D283D&\clip(m 858 250 l 855 266)}Ding
 Dialogue: 0,0:11:42.01,0:11:42.10,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\bord7\blur0.3\frz13\pos(805.6,299.6)\shad0\c&H171EE5&\3c&H1D283D&\clip(m 858 250 l 855 266 855 283 853 306 854 325 742 353 710 265)}Ding
 Dialogue: 0,0:11:42.10,0:11:42.14,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\bord7\blur0.3\frz13\pos(805.6,299.6)\shad0\c&H171EE5&\3c&H1D283D&}Ding
@@ -996,5 +914,4 @@ Dialogue: 0,0:23:36.60,0:23:40.06,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t
 Data: 0,a-mo,e{"uuid"#3A"820027ef-1935-430c-8780-7984c72b0598"#2C"originalText"#3A"{\\fs50\\be1\\fscx90\\fnFOT-HummingStd-Accel-B\\bord0\\shad0\\pos(1803.33#2C250.67)}Operating Procedure"}
 Data: 1,a-mo,e{"uuid"#3A"5725e488-57b8-41bd-b9b0-9883bd1cb619"#2C"originalText"#3A"{\\fnBerlin Sans FB Demi\\fs21\\be1\\b1\\fax-0.02\\c&H2F7E37&\\3c&H8B8D59&\\4c&H724842&\\frz3.1\\pos(1267.11#2C278.33)}Pounded Fish Cake is finally here!"}
 Data: 2,a-mo,e{"uuid"#3A"4f9eb64c-5b21-46ab-8aee-8a427618a611"#2C"originalText"#3A"{\\fnBerlin Sans FB Demi\\fs21\\xshad3\\fax-0.02\\b1\\c&H2F7E37&\\3c&H8B8D59&\\4c&H724842&\\frz3.1\\pos(1267.11#2C278.33)}Pounded Fish Cake is finally here!"}
-Data: 40,a-mo,e{"uuid"#3A"d1ebf75e-6c9c-43ca-aed5-96354a9f03b4"#2C"originalText"#3A"{\\fnIwata Mincho Pro En B\\fs41.8\\blur8\\t(0#2C2850#2C\\blur0.6)\\frx0\\fry0\\c&H343434&\\pos(1737.83#2C941.8)\\be1}Funeral"}
 Data: 41,a-mo,e{"uuid"#3A"cee278c4-e5e7-4f8a-b631-6543256d01e0"#2C"originalText"#3A"{\\fnIwata Mincho Pro En B\\fs32\\fscx105\\blur8\\t(0#2C2500#2C\\blur0.6)\\frx0\\fry0\\c&HFFFFFF&\\pos(1829.4#2C445.4)\\be1}Morishita Family"}
