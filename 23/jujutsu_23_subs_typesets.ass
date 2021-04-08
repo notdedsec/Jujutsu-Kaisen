@@ -20,9 +20,8 @@ Audio File: jujutsu_23_premux.mkv
 Video File: jujutsu_23_premux.mkv
 Keyframes File: jujutsu_23_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 4
-Video Position: 33982
+Video Zoom Percent: 0.750000
+Video Position: 10574
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,8 +29,8 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:07:19.29,0:07:26.37,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\c&HD5D3D4&\pos(1384,884)}Episode 23: {\fs70}The Origin of Obedience 2
-Dialogue: 0,0:19:09.95,0:19:11.95,Signs,Screen,0,0,0,,{\p1\shad0\bord0\an2\pos(146.98,96.2)}m 1496 432 l 1786 432 1786 524 1496 524
-Dialogue: 1,0:19:09.95,0:19:11.95,Signs,Screen,0,0,0,,{\fnIwata Mincho Pro En B\fs36.9\be1\b1\fscx95\fscy120\c&H000000&\pos(1643.6,483.2)}Fushiguro Fell Asleep
+Dialogue: 0,0:07:19.29,0:07:26.37,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\c&HE9E9E8&\pos(1384,884)}Episode 23: {\fs70}The Origin of Obedience 2
+Dialogue: 0,0:19:09.95,0:19:11.95,Signs,Screen,0,0,0,,{\p1\shad0\bord0\be1\an2\pos(147.98,96.2)}m 1495 433 l 1786 433 1786 524 1495 524
+Dialogue: 1,0:19:09.95,0:19:11.95,Signs,Screen,0,0,0,,{\fnIwata Mincho Pro En B\fs38\blur0.8\b1\fscx93\fscy120\c&H000000&\pos(1643.6,483.2)}Fushiguro Fell Asleep
 Dialogue: 0,0:22:14.93,0:22:17.44,Signs,All&Screen,0,0,0,,{\fnBrush Strokes\b1\be1\fs110\c&H000101&\pos(1400,150)}Juju Stroll
-Dialogue: 0,0:23:36.43,0:23:39.89,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1468,\blur0)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 24{\fs70}\NAccomplices
+Dialogue: 0,0:23:36.43,0:23:39.90,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1468,\blur0)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 24{\fs70}\NAccomplices
