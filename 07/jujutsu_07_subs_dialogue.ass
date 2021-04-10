@@ -16,10 +16,9 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
 Audio File: jujutsu_07_premux.mkv
 Video File: jujutsu_07_premux.mkv
-Video AR Mode: 4
+Keyframes File: jujutsu_07_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Scroll Position: 216

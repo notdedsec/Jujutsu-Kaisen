@@ -16,8 +16,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: jujutsu_03.mkv
-Video File: jujutsu_03.mkv
+Audio File: jujutsu_03_premux.mkv
+Video File: jujutsu_03_premux.mkv
 Keyframes File: jujutsu_03_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
