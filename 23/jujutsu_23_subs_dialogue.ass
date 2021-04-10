@@ -36,7 +36,7 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:37.30,0:00:39.31,Default,Curse,0,0,0,,Got you!
 Dialogue: 0,0:00:48.22,0:00:51.11,Default,Yuji,0,0,0,,{\i1}What's with that blood he spat out?
-Dialogue: 0,0:00:51.77,0:00:53.11,Default,Yuji,0,0,0,,{\i1}Acid?{Poisonous=dangerous if you EAT. Venomous=dangerous if they BITE YOU. This is neither, ofc. Just corrosive.}
+Dialogue: 0,0:00:51.77,0:00:53.11,Default,Yuji,0,0,0,,{\i1}Poison?{Poisonous=dangerous if you EAT. Venomous=dangerous if they BITE YOU. This is neither, ofc. Just corrosive.}{kekw}
 Dialogue: 0,0:00:53.64,0:00:55.00,Default,Curse,0,0,0,,What's this?
 Dialogue: 0,0:00:55.00,0:00:56.57,Default,Curse,0,0,0,,You're strong!
 Dialogue: 0,0:00:57.27,0:00:59.47,Default,Curse,0,0,0,,That's no fun.

@@ -86,7 +86,7 @@ Comment: 0,0:03:23.98,0:03:24.02,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:04:53.94,0:04:53.98,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:04:59.15,0:05:04.40,Default,Gojou,0,0,0,,{\an8}Hey, Nanami, tell me a funny story!
 Dialogue: 0,0:05:06.24,0:05:07.88,Default,Gojou,0,0,0,,Okay, I've got it!
-Dialogue: 0,0:05:07.89,0:05:11.33,Default,Gojou,0,0,0,,Let's record ourselves playing catch with discarded rice balls
+Dialogue: 0,0:05:07.89,0:05:11.33,Default,Gojou,0,0,0,,Let's record ourselves playing catch with discarded {*}rice balls{*onigiri}
 Dialogue: 0,0:05:11.33,0:05:13.76,Default,Gojou,0,0,0,,while talking about the separation of church and state!
 Dialogue: 0,0:05:13.76,0:05:16.01,Default,Gojou,0,0,0,,I bet it'll go viral when we post it online!
 Dialogue: 0,0:05:17.92,0:05:20.03,Default,Nanami,0,0,0,,Feel free to do it by yourself.
@@ -324,7 +324,7 @@ Dialogue: 0,0:16:03.40,0:16:07.95,Default,Kamo,0,0,0,,We must kill them with cur
 Dialogue: 0,0:16:08.32,0:16:09.45,Default,Gakuganji,0,0,0,,Correct.
 Dialogue: 0,0:16:09.45,0:16:14.02,Default,Gakuganji,0,0,0,,It shouldn't be a problem as long as the \Nfinishing blow is delivered with cursed energy.
 Dialogue: 0,0:16:14.02,0:16:17.95,Default,Gakuganji,0,0,0,,At present, Itadori Yuji is in control of his body.
-Dialogue: 0,0:16:17.95,0:16:21.42,Default,Gakuganji,0,0,0,,Unless Sukuna comes out, he's just a first-year.
+Dialogue: 0,0:16:17.95,0:16:21.42,Default,Gakuganji,0,0,0,,Unless Sukuna comes out, he's just an ordinary student.
 Dialogue: 0,0:16:21.42,0:16:22.59,Default,Gakuganji,0,0,0,,Killing him will be—
 Dialogue: 0,0:16:24.39,0:16:26.62,Default,Toudou,0,0,0,,This is stupid. Do what you want.
 Dialogue: 0,0:16:26.62,0:16:28.09,Default,Kamo,0,0,0,,Come back, Todo.

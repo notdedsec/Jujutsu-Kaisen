@@ -37,7 +37,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:12.28,0:00:15.44,Default,Kugisaki,0,0,0,,Couldn't they put in a few more vending machines?
 Dialogue: 0,0:00:15.87,0:00:19.87,Default,Fushiguro,0,0,0,,They can't. We're strict about who we do business with.
 Dialogue: 0,0:00:19.87,0:00:20.91,Default,Panda,0,0,0,,Huh?
-Dialogue: 0,0:00:21.54,0:00:22.83,Default,Panda,0,0,0,,Where's the first-year crew?
+Dialogue: 0,0:00:21.54,0:00:22.83,Default,Panda,0,0,0,,Where's the freshman crew?
 Dialogue: 0,0:00:23.50,0:00:24.55,Default,Maki,0,0,0,,Running errands.
 Dialogue: 0,0:00:24.55,0:00:25.96,Default,Toge,0,0,0,,Bonito flakes?
 Dialogue: 0,0:00:26.51,0:00:27.61,Default,Panda,0,0,0,,Will they be okay?
@@ -53,7 +53,7 @@ Dialogue: 0,0:00:43.10,0:00:46.28,Default,Panda,0,0,0,,Rumor has it that the hig
 Dialogue: 0,0:00:46.28,0:00:50.74,Default,Panda,0,0,0,,{\fade(0,500)}arranged for the dispatch of first-years on that special-grade case.
 Dialogue: 0,0:00:51.49,0:00:54.75,Default,Panda,0,0,0,,The principal of Kyoto is one of them, isn't he?
 Dialogue: 0,0:00:54.75,0:00:57.12,Default,Panda,0,0,0,,What if they run into each other?
-Dialogue: 0,0:00:57.95,0:01:02.33,Default,Maki,0,0,0,,The first-year they were targeting, Itadori, is dead.
+Dialogue: 0,0:00:57.95,0:01:02.33,Default,Maki,0,0,0,,The person they were targeting, Itadori, is dead.
 Dialogue: 0,0:01:02.33,0:01:05.50,Default,Maki,0,0,0,,I doubt he has any plans to harm the other two.
 Dialogue: 0,0:01:07.08,0:01:12.30,Default,Maki,0,0,0,,Besides, the old man from Kyoto won't cause a scene in broad daylight.
 Dialogue: 0,0:01:12.59,0:01:13.68,Default,Toge,0,0,0,,Salmon.
@@ -124,7 +124,7 @@ Dialogue: 0,0:06:00.96,0:06:03.05,Default,Kugisaki,0,0,0,,Is that your summer un
 Dialogue: 0,0:06:03.53,0:06:05.73,Default,Kugisaki,0,0,0,,Ticks me off, but I'm jealous.
 Dialogue: 0,0:06:06.19,0:06:09.73,Default,Fushiguro,0,0,0,,{\i1}Kugisaki is unarmed. I'd rather avoid conflict.
 Dialogue: 0,0:06:12.06,0:06:14.90,Default,Tsumiki,0,0,0,,Not forgiving people isn't a bad thing.
-Dialogue: 0,0:06:14.90,0:06:17.73,Default,Tsumiki,0,0,0,,{\fade(0,750)}That's just part of your kindness, isn't it?
+Dialogue: 0,0:06:14.90,0:06:17.73,Default,Tsumiki,0,0,0,,{\fade(0,750)}That just shows that you care.
 Dialogue: 0,0:06:19.69,0:06:22.52,Default,Fushiguro,0,0,0,,I don't have a particular preference.
 Dialogue: 0,0:06:23.24,0:06:28.45,Default,Fushiguro,0,0,0,,As long as the person has an \Nunshakable character, I won't ask for more.
 Dialogue: 0,0:06:30.75,0:06:32.41,Default,Kugisaki,0,0,0,,Good answer.

@@ -204,7 +204,7 @@ Dialogue: 5,0:09:48.86,0:09:50.32,Default,Ijichi,0,0,0,,Yeah, I'm done for!
 Dialogue: 5,0:09:50.97,0:09:52.44,Default,Ijichi,0,0,0,,{\i1}Hello, I'm sorry.
 Dialogue: 5,0:09:53.77,0:09:55.82,Default,Nanami,0,0,0,,I just sent you my location.
 Dialogue: 5,0:09:55.82,0:09:57.72,Default,Nanami,0,0,0,,Please come and pick me up.
-Dialogue: 5,0:09:57.72,0:10:02.02,Default,Nanami,0,0,0,,I need to get back to Jujutsu Tech and receive treatment from Ieiri{**-san}.
+Dialogue: 5,0:09:57.72,0:10:02.02,Default,Nanami,0,0,0,,I need to get back to Jujutsu Tech and receive treatment from {*}Miss Ieiri{*Ieiri-san}.
 Dialogue: 5,0:10:02.70,0:10:03.79,Default,Ijichi,0,0,0,,{\i1}Treatment?
 Dialogue: 5,0:10:03.79,0:10:07.20,Default,Nanami,0,0,0,,Don't worry. It's not life-threatening.
 Dialogue: 5,0:10:07.50,0:10:08.59,Default,Ijichi,0,0,0,,That's good.
