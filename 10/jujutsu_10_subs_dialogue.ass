@@ -21,9 +21,9 @@ Video File: jujutsu_10_premux.mkv
 Keyframes File: jujutsu_10_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 303
-Active Line: 311
-Video Position: 33870
+Scroll Position: 129
+Active Line: 135
+Video Position: 15577
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -157,18 +157,18 @@ Dialogue: 5,0:10:00.10,0:10:01.48,Default,Yuji,0,0,0,,By force?
 Dialogue: 5,0:10:01.48,0:10:02.99,Default,Ijichi,0,0,0,,Yes, by force.
 Dialogue: 5,0:10:03.43,0:10:06.75,Default,Ijichi,0,0,0,,It's fine if it turns out to be a\N misunderstanding. We can apologize later.
 Dialogue: 5,0:10:07.16,0:10:08.23,Default,Ijichi,0,0,0,,However...
-Dialogue: 5,0:10:08.80,0:10:14.09,Default,Ijichi,0,0,0,,Four: if he's potentially as strong as a grade 2 sorcerer,
+Dialogue: 5,0:10:08.80,0:10:14.09,Default,Ijichi,0,0,0,,Four: if he's potentially as strong as a second-grade,
 Dialogue: 5,0:10:14.45,0:10:17.31,Default,Ijichi,0,0,0,,we'll retreat and meet back up with {*}Mr. Nanami{*Nanami-san}.
 Dialogue: 5,0:10:18.22,0:10:21.76,Default,Yuji,0,0,0,,I think I can just barely handle a second-grade.
 Dialogue: 5,0:10:21.76,0:10:23.39,Default,Ijichi,0,0,0,,If he were a cursed spirit, perhaps.
 Dialogue: 5,0:10:23.39,0:10:24.07,Default,,0,0,0,,Huh?
 Dialogue: 5,0:10:25.14,0:10:28.24,Default,Ijichi,0,0,0,,Fushiguro{**-kun} mentioned it before, remember?
 Dialogue: 5,0:10:28.24,0:10:32.57,Default,Ijichi,0,0,0,,Typically, cursed spirits are assigned to sorcerers of equal grade.
-Dialogue: 5,0:10:33.78,0:10:34.78,Default,Ijichi,0,0,0,,{\fade(100,0)}In other words,
-Dialogue: 5,0:10:34.78,0:10:38.55,Default,Ijichi,0,0,0,,a grade 2 sorcerer is expected to beat grade 2 curses,
-Dialogue: 5,0:10:38.55,0:10:42.79,Default,Ijichi,0,0,0,,{\fade(0,120)}but they're actually closer to the level of a grade 1 curse.
-Dialogue: 5,0:10:44.50,0:10:48.08,Default,Yuji,0,0,0,,Why haven't I been filled in \Nabout important details like that?
-Dialogue: 5,0:10:48.08,0:10:50.06,Default,Ijichi,0,0,0,,{\i1}Because {*}Mr. Gojo{*Gojo-san} is so irresponsible.
+Dialogue: 5,0:10:33.70,0:10:34.78,Default,Ijichi,0,0,0,,{\fade(200,0)}In other words,
+Dialogue: 5,0:10:34.78,0:10:38.55,Default,Ijichi,0,0,0,,a second-grade sorcerer is expected to beat second-grade curses,
+Dialogue: 5,0:10:38.55,0:10:42.91,Default,Ijichi,0,0,0,,{\fade(0,280)}but they're actually closer \Nto the level of a first-grade curse.
+Dialogue: 5,0:10:44.50,0:10:48.17,Default,Yuji,0,0,0,,Why haven't I been filled in \Nabout important details like that?
+Dialogue: 5,0:10:48.17,0:10:50.06,Default,Ijichi,0,0,0,,{\i1}Because {*}Mr. Gojo{*Gojo-san} is so irresponsible!
 Dialogue: 5,0:10:53.55,0:10:55.76,Default,Ijichi,0,0,0,,We're walking from here.
 Dialogue: 5,0:10:59.35,0:11:02.88,Default,Yuji,0,0,0,,Feels like I'm doing all the work, and I'm really not into it.
 Dialogue: 5,0:11:12.07,0:11:15.07,Default,Nanami,0,0,0,,If you plan to come out, please hurry up and do so.
@@ -236,7 +236,7 @@ Dialogue: 5,0:15:18.66,0:15:20.33,Default,Junpei,0,0,0,,You teachers...
 Dialogue: 5,0:15:20.33,0:15:23.71,Default,Junpei,0,0,0,,You graduate from school, and go work at schools.
 Dialogue: 5,0:15:23.71,0:15:28.92,Default,Junpei,0,0,0,,You've never experienced the real world, have you?
 Dialogue: 5,0:15:29.49,0:15:34.97,Default,Junpei,0,0,0,,That's how we end up \Nwith overgrown children like you, isn't it?
-Dialogue: 5,0:15:35.75,0:15:37.86,Default,Sayama,0,0,0,,{\fade(500,0)}Here, say "ahh."
+Dialogue: 5,0:15:35.75,0:15:37.86,Default,Sayama,0,0,0,,{\fade(500,0)}Open wide!
 Dialogue: 5,0:15:38.60,0:15:41.63,Default,Junpei,0,0,0,,You, and everyone else.
 Dialogue: 5,0:15:41.00,0:15:42.32,Default,Nishimura,0,0,0,,{\an8}Look over here!
 Dialogue: 5,0:15:44.43,0:15:47.88,Default,Mahito,0,0,0,,I support everything you represent.

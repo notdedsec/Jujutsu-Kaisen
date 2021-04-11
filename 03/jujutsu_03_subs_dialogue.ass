@@ -21,10 +21,10 @@ Video File: jujutsu_03_premux.mkv
 Keyframes File: jujutsu_03_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 327
-Active Line: 331
-Video Position: 33314
+Video Zoom Percent: 0.375000
+Scroll Position: 156
+Active Line: 164
+Video Position: 12575
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -124,7 +124,7 @@ Dialogue: 0,0:05:20.13,0:05:23.18,Default,Gojo,0,0,0,,Not to mention, two of you
 Dialogue: 0,0:05:23.51,0:05:25.93,Default,Gojo,0,0,0,,So of course we're going on a tour of Tokyo!
 Dialogue: 0,0:05:26.15,0:05:29.14,Default,Both,0,0,0,,Tokyo! Tokyo! Tokyo!
 Dialogue: 0,0:05:29.14,0:05:31.11,Default,Both,0,0,0,,We love Tokyo!
-Dialogue: 0,0:05:31.11,0:05:31.44,Default,Fushiguro,0,0,0,,Eh?
+Dialogue: 0,0:05:31.11,0:05:31.44,Default,Fushiguro,0,0,0,,What?
 Dialogue: 0,0:05:31.44,0:05:33.35,Default,Kugisaki,0,0,0,,TDL! I want to go to TDL!
 Dialogue: 0,0:05:33.35,0:05:35.57,Default,Yuji,0,0,0,,Idiot! TDL's in Chiba!
 Dialogue: 0,0:05:35.57,0:05:37.27,Default,Yuji,0,0,0,,Hey, let's go to Chinatown!
@@ -198,8 +198,7 @@ Dialogue: 0,0:08:32.95,0:08:34.20,Default,Kugisaki,0,0,0,,Now get moving!
 Dialogue: 0,0:08:36.12,0:08:39.37,Default,Yuji,0,0,0,,You're a roller coaster of emotions today!
 Dialogue: 0,0:08:39.37,0:08:41.13,Default,Kugisaki,0,0,0,,This is why girls don't like you!
 Dialogue: 0,0:08:41.50,0:08:44.09,Default,Yuji,0,0,0,,Why do you know that anyway?!
-Dialogue: 0,0:08:44.46,0:08:46.59,Default,Yuji,0,0,0,,I bet you're not popular either.
-Dialogue: 0,0:08:46.59,0:08:47.57,Default,Yuji,0,0,0,,Bitch.
+Dialogue: 0,0:08:44.46,0:08:47.57,Default,Yuji,0,0,0,,I bet you're not popular either, smartass.
 Dialogue: 0,0:08:58.01,0:09:03.57,Default,Curse,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Do... you need... a receipt?
 Dialogue: 0,0:09:03.81,0:09:05.14,Default,Yuji,0,0,0,,{\i1}It's a curse!
 Dialogue: 0,0:09:28.71,0:09:30.17,Default,Yuji,0,0,0,,I've got some moves!
@@ -233,7 +232,7 @@ Dialogue: 0,0:12:05.16,0:12:06.56,Default,Kugisaki,0,0,0,,{\i1}Nailed it.{Bruh. 
 Dialogue: 0,0:12:18.81,0:12:20.30,Default,Kugisaki,0,0,0,,{\i1}A child?
 Dialogue: 0,0:12:20.77,0:12:24.32,Default,Kugisaki,0,0,0,,{\i1}Must have snuck in for some fun and encountered the curse.
 Dialogue: 0,0:12:27.76,0:12:32.02,Default,Kugisaki,0,0,0,,Hey, it's all right now. Come on out.
-Dialogue: 0,0:12:33.65,0:12:34.98,Default,Kugisaki,0,0,0,,Eh?!
+Dialogue: 0,0:12:33.69,0:12:34.98,Default,Kugisaki,0,0,0,,{\c&H1E1E1E&\3c&HFFFFFF&\shad2.8}Huh?!
 Dialogue: 0,0:12:38.82,0:12:43.13,Default,Kugisaki,0,0,0,,I guess it's true that kids don't warm up to beautiful women.
 Dialogue: 0,0:12:43.13,0:12:44.32,Default,Kugisaki,0,0,0,,Guess I'll call Itadori.
 Dialogue: 0,0:12:44.32,0:12:45.07,Default,Child,0,0,0,,Wait!
@@ -247,8 +246,8 @@ Dialogue: 0,0:13:24.93,0:13:28.29,Default,Gojo,0,0,0,,Where the weight of human 
 Dialogue: 0,0:13:28.69,0:13:30.26,Default,Kugisaki,0,0,0,,Damn it, damn it, damn it!
 Dialogue: 0,0:13:30.26,0:13:32.24,Default,Kugisaki,0,0,0,,Damn it!
 Dialogue: 0,0:13:32.67,0:13:35.49,Default,Kugisaki,0,0,0,,{\i1}This curse isn't even all that strong!
-Dialogue: 0,0:13:35.79,0:13:37.00,Default,Kugisaki,0,0,0,,{\i1}Grade 4?
-Dialogue: 0,0:13:37.00,0:13:39.45,Default,Kugisaki,0,0,0,,{\i1}Maybe a lower grade 3 at best!
+Dialogue: 0,0:13:35.79,0:13:37.00,Default,Kugisaki,0,0,0,,{\i1}Fourth-grade?
+Dialogue: 0,0:13:37.00,0:13:39.45,Default,Kugisaki,0,0,0,,{\i1}Maybe a lower third-grade at best!
 Dialogue: 0,0:13:40.64,0:13:42.80,Default,Kugisaki,0,0,0,,{\i1}But it's aware of that!
 Dialogue: 0,0:13:42.80,0:13:45.97,Default,Kugisaki,0,0,0,,{\i1}That's why it chose to take a hostage!
 Dialogue: 0,0:13:47.89,0:13:49.47,Default,Kugisaki,0,0,0,,{\i1}Calm yourself down.
@@ -346,7 +345,7 @@ Dialogue: 0,0:20:39.63,0:20:42.42,Default,Narrator,0,0,0,,In the sky, just above
 Dialogue: 0,0:20:44.71,0:20:45.65,Default,Boy,0,0,0,,Hey...
 Dialogue: 0,0:20:47.18,0:20:48.42,Default,Boy,0,0,0,,What's that?
 Dialogue: 0,0:20:49.82,0:20:50.53,Default,Okazaki,0,0,0,,What?
-Dialogue: 0,0:20:51.07,0:20:54.50,Default,Narrator,0,0,0,,An unnamed apparition of a \Npotential Special Grade was discovered.
+Dialogue: 0,0:20:51.07,0:20:54.50,Default,Narrator,0,0,0,,An unnamed apparition of a \Npotential Special-grade was discovered.
 Dialogue: 0,0:20:55.08,0:20:59.09,Default,Narrator,0,0,0,,Its curse womb was witnessed by several non-jujutsu sorcerers.
 Dialogue: 0,0:21:00.42,0:21:02.37,Default,Boy,0,0,0,,That up there! Looks like an egg.
 Dialogue: 0,0:21:02.37,0:21:04.11,Default,Okazaki,0,0,0,,What are you talking about?

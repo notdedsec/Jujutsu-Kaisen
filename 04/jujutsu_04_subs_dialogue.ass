@@ -51,13 +51,13 @@ Dialogue: 0,0:00:46.53,0:00:50.48,Default,Ijichi,0,0,0,,we predict it will becom
 Dialogue: 0,0:00:50.95,0:00:52.25,Default,Both,0,0,0,,{\i1}Special-grade.
 Dialogue: 0,0:00:52.25,0:00:56.94,Default,Yuji,0,0,0,,Hey, so, I still don't really understand what "special-grade" means.
 Dialogue: 0,0:00:57.95,0:01:01.46,Default,Ijichi,0,0,0,,Then allow me to explain it on idiot level. {I would love to change this to "Then allow me to explain <i>Curses For Dummies.</i>"}
-Dialogue: 0,0:01:02.03,0:01:03.49,Default,Ijichi,0,0,0,,First, there's grade 4.
+Dialogue: 0,0:01:02.03,0:01:03.49,Default,Ijichi,0,0,0,,First, there's fourth-grade.
 Dialogue: 0,0:01:03.49,0:01:05.39,Default,Ijichi,0,0,0,,A wooden bat is enough for them.
-Dialogue: 0,0:01:05.39,0:01:06.29,Default,Ijichi,0,0,0,,Grade 3.
+Dialogue: 0,0:01:05.39,0:01:06.29,Default,Ijichi,0,0,0,,Third-grade.
 Dialogue: 0,0:01:06.29,0:01:08.23,Default,Ijichi,0,0,0,,If you have a handgun, you can rest easy.
-Dialogue: 0,0:01:08.69,0:01:09.51,Default,Ijichi,0,0,0,,Grade 2.
+Dialogue: 0,0:01:08.69,0:01:09.51,Default,Ijichi,0,0,0,,Second-grade.
 Dialogue: 0,0:01:09.51,0:01:11.04,Default,Ijichi,0,0,0,,It'll be a close call with a shotgun.
-Dialogue: 0,0:01:11.04,0:01:11.84,Default,Ijichi,0,0,0,,Grade 1.
+Dialogue: 0,0:01:11.04,0:01:11.84,Default,Ijichi,0,0,0,,First-grade.
 Dialogue: 0,0:01:11.84,0:01:13.73,Default,Ijichi,0,0,0,,Even a tank may be insufficient.
 Dialogue: 0,0:01:13.73,0:01:14.98,Default,Ijichi,0,0,0,,Then there's special-grade.
 Dialogue: 0,0:01:14.98,0:01:19.10,Default,Ijichi,0,0,0,,Let's say you {\i1}might{\i0} be on even footing\N if you carpet bomb it with cluster bombs.
@@ -100,11 +100,11 @@ Dialogue: 0,0:02:51.59,0:02:53.02,Default,Kugisaki,0,0,0,,Damn right we are.
 Comment: 0,0:02:54.94,0:02:54.98,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:04:24.99,0:04:25.04,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:04:29.54,0:04:30.73,Default,Ijichi,0,0,0,,{\an8}Be careful.
-Dialogue: 0,0:04:32.77,0:04:34.40,Default,Ijichi,0,0,0,,I'll put up my Veil.
+Dialogue: 0,0:04:32.77,0:04:34.40,Default,Ijichi,0,0,0,,I'll put up a veil.
 Dialogue: 0,0:04:34.90,0:04:37.25,Default,Ijichi,0,0,0,,Emerge from darkness, blacker than darkness.
 Dialogue: 0,0:04:37.25,0:04:39.51,Default,Ijichi,0,0,0,,Purify that which is impure.
 Dialogue: 0,0:04:47.05,0:04:49.04,Default,Yuji,0,0,0,,It's getting dark!
-Dialogue: 0,0:04:49.04,0:04:50.12,Default,Fushiguro,0,0,0,,It's a Veil.
+Dialogue: 0,0:04:49.04,0:04:50.12,Default,Fushiguro,0,0,0,,It's a veil.
 Dialogue: 0,0:04:50.12,0:04:52.33,Default,Fushiguro,0,0,0,,There's a residential area nearby,
 Dialogue: 0,0:04:52.33,0:04:54.78,Default,Fushiguro,0,0,0,,so this barrier conceals us from the outside world.
 Dialogue: 0,0:04:54.78,0:04:56.07,Default,Yuji,0,0,0,,That's incredible!
@@ -302,7 +302,7 @@ Dialogue: 0,0:18:24.88,0:18:28.05,Default,Ijichi,0,0,0,,After I drop Kugisaki{**
 Dialogue: 0,0:18:28.05,0:18:30.20,Default,Ijichi,0,0,0,,I'll return as quickly as possible.
 Dialogue: 0,0:18:30.20,0:18:33.88,Default,Fushiguro,0,0,0,,No, there wouldn't be much point in you staying here.
 Dialogue: 0,0:18:34.68,0:18:35.98,Default,Fushiguro,0,0,0,,If you want to do something,
-Dialogue: 0,0:18:35.98,0:18:39.98,Default,Fushiguro,0,0,0,,please ask them to send over a sorcerer grade 1 or higher.
+Dialogue: 0,0:18:35.98,0:18:39.98,Default,Fushiguro,0,0,0,,please ask them to send a first-grade or higher.
 Dialogue: 0,0:18:39.98,0:18:42.01,Default,Fushiguro,0,0,0,,Not that I imagine any are around.
 Dialogue: 0,0:18:42.01,0:18:43.82,Default,Ijichi,0,0,0,,I'll do what I can.
 Dialogue: 0,0:18:43.82,0:18:44.64,Default,Ijichi,0,0,0,,Later.
