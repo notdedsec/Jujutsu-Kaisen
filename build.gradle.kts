@@ -38,6 +38,12 @@ subs {
                 syncTargetTime(getAs<Duration>("edsync"))
             }
         }
+
+        if(propertyExists("IN")) {
+            from(get("IN")) {
+                syncTargetTime(getAs<Duration>("insync"))
+            }
+        }
     }
 
     swap {
