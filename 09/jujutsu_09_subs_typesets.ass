@@ -20,9 +20,10 @@ Audio File: jujutsu_09_premux.mkv
 Video File: jujutsu_09_premux.mkv
 Keyframes File: jujutsu_09_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Active Line: 6
-Video Position: 9059
+Video Zoom Percent: 0.500000
+Scroll Position: 27
+Active Line: 31
+Video Position: 30740
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,11 +31,38 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:14:38.06,0:14:39.75,Signs,Gojou&Screen,0,0,0,,{\fad(1026,1)}Divergent Fist
-Comment: 0,0:21:22.09,0:21:24.09,Signs,,0,0,0,,{\blur1\an5\pos(1331.96,514.83)\1c&HEBF2F4&\p1}m 11.07 0 l 0 578.94 196.97 580.82 205.1 8.79 11.07 0
-Comment: 1,0:21:22.09,0:21:24.09,Signs,,0,0,0,,{\blur15\clip(m 1434.54 232.46 l 1240.51 223.67 1239.74 223.64 1239.73 224.41 1228.66 803.35 1228.64 804.1 1229.4 804.11 1426.37 805.99 1427.12 806 1427.13 805.25 1435.26 233.22 1435.27 232.49 1434.54 232.46)\an5\pos(1341.395,520.385)\1c&H645751&\p1\1a&H44&}m 99.08 599.89 b 99.08 599.89 149.37 527.25 158.51 520.14 167.66 513.03 184.42 524.2 176.8 540.46 169.18 556.71 131.59 612.59 131.59 612.59 l 99.08 599.89 m 55.4 600.4 b 55.4 600.4 149.37 471.38 151.91 463.76 154.45 456.14 145.81 447 148.35 430.74 150.89 414.49 185.43 361.15 188.99 357.09 192.54 353.02 246.39 295.63 246.39 295.63 l 238.77 254.48 b 202.49 287.93 87.82 465.48 80.79 492.71 79.27 498.6 88.92 510.49 88.41 522.68 87.91 534.87 45.24 588.71 35.08 596.33 24.92 603.95 55.4 600.4 55.4 600.4 m 2.57 470.36 b 2.57 470.36 36.1 434.81 37.11 439.38 38.13 443.95 37.11 454.21 42.19 454.67 47.27 455.12 63.02 436.84 73.68 418.04 84.35 399.25 106.19 370.8 105.18 362.68 104.16 354.55 82.32 374.87 79.78 371.82 77.24 368.77 64.54 362.68 69.11 333.72 73.68 304.77 85.88 278.87 108.23 249.91 130.58 220.96 146.24 202.61 151.91 194.54 165.12 175.75 198.95 174.94 212.36 161.53 238.77 135.11 242.83 133.59 242.83 133.59 l 231.66 59.43 b 231.66 59.43 158.87 134.49 143.28 144.77 121.69 158.99 90.01 192.82 63.02 242.8 60.6 247.28 28.99 269.72 16.8 264.9 0 258.25 0.54 264.9 0.54 264.9 l 5.62 397.22 b 5.62 397.22 30.77 351.58 40.16 355.06 53.88 360.14 25.43 410.93 0.54 434.81 l 2.57 470.36 m 150.9 4.57 b 150.9 4.57 101.63 74.67 97.05 77.72 92.48 80.77 134.13 98.04 166.13 66.54 198.14 35.05 229.63 0 229.63 0 l 150.9 4.57 m 110.26 0 b 110.26 0 93.5 41.14 88.93 59.43 84.35 77.72 69.93 79.08 66.07 79.24 57.94 79.58 61.5 54.86 66.07 46.73 70.64 38.61 83.85 3.56 83.85 3.56 l 110.26 0
-Comment: 1,0:21:22.09,0:21:24.09,Signs,,0,0,0,,{\blur30\clip(m 1434.54 232.46 l 1240.51 223.67 1239.74 223.64 1239.73 224.41 1228.66 803.35 1228.64 804.1 1229.4 804.11 1426.37 805.99 1427.12 806 1427.13 805.25 1435.26 233.22 1435.27 232.49 1434.54 232.46)\an5\pos(1331.92,444.9)\c&H5A3225&\p1\1a&H79&}m 236.67 34.67 b 236.67 34.67 156.44 122.67 135.56 126 114.67 129.33 110.67 126.67 106 118 101.34 109.33 86 116 79.34 112 72.67 108 62 90.54 60.67 88.27 59.34 86 50.67 70.67 54.67 52.67 58.67 34.67 55.34 12 60.67 6 66 0 129.34 12.67 129.34 12.67 129.34 12.67 113.15 51.33 110.58 54 108 56.67 106.67 72.67 106.67 72.67 106.67 72.67 130.67 45.43 132.67 42.71 134.67 40 140.96 22 145.15 19.33 149.34 16.67 153.57 12 153.57 12 l 180 14 243.5 19.33 236.67 34.67 m 254 40 l 164 127.39 173.34 162.67 b 173.34 162.67 255.18 114.39 254 112.67 252.83 110.94 254 40 254 40 m 117.34 244 b 117.34 244 121.34 265.33 117.34 292 113.34 318.67 114.45 342.67 118.23 342 122 341.33 143.34 329 143.34 329 143.34 329 181.19 300 192.6 298 204 296 226.67 294 223.34 310 220 326 188 368 180 378 172 388 142.88 409.79 141.93 411.29 140.99 412.79 128.67 406 126 402.67 123.34 399.33 109.42 394.93 102.71 397.13 96 399.33 75.34 414 72.67 420 70 426 63.1 455.03 59.58 456.39 56.06 457.76 27.68 461.83 24.77 464.81 21.86 467.8 4 446 2 440 0 434 2.67 398.67 2 388 1.34 377.33 39.08 338.67 46.88 333.33 54.67 328 67.34 304.67 71.34 298.67 75.34 292.67 83.34 281.33 83.34 281.33 l 112.46 248.67 117.34 244 m 177.86 399.83 l 153.57 423.33 b 153.57 423.33 162.2 447.03 164 453.59 165.81 460.16 159.66 465.52 166.17 465.09 172.67 464.67 185.34 444.67 186.67 441.33 188 438 188 431.33 186.67 425.33 185.34 419.33 181.34 410 180.67 406.67 180 403.33 179.18 397.53 179.18 397.53 l 177.86 399.83
-Comment: 0,0:21:22.09,0:21:24.09,Signs,Sign,0,0,0,,{\fnNoto Sans\fs42\b1\c&HC86C4E&\3c&HC86C4E&\shad0\fax0.02\be1\frz359.1\pos(1331.06,739.73)}Pedestrians\NOnly
+Dialogue: 0,0:14:39.02,0:14:39.07,Signs,,0,0,0,,{\fnBrush Strokes\fs70\fax-0.03\be1\blur10\c&H000000&\frz354.7\pos(1434.27,503.87)}Divergent Fist
+Dialogue: 0,0:14:39.07,0:14:39.11,Signs,,0,0,0,,{\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1196.27,599.87)}Divergent Fist
+Dialogue: 0,0:14:39.11,0:14:39.15,Signs,,0,0,0,,{\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1420.27,441.87)}Divergent Fist
+Dialogue: 0,0:14:39.14,0:14:39.19,Signs,,0,0,0,,{=8}{\fscx100\fscy100\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1390.27,552.87)}Divergent Fist
+Dialogue: 0,0:14:39.19,0:14:39.23,Signs,,0,0,0,,{=8}{\fscx100.2\fscy100.2\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1203.29,448.47)}Divergent Fist
+Dialogue: 0,0:14:39.23,0:14:39.27,Signs,,0,0,0,,{=8}{\fscx100.4\fscy100.4\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1224.31,548.99)}Divergent Fist
+Dialogue: 0,0:14:39.27,0:14:39.31,Signs,,0,0,0,,{=8}{\fscx97.11\fscy97.11\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1341.5,458.15)}Divergent Fist
+Dialogue: 0,0:14:39.31,0:14:39.35,Signs,,0,0,0,,{=8}{\fscx97.32\fscy97.32\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1335.81,536.79)}Divergent Fist
+Dialogue: 0,0:14:39.35,0:14:39.39,Signs,,0,0,0,,{=8}{\fscx98.92\fscy98.92\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1257.09,460.44)}Divergent Fist
+Dialogue: 0,0:14:39.39,0:14:39.44,Signs,,0,0,0,,{=8}{\fscx98.93\fscy98.93\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1260.78,522.68)}Divergent Fist
+Dialogue: 0,0:14:39.44,0:14:39.48,Signs,,0,0,0,,{=8}{\fscx98.92\fscy98.92\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1307.77,481.07)}Divergent Fist
+Dialogue: 0,0:14:39.48,0:14:39.52,Signs,,0,0,0,,{=8}{\fscx98.82\fscy98.82\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1297.08,501.71)}Divergent Fist
+Dialogue: 0,0:14:39.52,0:14:39.56,Signs,,0,0,0,,{=8}{\fscx98.84\fscy98.84\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1285.6,492.55)}Divergent Fist
+Dialogue: 0,0:14:39.56,0:14:39.60,Signs,,0,0,0,,{=8}{\fscx98.86\fscy98.86\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1286.01,492.35)}Divergent Fist
+Dialogue: 0,0:14:39.60,0:14:39.65,Signs,,0,0,0,,{=8}{\fscx98.86\fscy98.86\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1286.27,492.11)}Divergent Fist
+Dialogue: 0,0:14:39.65,0:14:39.69,Signs,,0,0,0,,{=8}{\fscx98.83\fscy98.83\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1286.19,491.94)}Divergent Fist
+Dialogue: 0,0:14:39.69,0:14:39.73,Signs,,0,0,0,,{=8}{\fscx98.8\fscy98.8\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1286.04,491.75)}Divergent Fist
+Dialogue: 0,0:14:39.73,0:14:39.77,Signs,,0,0,0,,{=8}{\fscx98.8\fscy98.8\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1286.04,491.73)}Divergent Fist
+Dialogue: 0,0:14:39.77,0:14:39.81,Signs,,0,0,0,,{=8}{\fscx98.8\fscy98.8\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1286.04,491.72)}Divergent Fist
+Dialogue: 0,0:14:39.81,0:14:39.85,Signs,,0,0,0,,{=8}{\fscx98.79\fscy98.79\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1285.76,492.11)}Divergent Fist
+Dialogue: 0,0:14:39.85,0:14:39.90,Signs,,0,0,0,,{=8}{\fscx98.81\fscy98.81\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1285.64,492.55)}Divergent Fist
+Dialogue: 0,0:14:39.90,0:14:39.94,Signs,,0,0,0,,{=8}{\fscx98.8\fscy98.8\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1285.12,492.94)}Divergent Fist
+Dialogue: 0,0:14:39.94,0:14:39.98,Signs,,0,0,0,,{=8}{\fscx98.85\fscy98.85\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1285.18,493.56)}Divergent Fist
+Dialogue: 0,0:14:39.98,0:14:40.02,Signs,,0,0,0,,{=8}{\fscx98.89\fscy98.89\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1285.03,494.19)}Divergent Fist
+Dialogue: 0,0:14:40.02,0:14:40.06,Signs,,0,0,0,,{=8}{\fscx98.9\fscy98.9\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1284.65,494.65)}Divergent Fist
+Dialogue: 0,0:14:40.06,0:14:40.10,Signs,,0,0,0,,{=8}{\fscx98.88\fscy98.88\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1283.97,495.1)}Divergent Fist
+Dialogue: 0,0:14:40.10,0:14:40.15,Signs,,0,0,0,,{=8}{\fscx98.87\fscy98.87\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1283.35,495.56)}Divergent Fist
+Dialogue: 0,0:14:40.15,0:14:40.19,Signs,,0,0,0,,{=8}{\fscx98.9\fscy98.9\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1283.09,495.96)}Divergent Fist
+Dialogue: 0,0:14:40.19,0:14:40.23,Signs,,0,0,0,,{=8}{\fscx98.86\fscy98.86\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1282.24,496.33)}Divergent Fist
+Dialogue: 0,0:14:40.23,0:14:40.27,Signs,,0,0,0,,{=8}{\fscx98.81\fscy98.81\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1281.43,496.57)}Divergent Fist
+Dialogue: 0,0:14:40.27,0:14:40.40,Signs,,0,0,0,,{=8}{\fscx98.84\fscy98.84\alpha&H00&\fnBrush Strokes\fs70\fax-0.03\be1\c&H000000&\frz354.7\pos(1281.19,496.91)}Divergent Fist
+Dialogue: 0,0:21:22.09,0:21:24.09,Signs,Sign,0,0,0,,{\fnNoto Sans\fs25\b1\c&HA87361&\3c&HC86C4E&\shad0\fax0.02\be1\pos(1337.17,241.6)\frz357.4}Pe{\c&H97685A&}d{\c&H895C50&}es{\c&HA87361&}trian{\c&H895C50&}s Only
 Dialogue: 1,0:06:17.81,0:06:22.86,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Mincho Old Pro H-Fate\bord0\be1\fs98\pos(438,982)}Monday, 10:30 AM
 Dialogue: 0,0:06:17.81,0:06:22.86,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Mincho Old Pro H-Fate\bord0.1\blur2\fs98\pos(438,982)}Monday, 10:30 AM
 Dialogue: 1,0:11:41.88,0:11:46.10,Signs,Screen,0,0,0,,{\fad(1360,1)\fnIwata Mincho Old Pro H-Fate\bord0\be1\fs98\pos(438,982)}Monday, 11:15 AM
@@ -1816,3 +1844,4 @@ Data: 4,a-mo,e{"uuid"#3A"d6a73ee2-0dcd-4d88-9a53-eb5c52c677d5"#2C"originalText"#
 Data: 5,a-mo,e{"uuid"#3A"2376d814-613f-4b24-9f3e-fdd5c858d729"#2C"originalText"#3A"{\\fscx90\\fscy90\\p1\\xshad-2\\yshad-2\\blur2\\t(5000#2C6450#2C\\c&H000000)\\frz0.1836\\pos(956.8#2C1202.4)}m 0 0 l 905 -287 l 904 -350 l 0 -60"}
 Data: 6,a-mo,e{"uuid"#3A"48d46c27-5902-45a6-8d0b-c72c899fbe30"#2C"originalText"#3A"{\\fscx90\\fscy90\\p1\\c&HB5C4E7&\\be1\\t(5000#2C6450#2C\\c&H000000)\\frz0.1836\\pos(956.8#2C1202.4)}m 0 0 l 905 -287 l 904 -350 l 0 -60"}
 Data: 7,a-mo,e{"uuid"#3A"39c859f7-72e0-4114-b413-40894aa4c66c"#2C"originalText"#3A"{\\fscx90\\fscy90\\fade(0#2C3000)\\fnLino Stamp\\fs120\\c&H7996DF&\\be1\\fax-0.33\\blur15\\1a&H50&\\t(5000#2C6400#2C\\1a&HFF&)\\frz17.5\\pos(980#2C890)}IUIQKDNSJOIEWFMSDJD"}
+Data: 8,a-mo,e{"uuid"#3A"c89cab05-0091-47cc-9d4e-69691d269f86"#2C"originalText"#3A"{\\fnBrush Strokes\\fs70\\fax-0.03\\be1\\c&H000000&\\frz354.7\\pos(1390.27#2C552.87)}Divergent Fist"}
