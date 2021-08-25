@@ -21,9 +21,9 @@ Video File: jujutsu_24_premux.mkv
 Keyframes File: jujutsu_24_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 269
-Active Line: 273
-Video Position: 26510
+Scroll Position: 33
+Active Line: 37
+Video Position: 6415
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -61,20 +61,16 @@ Dialogue: 0,0:02:01.39,0:02:05.10,Default,,0,0,0,,{\i1}Supreme Rot Technique: De
 Dialogue: 0,0:02:11.44,0:02:12.53,Default,Kugisaki,0,0,0,,What?
 Comment: 0,0:02:12.99,0:02:13.03,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:03:42.99,0:03:43.04,Default,chptr,0,0,0,,{Part A}
-Dialogue: 0,0:03:43.82,0:03:46.95,Default,Eso,0,0,0,,{\an8}My blood, and my brothers' blood,
-Dialogue: 0,0:03:46.95,0:03:50.26,Default,Eso,0,0,0,,{\an8}is absorbed through wounds and membranes.
-Dialogue: 0,0:03:50.26,0:03:53.95,Default,Eso,0,0,0,,{\an8}If any of us brothers activates the technique,
-Dialogue: 0,0:03:53.95,0:03:58.00,Default,Eso,0,0,0,,{\an8}it begins to rot you away from the point of incursion.
+Dialogue: 0,0:03:43.82,0:03:50.26,Default,Eso,0,0,0,,{\an8}Me and my brothers' blood gets absorbed through wounds and membranes.
+Dialogue: 0,0:03:50.26,0:03:58.00,Default,Eso,0,0,0,,{\an8}When either of us activates the technique, \Nit begins to rot you away from the point of incursion.
 Dialogue: 0,0:03:58.28,0:04:01.26,Default,Eso,0,0,0,,I'd give that young man about fifteen minutes.
-Dialogue: 0,0:04:01.26,0:04:04.51,Default,Eso,0,0,0,,Ten minutes max for you, young lady.
+Dialogue: 0,0:04:01.26,0:04:04.51,Default,Eso,0,0,0,,Ten minutes tops for you, young lady.
 Dialogue: 0,0:04:05.23,0:04:08.30,Default,Eso,0,0,0,,By morning, nothing but bones will remain.
 Dialogue: 0,0:04:08.82,0:04:11.02,Default,Yuji,0,0,0,,{\i1}If it's a technique,
 Dialogue: 0,0:04:11.02,0:04:13.18,Default,Yuji,0,0,0,,{\i1}we just need to make them release it!
 Dialogue: 0,0:04:13.79,0:04:15.18,Default,Yuji,0,0,0,,So it{\i1} is{\i0} poisonous.
-Dialogue: 0,0:04:15.18,0:04:18.14,Default,Eso,0,0,0,,The result is essentially a poison,
-Dialogue: 0,0:04:18.14,0:04:22.19,Default,Eso,0,0,0,,but our technique is purely decomposition.
-Dialogue: 0,0:04:22.53,0:04:25.15,Default,Eso,0,0,0,,{\i1}Now that I've revealed our technique,
-Dialogue: 0,0:04:25.15,0:04:27.70,Default,Eso,0,0,0,,{\i1}they'll actually die even faster.
+Dialogue: 0,0:04:15.18,0:04:22.19,Default,Eso,0,0,0,,The result is essentially a poison, \Nbut our technique is purely decomposition.
+Dialogue: 0,0:04:22.53,0:04:27.70,Default,Eso,0,0,0,,{\i1}Now that I've revealed our technique, they'll actually die even faster.
 Dialogue: 0,0:04:28.12,0:04:31.20,Default,Eso,0,0,0,,So, what will you do now?
 Dialogue: 0,0:04:31.82,0:04:35.43,Default,Eso,0,0,0,,Brother, these sorcerers aren't anything special.
 Dialogue: 0,0:04:36.42,0:04:41.64,Default,Geto,0,0,0,,{\fade(200,0)}In the beginning of the Meiji Era, there was a unique girl who could bear a cursed spirit's child.{easiest solution: make "with a unique trait" lower priority in the sentence, by using commas. "there was a girl, with a unique trait, who could bear a cursed spirit's child."}{better solution: "there was a girl with a unique trait which allowed her to bear a cursed spirit's child./...with a unique trait that meant she was capable of bearing a cursed spirit's child/....with a unique trait which meant she could bear a cursed spirit's child/etc. There has to be some link between the "trait" and the "who could"}
@@ -231,7 +227,7 @@ Dialogue: 0,0:14:36.67,0:14:37.86,Default,Mahito,0,0,0,,{\an8}Jeez.
 Dialogue: 0,0:14:34.96,0:14:37.41,Default,Geto,0,0,0,,Eso and Kechizu were killed
 Dialogue: 0,0:14:37.41,0:14:39.31,Default,Geto,0,0,0,,by the first-years of Jujutsu Tech.
 Dialogue: 0,0:14:39.73,0:14:42.56,Default,Geto,0,0,0,,Itadori Yuji and his group.
-Dialogue: 0,0:14:52.90,0:14:57.53,Default,Phone,0,0,0,,{\i1\an8}The person you are calling is not answering.
+Dialogue: 0,0:14:52.90,0:14:57.53,Default,Phone,0,0,0,,{\an8}The person you are calling is not answering.
 Dialogue: 0,0:14:56.21,0:14:57.53,Default,Nitta,0,0,0,,I bet they're ignoring me!
 Dialogue: 0,0:14:58.10,0:15:00.49,Default,Nitta,0,0,0,,Where did those brats go?!
 Dialogue: 0,0:15:03.50,0:15:05.50,Default,Yuji,0,0,0,,Kugisaki, you all right?
@@ -308,10 +304,10 @@ Dialogue: 0,0:18:22.87,0:18:25.67,Default,Nitta,0,0,0,,{\an8}Didn't you learn ho
 Dialogue: 0,0:18:24.17,0:18:25.65,Default,Kugisaki,0,0,0,,I'm hungry.
 Dialogue: 0,0:18:25.67,0:18:30.37,Default,Nitta,0,0,0,,{\fade(0,280)\an8}Are you listening to me?! Hey, you!
 Dialogue: 0,0:18:25.65,0:18:27.96,Default,Kugisaki,0,0,0,,I wonder if there's a Splendid Sushi around here.
-Dialogue: 0,0:18:27.96,0:18:30.33,Default,Yuji,0,0,0,,Splendid Sushi's bullet train was epic, wasn't it?
+Dialogue: 0,0:18:27.96,0:18:30.33,Default,Yuji,0,0,0,,Splendid Sushi's bullet train was epic, right?
 Dialogue: 0,0:18:30.33,0:18:31.38,Default,Kugisaki,0,0,0,,{\fade(0,220)}Shut it.
 Comment: 0,0:18:32.09,0:18:32.13,Default,chptr,0,0,0,,{Part C}
-Dialogue: 0,0:18:32.80,0:18:37.93,Default,Gojo,0,0,0,,{\fade(150,0)}Man, it wasn't just a finger curse. \NWe analyzed the corpses, and guess what?
+Dialogue: 0,0:18:32.80,0:18:37.93,Default,Gojo,0,0,0,,{\fade(150,0)}Man, it wasn't just a finger curse. \NWe analyzed the corpses and guess what?
 Dialogue: 0,0:18:37.93,0:18:41.26,Default,Gojo,0,0,0,,Turns out they had consumed cursed objects!
 Dialogue: 0,0:18:42.30,0:18:44.98,Default,Gojo,0,0,0,,They each took out a special-grade.
 Dialogue: 0,0:18:44.98,0:18:47.29,Default,Gojo,0,0,0,,These first-years are the cream of the crop!
@@ -324,7 +320,7 @@ Dialogue: 0,0:18:59.70,0:19:02.03,Default,Utahime,0,0,0,,Everyone's busy, even m
 Dialogue: 0,0:19:02.03,0:19:04.65,Default,Utahime,0,0,0,,What now? Should I try asking the students?
 Dialogue: 0,0:19:04.65,0:19:08.29,Default,Gojo,0,0,0,,I'm a lightweight, so non-alcoholic drinks are fine.
 Dialogue: 0,0:19:08.63,0:19:11.14,Default,Gojo,0,0,0,,I'll leave the inviting to you, then.
-Dialogue: 0,0:19:15.84,0:19:19.81,Default,Gojo,0,0,0,,{\i1}We never know what might\N be listening around Utahime. 
+Dialogue: 0,0:19:15.84,0:19:19.81,Default,Gojo,0,0,0,,{\i1}We never know what might\N be listening around Utahime.
 Dialogue: 0,0:19:20.22,0:19:24.32,Default,Gojo,0,0,0,,{\i1}I don't want to assume \None of the students is the traitor.
 Dialogue: 0,0:19:24.32,0:19:26.22,Default,Gojo,0,0,0,,This is such a pain.
 Dialogue: 0,0:19:27.11,0:19:30.22,Default,Gojo,0,0,0,,Well, I'm counting on you, Mei{**-san}.
@@ -352,9 +348,9 @@ Dialogue: 0,0:20:41.29,0:20:42.80,Default,Yuji,0,0,0,,Don't you dare tell him.
 Dialogue: 0,0:20:54.85,0:20:55.89,Default,Toge,0,0,0,,Mustard leaf.
 Dialogue: 0,0:20:56.78,0:20:59.15,Default,Panda,0,0,0,,What's wrong? \NYour movements aren't as sharp today.
 Dialogue: 0,0:20:59.15,0:21:00.15,Default,Panda,0,0,0,,You getting weaker?
-Dialogue: 0,0:21:00.53,0:21:01.81,Default,Maki,0,0,0,,Shut up!
+Dialogue: 0,0:21:00.53,0:21:01.81,Default,Maki,0,0,0,,Can it!
 Dialogue: 0,0:21:01.81,0:21:04.16,Default,Maki,0,0,0,,I lost my edge after all that bed rest!
-Dialogue: 0,0:21:04.45,0:21:08.43,Default,Panda,0,0,0,,Anyway, did you hear about the first-years?
+Dialogue: 0,0:21:04.45,0:21:08.43,Default,Panda,0,0,0,,Anyway, did you hear about the juniors?
 Dialogue: 0,0:21:08.43,0:21:09.15,Default,Maki,0,0,0,,Yeah.
 Dialogue: 0,0:21:09.52,0:21:12.67,Default,Maki,0,0,0,,They took out three special-grades, right?
 Dialogue: 0,0:21:12.91,0:21:13.91,Default,Toge,0,0,0,,Salmon.

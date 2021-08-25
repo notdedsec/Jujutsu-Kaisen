@@ -21,13 +21,13 @@ Video File: jujutsu_02_premux.mkv
 Keyframes File: jujutsu_02_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 339
-Active Line: 347
-Video Position: 31968
+Scroll Position: 318
+Active Line: 331
+Video Position: 30647
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,110,110,60,1
+Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
@@ -68,7 +68,7 @@ Dialogue: 0,0:01:28.99,0:01:32.14,Default,Gojo,0,0,0,,Don't worry, I'm the stron
 Dialogue: 0,0:01:32.68,0:01:34.53,Default,Gojo,0,0,0,,Megumi, hold on to this.
 Dialogue: 0,0:01:35.37,0:01:36.34,Default,Fushiguro,0,0,0,,What is it?
 Dialogue: 0,0:01:36.34,0:01:38.16,Default,Gojo,0,0,0,,Kikufuku mochi from Kikusuian.
-Dialogue: 0,0:01:38.37,0:01:40.37,Default,Gojo,0,0,0,,It's Sendai's specialty, and it's super good.
+Dialogue: 0,0:01:38.37,0:01:40.37,Default,Gojo,0,0,0,,It's Sendai's specialty and it's super good.
 Dialogue: 0,0:01:40.37,0:01:42.87,Default,Gojo,0,0,0,,I recommend the zunda and cream flavor.
 Dialogue: 0,0:01:43.03,0:01:47.03,Default,Fushiguro,0,0,0,,{\i1}This guy actually went and bought souvenirs when people were dying out here!
 Dialogue: 0,0:01:47.03,0:01:48.13,Default,Gojo,0,0,0,,It's not a souvenir.
@@ -114,7 +114,7 @@ Dialogue: 0,0:04:09.55,0:04:11.18,Default,Gojo,0,0,0,,With that, let me reiterat
 Dialogue: 0,0:04:11.18,0:04:13.40,Default,Gojo,0,0,0,,You're gonna be executed!
 Dialogue: 0,0:04:14.82,0:04:17.49,Default,Yuji,0,0,0,,Your recap doesn't line up with the current events. {Optional. "Current events" sounds too much like formal news reports.}{reverted. this just reads better.}
 Dialogue: 0,0:04:17.49,0:04:19.61,Default,Gojo,0,0,0,,Hey now, I did try me best.
-Dialogue: 0,0:04:19.61,0:04:23.08,Default,Gojo,0,0,0,,The execution's still on, but I got your sentence suspended.
+Dialogue: 0,0:04:19.61,0:04:23.08,Default,Gojo,0,0,0,,The execution's still on, \Nbut I got your sentence suspended.
 Dialogue: 0,0:04:23.09,0:04:24.79,Default,Yuji,0,0,0,,Suspended?
 Dialogue: 0,0:04:25.29,0:04:27.00,Default,Yuji,0,0,0,,So you're not killing me right away?
 Dialogue: 0,0:04:27.46,0:04:29.62,Default,Gojo,0,0,0,,Yup, let me explain from the top.
@@ -133,7 +133,7 @@ Dialogue: 0,0:05:10.75,0:05:13.20,Default,Gojo,0,0,0,,They're demanding we kill 
 Dialogue: 0,0:05:14.32,0:05:16.66,Default,Gojo,0,0,0,,But that'd be a waste, don't you think?
 Dialogue: 0,0:05:16.66,0:05:18.03,Default,Yuji,0,0,0,,A waste?
 Dialogue: 0,0:05:18.03,0:05:22.87,Default,Gojo,0,0,0,,There's no guarantee that a vessel capable of controlling Sukuna will ever come around again.
-Dialogue: 0,0:05:22.87,0:05:24.93,Default,Gojo,0,0,0,,So this is what I proposed.
+Dialogue: 0,0:05:22.87,0:05:24.93,Default,Gojo,0,0,0,,So this is what I proposed:
 Dialogue: 0,0:05:26.05,0:05:30.88,Default,Gojo,0,0,0,,If we're going to kill you anyway, \Nwhy not kill you after you've absorbed all of Sukuna?
 Dialogue: 0,0:05:32.01,0:05:33.76,Default,Gojo,0,0,0,,The higher-ups agreed.
 Dialogue: 0,0:05:33.76,0:05:36.65,Default,Gojo,0,0,0,,So now you have two options.
@@ -258,7 +258,7 @@ Dialogue: 0,0:14:46.74,0:14:52.33,Default,Yaga,0,0,0,,Not late enough to get me 
 Dialogue: 0,0:14:52.33,0:14:55.51,Default,Yuji,0,0,0,,{\i1}That old dude's making cute stuff!
 Dialogue: 0,0:14:55.51,0:14:59.00,Default,Gojo,0,0,0,,If it's not enough to get mad about, \Nthen please cut me some slack.
 Dialogue: 0,0:14:59.00,0:15:01.80,Default,Gojo,0,0,0,,You're just making dolls, anyway.
-Dialogue: 0,0:15:01.80,0:15:03.17,Default,Gojo,0,0,0,,Eight minutes is no big deal, right?
+Dialogue: 0,0:15:01.80,0:15:03.17,Default,Gojo,0,0,0,,Eight minutes is no big deal!
 Dialogue: 0,0:15:03.72,0:15:05.73,Default,Gojo,0,0,0,,That's Principal Yaga Masamichi.
 Dialogue: 0,0:15:06.40,0:15:07.94,Default,Yaga,0,0,0,,That's the kid?
 Dialogue: 0,0:15:08.32,0:15:09.59,Default,Yuji,0,0,0,,Itadori Yuji!
@@ -275,7 +275,7 @@ Dialogue: 0,0:15:35.46,0:15:37.44,Default,Yuji,0,0,0,,Can't just leave them all 
 Dialogue: 0,0:15:37.44,0:15:38.63,Default,Yaga,0,0,0,,Why?
 Dialogue: 0,0:15:40.13,0:15:47.09,Default,Yaga,0,0,0,,People you don't even know are dying due to crimes, accidents, and diseases in the natural course of life.
 Dialogue: 0,0:15:47.51,0:15:48.84,Default,Gojo,0,0,0,,There he goes again.
-Dialogue: 0,0:15:48.84,0:15:53.09,Default,Yaga,0,0,0,,But you're telling me you can't overlook it when that death is caused by a curse?
+Dialogue: 0,0:15:48.84,0:15:53.09,Default,Yaga,0,0,0,,But you're telling me you can't overlook it \Nwhen that death is caused by a curse?
 Dialogue: 0,0:15:53.09,0:15:55.41,Default,Yuji,0,0,0,,It was someone's dying wish.
 Dialogue: 0,0:15:55.41,0:15:57.63,Default,Yuji,0,0,0,,I don't care about the details.
 Dialogue: 0,0:15:57.63,0:15:59.56,Default,Yuji,0,0,0,,I just wanna help people.
@@ -342,10 +342,10 @@ Comment: 0,0:20:03.44,0:20:04.41,Default,Yuji,0,0,0,,{\an8}Hello! {this even nee
 Dialogue: 0,0:20:04.05,0:20:06.09,Default,Gojo,0,0,0,,But you'll meet them soon enough.
 Dialogue: 0,0:20:04.84,0:20:06.08,Default,Yuji,0,0,0,,{\an8}Anyone home?
 Dialogue: 0,0:20:06.10,0:20:07.36,Default,Gojo,0,0,0,,There aren't many of them.
-Dialogue: 0,0:20:07.99,0:20:10.97,Default,Gojo,0,0,0,,There's really no reason for you to fight, you know?
+Dialogue: 0,0:20:07.99,0:20:10.97,Default,Gojo,0,0,0,,There's really no reason for you to fight, y'know?
 Dialogue: 0,0:20:11.41,0:20:14.40,Default,Gojo,0,0,0,,Fushiguro and I could retrieve Sukuna's fingers.
 Dialogue: 0,0:20:14.40,0:20:16.56,Default,Gojo,0,0,0,,You could just wait here.
-Dialogue: 0,0:20:16.98,0:20:18.99,Default,Yuji,0,0,0,,It's fine! I said I'd do it, and I'm doing it!
+Dialogue: 0,0:20:16.98,0:20:18.99,Default,Yuji,0,0,0,,It's fine! I said I'd do it and I'm doing it!
 Dialogue: 0,0:20:20.00,0:20:22.21,Default,Yuji,0,0,0,,Though lazing around...
 Dialogue: 0,0:20:22.70,0:20:23.82,Default,,0,0,0,,Hey.
 Dialogue: 0,0:20:23.82,0:20:28.00,Default,Yuji,0,0,0,,...while Fushiguro came in all beaten up to bring me a finger would be a funny sight.
@@ -355,25 +355,25 @@ Dialogue: 0,0:20:34.24,0:20:36.35,Default,Yuji,0,0,0,,Hey! Were you testing me?!
 Dialogue: 0,0:20:37.38,0:20:42.39,Default,Gojo,0,0,0,,If they were that easy to find, \Nwe would've found them all already.
 Dialogue: 0,0:20:42.88,0:20:44.89,Default,Gojo,0,0,0,,Some have an overwhelming presence.
 Dialogue: 0,0:20:44.89,0:20:46.67,Default,Gojo,0,0,0,,Some keep very quiet.
-Dialogue: 0,0:20:46.67,0:20:49.39,Default,Gojo,0,0,0,,Some have already been consumed by a cursed spirit.
-Dialogue: 0,0:20:49.83,0:20:54.78,Default,Gojo,0,0,0,,There's nothing more annoying when it comes to searching for them.
+Dialogue: 0,0:20:46.67,0:20:49.39,Default,Gojo,0,0,0,,Some have already been consumed by curses.
+Dialogue: 0,0:20:49.83,0:20:54.78,Default,Gojo,0,0,0,,Nothing's more annoying than that when it comes to searching for them.
 Dialogue: 0,0:20:54.78,0:20:56.78,Default,Gojo,0,0,0,,But now we have you.
 Dialogue: 0,0:20:57.28,0:21:02.41,Default,Gojo,0,0,0,,{\fade(0,300)}To regain his power, the Sukuna within you \Nwill direct you to all the other fingers.
-Dialogue: 0,0:21:02.91,0:21:07.20,Default,Gojo,0,0,0,,You're both vessel and locator, our very own radar.
+Dialogue: 0,0:21:02.91,0:21:07.20,Default,Gojo,0,0,0,,You're both vessel and locator—our very own radar.
 Dialogue: 0,0:21:07.20,0:21:10.08,Default,Gojo,0,0,0,,So we won't get anywhere without you in the field.
 Dialogue: 0,0:21:10.08,0:21:12.96,Default,Yuji,0,0,0,,You think he's going to be that nice?
 Dialogue: 0,0:21:13.59,0:21:16.63,Default,Gojo,0,0,0,,I think we can come to a win-win agreement there.
 Dialogue: 0,0:21:16.63,0:21:18.20,Default,Fushiguro,0,0,0,,Wait, you're next door?
-Dialogue: 0,0:21:18.20,0:21:21.85,Default,Yuji,0,0,0,,Oh, Fushiguro! You're looking good for real this time.
-Dialogue: 0,0:21:21.85,0:21:24.36,Default,Fushiguro,0,0,0,,There were a bunch of empty rooms, weren't there?
-Dialogue: 0,0:21:24.36,0:21:27.81,Default,Gojo,0,0,0,,I thought it'd be more lively this way, you know—
+Dialogue: 0,0:21:18.20,0:21:21.85,Default,Yuji,0,0,0,,Oh, Fushiguro!\N You're looking good for real this time.
+Dialogue: 0,0:21:21.85,0:21:24.36,Default,Fushiguro,0,0,0,,There were a bunch of \Nother empty rooms, weren't there?
+Dialogue: 0,0:21:24.36,0:21:27.81,Default,Gojo,0,0,0,,I thought it'd be more lively this way, y'know—
 Dialogue: 0,0:21:27.81,0:21:29.71,Default,Fushiguro,0,0,0,,Classes and missions are enough.
 Dialogue: 0,0:21:29.71,0:21:31.07,Default,Fushiguro,0,0,0,,This was an unwelcome favor.
 Dialogue: 0,0:21:31.07,0:21:33.61,Default,Yuji,0,0,0,,Wow, it's so organized in here.
 Dialogue: 0,0:21:33.61,0:21:37.19,Default,Fushiguro,0,0,0,,Back off. I just said you're not welcome!
 Dialogue: 0,0:21:37.19,0:21:39.44,Default,Gojo,0,0,0,,Well, it's all good.
 Dialogue: 0,0:21:39.44,0:21:41.66,Default,Gojo,0,0,0,,More importantly, we're heading out tomorrow!
-Dialogue: 0,0:21:42.03,0:21:45.66,Default,Gojo,0,0,0,,We're gonna go pick up the third first-year.
+Dialogue: 0,0:21:42.03,0:21:45.66,Default,Gojo,0,0,0,,We're gonna go pick up the third newcomer.
 Dialogue: 0,0:21:48.26,0:21:50.95,Default,Station,0,0,0,,{\i1\an8}The train bound for Tokyo is now arriving.
 Dialogue: 0,0:21:52.17,0:21:54.96,Default,Station,0,0,0,,{\i1\an8}For your safety, please stand behind the yellow line.
 Dialogue: 0,0:21:57.93,0:22:00.88,Default,Kugizaki,0,0,0,,It took four hours just to get as far as Morioka.

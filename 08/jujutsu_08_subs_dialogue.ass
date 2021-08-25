@@ -21,20 +21,20 @@ Video File: jujutsu_08_premux.mkv
 Keyframes File: jujutsu_08_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 298
-Active Line: 304
-Video Position: 32019
+Scroll Position: 78
+Active Line: 80
+Video Position: 8398
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,140,140,60,1
+Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:12.28,0:00:15.44,Default,Kugisaki,0,0,0,,Couldn't they put in a few more vending machines?
-Dialogue: 0,0:00:15.87,0:00:19.87,Default,Fushiguro,0,0,0,,They can't. We're strict about who we do business with.
+Dialogue: 0,0:00:15.87,0:00:19.87,Default,Fushiguro,0,0,0,,They can't. \NWe're strict about who we do business with.
 Dialogue: 0,0:00:19.87,0:00:20.91,Default,Panda,0,0,0,,Huh?
 Dialogue: 0,0:00:21.54,0:00:22.83,Default,Panda,0,0,0,,Where's the freshman crew?
 Dialogue: 0,0:00:23.50,0:00:24.55,Default,Maki,0,0,0,,Running errands.
@@ -52,12 +52,12 @@ Dialogue: 0,0:00:43.10,0:00:46.28,Default,Panda,0,0,0,,Rumor has it that the hig
 Dialogue: 0,0:00:46.28,0:00:50.74,Default,Panda,0,0,0,,{\fade(0,500)}arranged for the dispatch of first-years on that special-grade case.
 Dialogue: 0,0:00:51.49,0:00:54.75,Default,Panda,0,0,0,,The principal of Kyoto is one of them, isn't he?
 Dialogue: 0,0:00:54.75,0:00:57.12,Default,Panda,0,0,0,,What if they run into each other?
-Dialogue: 0,0:00:57.95,0:01:02.33,Default,Maki,0,0,0,,The person they were targeting, Itadori, is dead.
+Dialogue: 0,0:00:57.95,0:01:02.33,Default,Maki,0,0,0,,Itadori was their target and he is dead.
 Dialogue: 0,0:01:02.33,0:01:05.50,Default,Maki,0,0,0,,I doubt he has any plans to harm the other two.
 Dialogue: 0,0:01:07.08,0:01:12.30,Default,Maki,0,0,0,,Besides, the old man from Kyoto won't cause a scene in broad daylight.
 Dialogue: 0,0:01:12.59,0:01:13.68,Default,Toge,0,0,0,,Salmon.
 Dialogue: 0,0:01:14.46,0:01:16.85,Default,Panda,0,0,0,,Teachers might have their reputations to worry about,
-Dialogue: 0,0:01:16.85,0:01:18.89,Default,Panda,0,0,0,,but students have no reason to hold back, you know.
+Dialogue: 0,0:01:16.85,0:01:18.89,Default,Panda,0,0,0,,but students don't really have a reason to hold back.
 Dialogue: 0,0:01:18.89,0:01:21.96,Default,Maki,0,0,0,,Are you saying Mai is coming?
 Dialogue: 0,0:01:22.39,0:01:23.81,Default,Panda,0,0,0,,It's just a hunch.
 Dialogue: 0,0:01:23.81,0:01:26.86,Default,Panda,0,0,0,,I know students have no reason to join the meeting,
@@ -84,9 +84,9 @@ Dialogue: 0,0:02:15.78,0:02:18.48,Default,Mai,0,0,0,,"Vessel" makes it sound nic
 Dialogue: 0,0:02:18.48,0:02:21.20,Default,Mai,0,0,0,,but he was just a half-curse monster.
 Dialogue: 0,0:02:22.21,0:02:25.25,Default,Mai,0,0,0,,Having such a vile facade of a human beside you
 Dialogue: 0,0:02:25.25,0:02:30.00,Default,Mai,0,0,0,,brazenly calling himself a jujutsu sorcerer \Nmust have been revolting, right?
-Dialogue: 0,0:02:30.49,0:02:33.50,Default,Mai,0,0,0,,Aren't you feeling relieved now that he's dead?
+Dialogue: 0,0:02:30.49,0:02:33.50,Default,Mai,0,0,0,,Aren't you relieved now that he's dead?
 Dialogue: 0,0:02:36.01,0:02:39.47,Default,Todo,0,0,0,,Mai, stop talking nonsense.
-Dialogue: 0,0:02:40.22,0:02:45.60,Default,Todo,0,0,0,,I just want to see if they are \Nworthy replacements for Okkotsu.
+Dialogue: 0,0:02:40.22,0:02:45.60,Default,Todo,0,0,0,,I just want to see if they're \Nworthy replacements for Okkotsu.
 Dialogue: 0,0:02:46.64,0:02:48.60,Default,Todo,0,0,0,,That's why I'm here.
 Dialogue: 0,0:02:50.36,0:02:52.48,Default,Todo,0,0,0,,Fushiguro, was it?
 Dialogue: 0,0:02:53.44,0:02:55.61,Default,Todo,0,0,0,,What type of girls do you like?
@@ -100,7 +100,7 @@ Dialogue: 0,0:04:52.77,0:04:54.77,Default,Fushiguro,0,0,0,,{\an8}Why do I have t
 Dialogue: 0,0:04:54.77,0:04:57.56,Default,Fushiguro,0,0,0,,{\an8}my taste in women with a guy I just met?
 Dialogue: 0,0:04:58.94,0:04:59.86,Default,Kugisaki,0,0,0,,He's right.
 Dialogue: 0,0:04:59.86,0:05:01.86,Default,Kugisaki,0,0,0,,That's a tall hurdle for an antisocial guy.
-Dialogue: 0,0:05:02.24,0:05:03.61,Default,Fushiguro,0,0,0,,Shut up.
+Dialogue: 0,0:05:02.24,0:05:03.61,Default,Fushiguro,0,0,0,,Can it.
 Dialogue: 0,0:05:03.61,0:05:07.02,Default,Fushiguro,0,0,0,,The situation is bad enough without you complicating it.
 Dialogue: 0,0:05:07.53,0:05:10.67,Default,Todo,0,0,0,,Kyoto, third-year, Todo Aoi.{Kyoto. Third-year. Todo Aoi.*?}
 Dialogue: 0,0:05:10.67,0:05:12.58,Default,Todo,0,0,0,,Introduction over.
@@ -113,8 +113,7 @@ Dialogue: 0,0:05:27.55,0:05:30.85,Default,Todo,0,0,0,,And I hate boring men.
 Dialogue: 0,0:05:31.57,0:05:36.85,Default,Todo,0,0,0,,The exchange event is where my soul can be free\N as blood boils and flesh clashes.
 Dialogue: 0,0:05:36.85,0:05:43.36,Default,Todo,0,0,0,,Who knows what I might do if my last exchange event ends up being boring?
 Dialogue: 0,0:05:43.36,0:05:46.49,Default,Kugisaki,0,0,0,,Hey, aren't the Jujutsu Tech schools four-year schools?
-Dialogue: 0,0:05:46.49,0:05:49.09,Default,Fushiguro,0,0,0,,Only third-years and under can join the exchange event.
-Dialogue: 0,0:05:49.09,0:05:50.16,Default,Kugisaki,0,0,0,,Heh?
+Dialogue: 0,0:05:46.49,0:05:49.20,Default,Fushiguro,0,0,0,,Only third-years and under can join the exchange event.
 Dialogue: 0,0:05:51.33,0:05:54.88,Default,Todo,0,0,0,,As a token of my kindness, \NI'll let you off only half-dead right now.
 Dialogue: 0,0:05:54.88,0:05:56.34,Default,Todo,0,0,0,,Answer me, Fushiguro.
 Dialogue: 0,0:05:56.34,0:05:58.35,Default,Todo,0,0,0,,What type of girls do you like?
@@ -124,7 +123,7 @@ Dialogue: 0,0:06:03.53,0:06:05.73,Default,Kugisaki,0,0,0,,Ticks me off, but I'm 
 Dialogue: 0,0:06:06.19,0:06:09.73,Default,Fushiguro,0,0,0,,{\i1}Kugisaki is unarmed. I'd rather avoid conflict.
 Dialogue: 0,0:06:12.06,0:06:14.90,Default,Tsumiki,0,0,0,,Not forgiving people isn't a bad thing.
 Dialogue: 0,0:06:14.90,0:06:17.73,Default,Tsumiki,0,0,0,,{\fade(0,750)}That just shows that you care.
-Dialogue: 0,0:06:19.69,0:06:22.52,Default,Fushiguro,0,0,0,,I don't have a particular preference.
+Dialogue: 0,0:06:19.69,0:06:22.52,Default,Fushiguro,0,0,0,,I don't have any particular preference.
 Dialogue: 0,0:06:23.24,0:06:28.45,Default,Fushiguro,0,0,0,,As long as the person has an \Nunshakable character, I won't ask for more.
 Dialogue: 0,0:06:30.75,0:06:32.41,Default,Kugisaki,0,0,0,,Good answer.
 Dialogue: 0,0:06:32.41,0:06:35.41,Default,Kugisaki,0,0,0,,If you had said something like "big boobs," \NI'd have killed you myself.
@@ -191,13 +190,12 @@ Dialogue: 0,0:10:52.42,0:10:56.48,Default,Panda,0,0,0,,Go on home, or I'll start
 Dialogue: 0,0:10:56.48,0:10:58.71,Default,Todo,0,0,0,,You don't have to tell me to go home.
 Dialogue: 0,0:10:59.22,0:11:00.99,Default,Todo,0,0,0,,Where'd I put my jacket?
 Dialogue: 0,0:11:03.16,0:11:06.89,Default,Todo,0,0,0,,This might not be as boring as I thought.
-Dialogue: 0,0:11:09.52,0:11:13.35,Default,,0,0,0,,Be sure to tell Okkotsu to show up.
+Dialogue: 0,0:11:09.52,0:11:13.65,Default,,0,0,0,,Be sure to tell Okkotsu to show up.
 Dialogue: 0,0:11:14.07,0:11:15.32,Default,Panda,0,0,0,,{\i1}What a pain.
 Dialogue: 0,0:11:15.32,0:11:18.57,Default,Panda,0,0,0,,I panda. I no understand human speech.
 Dialogue: 0,0:11:18.57,0:11:19.60,Default,Toge,0,0,0,,Salmon.
-Dialogue: 0,0:11:25.37,0:11:27.29,Default,Mai,0,0,0,,If you want to continue as a jujutsu sorcerer,
-Dialogue: 0,0:11:27.29,0:11:29.79,Default,Mai,0,0,0,,then you better watch who you pick fights with.
-Dialogue: 0,0:11:33.96,0:11:37.30,Default,Maki,0,0,0,,What do you think you're doing to our errand runner, Mai?
+Dialogue: 0,0:11:25.37,0:11:29.79,Default,Mai,0,0,0,,If you want to continue as a sorcerer,\N you better watch who you pick fights with.
+Dialogue: 0,0:11:33.96,0:11:37.30,Default,Maki,0,0,0,,What do you think you're doing \Nto our errand runner, Mai?
 Dialogue: 0,0:11:37.30,0:11:38.34,Default,Mai,0,0,0,,Oh, my.
 Dialogue: 0,0:11:38.34,0:11:42.22,Default,Mai,0,0,0,,You're so worthless, I didn't even notice you, Maki.
 Dialogue: 0,0:11:42.68,0:11:44.72,Default,Maki,0,0,0,,We're both equally worthless, you know.
@@ -206,7 +204,7 @@ Dialogue: 0,0:11:47.80,0:11:49.93,Default,Maki,0,0,0,,and you've got shit for cu
 Dialogue: 0,0:11:49.93,0:11:52.06,Default,Mai,0,0,0,,Better than having no cursed energy at all.
 Dialogue: 0,0:11:52.06,0:11:54.76,Default,Mai,0,0,0,,My neck gets sore looking up at others all the time,
 Dialogue: 0,0:11:54.76,0:11:57.03,Default,Mai,0,0,0,,so I need someone like you to look down on.
-Dialogue: 0,0:11:57.53,0:12:01.28,Default,Maki,0,0,0,,Ah, forget it. We're both at rock bottom, and it's pathetic.
+Dialogue: 0,0:11:57.53,0:12:01.45,Default,Maki,0,0,0,,Ah, forget it. \NWe're both at rock bottom, and it's pathetic.
 Dialogue: 0,0:12:01.99,0:12:03.62,Default,Maki,0,0,0,,Nobara, can you stand?
 Dialogue: 0,0:12:03.62,0:12:04.88,Default,Mai,0,0,0,,No way.
 Dialogue: 0,0:12:04.88,0:12:06.77,Default,Mai,0,0,0,,She won't be getting up for a while.
@@ -254,7 +252,7 @@ Dialogue: 0,0:14:18.99,0:14:20.60,Default,Maki,0,0,0,,To piss people off.
 Dialogue: 0,0:14:21.76,0:14:26.83,Default,Maki,0,0,0,,When I become a big-shot sorcerer after \Nall the years my family spent looking down on me,
 Dialogue: 0,0:14:26.83,0:14:29.43,Default,Maki,0,0,0,,I can't wait to see the looks on their faces.
 Dialogue: 0,0:14:31.31,0:14:33.93,Default,Maki,0,0,0,,Come on, let's hurry over to see {*}Miss Shoko{*Shoko-san}.
-Dialogue: 0,0:14:37.52,0:14:40.69,Default,Kugisaki,0,0,0,,You know, I really respect you, Maki{**-san}.
+Dialogue: 0,0:14:37.52,0:14:40.69,Default,Kugisaki,0,0,0,,You know, I really look up to you, Maki{**-san}.
 Dialogue: 0,0:14:40.69,0:14:41.73,Default,Maki,0,0,0,,That so?
 Comment: 0,0:14:48.99,0:14:49.03,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:15:05.18,0:15:07.17,Default,Gakuganji,0,0,0,,Is Yaga here yet?
@@ -270,7 +268,7 @@ Dialogue: 0,0:15:38.38,0:15:40.54,Default,Gojo,0,0,0,,I'm talking about Itadori 
 Dialogue: 0,0:15:40.54,0:15:43.46,Default,Gojo,0,0,0,,A conservative leader like you must've been involved, I imagine.
 Dialogue: 0,0:15:45.90,0:15:49.55,Default,Gakuganji,0,0,0,,My goodness, youth these days...
 Dialogue: 0,0:15:49.55,0:15:51.72,Default,Gakuganji,0,0,0,,Don't you know how to speak with respect?
-Dialogue: 0,0:15:52.35,0:15:54.77,Default,Gojo,0,0,0,,I never intended to.
+Dialogue: 0,0:15:52.26,0:15:54.77,Default,Gojo,0,0,0,,I never intended to.
 Dialogue: 0,0:15:54.77,0:15:58.52,Default,Gojo,0,0,0,,It pisses me off how high-and-mighty old folks are these days, honestly.
 Dialogue: 0,0:15:58.52,0:15:59.63,Default,Miwa,0,0,0,,Hey.
 Dialogue: 0,0:16:00.33,0:16:02.60,Default,Miwa,0,0,0,,Your conduct is problematic.
@@ -278,8 +276,8 @@ Dialogue: 0,0:16:02.60,0:16:05.91,Default,Miwa,0,0,0,,I'll be reporting you to t
 Dialogue: 0,0:16:07.07,0:16:08.24,Default,Miwa,0,0,0,,{\i1}Holy crap!
 Dialogue: 0,0:16:08.24,0:16:11.11,Default,Miwa,0,0,0,,{\i1}It's Gojo Satoru! Gojo Satoru in the flesh!
 Dialogue: 0,0:16:11.37,0:16:12.54,Default,Gojo,0,0,0,,Feel free.
-Dialogue: 0,0:16:12.94,0:16:15.05,Default,Gojo,0,0,0,,I don't plan to chat for long.
-Dialogue: 0,0:16:17.37,0:16:19.92,Default,Miwa,0,0,0,,{\i1}He talked! He talked to me!
+Dialogue: 0,0:16:12.99,0:16:15.41,Default,Gojo,0,0,0,,I don't plan to chat for long.
+Dialogue: 0,0:16:17.37,0:16:20.38,Default,Miwa,0,0,0,,{\i1}He talked! He talked to me!
 Dialogue: 0,0:16:21.97,0:16:26.24,Default,Gojo,0,0,0,,Last night, I was attacked by two unregistered special-grade cursed spirits.
 Dialogue: 0,0:16:26.24,0:16:29.76,Default,Gakuganji,0,0,0,,Oh? That is unfortunate.
 Dialogue: 0,0:16:30.34,0:16:32.18,Default,Gojo,0,0,0,,Don't get the wrong idea here.
@@ -303,13 +301,14 @@ Dialogue: 0,0:17:35.20,0:17:39.83,Default,Gakuganji,0,0,0,,I think you are getti
 Dialogue: 0,0:17:40.21,0:17:41.83,Default,Gojo,0,0,0,,Oh, scary!
 Dialogue: 0,0:17:42.21,0:17:45.36,Default,Gojo,0,0,0,,Well, I've said my piece, so I'm outta here.
 Dialogue: 0,0:17:50.53,0:17:53.39,Default,Gojo,0,0,0,,Oh, Principal Yaga should be here in about two hours.
-Dialogue: 0,0:17:53.39,0:17:54.72,Default,Gojo,0,0,0,,Later!
+Dialogue: 0,0:17:53.39,0:17:53.97,Default,Gojo,0,0,0,,{\pos(888,1020)}Later!
+Dialogue: 0,0:17:53.97,0:17:54.22,Default,Gojo,0,0,0,,{\clip(722.67,869.33,981.33,1069.33)\move(888,1020,1070,1020,20,228)}Later!
 Dialogue: 0,0:17:55.26,0:17:56.37,Default,Miwa,0,0,0,,{\i1}Two hours?!
 Dialogue: 0,0:18:01.18,0:18:04.17,Default,Gakuganji,0,0,0,,Miwa, would you go and get me some tea?
 Dialogue: 0,0:18:04.17,0:18:04.73,Default,Miwa,0,0,0,,Yes, sir.
 Dialogue: 0,0:18:08.47,0:18:09.88,Default,Miwa,0,0,0,,Excuse me.
 Dialogue: 0,0:18:15.37,0:18:18.32,Default,Miwa,0,0,0,,{\i1}If I hurry, maybe I can get a selfie with him!
-Dialogue: 0,0:18:23.29,0:18:26.41,Default,Todo,0,0,0,,Give me a Taka-tan Beam, please!
+Dialogue: 0,0:18:23.29,0:18:26.41,Default,Todo,0,0,0,,I'd like a Taka-tan Beam, please!
 Dialogue: 0,0:18:26.41,0:18:28.92,Default,Takada,0,0,0,,Sure, here I go!
 Dialogue: 0,0:18:29.50,0:18:32.16,Default,Takada,0,0,0,,Tan, Taka-tan!
 Dialogue: 0,0:18:36.38,0:18:37.10,Default,Staff,0,0,0,,Time's up.
@@ -348,10 +347,10 @@ Dialogue: 0,0:22:32.04,0:22:34.32,Default,Todo,0,0,0,,The moment is finally here
 Dialogue: 0,0:22:34.32,0:22:35.04,Default,Mai,0,0,0,,Huh?
 Dialogue: 0,0:22:35.49,0:22:36.54,Default,Mai,0,0,0,,What's this?
 Dialogue: 0,0:22:36.54,0:22:38.54,Default,Todo,0,0,0,,For the next handshake event.
-Dialogue: 0,0:22:38.54,0:22:41.92,Default,Todo,0,0,0,,You should go experience how wonderful Takada{**-chan} is in person.
-Dialogue: 0,0:22:41.92,0:22:43.84,Default,Mai,0,0,0,,{\i1}It's just plain annoying.
-Dialogue: 0,0:22:43.84,0:22:47.76,Default,Todo,0,0,0,,This is my duty as a fan, and as her future husband.
-Dialogue: 0,0:22:47.76,0:22:49.52,Default,Mai,0,0,0,,{\i1}That's just plain creepy.
+Dialogue: 0,0:22:38.54,0:22:41.92,Default,Todo,0,0,0,,You should go experience \Nhow wonderful Takada{**-chan} is in person.
+Dialogue: 0,0:22:41.92,0:22:43.84,Default,Mai,0,0,0,,{\i1}What a royal pain.
+Dialogue: 0,0:22:43.84,0:22:47.76,Default,Todo,0,0,0,,This is my duty as a fan and as her future husband.
+Dialogue: 0,0:22:47.76,0:22:49.52,Default,Mai,0,0,0,,{\i1}That's just creepy.
 Dialogue: 0,0:22:49.52,0:22:53.82,Default,Mai,0,0,0,,{\i1}But if I refuse, I'm sure he'll get even more annoying.
 Dialogue: 0,0:22:53.82,0:22:54.93,Default,Todo,0,0,0,,What's the matter?
 Dialogue: 0,0:22:59.83,0:23:01.44,Default,Mai,0,0,0,,Yeah, sure.

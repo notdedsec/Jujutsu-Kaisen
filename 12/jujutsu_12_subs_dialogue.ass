@@ -21,9 +21,9 @@ Video File: jujutsu_12_premux.mkv
 Keyframes File: jujutsu_12_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 231
-Active Line: 236
-Video Position: 30527
+Scroll Position: 216
+Active Line: 219
+Video Position: 29231
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,14 +41,14 @@ Dialogue: 5,0:00:20.45,0:00:25.20,Default,Nanami,0,0,0,,there's a strong possibi
 Dialogue: 5,0:00:28.55,0:00:30.34,Default,Nanami,0,0,0,,I'll be back soon.
 Dialogue: 5,0:00:30.34,0:00:32.98,Default,Nanami,0,0,0,,Please wait there, Itadori{**-kun}.
 Dialogue: 5,0:00:35.93,0:00:37.93,Default,Nanami,0,0,0,,{\i1}It was probably pointless to ask.
-Dialogue: 5,0:00:39.93,0:00:43.47,Default,Nanami,0,0,0,,You heard why, so I'll leave the rest of this to you, Ino{**-kun}.
+Dialogue: 5,0:00:39.93,0:00:43.47,Default,Nanami,0,0,0,,You heard the reason,\N so I'll leave the rest of this to you, Ino{**-kun}.
 Dialogue: 5,0:00:43.47,0:00:44.43,Default,Ino,0,0,0,,Huh?!
 Dialogue: 5,0:00:45.61,0:00:47.15,Default,Nanami,0,0,0,,Is there a problem with that?
 Dialogue: 5,0:00:47.60,0:00:49.78,Default,Ino,0,0,0,,Well, the count of them...
 Dialogue: 5,0:00:51.49,0:00:52.91,Default,Ino,0,0,0,,There's a lot.
 Dialogue: 5,0:00:53.49,0:00:55.49,Default,Ino,0,0,0,,And they're all humans, right?
 Dialogue: 5,0:00:55.95,0:01:00.62,Default,Nanami,0,0,0,,I wouldn't mind approving \Nyour first-grade recommendation.
-Dialogue: 5,0:01:04.84,0:01:09.72,Default,Ino,0,0,0,,Hell yeah! Let's get this done, baby!
+Dialogue: 5,0:01:04.84,0:01:09.72,Default,Ino,0,0,0,,Let's get this done, baby! Hell yeah! 
 Dialogue: 5,0:01:12.69,0:01:14.55,Default,Yuji,0,0,0,,Please step aside, {*}Mr. Ijichi{*Ijichi-san}.
 Dialogue: 5,0:01:16.06,0:01:19.06,Default,Ijichi,0,0,0,,Our job is to help others.
 Dialogue: 5,0:01:19.06,0:01:22.68,Default,Ijichi,0,0,0,,That includes students like yourself.
@@ -109,7 +109,7 @@ Dialogue: 5,0:07:12.35,0:07:13.77,Default,Junpei,0,0,0,,Otherwise...
 Dialogue: 5,0:07:15.50,0:07:16.61,Default,Junpei,0,0,0,,Otherwise...
 Dialogue: 5,0:07:17.50,0:07:22.88,Default,Junpei,0,0,0,,That would mean people cursed me and my mom with those hearts!
 Dialogue: 5,0:07:24.30,0:07:27.72,Default,Junpei,0,0,0,,That would just be too much...
-Dialogue: 5,0:07:28.01,0:07:33.35,Default,Junpei,0,0,0,,I don't know what is right, and what is wrong anymore!
+Dialogue: 5,0:07:28.01,0:07:33.35,Default,Junpei,0,0,0,,I don't know what is right and what is wrong anymore!
 Dialogue: 5,0:07:45.46,0:07:47.24,Default,Junpei,0,0,0,,Why didn't you dodge it?
 Dialogue: 5,0:07:51.73,0:07:52.45,Default,Yuji,0,0,0,,Sorry.
 Dialogue: 5,0:07:53.68,0:07:57.75,Default,Yuji,0,0,0,,I said a lot of self-important stuff \Nwithout knowing what you're going through.
@@ -166,7 +166,7 @@ Dialogue: 5,0:11:25.58,0:11:27.22,Default,Sukuna,0,0,0,,You'd offer up your prid
 Dialogue: 5,0:11:27.22,0:11:31.60,Default,Sukuna,0,0,0,,your future, your everything, to try to rely on me.
 Dialogue: 5,0:11:33.16,0:11:35.68,Default,Sukuna,0,0,0,,And you can't save anything!
 Dialogue: 5,0:11:36.01,0:11:37.93,Default,Mahito,0,0,0,,{\i1}He refused the pact?
-Dialogue: 5,0:11:38.63,0:11:43.27,Default,Mahito,0,0,0,,{\i1}It's not like he couldn't do something about it \Nusing a reverse cursed technique.
+Dialogue: 5,0:11:38.63,0:11:43.27,Default,Mahito,0,0,0,,{\i1}It's not like he couldn't do something about it using a reverse cursed technique.
 Dialogue: 5,0:11:44.79,0:11:47.06,Default,Mahito,0,0,0,,{\i1}Maybe he can't heal others?
 Dialogue: 5,0:11:48.27,0:11:49.61,Default,Sukuna,0,0,0,,How sad!
 Dialogue: 5,0:11:49.61,0:11:52.77,Default,Sukuna,0,0,0,,You couldn't be more pathetic, brat!
@@ -210,14 +210,14 @@ Dialogue: 5,0:15:16.31,0:15:21.11,Default,Mahito,0,0,0,,{\i1}I'll force him into
 Dialogue: 5,0:15:21.78,0:15:26.19,Default,Mahito,0,0,0,,{\i1}That should help us win Sukuna over, just as planned.
 Dialogue: 5,0:15:29.74,0:15:34.96,Default,Mahito,0,0,0,,{\i1}Though, all of that presumes that I'm stronger than him.
 Dialogue: 5,0:15:34.96,0:15:37.08,Default,Mahito,0,0,0,,{\i1}So why did he have to be
-Dialogue: 5,0:15:37.64,0:15:38.85,Default,Mahito,0,0,0,,{\i1}my natural enemy?
+Dialogue: 5,0:15:37.64,0:15:39.00,Default,Mahito,0,0,0,,{\i1}my natural enemy!
 Dialogue: 5,0:15:58.54,0:16:00.95,Default,Yuji,0,0,0,,{\i1}He keeps distorting his body!
 Dialogue: 5,0:16:00.95,0:16:04.36,Default,Yuji,0,0,0,,{\i1}Should I stop trying to grab and throw him?{hmm.. "grab-and-throw"?}
 Dialogue: 5,0:16:05.32,0:16:07.67,Default,Mahito,0,0,0,,{\i1}Now that I know his attacks work on me,
 Dialogue: 5,0:16:07.67,0:16:11.32,Default,Mahito,0,0,0,,{\i1}growing in size and giving him \Na bigger target isn't a good idea.
 Dialogue: 5,0:16:12.83,0:16:14.09,Default,Both,0,0,0,,{\i1}In that case...
 Dialogue: 5,0:16:12.83,0:16:14.09,Alt,Both,0,0,0,,{\i1}In that case...
-Dialogue: 5,0:16:14.37,0:16:17.37,Default,Yuji,0,0,0,,{\i1}It doesn't matter if it takes a hundred times or a thousand,
+Dialogue: 5,0:16:14.37,0:16:17.37,Default,Yuji,0,0,0,,{\i1}Doesn't matter if it takes a hundred times or a thousand,
 Dialogue: 5,0:16:18.49,0:16:20.83,Default,Yuji,0,0,0,,{\i1}I'll keep attacking him
 Dialogue: 5,0:16:21.65,0:16:23.47,Default,Yuji,0,0,0,,{\i1}until I take him down!
 Dialogue: 5,0:16:24.69,0:16:28.56,Default,Mahito,0,0,0,,{\i1}I need a form more honed toward murder.
@@ -242,7 +242,7 @@ Dialogue: 5,0:18:44.82,0:18:47.34,Default,Yuji,0,0,0,,that I'm gonna kill you.
 Dialogue: 5,0:19:22.61,0:19:23.36,Default,Yuji,0,0,0,,Huh?
 Dialogue: 5,0:19:34.97,0:19:35.89,Default,Yuji,0,0,0,,Nanamin!
 Dialogue: 5,0:19:41.37,0:19:43.12,Default,Nanami,0,0,0,,I'll lecture you later.
-Dialogue: 5,0:19:43.57,0:19:45.62,Default,Nanami,0,0,0,,What's the situation?
+Dialogue: 5,0:19:43.57,0:19:45.08,Default,Nanami,0,0,0,,What's the situation?
 Dialogue: 5,0:19:46.75,0:19:49.84,Default,Yuji,0,0,0,,I couldn't save Junpei and his mom.
 Dialogue: 5,0:19:50.75,0:19:53.34,Default,Nanami,0,0,0,,{\i1}Always putting others before himself.
 Dialogue: 5,0:19:54.05,0:19:56.84,Default,Nanami,0,0,0,,Explain your physical condition first.
@@ -252,7 +252,7 @@ Dialogue: 5,0:20:03.75,0:20:07.60,Default,Yuji,0,0,0,,Also, a bunch of students 
 Dialogue: 5,0:20:08.54,0:20:13.42,Default,Mahito,0,0,0,,Hey, you're alive and well, seven to three sorcerer!
 Dialogue: 5,0:20:13.42,0:20:16.29,Default,Mahito,0,0,0,,Glad to see we both survived.
 Dialogue: 5,0:20:16.79,0:20:18.57,Default,Mahito,0,0,0,,How about a hug?
-Dialogue: 5,0:20:19.16,0:20:21.28,Default,Mahito,0,0,0,,In celebration of our reunion!
+Dialogue: 5,0:20:19.16,0:20:21.28,Default,Mahito,0,0,0,,Let's celebrate our reunion!
 Dialogue: 5,0:20:27.13,0:20:29.59,Default,Nanami,0,0,0,,Itadori{**-kun}, why is his nose bleeding?
 Dialogue: 5,0:20:30.13,0:20:33.25,Default,Yuji,0,0,0,,Huh? Because I punched him.
 Dialogue: 5,0:20:33.25,0:20:34.17,Default,Nanami,0,0,0,,When?

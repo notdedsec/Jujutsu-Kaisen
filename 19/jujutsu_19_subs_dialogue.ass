@@ -21,10 +21,10 @@ Video File: jujutsu_19_premux.mkv
 Keyframes File: jujutsu_19_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 276
-Active Line: 285
-Video Position: 33469
+Video Zoom Percent: 0.625000
+Scroll Position: 57
+Active Line: 62
+Video Position: 8266
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,18 +38,17 @@ Dialogue: 0,0:00:11.10,0:00:13.59,Default,Fushiguro,0,0,0,,Are you all right, In
 Dialogue: 0,0:00:13.59,0:00:14.76,Default,Toge,0,0,0,,Salmon.
 Dialogue: 0,0:00:15.56,0:00:16.63,Default,Kamo,0,0,0,,Here it comes!
 Dialogue: 0,0:00:17.51,0:00:18.45,Default,Toge,0,0,0,,Stop!
-Dialogue: 0,0:00:20.72,0:00:21.46,Default,Kamo,0,0,0,,Convergence!
-Dialogue: 0,0:00:21.88,0:00:22.98,Default,Kamo,0,0,0,,Piercing Blood!
+Dialogue: 0,0:00:20.72,0:00:22.98,Default,Kamo,0,0,0,,Convergence: Piercing Blood!
 Dialogue: 0,0:00:25.80,0:00:27.99,Default,Fushiguro,0,0,0,,{\i1}He managed to wound it?
 Dialogue: 0,0:00:27.99,0:00:30.93,Default,Fushiguro,0,0,0,,{\i1}He wasn't serious at all when he fought me?
 Dialogue: 0,0:00:32.25,0:00:34.92,Default,Kamo,0,0,0,,Hurry! It's just gonna heal right away!
 Dialogue: 0,0:00:37.25,0:00:38.74,Default,Kamo,0,0,0,,{\i1}Inumaki will stop it,
-Dialogue: 0,0:00:38.74,0:00:41.33,Default,,0,0,0,,{\i1}we'll attack, and then we'll get away from it.
-Dialogue: 0,0:00:41.33,0:00:44.20,Default,Kamo,0,0,0,,{\i1}Then we repeat that as we try to get outside this veil{won't discussing a plan of action use "repeat that until we get outside" instead of talking about "trying", like they're gonna fail already?}{it's not a discussion, he's just thinking}
-Dialogue: 0,0:00:44.20,0:00:46.15,Default,,0,0,0,,{\i1}and rejoin the principal and the others.
+Dialogue: 0,0:00:38.74,0:00:41.33,Default,,0,0,0,,{\i1}we will attack, and then retreat.
+Dialogue: 0,0:00:41.33,0:00:44.15,Default,Kamo,0,0,0,,{\i1}We'll keep this up until we get outside the veil {won't discussing a plan of action use "repeat that until we get outside" instead of talking about "trying", like they're gonna fail already?}{it's not a discussion, he's just thinking}
+Dialogue: 0,0:00:44.15,0:00:46.15,Default,Kamo,0,0,0,,{\i1}and rejoin with the principal and the others.
 Dialogue: 0,0:00:47.34,0:00:50.92,Default,Kamo,0,0,0,,{\i1}But there's no telling when the current balance will fall apart.
 Dialogue: 0,0:00:53.40,0:00:55.93,Default,Kamo,0,0,0,,{\i1}His cursed speech isn't affecting it much anyway,
-Dialogue: 0,0:00:55.93,0:00:58.35,Default,Kamo,0,0,0,,{\i1}and we're not getting a chance to contact the teachers.
+Dialogue: 0,0:00:55.93,0:00:58.35,Default,Kamo,0,0,0,,{\i1}and we're not getting a\N chance to contact the teachers.
 Dialogue: 0,0:00:59.35,0:01:03.51,Default,Kamo,0,0,0,,{\i1}If it figures out how to deal with his cursed speech, we're finished.
 Dialogue: 0,0:01:06.38,0:01:07.36,Default,Kamo,0,0,0,,Hurry!
 Dialogue: 0,0:01:10.13,0:01:12.53,Default,Kamo,0,0,0,,{\i1}The cursed spirit's objective remains a mystery.
@@ -94,10 +93,10 @@ Dialogue: 0,0:05:07.82,0:05:10.31,Default,Hanami,0,0,0,,{\i1}It's going after my
 Dialogue: 0,0:05:12.55,0:05:15.60,Default,Hanami,0,0,0,,{\i1}The sorcerer boy is in the forest...
 Dialogue: 0,0:05:20.16,0:05:21.60,Default,Hanami,0,0,0,,{\i1}The boy's sword!
 Dialogue: 0,0:05:25.10,0:05:26.01,Default,Fushiguro,0,0,0,,Maki{**-san}!
-Dialogue: 0,0:05:34.86,0:05:37.70,Default,Fushiguro,0,0,0,,Please don't ever make me use a three-section staff again!
-Dialogue: 0,0:05:38.24,0:05:39.67,Default,Fushiguro,0,0,0,,It's not cut out for me!
-Dialogue: 0,0:05:39.67,0:05:41.10,Default,Maki,0,0,0,,It's handy once you get used—
-Dialogue: 0,0:05:41.42,0:05:42.53,Default,Maki,0,0,0,,Megumi!
+Dialogue: 0,0:05:34.86,0:05:37.90,Default,Fushiguro,0,0,0,,Don't ever make me use a \Nthree-section staff again, please!
+Dialogue: 0,0:05:38.32,0:05:39.57,Default,Fushiguro,0,0,0,,It's not cut out for me!
+Dialogue: 0,0:05:39.86,0:05:41.11,Default,Maki,0,0,0,,It's handy once you get—
+Dialogue: 0,0:05:41.53,0:05:42.53,Default,Maki,0,0,0,,Megumi!
 Dialogue: 0,0:05:47.64,0:05:48.68,Default,Fushiguro,0,0,0,,Maki{**-san}!
 Dialogue: 0,0:05:49.04,0:05:51.66,Default,Fushiguro,0,0,0,,{\i1}Damn it! All because I screwed up!
 Dialogue: 0,0:05:53.79,0:05:56.55,Default,Hanami,0,0,0,,My strike was aimed at your heart.
@@ -110,7 +109,7 @@ Dialogue: 0,0:06:17.67,0:06:21.19,Default,Hanami,0,0,0,,I wouldn't use cursed te
 Dialogue: 0,0:06:21.57,0:06:25.54,Default,Hanami,0,0,0,,The bud I planted in you loves cursed energy.
 Dialogue: 0,0:06:25.54,0:06:30.68,Default,Hanami,0,0,0,,The more you use techniques, \Nthe deeper its roots will extend into you.
 Dialogue: 0,0:06:31.12,0:06:33.00,Default,Fushiguro,0,0,0,,How nice of you to warn me.
-Dialogue: 0,0:06:33.00,0:06:35.18,Default,Fushiguro,0,0,0,,You're planning to kill us anyway, though.
+Dialogue: 0,0:06:33.00,0:06:35.18,Default,Fushiguro,0,0,0,,You're planning to kill us anyway.
 Dialogue: 0,0:06:35.64,0:06:39.42,Default,Hanami,0,0,0,,I hear it's more effective when I explain it.
 Dialogue: 0,0:06:41.02,0:06:43.22,Default,Hanami,0,0,0,,You move well.
 Dialogue: 0,0:06:48.85,0:06:52.48,Default,Hanami,0,0,0,,But you're missing the edge you had earlier.
@@ -124,8 +123,8 @@ Dialogue: 0,0:07:19.48,0:07:25.50,Default,Fushiguro,0,0,0,,{\i1}It's inexcusable
 Dialogue: 0,0:07:28.72,0:07:30.51,Default,Maki,0,0,0,,Megumi, stop!
 Dialogue: 0,0:07:35.23,0:07:38.06,Default,Maki,0,0,0,,Our job here is done.
 Dialogue: 0,0:07:38.06,0:07:40.06,Default,Maki,0,0,0,,It's time to tag out.
-Dialogue: 0,0:07:55.64,0:07:58.58,Default,Toudou,0,0,0,,You good to go, my friend?
-Dialogue: 0,0:08:02.17,0:08:03.09,Default,Yuuji,0,0,0,,Yeah!
+Dialogue: 0,0:07:55.64,0:07:58.58,Default,Todo,0,0,0,,You good to go, my friend?
+Dialogue: 0,0:08:02.17,0:08:03.09,Default,Yuji,0,0,0,,Yeah!
 Comment: 0,0:08:03.92,0:08:03.96,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:09:33.97,0:09:34.01,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:09:39.46,0:09:41.08,Default,Momo,0,0,0,,So heavy!
@@ -134,30 +133,30 @@ Dialogue: 0,0:09:45.74,0:09:48.36,Default,Momo,0,0,0,,It's up to you, Todo{**-ku
 Dialogue: 0,0:09:49.46,0:09:53.24,Default,Momo,0,0,0,,Your strength is the one thing you've got going for you.
 Dialogue: 0,0:09:57.54,0:09:59.54,Default,Fushiguro,0,0,0,,Stop it, Itadori!
 Dialogue: 0,0:09:59.54,0:10:01.70,Default,Fushiguro,0,0,0,,That's not something we can han—
-Dialogue: 0,0:10:05.14,0:10:06.12,Default,Toudou,0,0,0,,Panda.
+Dialogue: 0,0:10:05.14,0:10:06.12,Default,Todo,0,0,0,,Panda.
 Dialogue: 0,0:10:06.46,0:10:07.54,Default,Panda,0,0,0,,Yeah? {Ayyo?}
-Dialogue: 0,0:10:09.07,0:10:11.78,Default,Toudou,0,0,0,,Take those two and exit the veil.
-Dialogue: 0,0:10:11.78,0:10:16.37,Default,Toudou,0,0,0,,According to Nishimiya, this is an anti-Gojo{-} Satoru veil,
-Dialogue: 0,0:10:16.37,0:10:19.28,Default,Toudou,0,0,0,,so the rest of us can go in and out no problem.
+Dialogue: 0,0:10:09.07,0:10:11.78,Default,Todo,0,0,0,,Take those two and exit the veil.
+Dialogue: 0,0:10:11.78,0:10:16.37,Default,Todo,0,0,0,,According to Nishimiya, \Nthis is an anti-Gojo Satoru veil,
+Dialogue: 0,0:10:16.37,0:10:19.28,Default,Todo,0,0,0,,so the rest of us can go in and out no problem.
 Dialogue: 0,0:10:19.28,0:10:21.47,Default,Fushiguro,0,0,0,,Wait! Even you can't—
-Dialogue: 0,0:10:21.47,0:10:22.50,Default,Yuuji,0,0,0,,Fushiguro.
-Dialogue: 0,0:10:26.53,0:10:27.89,Default,Yuuji,0,0,0,,It's okay.
-Dialogue: 0,0:10:27.89,0:10:29.17,Default,Yuuji,0,0,0,,Please.
-Dialogue: 0,0:10:31.97,0:10:34.02,Default,Toudou,0,0,0,,Looks like you've realized it.
-Dialogue: 0,0:10:34.02,0:10:39.03,Default,Toudou,0,0,0,,No one is allowed to touch those \Nwho have started to spread their wings.
-Dialogue: 0,0:10:39.03,0:10:42.18,Default,Toudou,0,0,0,,And that's exactly where Itadori stands right now.
+Dialogue: 0,0:10:21.47,0:10:22.50,Default,Yuji,0,0,0,,Fushiguro.
+Dialogue: 0,0:10:26.53,0:10:27.89,Default,Yuji,0,0,0,,It's okay.
+Dialogue: 0,0:10:27.89,0:10:29.17,Default,Yuji,0,0,0,,Please.
+Dialogue: 0,0:10:31.97,0:10:34.02,Default,Todo,0,0,0,,Looks like you've realized it.
+Dialogue: 0,0:10:34.02,0:10:39.03,Default,Todo,0,0,0,,No one is allowed to touch those \Nwho have started to spread their wings.
+Dialogue: 0,0:10:39.03,0:10:42.18,Default,Todo,0,0,0,,And that's exactly where Itadori stands right now.
 Dialogue: 0,0:10:43.25,0:10:45.68,Default,Fushiguro,0,0,0,,If you die again, I'll kill you myself!
 Dialogue: 0,0:10:45.68,0:10:47.92,Default,Panda,0,0,0,,All right, let's go.
 Dialogue: 0,0:10:48.98,0:10:50.41,Default,Panda,0,0,0,,Pandash!
-Dialogue: 0,0:10:51.11,0:10:54.17,Default,Yuuji,0,0,0,,Can't afford to die now, I guess.
-Dialogue: 0,0:10:55.39,0:10:59.26,Default,Toudou,0,0,0,,I won't lift a finger to help you, Itadori.
-Dialogue: 0,0:10:59.89,0:11:03.05,Default,Toudou,0,0,0,,Not until you land a Black Flash.
-Dialogue: 0,0:11:03.85,0:11:05.74,Default,Toudou,0,0,0,,If you can't land a Black Flash,
-Dialogue: 0,0:11:05.74,0:11:08.11,Default,Toudou,0,0,0,,then I'll just watch you die,
-Dialogue: 0,0:11:08.11,0:11:10.81,Default,Toudou,0,0,0,,no matter what happens to you.
-Dialogue: 0,0:11:11.59,0:11:12.31,Default,Yuuji,0,0,0,,Got it!
-Dialogue: 0,0:11:13.07,0:11:17.77,Default,Hanami,0,0,0,,{\i1}Sukuna's vessel, and who is that guy?
-Dialogue: 0,0:11:17.77,0:11:19.89,Default,Hanami,0,0,0,,{\i1}He certainly has an aura about him.
+Dialogue: 0,0:10:51.11,0:10:54.17,Default,Yuji,0,0,0,,Can't afford to die now, I guess.
+Dialogue: 0,0:10:55.39,0:10:59.26,Default,Todo,0,0,0,,I won't lift a finger to help you, Itadori.
+Dialogue: 0,0:10:59.89,0:11:03.05,Default,Todo,0,0,0,,Not until you land a Black Flash.
+Dialogue: 0,0:11:03.85,0:11:05.74,Default,Todo,0,0,0,,If you can't land a Black Flash,
+Dialogue: 0,0:11:05.74,0:11:08.11,Default,Todo,0,0,0,,then I'll just watch you die,
+Dialogue: 0,0:11:08.11,0:11:10.81,Default,Todo,0,0,0,,no matter what happens to you.
+Dialogue: 0,0:11:11.59,0:11:12.31,Default,Yuji,0,0,0,,Got it!
+Dialogue: 0,0:11:13.07,0:11:17.32,Default,Hanami,0,0,0,,{\i1}Sukuna's vessel... and who is that guy?
+Dialogue: 0,0:11:17.82,0:11:19.89,Default,Hanami,0,0,0,,{\i1}He certainly has an aura about him.
 Dialogue: 0,0:11:19.89,0:11:22.32,Default,Hanami,0,0,0,,{\i1}But judging by the amount of cursed energy,
 Dialogue: 0,0:11:22.32,0:11:25.83,Default,Hanami,0,0,0,,{\i1}he's undoubtedly weaker than me.
 Dialogue: 0,0:11:25.83,0:11:28.56,Default,Hanami,0,0,0,,{\i1}However, he has that mysterious brazenness.
@@ -165,122 +164,122 @@ Dialogue: 0,0:11:28.56,0:11:31.64,Default,Hanami,0,0,0,,{\i1}He must have quite 
 Dialogue: 0,0:11:31.64,0:11:34.85,Default,Hanami,0,0,0,,{\i1}I can't make any careless moves with him.
 Dialogue: 0,0:11:35.43,0:11:37.59,Default,Hanami,0,0,0,,{\i1}And what is this Black Flash?
 Dialogue: 0,0:11:38.51,0:11:40.68,Default,Hanami,0,0,0,,{\i1}So, what's your move?
-Dialogue: 0,0:11:43.06,0:11:46.30,Default,Yuuji,0,0,0,,You can talk?
-Dialogue: 0,0:11:47.38,0:11:49.48,Default,Yuuji,0,0,0,,There's something I want to ask you.
-Dialogue: 0,0:11:51.33,0:11:53.57,Default,Yuuji,0,0,0,,Are you allied with
-Dialogue: 0,0:11:53.57,0:11:57.27,Default,Yuuji,0,0,0,,a humanoid cursed spirit with a patchwork face?
+Dialogue: 0,0:11:43.06,0:11:46.30,Default,Yuji,0,0,0,,You can talk?
+Dialogue: 0,0:11:47.38,0:11:49.48,Default,Yuji,0,0,0,,There's something I want to ask you.
+Dialogue: 0,0:11:51.33,0:11:53.57,Default,Yuji,0,0,0,,Are you allied with
+Dialogue: 0,0:11:53.57,0:11:57.27,Default,Yuji,0,0,0,,a humanoid cursed spirit with a patchwork face?
 Dialogue: 0,0:11:58.64,0:12:01.28,Default,Hanami,0,0,0,,And if I say I am?
 Dialogue: 0,0:12:04.86,0:12:07.06,Default,Hanami,0,0,0,,{\i1}He didn't carelessly close the distance.
 Dialogue: 0,0:12:07.06,0:12:09.21,Default,Hanami,0,0,0,,{\i1}I commend him for that.
 Dialogue: 0,0:12:11.20,0:12:12.28,Default,Hanami,0,0,0,,{\i1}He's fast!
 Dialogue: 0,0:12:12.28,0:12:15.08,Default,Hanami,0,0,0,,{\i1}He also has more explosive power than the girl earlier!
 Dialogue: 0,0:12:15.72,0:12:18.88,Default,Hanami,0,0,0,,{\i1}However, its intensity is disappointing.
-Dialogue: 0,0:12:19.63,0:12:21.35,Default,Yuuji,0,0,0,,{\i1}Its torso's wide open!
-Dialogue: 0,0:12:21.84,0:12:24.56,Default,Yuuji,0,0,0,,{\i1}It's underestimating me since I pulled my punches.
-Dialogue: 0,0:12:24.56,0:12:25.84,Default,Yuuji,0,0,0,,{\i1}Now is my chance!
-Dialogue: 0,0:12:26.21,0:12:27.28,Default,Yuuji,0,0,0,,{\i1}Black Flash!
-Dialogue: 0,0:12:32.10,0:12:33.60,Default,Yuuji,0,0,0,,{\i1}Damn it!
-Dialogue: 0,0:12:39.83,0:12:41.22,Default,Toudou,0,0,0,,My friend.
-Dialogue: 0,0:12:44.66,0:12:49.08,Default,Toudou,0,0,0,,Anger is an important trigger for sorcerers.
-Dialogue: 0,0:12:49.08,0:12:54.96,Default,Toudou,0,0,0,,People have been put to their knees\N just because they provoked an inferior opponent.
-Dialogue: 0,0:12:55.66,0:12:57.82,Default,Toudou,0,0,0,,However, it goes both ways.
-Dialogue: 0,0:12:57.82,0:13:03.94,Default,Toudou,0,0,0,,Mishandling cursed energy when angered \Nwastes your skills, resulting in defeat.
-Dialogue: 0,0:13:04.77,0:13:11.49,Default,Toudou,0,0,0,,Your friend was wounded, and worst of all, \Nthey've rained on our bonding time as best friends.
-Dialogue: 0,0:13:11.49,0:13:16.50,Default,Toudou,0,0,0,,So I understand better than anyone\Nwhy you'd be boiling with rage.
-Dialogue: 0,0:13:17.36,0:13:20.44,Default,Toudou,0,0,0,,But that rage is too much for you.
-Dialogue: 0,0:13:21.20,0:13:23.01,Default,Toudou,0,0,0,,Put it away for now.
-Dialogue: 0,0:13:26.19,0:13:28.95,Default,Hanami,0,0,0,,{\i1}Are they fighting each other?
-Dialogue: 0,0:13:30.00,0:13:32.95,Default,Toudou,0,0,0,,Are all those distractions gone now?
-Dialogue: 0,0:13:34.56,0:13:37.12,Default,Yuuji,0,0,0,,Yeah, not a single one left.
-Dialogue: 0,0:13:37.87,0:13:41.25,Default,Yuuji,0,0,0,,Thank you so much, best friend!
-Dialogue: 0,0:13:43.38,0:13:45.00,Default,Toudou,0,0,0,,{\i1}Black Flash.
-Dialogue: 0,0:13:45.00,0:13:52.31,Default,Toudou,0,0,0,,{\i1}When an impact of cursed energy is applied within 0.000001 seconds of a physical hit,
-Dialogue: 0,0:13:52.31,0:13:54.18,Default,Toudou,0,0,0,,{\i1}a distortion in space is born.
-Dialogue: 0,0:13:54.82,0:13:58.69,Default,Toudou,0,0,0,,{\i1}The impact is equal to a normal hit{ raised} to the power of 2.5.
-Dialogue: 0,0:13:59.15,0:14:03.24,Default,Toudou,0,0,0,,{\i1}No sorcerer can consistently use it at will.
-Dialogue: 0,0:14:03.84,0:14:05.69,Default,Toudou,0,0,0,,{\i1}However...{!}
-Dialogue: 0,0:14:06.20,0:14:10.72,Default,Toudou,0,0,0,,{\i1}When comparing those who have experienced Black Flash to those who have not,
-Dialogue: 0,0:14:10.72,0:14:15.70,Default,Toudou,0,0,0,,{\i1}the gap between their understanding of \Ncursed energy is like that of Heaven and Earth.
+Dialogue: 0,0:12:19.63,0:12:21.35,Default,Yuji,0,0,0,,{\i1}Its torso's wide open!
+Dialogue: 0,0:12:21.84,0:12:24.56,Default,Yuji,0,0,0,,{\i1}It's underestimating me since I pulled my punches.
+Dialogue: 0,0:12:24.56,0:12:25.84,Default,Yuji,0,0,0,,{\i1}Now is my chance!
+Dialogue: 0,0:12:26.21,0:12:27.28,Default,Yuji,0,0,0,,{\i1}Black Flash!
+Dialogue: 0,0:12:32.10,0:12:33.60,Default,Yuji,0,0,0,,{\i1}Damn it!
+Dialogue: 0,0:12:39.83,0:12:41.22,Default,Todo,0,0,0,,My friend.
+Dialogue: 0,0:12:44.66,0:12:49.08,Default,Todo,0,0,0,,Anger is an important trigger for sorcerers.
+Dialogue: 0,0:12:49.08,0:12:54.96,Default,Todo,0,0,0,,People have been put to their knees\N just because they provoked an inferior opponent.
+Dialogue: 0,0:12:55.66,0:12:57.82,Default,Todo,0,0,0,,However, it goes both ways.
+Dialogue: 0,0:12:57.82,0:13:03.94,Default,Todo,0,0,0,,Mishandling cursed energy when angered \Nwastes your skills, resulting in defeat.
+Dialogue: 0,0:13:04.77,0:13:11.49,Default,Todo,0,0,0,,Your friend was wounded, and worst of all, \Nthey've rained on our bonding time as best friends.
+Dialogue: 0,0:13:11.49,0:13:16.50,Default,Todo,0,0,0,,So I understand better than anyone\Nwhy you'd be boiling with rage.
+Dialogue: 0,0:13:17.36,0:13:20.44,Default,Todo,0,0,0,,But that rage is too much for you!
+Dialogue: 0,0:13:21.20,0:13:23.01,Default,Todo,0,0,0,,Put it away for now.
+Dialogue: 0,0:13:26.19,0:13:28.95,Default,Hanami,0,0,0,,{\i1}Did they have a falling out?
+Dialogue: 0,0:13:30.00,0:13:32.95,Default,Todo,0,0,0,,All those distractions gone now?
+Dialogue: 0,0:13:34.56,0:13:37.12,Default,Yuji,0,0,0,,Yeah, not a single one left.
+Dialogue: 0,0:13:37.87,0:13:41.25,Default,Yuji,0,0,0,,Thank you so much, best friend!
+Dialogue: 0,0:13:43.38,0:13:45.00,Default,Todo,0,0,0,,{\i1}Black Flash.
+Dialogue: 0,0:13:45.00,0:13:52.31,Default,Todo,0,0,0,,{\i1}When an impact of cursed energy is applied within 0.000001 seconds of a physical hit,
+Dialogue: 0,0:13:52.31,0:13:54.18,Default,Todo,0,0,0,,{\i1}a distortion in space is born.
+Dialogue: 0,0:13:54.82,0:13:58.69,Default,Todo,0,0,0,,{\i1}The impact is equal to a normal hit{ raised} to the power of 2.5.
+Dialogue: 0,0:13:59.15,0:14:03.24,Default,Todo,0,0,0,,{\i1}No sorcerer can consistently use it at will.
+Dialogue: 0,0:14:03.84,0:14:05.69,Default,Todo,0,0,0,,{\i1}However...{!}
+Dialogue: 0,0:14:06.20,0:14:10.72,Default,Todo,0,0,0,,{\i1}When comparing those who have experienced Black Flash to those who have not,
+Dialogue: 0,0:14:10.72,0:14:15.70,Default,Todo,0,0,0,,{\i1}the gap between their understanding of \Ncursed energy is like that of Heaven and Earth.
 Dialogue: 0,0:14:21.73,0:14:24.00,Default,Hanami,0,0,0,,{\i1}What tremendous concentration.
-Dialogue: 0,0:14:24.48,0:14:30.97,Default,Toudou,0,0,0,,{\i1}The instant cursed energy impacts \Nwithin 0.000001 seconds of a physical hit,
-Dialogue: 0,0:14:33.00,0:14:34.31,Default,Toudou,0,0,0,,{\i1}space is distorted
-Dialogue: 0,0:14:34.31,0:14:34.35,Default,Toudou,0,0,0,,{\i1\fscx96}space is distorted
-Dialogue: 0,0:14:34.35,0:14:34.44,Default,Toudou,0,0,0,,{\i1\fscx96\pos(964,1020)}space is distorted
-Dialogue: 0,0:14:34.44,0:14:34.48,Default,Toudou,0,0,0,,{\i1\fscx96\pos(965,1025)}space is distorted
-Dialogue: 0,0:14:34.48,0:14:34.52,Default,Toudou,0,0,0,,{\i1\fscx92\frz1.515}space is distorted
-Dialogue: 0,0:14:34.52,0:14:34.52,Default,Toudou,0,0,0,,{\i1\fscx88\frz1.515}space is distorted
-Dialogue: 0,0:14:34.52,0:14:34.56,Default,Toudou,0,0,0,,{\i1\fscx88\frz1.515\pos(978.29,1033.7)}space is distorted
-Dialogue: 0,0:14:34.56,0:14:34.60,Default,Toudou,0,0,0,,{\i1\fscx82\fscy95\frz2.036}space is distorted
-Dialogue: 0,0:14:34.60,0:14:34.65,Default,Toudou,0,0,0,,{\i1\fscx82\fscy95\frz2.036\pos(966.86,1024.57)}space is distorted
-Dialogue: 0,0:14:34.65,0:14:34.69,Default,Toudou,0,0,0,,{\i1\fscx75\fscy90\frz3.057}space is distorted
-Dialogue: 0,0:14:34.69,0:14:34.73,Default,Toudou,0,0,0,,{\i1\fscx75\fscy90\frz3.057\pos(959,1016)}space is distorted
-Dialogue: 0,0:14:34.73,0:14:34.77,Default,Toudou,0,0,0,,{\i1\fscx60\fscy70\frz44.02\pos(1499.43,1006.3)}space is distorted
-Dialogue: 0,0:14:34.77,0:14:34.81,Default,Toudou,0,0,0,,{\i1\fscx60\fscy70\frz44.02\pos(1520,988.03)}space is distorted
-Dialogue: 0,0:14:34.81,0:14:34.85,Default,Toudou,0,0,0,,{\i1\fscx40\fscy50\frz122.7\pos(1547.44,332.72)}space is distorted
-Dialogue: 0,0:14:34.85,0:14:34.90,Default,Toudou,0,0,0,,{\i1\fscx40\fscy50\frz122.7\pos(1536.01,362.4)}space is distorted
-Dialogue: 0,0:14:35.65,0:14:37.77,Default,Toudou,0,0,0,,{\fade(360,0)\i1}and cursed energy flashes black!
-Dialogue: 0,0:14:38.66,0:14:39.92,Default,Yuuji,0,0,0,,Black Flash!
-Dialogue: 0,0:14:43.92,0:14:45.09,Default,Hanami,0,0,0,,{\i1}Wha—
-Dialogue: 0,0:14:50.98,0:14:52.42,Default,Toudou,0,0,0,,He's grown.
+Dialogue: 0,0:14:24.48,0:14:30.97,Default,Todo,0,0,0,,{\i1}The instant cursed energy impacts \Nwithin 0.000001 seconds of a physical hit,
+Dialogue: 0,0:14:33.00,0:14:34.31,Default,Todo,0,0,0,,{\i1}space is distorted
+Dialogue: 0,0:14:34.31,0:14:34.35,Default,Todo,0,0,0,,{\i1\fscx96}space is distorted
+Dialogue: 0,0:14:34.35,0:14:34.44,Default,Todo,0,0,0,,{\i1\fscx96\pos(964,1020)}space is distorted
+Dialogue: 0,0:14:34.44,0:14:34.48,Default,Todo,0,0,0,,{\i1\fscx96\pos(965,1025)}space is distorted
+Dialogue: 0,0:14:34.48,0:14:34.52,Default,Todo,0,0,0,,{\i1\fscx92\frz1.515}space is distorted
+Dialogue: 0,0:14:34.52,0:14:34.52,Default,Todo,0,0,0,,{\i1\fscx88\frz1.515}space is distorted
+Dialogue: 0,0:14:34.52,0:14:34.56,Default,Todo,0,0,0,,{\i1\fscx88\frz1.515\pos(978.29,1033.7)}space is distorted
+Dialogue: 0,0:14:34.56,0:14:34.60,Default,Todo,0,0,0,,{\i1\fscx82\fscy95\frz2.036}space is distorted
+Dialogue: 0,0:14:34.60,0:14:34.65,Default,Todo,0,0,0,,{\i1\fscx82\fscy95\frz2.036\pos(966.86,1024.57)}space is distorted
+Dialogue: 0,0:14:34.65,0:14:34.69,Default,Todo,0,0,0,,{\i1\fscx75\fscy90\frz3.057}space is distorted
+Dialogue: 0,0:14:34.69,0:14:34.73,Default,Todo,0,0,0,,{\i1\fscx75\fscy90\frz3.057\pos(959,1016)}space is distorted
+Dialogue: 0,0:14:34.73,0:14:34.77,Default,Todo,0,0,0,,{\i1\fscx60\fscy70\frz44.02\pos(1499.43,1006.3)}space is distorted
+Dialogue: 0,0:14:34.77,0:14:34.81,Default,Todo,0,0,0,,{\i1\fscx60\fscy70\frz44.02\pos(1520,988.03)}space is distorted
+Dialogue: 0,0:14:34.81,0:14:34.85,Default,Todo,0,0,0,,{\i1\fscx40\fscy50\frz122.7\pos(1547.44,332.72)}space is distorted
+Dialogue: 0,0:14:34.85,0:14:34.90,Default,Todo,0,0,0,,{\i1\fscx40\fscy50\frz122.7\pos(1536.01,362.4)}space is distorted
+Dialogue: 0,0:14:35.65,0:14:37.77,Default,Todo,0,0,0,,{\fade(360,0)\i1}and cursed energy flashes black!
+Dialogue: 0,0:14:38.66,0:14:39.92,Default,Yuji,0,0,0,,Black Flash!
+Comment: 0,0:14:43.92,0:14:45.09,Default,Hanami,0,0,0,,{\i1}Wha—
+Dialogue: 0,0:14:50.98,0:14:52.42,Default,Todo,0,0,0,,He's grown.
 Comment: 0,0:14:58.96,0:14:59.00,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:15:10.88,0:15:12.59,Default,Toudou,0,0,0,,He's grown.
-Dialogue: 0,0:15:16.95,0:15:20.10,Default,Yuuji,0,0,0,,That was... Black Flash?
-Dialogue: 0,0:15:21.53,0:15:23.04,Default,Yuuji,0,0,0,,{\i1}What the...
+Dialogue: 0,0:15:10.88,0:15:12.59,Default,Todo,0,0,0,,He's grown.
+Dialogue: 0,0:15:16.95,0:15:20.10,Default,Yuji,0,0,0,,That was... Black Flash?
+Dialogue: 0,0:15:21.53,0:15:23.04,Default,Yuji,0,0,0,,{\i1}What the...
 Dialogue: 0,0:15:23.04,0:15:26.85,Default,,0,0,0,,{\i1}This is my cursed energy, right?
-Dialogue: 0,0:15:26.85,0:15:30.11,Default,Toudou,0,0,0,,Now you've got the taste of cursed energy.
-Dialogue: 0,0:15:34.37,0:15:36.08,Default,Toudou,0,0,0,,Up until now,
+Dialogue: 0,0:15:26.85,0:15:30.11,Default,Todo,0,0,0,,Now you've got the taste of cursed energy.
+Dialogue: 0,0:15:34.37,0:15:36.08,Default,Todo,0,0,0,,Up until now,
 Dialogue: 0,0:15:36.08,0:15:39.09,Default,,0,0,0,,you've just been throwing together ingredients
 Dialogue: 0,0:15:39.09,0:15:44.08,Default,,0,0,0,,that you weren't familiar with \Nand boiling them without knowing why.
-Dialogue: 0,0:15:44.56,0:15:47.25,Default,Toudou,0,0,0,,But after experiencing Black Flash
-Dialogue: 0,0:15:47.25,0:15:51.09,Default,Toudou,0,0,0,,and understanding the taste \Nof your ingredient, your cursed energy,{of your ingredient: your cursed energy;}{of your ingredient — your cursed energy,}
-Dialogue: 0,0:15:51.48,0:15:56.60,Default,Toudou,0,0,0,,you now stand on a completely different level as a chef than you did three seconds ago.
-Dialogue: 0,0:15:57.24,0:16:00.10,Default,Toudou,0,0,0,,Congratulations, brother.
-Dialogue: 0,0:16:00.69,0:16:02.94,Default,Toudou,0,0,0,,You will become stronger.
+Dialogue: 0,0:15:44.56,0:15:47.25,Default,Todo,0,0,0,,But after experiencing Black Flash
+Dialogue: 0,0:15:47.25,0:15:51.09,Default,Todo,0,0,0,,and understanding the taste \Nof your ingredient—your cursed energy,{of your ingredient: your cursed energy;}{of your ingredient — your cursed energy,}
+Dialogue: 0,0:15:51.48,0:15:56.60,Default,Todo,0,0,0,,you now stand on a completely different level as a chef than you did three seconds ago.
+Dialogue: 0,0:15:57.24,0:16:00.10,Default,Todo,0,0,0,,Congratulations, brother.
+Dialogue: 0,0:16:00.69,0:16:02.94,Default,Todo,0,0,0,,You {\i1}will{\i0} become stronger.
 Dialogue: 0,0:16:04.18,0:16:09.82,Default,Hanami,0,0,0,,{\i1}I was told that Sukuna's vessel \Nwas still inexperienced as a sorcerer,
 Dialogue: 0,0:16:09.82,0:16:12.83,Default,Hanami,0,0,0,,{\i1}but he and this mysterious guy...
 Dialogue: 0,0:16:12.83,0:16:16.00,Default,Hanami,0,0,0,,{\i1}Something about them is different from the rest.
-Dialogue: 0,0:16:16.62,0:16:18.54,Default,Yuuji,0,0,0,,It can heal itself?!
-Dialogue: 0,0:16:18.54,0:16:21.41,Default,Toudou,0,0,0,,A cursed spirit's body is made up of cursed energy.
-Dialogue: 0,0:16:22.04,0:16:27.21,Default,Toudou,0,0,0,,Unlike us, they don't need any \Nadvanced reverse cursed technique to heal.
-Dialogue: 0,0:16:27.70,0:16:31.63,Default,Toudou,0,0,0,,An injury like that is nothing to a special-grade.
-Dialogue: 0,0:16:32.00,0:16:35.47,Default,Toudou,0,0,0,,However, there's no doubt that it shaves away their cursed energy.
-Dialogue: 0,0:16:35.47,0:16:38.39,Default,Toudou,0,0,0,,If we can crush its head, it's game-set.
-Dialogue: 0,0:16:39.13,0:16:42.39,Default,Toudou,0,0,0,,Now, shall we get cooking?
+Dialogue: 0,0:16:16.62,0:16:18.54,Default,Yuji,0,0,0,,It can heal itself?!
+Dialogue: 0,0:16:18.54,0:16:21.41,Default,Todo,0,0,0,,A cursed spirit's body is made up of cursed energy.
+Dialogue: 0,0:16:22.04,0:16:27.21,Default,Todo,0,0,0,,Unlike us, they don't need any \Nadvanced reverse cursed technique to heal.
+Dialogue: 0,0:16:27.70,0:16:31.63,Default,Todo,0,0,0,,An injury like that is nothing to a special-grade.
+Dialogue: 0,0:16:32.00,0:16:35.47,Default,Todo,0,0,0,,However, there's no doubt that \Nit shaves away their cursed energy.
+Dialogue: 0,0:16:35.47,0:16:38.39,Default,Todo,0,0,0,,If we can crush its head, it's game-set.
+Dialogue: 0,0:16:39.13,0:16:42.39,Default,Todo,0,0,0,,Now, shall we get cooking?
 Dialogue: 0,0:16:44.15,0:16:47.90,Default,Hanami,0,0,0,,It would seem that
 Dialogue: 0,0:16:49.32,0:16:53.35,Default,Hanami,0,0,0,,I shall take you two somewhat seriously.
-Dialogue: 0,0:17:12.21,0:17:14.47,Default,Yuuji,0,0,0,,What a wide attack range!
-Dialogue: 0,0:17:14.47,0:17:15.43,Default,Toudou,0,0,0,,Don't falter!
-Dialogue: 0,0:17:15.43,0:17:17.68,Default,Toudou,0,0,0,,It sacrifices power and speed in exchange!
+Dialogue: 0,0:17:12.21,0:17:14.47,Default,Yuji,0,0,0,,What a wide attack range!
+Dialogue: 0,0:17:14.47,0:17:15.43,Default,Todo,0,0,0,,Don't falter!
+Dialogue: 0,0:17:15.43,0:17:17.68,Default,Todo,0,0,0,,It sacrifices power and speed in exchange!
 Dialogue: 0,0:17:26.26,0:17:27.37,Default,Hanami,0,0,0,,{\i1}What a heavy hit!
 Dialogue: 0,0:17:27.37,0:17:30.69,Default,Hanami,0,0,0,,{\i1}It's not quite as heavy as that flashy black one,
 Dialogue: 0,0:17:31.11,0:17:36.70,Default,Hanami,0,0,0,,{\i1}but each of them is powerful enough to steadily damage me over time!
-Dialogue: 0,0:17:36.99,0:17:39.82,Default,Yuuji,0,0,0,,Todo! Let's sync up our timing better!
-Dialogue: 0,0:17:39.82,0:17:40.91,Default,Toudou,0,0,0,,Gotcha!
-Dialogue: 0,0:17:43.52,0:17:45.00,Default,Yuuji,0,0,0,,{\i1}Our footing!
-Dialogue: 0,0:17:45.00,0:17:46.37,Default,Toudou,0,0,0,,{\i1}I messed up!
-Dialogue: 0,0:17:46.37,0:17:47.67,Default,,0,0,0,,{\i1}With that amount of mass,
+Dialogue: 0,0:17:36.99,0:17:39.82,Default,Yuji,0,0,0,,Todo! Let's sync up our timing better!
+Dialogue: 0,0:17:39.82,0:17:40.91,Default,Todo,0,0,0,,Gotcha!
+Dialogue: 0,0:17:43.52,0:17:45.00,Default,Yuji,0,0,0,,{\i1}Our footing!
+Dialogue: 0,0:17:45.00,0:17:46.30,Default,Todo,0,0,0,,{\i1}I messed up!
+Dialogue: 0,0:17:46.30,0:17:47.67,Default,,0,0,0,,{\i1}Considering the amount of mass,
 Dialogue: 0,0:17:47.67,0:17:51.25,Default,,0,0,0,,{\i1}I thought it was manipulating\N physical branches with its technique!
-Dialogue: 0,0:17:51.77,0:17:55.39,Default,Toudou,0,0,0,,{\i1}But all of it was just the \Nmanifestation of its cursed energy!
-Dialogue: 0,0:17:55.39,0:17:57.26,Default,Toudou,0,0,0,,{\i1}That's a special-grade for you!
+Dialogue: 0,0:17:51.77,0:17:55.39,Default,Todo,0,0,0,,{\i1}But it was all manifested from cursed energy!
+Dialogue: 0,0:17:55.39,0:17:57.26,Default,Todo,0,0,0,,{\i1}That's a special-grade for you!
 Dialogue: 0,0:17:57.97,0:18:01.14,Default,Hanami,0,0,0,,Let me teach you how to appreciate the land!
-Dialogue: 0,0:18:01.44,0:18:04.15,Default,Toudou,0,0,0,,{\i1}Attacking while we fall? That's brutal!
-Dialogue: 0,0:18:04.15,0:18:04.89,Default,Toudou,0,0,0,,{\i1}However...
-Dialogue: 0,0:18:05.17,0:18:06.10,Default,Toudou,0,0,0,,{\pos(500,1020)}Brother!
-Dialogue: 0,0:18:05.17,0:18:06.10,Default,Yuuji,0,0,0,,{\pos(1450,1020)}Brother!
-Dialogue: 0,0:18:09.96,0:18:11.99,Default,Hanami,0,0,0,,They dodged it?!
+Dialogue: 0,0:18:01.44,0:18:04.15,Default,Todo,0,0,0,,{\i1}Attacking while we fall? That's brutal!
+Dialogue: 0,0:18:04.15,0:18:04.89,Default,Todo,0,0,0,,{\i1}However...
+Dialogue: 0,0:18:05.17,0:18:06.10,Default,Todo,0,0,0,,{\pos(500,1020)}Brother!
+Dialogue: 0,0:18:05.17,0:18:06.10,Default,Yuji,0,0,0,,{\pos(1450,1020)}Brother!
+Dialogue: 0,0:18:09.96,0:18:11.99,Default,Hanami,0,0,0,,{\i1}They dodged it?!
 Dialogue: 0,0:18:11.99,0:18:13.82,Default,Hanami,0,0,0,,{\i1}But what is this...
 Dialogue: 0,0:18:14.24,0:18:16.82,Default,Hanami,0,0,0,,{\i1}What is this feeling?!
 Dialogue: 0,0:18:23.51,0:18:27.29,Default,Mahito,0,0,0,,You know, Hanami, \Nyou should be more true to yourself.
 Dialogue: 0,0:18:27.99,0:18:31.25,Default,Hanami,0,0,0,,I don't believe I'm faking anything.
 Dialogue: 0,0:18:31.78,0:18:34.55,Default,Mahito,0,0,0,,I don't mean to call you a liar.
-Dialogue: 0,0:18:35.10,0:18:37.83,Default,Mahito,0,0,0,,I know why you're fighting.
-Dialogue: 0,0:18:37.83,0:18:39.78,Default,Mahito,0,0,0,,But while we're fighting,
-Dialogue: 0,0:18:39.78,0:18:44.81,Default,Mahito,0,0,0,,why not try to enjoy the battles, the present{or "(in )the moment"?}?
+Dialogue: 0,0:18:35.10,0:18:37.83,Default,Mahito,0,0,0,,I know your reason for fighting.
+Dialogue: 0,0:18:37.83,0:18:39.78,Default,Mahito,0,0,0,,But while we are fighting,
+Dialogue: 0,0:18:39.78,0:18:44.81,Default,Mahito,0,0,0,,why not try to enjoy the battles—the present{or "(in )the moment"?}?
 Dialogue: 0,0:18:45.65,0:18:48.25,Default,Hanami,0,0,0,,Do you enjoy them?
 Dialogue: 0,0:18:48.25,0:18:49.57,Default,Mahito,0,0,0,,Well, yeah.
 Dialogue: 0,0:18:49.57,0:18:50.81,Default,Mahito,0,0,0,,Though...
-Dialogue: 0,0:18:51.38,0:18:57.57,Default,Mahito,0,0,0,,It was only recently that the joy and pleasure of battle became my main motive.
-Dialogue: 0,0:18:57.92,0:19:02.29,Default,Mahito,0,0,0,,Before I knew it, I was tricking, deceiving, and murdering.
+Dialogue: 0,0:18:51.38,0:18:57.57,Default,Mahito,0,0,0,,it was only recently that the joy and pleasure of battle became my main motive.
+Dialogue: 0,0:18:57.92,0:19:02.29,Default,Mahito,0,0,0,,I was tricking, deceiving, \Nand murdering without a care.
 Dialogue: 0,0:19:02.29,0:19:04.83,Default,Mahito,0,0,0,,And before I realized it, I felt fulfilled.
 Dialogue: 0,0:19:05.29,0:19:08.34,Default,Mahito,0,0,0,,Just as humans eat, sleep, and screw,
 Dialogue: 0,0:19:08.34,0:19:11.08,Default,Mahito,0,0,0,,I think this is a curse's primal instinct.
@@ -291,18 +290,18 @@ Dialogue: 0,0:19:26.91,0:19:31.35,Default,Mahito,0,0,0,,No one has the right to 
 Dialogue: 0,0:19:31.86,0:19:35.60,Default,Mahito,0,0,0,,But your soul feels a little constrained.
 Dialogue: 0,0:19:37.20,0:19:41.37,Default,Mahito,0,0,0,,I get the feeling that you're...
 Dialogue: 0,0:19:41.87,0:19:43.87,Default,Mahito,0,0,0,,much stronger than you let on.
-Dialogue: 0,0:19:45.55,0:19:47.26,Default,Yuuji,0,0,0,,Ow...
-Dialogue: 0,0:19:48.21,0:19:49.62,Default,Yuuji,0,0,0,,Todo!
-Dialogue: 0,0:19:50.04,0:19:51.55,Default,Toudou,0,0,0,,I'm perfectly fine!
-Dialogue: 0,0:20:07.19,0:20:09.27,Default,Yuuji,0,0,0,,{\i1}It just used up a lot of cursed energy!
-Dialogue: 0,0:20:09.87,0:20:12.40,Default,Toudou,0,0,0,,{\i1}Now is our chance to strike!
-Dialogue: 0,0:20:12.96,0:20:14.52,Default,Toudou,0,0,0,,{\i1}You monster!
+Dialogue: 0,0:19:45.55,0:19:47.26,Default,Yuji,0,0,0,,Ow...
+Dialogue: 0,0:19:48.21,0:19:49.62,Default,Yuji,0,0,0,,Todo!
+Dialogue: 0,0:19:50.04,0:19:51.55,Default,Todo,0,0,0,,I'm perfectly fine!
+Dialogue: 0,0:20:07.19,0:20:09.27,Default,Yuji,0,0,0,,{\i1}It just used up a lot of cursed energy!
+Dialogue: 0,0:20:09.87,0:20:12.40,Default,Todo,0,0,0,,{\i1}Now is our chance to strike!
+Dialogue: 0,0:20:12.96,0:20:14.52,Default,Todo,0,0,0,,{\i1}You monster!
 Dialogue: 0,0:20:23.25,0:20:26.58,Default,Hanami,0,0,0,,{\i1}Mahito, right now...
 Dialogue: 0,0:20:27.93,0:20:32.77,Default,Hanami,0,0,0,,{\i1}I'm enjoying a fight!
-Dialogue: 0,0:20:35.04,0:20:37.09,Default,Toudou,0,0,0,,You okay, brother?!
-Dialogue: 0,0:20:37.67,0:20:38.55,Default,Yuuji,0,0,0,,No problemo!
-Dialogue: 0,0:20:38.55,0:20:39.64,Default,Toudou,0,0,0,,Excellent!
-Dialogue: 0,0:20:39.64,0:20:44.24,Default,Toudou,0,0,0,,Then, it's time to unleash my technique!
+Dialogue: 0,0:20:35.04,0:20:37.09,Default,Todo,0,0,0,,You okay, brother?!
+Dialogue: 0,0:20:37.67,0:20:38.55,Default,Yuji,0,0,0,,No problemo!
+Dialogue: 0,0:20:38.55,0:20:39.64,Default,Todo,0,0,0,,Excellent!
+Dialogue: 0,0:20:39.64,0:20:44.24,Default,Todo,0,0,0,,Then, it's time to unleash my technique!
 Comment: 0,0:20:44.97,0:20:45.02,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:22:14.98,0:22:15.02,Default,chptr,0,0,0,,{Juju Stroll}
 Dialogue: 0,0:22:15.44,0:22:17.48,Default,,0,0,0,,Juju Stroll.

@@ -21,13 +21,13 @@ Video File: jujutsu_07_premux.mkv
 Keyframes File: jujutsu_07_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 216
-Active Line: 221
-Video Position: 24054
+Scroll Position: 76
+Active Line: 85
+Video Position: 11451
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,110,110,60,1
+Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
@@ -35,13 +35,13 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.90,0:00:07.05,Default,Ijichi,0,0,0,,There's still some time before \Nyour appointment with the principal.
 Dialogue: 0,0:00:07.05,0:00:08.65,Default,Ijichi,0,0,0,,Do you want to stop by somewhere?
-Dialogue: 0,0:00:08.65,0:00:09.68,Default,Gojou,0,0,0,,It's fine.
-Dialogue: 0,0:00:09.68,0:00:11.90,Default,Gojou,0,0,0,,I'll show up early for a change.
+Dialogue: 0,0:00:08.65,0:00:09.68,Default,Gojo,0,0,0,,It's fine.
+Dialogue: 0,0:00:09.68,0:00:11.90,Default,Gojo,0,0,0,,I'll show up early for a change.
 Dialogue: 0,0:00:16.18,0:00:16.93,Default,Gojo,0,0,0,,Stop the car.
 Dialogue: 0,0:00:16.93,0:00:18.91,Default,Ijichi,0,0,0,,Huh? Right here?
 Dialogue: 0,0:00:19.29,0:00:20.73,Default,Gojo,0,0,0,,Go on ahead.
 Dialogue: 0,0:00:21.58,0:00:23.84,Default,Ijichi,0,0,0,,A-Are you testing me?
-Dialogue: 0,0:00:23.84,0:00:26.28,Default,Ijichi,0,0,0,,You won't hit me if I actually went on ahead, would you?
+Dialogue: 0,0:00:23.84,0:00:26.28,Default,Ijichi,0,0,0,,You won't hit me if \NI actually went on ahead, would you?
 Dialogue: 0,0:00:26.28,0:00:28.19,Default,Gojo,0,0,0,,Just what do you think I am?
 Dialogue: 0,0:00:28.78,0:00:29.72,Default,Ijichi,0,0,0,,In that case...
 Dialogue: 0,0:00:38.49,0:00:39.58,Default,Gojo,0,0,0,,Now then.{...*? Can this be a complete sentence?}
@@ -53,9 +53,9 @@ Dialogue: 0,0:01:32.85,0:01:34.99,Default,Jogo,0,0,0,,Annoying punk.
 Dialogue: 0,0:01:35.56,0:01:39.04,Default,Gojo,0,0,0,,{\i1}He's a cursed spirit, but he can communicate clearly.
 Dialogue: 0,0:01:40.48,0:01:42.87,Default,Gojo,0,0,0,,{\i1}And the sheer amount of cursed energy...
 Dialogue: 0,0:01:43.56,0:01:45.81,Default,Gojo,0,0,0,,{\i1}Is he an unregistered special-grade?
-Dialogue: 0,0:01:47.30,0:01:49.99,Default,Gojo,0,0,0,,{\i1}He's probably stronger than the current Sukuna.
-Dialogue: 0,0:01:51.38,0:01:55.30,Default,Gojo,0,0,0,,Special-grades are supposed to be just that. Special.
-Dialogue: 0,0:01:55.30,0:01:58.80,Default,Gojo,0,0,0,,Can't have them popping around like this, you know.
+Dialogue: 0,0:01:47.30,0:01:50.21,Default,Gojo,0,0,0,,{\i1\fade(0,180)}He's probably stronger than the current Sukuna.
+Dialogue: 0,0:01:51.38,0:01:55.30,Default,Gojo,0,0,0,,Special-grades are supposed to be just that: special.
+Dialogue: 0,0:01:55.30,0:01:58.80,Default,Gojo,0,0,0,,Can't have them popping around like this, y'know.
 Dialogue: 0,0:02:00.72,0:02:02.72,Default,Jogo,0,0,0,,Did I hurt your pride?
 Dialogue: 0,0:02:03.53,0:02:04.68,Default,Gojo,0,0,0,,Nah.
 Dialogue: 0,0:02:05.64,0:02:07.69,Default,Gojo,0,0,0,,I'm starting to find this fun.
@@ -98,7 +98,7 @@ Dialogue: 0,0:05:58.46,0:06:00.40,Default,Jogo,0,0,0,,{\i1}I can't touch him?
 Dialogue: 0,0:06:00.40,0:06:02.01,Default,Jogo,0,0,0,,{\i1}My hand stops just before him.
 Dialogue: 0,0:06:02.58,0:06:04.92,Default,Jogo,0,0,0,,{\i1}Is this Infinity?
 Dialogue: 0,0:06:05.34,0:06:07.18,Default,Gojo,0,0,0,,I'm not exactly stopping you.
-Dialogue: 0,0:06:07.18,0:06:09.93,Default,Gojo,0,0,0,,It's more like the closer you get, the slower you go.
+Dialogue: 0,0:06:07.18,0:06:09.93,Default,Gojo,0,0,0,,It's more like, the closer you get, the slower you go.
 Dialogue: 0,0:06:10.56,0:06:12.39,Default,Gojo,0,0,0,,So, what do you think?
 Dialogue: 0,0:06:12.81,0:06:16.35,Default,Gojo,0,0,0,,Wanna hold hands?
 Dialogue: 0,0:06:17.31,0:06:18.85,Default,Jogo,0,0,0,,Never.
@@ -112,14 +112,13 @@ Dialogue: 0,0:06:37.62,0:06:38.73,Default,Jogo,0,0,0,,{\i1}I don't get it!
 Dialogue: 0,0:06:38.73,0:06:40.04,Default,Jogo,0,0,0,,{\i1}I have to know!
 Dialogue: 0,0:06:40.04,0:06:41.46,Default,Gojo,0,0,0,,Have some more!
 Dialogue: 0,0:06:46.96,0:06:50.50,Default,Gojo,0,0,0,,Infinity exists everywhere.
-Dialogue: 0,0:06:51.52,0:06:55.00,Default,Gojo,0,0,0,,My jujutsu brings it into reality.
-Dialogue: 0,0:06:55.58,0:06:57.56,Default,Gojo,0,0,0,,Convergence and divergence.
-Dialogue: 0,0:06:58.27,0:07:01.02,Default,Gojo,0,0,0,,What do you think would happen if you touch{ed} this void?{seems to work both ways so idk}
-Dialogue: 0,0:07:02.13,0:07:04.15,Default,,0,0,0,,Cursed Technique Reversal.
-Dialogue: 0,0:07:04.15,0:07:04.99,Default,,0,0,0,,Red.
+Dialogue: 0,0:06:51.52,0:06:55.00,Default,Gojo,0,0,0,,My technique brings it into reality.
+Dialogue: 0,0:06:55.58,0:06:57.65,Default,Gojo,0,0,0,,Convergence and divergence.
+Dialogue: 0,0:06:58.27,0:07:01.02,Default,Gojo,0,0,0,,What do you think would happen\N if you touch this void?
+Dialogue: 0,0:07:02.13,0:07:04.99,Default,Gojo,0,0,0,,Cursed Technique Reversal: Red.
 Dialogue: 0,0:07:50.87,0:07:52.46,Default,Gojo,0,0,0,,Oh, this is perfect.
-Dialogue: 0,0:07:55.29,0:07:56.66,Default,Geto,0,0,0,,You can try,
-Dialogue: 0,0:07:57.59,0:08:00.33,Default,Geto,0,0,0,,{\fade(0,500)}but you'll die, Jogo.
+Dialogue: 0,0:07:55.29,0:07:56.66,Default,Geto,0,0,0,,You can give it a shot.
+Dialogue: 0,0:07:57.59,0:08:00.33,Default,Geto,0,0,0,,{\fade(0,500)}But you'll die, Jogo.
 Dialogue: 0,0:08:07.23,0:08:10.43,Default,Jogo,0,0,0,,{\i1}It wasn't just talk.
 Dialogue: 0,0:08:12.47,0:08:17.47,Default,Jogo,0,0,0,,{\i1}No matter. If I can't hit him, \NI'll just drag him into my Domain.
 Dialogue: 0,0:08:19.59,0:08:21.02,Default,Jogo,0,0,0,,{\i1}Where did he go?
@@ -130,17 +129,17 @@ Dialogue: 0,0:08:29.28,0:08:30.99,Default,Jogo,0,0,0,,That's...
 Dialogue: 0,0:08:30.99,0:08:32.70,Default,Jogo,0,0,0,,{\i1}Sukuna's vessel?!
 Dialogue: 0,0:08:32.70,0:08:35.90,Default,Gojo,0,0,0,,This is Itadori Yuji{**-kun}, and he's here to watch.
 Dialogue: 0,0:08:35.90,0:08:38.66,Default,Yuji,0,0,0,,Mt. Fuji! His head is Mt. Fuji!
-Dialogue: 0,0:08:46.71,0:08:48.46,Default,Sam,0,0,0,,{\i1\an8}I'll protect you.
-Dialogue: 0,0:08:48.91,0:08:50.42,Default,Sam,0,0,0,,{\i1\an8}I'll never leave you.
-Dialogue: 0,0:08:51.55,0:08:52.66,Default,Frodo,0,0,0,,{\i1\an8}Sam.
+Dialogue: 0,0:08:46.71,0:08:48.46,Default,Sam,0,0,0,,{\an8}I'll protect you.
+Dialogue: 0,0:08:48.91,0:08:50.42,Default,Sam,0,0,0,,{\an8}I'll never leave you.
+Dialogue: 0,0:08:51.55,0:08:52.66,Default,Frodo,0,0,0,,{\an8}Sam.
 Dialogue: 0,0:08:58.26,0:09:02.36,Default,Gojo,0,0,0,,{\i1}Wow, he learns surprisingly quick.
-Dialogue: 0,0:09:02.85,0:09:03.90,Default,Frodo,0,0,0,,{\i1\an8}Come on.
+Dialogue: 0,0:09:02.85,0:09:03.90,Default,Frodo,0,0,0,,{\an8}Come on.
 Dialogue: 0,0:09:03.90,0:09:04.60,Default,Gojo,0,0,0,,Yuji.
 Dialogue: 0,0:09:06.82,0:09:08.23,Default,Yuji,0,0,0,,{*}Mr. Gojo{*Gojo-sensei}?
 Dialogue: 0,0:09:08.70,0:09:11.23,Default,Gojo,0,0,0,,{\i1}Talking to him doesn't cause a problem either.
 Dialogue: 0,0:09:11.53,0:09:12.80,Default,Yuji,0,0,0,,You need something?
 Dialogue: 0,0:09:12.80,0:09:16.70,Default,Gojo,0,0,0,,{\i1}We should up his output and move on to the next step.
-Dialogue: 0,0:09:17.08,0:09:18.63,Default,Gojo,0,0,0,,We're heading out, Yuji.
+Dialogue: 0,0:09:17.04,0:09:18.63,Default,Gojo,0,0,0,,We're heading out, Yuji.
 Dialogue: 0,0:09:18.63,0:09:19.45,Default,Yuji,0,0,0,,Huh?
 Dialogue: 0,0:09:19.75,0:09:21.46,Default,Gojo,0,0,0,,It's an extracurricular lesson.
 Dialogue: 0,0:09:21.46,0:09:27.23,Default,Gojo,0,0,0,,I'll teach you about the pinnacle of jujutsu battles, Domain Expansion.
@@ -158,8 +157,8 @@ Dialogue: 0,0:10:01.39,0:10:04.59,Default,Jogo,0,0,0,,{\i1}Did he bring him here
 Dialogue: 0,0:10:05.01,0:10:07.42,Default,Jogo,0,0,0,,What's the kid for? He a shield?
 Dialogue: 0,0:10:07.42,0:10:09.61,Default,Gojo,0,0,0,,A shield? No, no.
 Dialogue: 0,0:10:09.61,0:10:12.16,Default,Gojo,0,0,0,,I told you, he's just here to watch.
-Dialogue: 0,0:10:12.16,0:10:15.72,Default,Gojo,0,0,0,,I'm in the middle of teaching this boy lots of things.
-Dialogue: 0,0:10:15.72,0:10:18.59,Default,Gojo,0,0,0,,Don't worry about him. You do your thing.
+Dialogue: 0,0:10:12.16,0:10:15.85,Default,Gojo,0,0,0,,I'm in the middle of teaching this boy lots of things.
+Dialogue: 0,0:10:15.85,0:10:18.59,Default,Gojo,0,0,0,,Don't worry about him. You do your thing.
 Dialogue: 0,0:10:19.01,0:10:23.93,Default,Jogo,0,0,0,,Bringing in someone who will slow you down just makes you an idiot.
 Dialogue: 0,0:10:25.21,0:10:28.35,Default,Gojo,0,0,0,,It'll be fine. I mean,
 Dialogue: 0,0:10:28.35,0:10:30.19,Default,Gojo,0,0,0,,you're so weak.
@@ -167,7 +166,7 @@ Dialogue: 0,0:10:35.40,0:10:37.78,Default,Jogo,0,0,0,,Don't underestimate me, yo
 Dialogue: 0,0:10:37.78,0:10:40.70,Default,Jogo,0,0,0,,I'll wreck you and that smug face of yours!
 Dialogue: 0,0:10:47.75,0:10:49.50,Default,Yuji,0,0,0,,{\i1}This guy
 Dialogue: 0,0:10:49.78,0:10:51.35,Default,Yuji,0,0,0,,{\i1}is weak?
-Dialogue: 0,0:10:53.72,0:10:59.47,Default,Yuji,0,0,0,,{\fade(0,750)\i1}He's way more stronger than any monster I've seen before!
+Dialogue: 0,0:10:53.72,0:10:59.47,Default,Yuji,0,0,0,,{\fade(0,750)\i1}He's way more stronger \Nthan any monster I've seen before!
 Dialogue: 0,0:11:03.76,0:11:07.73,Default,Gojo,0,0,0,,Don't worry. Just stay close to me.
 Dialogue: 0,0:11:11.55,0:11:14.01,Default,Jogo,0,0,0,,Domain Expansion!
 Dialogue: 0,0:11:38.18,0:11:41.78,Default,Yuji,0,0,0,,Wh-What is this?!
@@ -186,7 +185,7 @@ Dialogue: 0,0:12:22.84,0:12:26.26,Default,Gojo,0,0,0,,You guys would've been dea
 Dialogue: 0,0:12:26.74,0:12:29.44,Default,Gojo,0,0,0,,{\fade(0,750)}Megumi probably knew that.
 Dialogue: 0,0:12:30.10,0:12:34.25,Default,Gojo,0,0,0,,Spreading out a Domain consumes a ton of energy,
 Dialogue: 0,0:12:34.25,0:12:36.41,Default,Gojo,0,0,0,,but its merits are worth the cost.
-Dialogue: 0,0:12:36.41,0:12:40.08,Default,Gojo,0,0,0,,First off, you get a boost in stats due to the environment.
+Dialogue: 0,0:12:36.41,0:12:40.08,Default,Gojo,0,0,0,,First off, you get a boost\N in stats due to the environment.
 Dialogue: 0,0:12:40.08,0:12:40.82,Default,Yuji,0,0,0,,Oh!
 Dialogue: 0,0:12:41.24,0:12:44.28,Default,Yuji,0,0,0,,Like buffs in video games!
 Dialogue: 0,0:12:44.74,0:12:46.24,Default,Gojo,0,0,0,,Also,
@@ -202,16 +201,16 @@ Dialogue: 0,0:13:13.66,0:13:15.88,Default,Gojo,0,0,0,,I don't really recommend t
 Dialogue: 0,0:13:16.59,0:13:18.86,Default,Gojo,0,0,0,,but you can run away, outside the Domain.
 Dialogue: 0,0:13:18.86,0:13:19.90,Default,Gojo,0,0,0,,Pretty much impossible.
 Dialogue: 0,0:13:20.24,0:13:21.18,Default,Gojo,0,0,0,,You can also—
-Dialogue: 0,0:13:21.18,0:13:25.55,Default,Jogo,0,0,0,,If I neutralize that Infinity of yours with a dense Domain,
-Dialogue: 0,0:13:25.55,0:13:27.62,Default,Jogo,0,0,0,,then my techniques will reach you, right?
-Dialogue: 0,0:13:28.00,0:13:29.37,Default,Gojo,0,0,0,,Yeah, they'll hit.
+Dialogue: 0,0:13:21.18,0:13:27.62,Default,Jogo,0,0,0,,If I neutralize that Infinity of yours with my Domain, \Nthen my techniques will reach you, right?
+Dialogue: 0,0:13:28.00,0:13:29.37,Default,Gojo,0,0,0,,Yep, they'll hit.
 Dialogue: 0,0:13:29.37,0:13:30.37,Default,Yuji,0,0,0,,Huh? Infinity?
 Dialogue: 0,0:13:31.15,0:13:33.71,Default,Jogo,0,0,0,,Give me the Prison Realm!
 Dialogue: 0,0:13:34.28,0:13:36.21,Default,Jogo,0,0,0,,{\fade(0,750)}I'll add it to my collection.
 Dialogue: 0,0:13:37.15,0:13:40.79,Default,Jogo,0,0,0,,{\i1}I came here half in jest.
 Dialogue: 0,0:13:41.19,0:13:45.55,Default,Jogo,0,0,0,,{\i1}I thought I wouldn't care if I couldn't kill him.
 Dialogue: 0,0:13:45.55,0:13:49.05,Default,Jogo,0,0,0,,{\i1}But having this difference between us thrust in my face...
-Dialogue: 0,0:13:49.05,0:13:56.06,Default,Jogo,0,0,0,,{\i1}On my pride as a cursed spirit, as the new humanity,\N this is absolutely unacceptable!
+Dialogue: 0,0:13:49.05,0:13:53.69,Default,Jogo,0,0,0,,{\i1}On my pride as a cursed spirit, as the new humanity,
+Dialogue: 0,0:13:53.69,0:13:56.06,Default,Jogo,0,0,0,,{\i1}this is absolutely unacceptable!
 Dialogue: 0,0:13:56.98,0:14:00.57,Default,Gojo,0,0,0,,The most effective way to counter a Domain
 Dialogue: 0,0:14:00.57,0:14:02.83,Default,Gojo,0,0,0,,is to expand your own.
 Dialogue: 0,0:14:02.83,0:14:05.57,Default,Gojo,0,0,0,,When two Domains are expanded at the same time,
@@ -303,7 +302,7 @@ Dialogue: 0,0:18:08.53,0:18:10.07,Default,Gojo,0,0,0,,{\i1}He got away.
 Dialogue: 0,0:18:10.07,0:18:12.07,Default,Gojo,0,0,0,,{\i1}He's good at hiding his presence.
 Dialogue: 0,0:18:12.53,0:18:16.29,Default,Gojo,0,0,0,,{\i1}He's way creepier than Volcano Head.
 Dialogue: 0,0:18:19.88,0:18:21.45,Default,Yuji,0,0,0,,{\an8}I'm sorry about that.{I'd just delete these 3 upper lines. The on-screen TS covers them just fine.}
-Dialogue: 0,0:18:21.07,0:18:24.42,Default,Gojo,0,0,0,,So cursed spirits of that level are forming a faction now?
+Dialogue: 0,0:18:21.07,0:18:24.42,Default,Gojo,0,0,0,,So curses of that level are forming a faction now?
 Dialogue: 0,0:18:21.45,0:18:23.95,Default,Yuji,0,0,0,,{\an8}They managed to escape because of me.
 Dialogue: 0,0:18:23.95,0:18:26.25,Default,Yuji,0,0,0,,{\an8}Though you're the one who brought me here, right?
 Dialogue: 0,0:18:24.42,0:18:26.25,Default,Gojo,0,0,0,,This is getting interesting.
@@ -331,7 +330,7 @@ Dialogue: 0,0:19:30.02,0:19:31.36,Default,Yaga,0,0,0,,He's late!
 Dialogue: 0,0:19:59.79,0:20:01.84,Default,Geto,0,0,0,,Sure is peaceful here.
 Dialogue: 0,0:20:05.71,0:20:08.29,Default,Mahito,0,0,0,,How's Jogo doing, Geto?
 Dialogue: 0,0:20:09.13,0:20:10.54,Default,Geto,0,0,0,,At death's door.
-Dialogue: 0,0:20:10.96,0:20:14.73,Default,Geto,0,0,0,,Hanami stepped in to save him, so he'll probably be fine.
+Dialogue: 0,0:20:10.96,0:20:14.73,Default,Geto,0,0,0,,Hanami stepped in to save him, \Nso he'll probably be fine.
 Dialogue: 0,0:20:14.73,0:20:16.74,Default,Mahito,0,0,0,,How irresponsible.
 Dialogue: 0,0:20:16.74,0:20:18.82,Default,Mahito,0,0,0,,You're the one who egged him on, right?
 Dialogue: 0,0:20:18.82,0:20:20.39,Default,Geto,0,0,0,,Heavens, no.
@@ -342,8 +341,8 @@ Dialogue: 0,0:20:30.16,0:20:32.92,Default,Mahito,0,0,0,,I'm glad you're okay.
 Dialogue: 0,0:20:32.92,0:20:35.92,Default,Jogo,0,0,0,,What the hell are you talking about?!
 Dialogue: 0,0:20:36.97,0:20:39.17,Default,Geto,0,0,0,,You got off easy.
 Dialogue: 0,0:20:41.38,0:20:43.44,Default,Jogo,0,0,0,,Why, you...
-Dialogue: 0,0:20:43.44,0:20:44.89,Default,Geto,0,0,0,,I think you understand now.
-Dialogue: 0,0:20:45.61,0:20:49.27,Default,Geto,0,0,0,,About sealing Gojo Satoru, and the right time and place.
+Dialogue: 0,0:20:43.44,0:20:44.89,Default,Geto,0,0,0,,I hope you understand now.
+Dialogue: 0,0:20:45.61,0:20:49.27,Default,Geto,0,0,0,,{\fade(220,0)}About sealing Gojo Satoru,\N and the right time and place.
 Dialogue: 0,0:20:49.27,0:20:53.77,Default,Geto,0,0,0,,{\fade(0,500)}We'll seal him once we've secured our advantage.
 Dialogue: 0,0:20:53.98,0:20:57.25,Default,Geto,0,0,0,,We'll proceed on October 31st in Shibuya.
 Dialogue: 0,0:20:57.25,0:20:59.40,Default,Geto,0,0,0,,I'll give you the details later.

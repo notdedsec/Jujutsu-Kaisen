@@ -21,13 +21,13 @@ Video File: jujutsu_06_premux.mkv
 Keyframes File: jujutsu_06_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 300
-Active Line: 309
-Video Position: 27182
+Scroll Position: 335
+Active Line: 347
+Video Position: 30651
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,110,110,60,1
+Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
@@ -44,9 +44,8 @@ Dialogue: 0,0:02:19.60,0:02:21.87,Default,Yuji,0,0,0,,You did just kill me.
 Dialogue: 0,0:02:21.87,0:02:25.30,Default,Sukuna,0,0,0,,This is how you thank me for fixing your arm?
 Dialogue: 0,0:02:25.30,0:02:27.97,Default,Yuji,0,0,0,,Yeah, and you ripped out my heart right after that!
 Dialogue: 0,0:02:30.27,0:02:32.13,Default,Yuji,0,0,0,,Is this Hell?
-Dialogue: 0,0:02:32.13,0:02:36.51,Default,Yuji,0,0,0,,I'm not sure I can accept being stuck with you even after death.
-Dialogue: 0,0:02:37.10,0:02:39.18,Default,Yuji,0,0,0,,If that's the case, then
-Dialogue: 0,0:02:39.18,0:02:40.31,Default,Yuji,0,0,0,,I'll make you pay!
+Dialogue: 0,0:02:32.13,0:02:36.51,Default,Yuji,0,0,0,,I'm not sure I can accept \Nbeing stuck with you even after death.
+Dialogue: 0,0:02:37.10,0:02:40.31,Default,Yuji,0,0,0,,If that's the case, then I'll make you pay!
 Dialogue: 0,0:02:47.10,0:02:49.17,Default,Yuji,0,0,0,,Hope you're ready for this!
 Dialogue: 0,0:02:58.36,0:03:00.25,Default,Sukuna,0,0,0,,{\i1}Going for my footing?
 Dialogue: 0,0:03:00.25,0:03:01.57,Default,Yuji,0,0,0,,You fell for it!
@@ -64,11 +63,11 @@ Dialogue: 0,0:03:27.33,0:03:30.36,Default,Sukuna,0,0,0,,In other words, we're no
 Dialogue: 0,0:03:31.01,0:03:33.13,Default,Sukuna,0,0,0,,If you'll accept my conditions,
 Dialogue: 0,0:03:33.13,0:03:35.73,Default,Sukuna,0,0,0,,I'll fix your heart and bring us back to life.
 Dialogue: 0,0:03:35.73,0:03:37.47,Default,Yuji,0,0,0,,Cocky bastard.
-Dialogue: 0,0:03:37.47,0:03:41.07,Default,Yuji,0,0,0,,You act all big, but I know you don't want to die either.
-Dialogue: 0,0:03:41.07,0:03:43.60,Default,Sukuna,0,0,0,,The game has changed.
-Dialogue: 0,0:03:43.60,0:03:47.58,Default,Sukuna,0,0,0,,We'll see something interesting in the near future.
+Dialogue: 0,0:03:37.47,0:03:41.07,Default,Yuji,0,0,0,,You act all big, \Nbut I know you don't want to die either.
+Dialogue: 0,0:03:41.49,0:03:43.60,Default,Sukuna,0,0,0,,The game has changed.
+Dialogue: 0,0:03:43.60,0:03:47.58,Default,Sukuna,0,0,0,,We'll get to see something \Nvery interesting in the near future.
 Dialogue: 0,0:03:49.33,0:03:51.42,Default,Sukuna,0,0,0,,I have two conditions.
-Dialogue: 0,0:03:51.42,0:03:56.66,Default,Sukuna,0,0,0,,First, when I say "Enchant," you'll let me take over your body for one minute.
+Dialogue: 0,0:03:51.42,0:03:56.66,Default,Sukuna,0,0,0,,First, when I say "Enchant," \Nyou'll let me take over your body for one minute.
 Dialogue: 0,0:03:56.66,0:03:59.84,Default,Sukuna,0,0,0,,Second, you'll forget about this agreement.
 Dialogue: 0,0:03:59.84,0:04:00.96,Default,Yuji,0,0,0,,No way.
 Dialogue: 0,0:04:00.96,0:04:04.05,Default,Yuji,0,0,0,,I'm not sure what you're after, but it's shady as hell.
@@ -84,11 +83,10 @@ Dialogue: 0,0:04:24.64,0:04:26.22,Default,Sukuna,0,0,0,,A binding vow.
 Dialogue: 0,0:04:26.22,0:04:28.83,Default,Sukuna,0,0,0,,I'll be the one punished if I break it.
 Dialogue: 0,0:04:31.09,0:04:34.93,Default,Sukuna,0,0,0,,There are consequences for being greedy.
 Dialogue: 0,0:04:34.93,0:04:37.88,Default,Sukuna,0,0,0,,You know that better than anyone else.
-Dialogue: 0,0:04:39.00,0:04:40.97,Default,Yuji,0,0,0,,You didn't have a problem before!
-Dialogue: 0,0:04:40.97,0:04:41.76,Default,Sukuna,0,0,0,,Huh?
+Dialogue: 0,0:04:39.00,0:04:41.18,Default,Yuji,0,0,0,,You didn't have a problem before!
 Dialogue: 0,0:04:42.31,0:04:43.30,Default,Sukuna,0,0,0,,Oh.
-Dialogue: 0,0:04:43.30,0:04:46.18,Default,Sukuna,0,0,0,,Back then, I wanted to switch too.
-Dialogue: 0,0:04:46.18,0:04:49.85,Default,Sukuna,0,0,0,,And you were just doing as that sorcerer told you to.
+Dialogue: 0,0:04:43.30,0:04:46.18,Default,Sukuna,0,0,0,,Back then, I wanted to switch too,
+Dialogue: 0,0:04:46.18,0:04:49.85,Default,Sukuna,0,0,0,,and you were just doing as that sorcerer told you to.
 Dialogue: 0,0:04:52.54,0:04:54.65,Default,Sukuna,0,0,0,,A pact is founded in mutual interest.
 Dialogue: 0,0:04:54.65,0:04:58.44,Default,Sukuna,0,0,0,,It's one of the key factors in the world of jujutsu.
 Dialogue: 0,0:04:59.83,0:05:02.30,Default,Yuji,0,0,0,,Fine, then. Get off me.
@@ -101,21 +99,20 @@ Dialogue: 0,0:05:26.30,0:05:28.05,Default,Sukuna,0,0,0,,Then how about this?
 Dialogue: 0,0:05:28.05,0:05:31.85,Default,Sukuna,0,0,0,,We'll fight to the death. \NIf you win, I'll do it without conditions.
 Dialogue: 0,0:05:31.85,0:05:35.06,Default,Sukuna,0,0,0,,If I win, you come back to life under my conditions.
 Dialogue: 0,0:05:35.06,0:05:35.98,Default,Yuji,0,0,0,,Sure!
-Dialogue: 0,0:05:35.98,0:05:37.08,Default,Yuji,0,0,0,,I'm gonna kick—
-Dialogue: 0,0:05:44.12,0:05:45.49,Default,Gojo,0,0,0,,You know,
-Dialogue: 0,0:05:45.49,0:05:47.70,Default,Gojo,0,0,0,,I have a lousy personality.
+Dialogue: 0,0:05:35.98,0:05:37.23,Default,Yuji,0,0,0,,I'm gonna kick—
+Dialogue: 0,0:05:44.12,0:05:47.70,Default,Gojo,0,0,0,,You know, I have a lousy personality.
 Dialogue: 0,0:05:47.70,0:05:48.49,Default,Ijichi,0,0,0,,I know.
 Dialogue: 0,0:05:48.49,0:05:50.46,Default,Gojo,0,0,0,,Ijichi, expect a hard forehead flick later.
 Dialogue: 0,0:05:50.46,0:05:52.36,Default,Ijichi,0,0,0,,F-Forehead flick?
 Dialogue: 0,0:05:53.14,0:05:55.22,Default,Gojo,0,0,0,,Being a teacher isn't my style.
-Dialogue: 0,0:05:55.22,0:05:58.53,Default,Gojo,0,0,0,,Do you know why I decided to teach at this school?
+Dialogue: 0,0:05:55.22,0:05:58.53,Default,Gojo,0,0,0,,Do you know why I decided to teach here?
 Dialogue: 0,0:05:58.99,0:05:59.89,Default,Gojo,0,0,0,,Ask me.
 Dialogue: 0,0:06:00.84,0:06:02.21,Default,Ijichi,0,0,0,,Why did you?
 Dialogue: 0,0:06:02.96,0:06:04.69,Default,Gojo,0,0,0,,Because I have a dream. {fucking jojo's reference}
 Dialogue: 0,0:06:04.69,0:06:06.63,Default,Ijichi,0,0,0,,A dream?
-Dialogue: 0,0:06:06.63,0:06:07.80,Default,Gojo,0,0,0,,Yup.
-Dialogue: 0,0:06:07.80,0:06:12.88,Default,Gojo,0,0,0,,As they made it clear with Yuji's case,\N the top of the jujutsu world is filled with scums.
-Dialogue: 0,0:06:12.88,0:06:16.48,Default,Gojo,0,0,0,,Conservative morons. Traditional halfwits. Arrogant jerks.
+Dialogue: 0,0:06:06.63,0:06:07.47,Default,Gojo,0,0,0,,Yup.
+Dialogue: 0,0:06:08.01,0:06:12.94,Default,Gojo,0,0,0,,As they made it clear with Yuji's case,\N the top of the jujutsu world is filled with scums.
+Dialogue: 0,0:06:12.94,0:06:16.48,Default,Gojo,0,0,0,,Conservative morons. Traditional halfwits. Arrogant jerks.
 Dialogue: 0,0:06:16.48,0:06:17.83,Default,Gojo,0,0,0,,Or just plain idiots.
 Dialogue: 0,0:06:17.83,0:06:20.28,Default,Gojo,0,0,0,,It's like a sale on rotten oranges.
 Dialogue: 0,0:06:20.75,0:06:24.66,Default,Gojo,0,0,0,,I'm gonna reset this messed up jujutsu world.
@@ -139,7 +136,7 @@ Dialogue: 0,0:07:18.16,0:07:19.91,Default,Yuji,0,0,0,,Whoa, full frontal!
 Dialogue: 0,0:07:20.25,0:07:21.95,Default,Ijichi,0,0,0,,G-G-G-Gojo!
 Dialogue: 0,0:07:21.95,0:07:24.92,Default,Ijichi,0,0,0,,H-H-H-H-H-H-He's alive!
 Dialogue: 0,0:07:23.30,0:07:24.92,Alt,Gojo,0,0,0,,Shut up, Ijichi.
-Dialogue: 0,0:07:24.92,0:07:26.46,Default,Shoko,0,0,0,,I'm kinda disappointed.
+Dialogue: 0,0:07:24.92,0:07:26.46,Default,Shoko,0,0,0,,I'm a little disappointed.
 Dialogue: 0,0:07:26.46,0:07:28.80,Default,Yuji,0,0,0,,Um, this is kinda embarrassing.
 Dialogue: 0,0:07:28.80,0:07:29.42,Default,Yuji,0,0,0,,Who are you?
 Dialogue: 0,0:07:29.42,0:07:30.56,Default,Gojo,0,0,0,,Yuji!
@@ -155,7 +152,7 @@ Dialogue: 0,0:08:05.42,0:08:06.16,Default,Shoko,0,0,0,,Why?
 Dialogue: 0,0:08:06.16,0:08:07.59,Default,Gojo,0,0,0,,The reason is simple.
 Dialogue: 0,0:08:08.32,0:08:13.14,Default,Gojo,0,0,0,,Nothing should keep this kid \Nfrom living the best years of his life.
 Dialogue: 0,0:08:13.14,0:08:15.14,Default,Yuji,0,0,0,,I bet everyone will be surprised.
-Dialogue: 0,0:08:16.27,0:08:18.35,Default,Gojo,0,0,0,,Not just him, but everyone.
+Dialogue: 0,0:08:16.27,0:08:18.35,Default,Gojo,0,0,0,,Not just him but everyone.
 Dialogue: 0,0:08:24.52,0:08:27.49,Default,Worker,0,0,0,,{\i1}Starting right now, I'm ditching work.
 Dialogue: 0,0:08:27.49,0:08:30.16,Default,Worker,0,0,0,,{\i1}I've always had a strong sense of responsibility.
 Dialogue: 0,0:08:30.16,0:08:34.16,Default,Worker,0,0,0,,{\i1}I've been saving up my earnings so I can send my four younger sisters to college too.
@@ -268,7 +265,7 @@ Dialogue: 0,0:14:55.59,0:14:57.33,Default,Gojo,0,0,0,,We're going to focus on yo
 Dialogue: 0,0:14:56.09,0:14:58.69,Default,Yuji,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\an8}This totally sucks!
 Dialogue: 0,0:14:57.33,0:14:59.91,Default,Gojo,0,0,0,,We'll apply cursed energy to your physical attacks.
 Dialogue: 0,0:14:59.91,0:15:04.24,Default,Gojo,0,0,0,,I'm way more scared of savage basic attacks than I am of half-assed cursed techniques.
-Dialogue: 0,0:15:04.24,0:15:07.76,Default,Gojo,0,0,0,,Like I just said, your talent for close combat is top-notch.
+Dialogue: 0,0:15:04.24,0:15:07.76,Default,Gojo,0,0,0,,Like I said, your talent for close combat is top-notch.
 Dialogue: 0,0:15:09.01,0:15:11.85,Default,Yuji,0,0,0,,But wait! I can already do that!
 Dialogue: 0,0:15:11.85,0:15:12.51,Default,Gojo,0,0,0,,Get up already.
 Dialogue: 0,0:15:13.03,0:15:15.89,Default,Yuji,0,0,0,,Back then, I somehow managed to get the hang of it.
@@ -302,15 +299,15 @@ Dialogue: 0,0:16:32.01,0:16:33.30,Default,Yuji,0,0,0,,L-Like what?
 Dialogue: 0,0:16:33.30,0:16:35.60,Default,Gojo,0,0,0,,Watching movies.
 Dialogue: 0,0:16:35.60,0:16:37.10,Default,Yuji,0,0,0,,Watching movies?
 Dialogue: 0,0:16:37.61,0:16:38.60,Default,Gojo,0,0,0,,Yup.
-Dialogue: 0,0:16:38.60,0:16:42.35,Default,Gojo,0,0,0,,Everything from masterpieces to C-grade horror films and terrible French movies.
-Dialogue: 0,0:16:42.35,0:16:44.57,Default,Gojo,0,0,0,,You'll be watching them nonstop as long as you're awake.
+Dialogue: 0,0:16:38.60,0:16:42.35,Default,Gojo,0,0,0,,Everything from masterpieces to\N C-grade horror films and terrible French movies.
+Dialogue: 0,0:16:42.35,0:16:44.57,Default,Gojo,0,0,0,,You'll be watching them \Nnonstop as long as you're awake.
 Dialogue: 0,0:16:44.57,0:16:46.81,Default,Gojo,0,0,0,,Of course, you won't just be watching them.
 Dialogue: 0,0:16:49.22,0:16:51.28,Default,Gojo,0,0,0,,You'll be watching them with this guy.
 Dialogue: 0,0:16:51.28,0:16:53.69,Default,Yuji,0,0,0,,What's with the creepy-cute doll?
 Dialogue: 0,0:16:54.26,0:16:55.70,Default,Gojo,0,0,0,,Cute?
 Dialogue: 0,0:16:55.70,0:16:57.65,Default,Gojo,0,0,0,,It's a cursed corpse the principal made.
 Dialogue: 0,0:16:57.65,0:17:00.16,Default,Yuji,0,0,0,,Ah, I knew it! It's the same style!
-Dialogue: 0,0:17:05.76,0:17:08.32,Default,Yuji,0,0,0,,And? I don't understand what you're getting at here.
+Dialogue: 0,0:17:05.76,0:17:08.32,Default,Yuji,0,0,0,,And? I don't understand what you're getting at.
 Dialogue: 0,0:17:08.32,0:17:10.86,Default,Gojo,0,0,0,,Don't be hasty, now. You'll see soon.
 Dialogue: 0,0:17:13.17,0:17:18.85,Default,Gojo,0,0,0,,That cursed corpse will wake up and attack you\Nif it doesn't receive a consistent flow of energy.
 Dialogue: 0,0:17:18.85,0:17:21.31,Default,Yuji,0,0,0,,Ow!
@@ -329,7 +326,7 @@ Dialogue: 0,0:18:03.21,0:18:06.18,Default,Gojo,0,0,0,,The heroine's annoying, \N
 Dialogue: 0,0:18:06.18,0:18:07.85,Default,Yuji,0,0,0,,Major spoilers!
 Dialogue: 0,0:18:07.85,0:18:10.88,Default,Yuji,0,0,0,,I say we start off with an action—
 Dialogue: 0,0:18:11.82,0:18:13.49,Default,Yuji,0,0,0,,Oh, come on!
-Dialogue: 0,0:18:13.91,0:18:16.78,Default,Gojo,0,0,0,,Hey, keep the energy flow steady even if you're irritated.
+Dialogue: 0,0:18:13.91,0:18:16.78,Default,Gojo,0,0,0,,Hey, keep the energy flow \Nsteady even if you're irritated.
 Dialogue: 0,0:18:17.83,0:18:20.37,Default,Panda,0,0,0,,Carrying cursed tools, huh?
 Dialogue: 0,0:18:20.75,0:18:27.61,Default,Fushiguro,0,0,0,,It's true that weapons are helpful in close combat \Nbut I need my hands free for my cursed technique.
 Dialogue: 0,0:18:27.61,0:18:30.34,Default,Fushiguro,0,0,0,,With swords, you lose time sheathing them.
@@ -345,7 +342,7 @@ Dialogue: 0,0:18:51.99,0:18:53.69,Default,Panda,0,0,0,,For a year's supply of {*
 Dialogue: 0,0:18:53.69,0:18:54.76,Default,Sukuna,0,0,0,,I don't get it, though.
 Dialogue: 0,0:18:54.76,0:18:56.40,Default,Sukuna,0,0,0,,Back then,
 Dialogue: 0,0:18:59.32,0:19:00.91,Default,Sukuna,0,0,0,,why did you run away?
-Dialogue: 0,0:19:01.87,0:19:03.99,Default,Sukuna,0,0,0,,What a wasted opportunity.
+Dialogue: 0,0:19:01.87,0:19:03.99,Default,Sukuna,0,0,0,,What a waste of talent.
 Dialogue: 0,0:19:03.99,0:19:07.83,Default,Fushiguro,0,0,0,,{\i1}Do I have the potential to beat special-grades?
 Dialogue: 0,0:19:08.79,0:19:10.82,Default,Fushiguro,0,0,0,,{\i1}Is that what he meant?
 Dialogue: 0,0:19:16.13,0:19:17.53,Default,Toge,0,0,0,,Tuna, tuna.
@@ -383,7 +380,7 @@ Dialogue: 0,0:21:10.95,0:21:11.84,Default,Gojo,0,0,0,,Stop the car.
 Dialogue: 0,0:21:11.84,0:21:13.30,Default,Ijichi,0,0,0,,Huh? Right here?
 Dialogue: 0,0:21:13.98,0:21:15.41,Default,Gojo,0,0,0,,Go on ahead.
 Dialogue: 0,0:21:16.09,0:21:18.40,Default,Ijichi,0,0,0,,A-Are you testing me?
-Dialogue: 0,0:21:18.40,0:21:21.01,Default,Ijichi,0,0,0,,You won't hit me if I actually went on ahead, would you?
+Dialogue: 0,0:21:18.40,0:21:21.01,Default,Ijichi,0,0,0,,You won't hit me if \NI actually went on ahead, would you?
 Dialogue: 0,0:21:21.01,0:21:22.98,Default,Gojo,0,0,0,,Just what do you think I am?
 Dialogue: 0,0:21:23.55,0:21:24.43,Default,Ijichi,0,0,0,,In that case...
 Dialogue: 0,0:21:32.51,0:21:33.59,Default,Gojo,0,0,0,,Now then.

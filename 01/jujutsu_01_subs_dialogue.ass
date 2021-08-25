@@ -21,13 +21,13 @@ Video File: jujutsu_01_premux.mkv
 Keyframes File: jujutsu_01_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 234
-Active Line: 245
-Video Position: 19973
+Scroll Position: 254
+Active Line: 266
+Video Position: 21547
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,80,80,60,1
+Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
@@ -107,8 +107,8 @@ Dialogue: 0,0:05:03.49,0:05:05.70,Default,Sasaki,0,0,0,,We're talking about toug
 Dialogue: 0,0:05:06.34,0:05:09.29,Default,Sasaki,0,0,0,,Truth is that just before they started feeling sick,
 Dialogue: 0,0:05:10.72,0:05:13.79,Default,Sasaki,0,0,0,,they heard mysterious sounds and voices coming from the field.
 Dialogue: 0,0:05:13.79,0:05:17.25,Default,Sasaki,0,0,0,,That's when we found this newspaper article from thirty years ago.
-Dialogue: 0,0:05:17.25,0:05:20.79,Default,Sasaki,0,0,0,,It talks about the disappearance of {*}Mr. Yoshida{*Yoshida-san}, who worked for a construction company.
-Dialogue: 0,0:05:20.79,0:05:25.80,Default,Sasaki,0,0,0,,It says that he was last sighted here at\N Sugisawa Third High School during its construction.
+Dialogue: 0,0:05:17.25,0:05:20.79,Default,Sasaki,0,0,0,,It talks about the disappearance of a construction worker named {*}Mr. Yoshida{*Yoshida-san}.
+Dialogue: 0,0:05:20.79,0:05:25.80,Default,Sasaki,0,0,0,,He was last sighted here at Sugisawa Third \NHigh School during its construction.
 Dialogue: 0,0:05:27.14,0:05:29.32,Default,Sasaki,0,0,0,,{*}Mr. Yoshida{*Yoshida-san} was struggling to make ends meet,
 Dialogue: 0,0:05:29.32,0:05:30.76,Default,Sasaki,0,0,0,,so he turned to loan sharks
 Dialogue: 0,0:05:30.76,0:05:32.81,Default,Sasaki,0,0,0,,and those organizations were after him.
@@ -117,14 +117,15 @@ Dialogue: 0,0:05:34.32,0:05:40.90,Default,Sasaki,0,0,0,,The commotion was caused
 Dialogue: 0,0:05:40.90,0:05:43.32,Default,President,0,0,0,,No, actually it was just ticks.
 Dialogue: 0,0:05:45.21,0:05:46.33,Default,President,0,0,0,,Hard ticks.
 Dialogue: 0,0:05:46.33,0:05:48.20,Default,President,0,0,0,,A large, blood-sucking bug.
-Dialogue: 0,0:05:48.20,0:05:51.14,Default,President,0,0,0,,If it bites you and infects you with SFTS,
-Dialogue: 0,0:05:51.14,0:05:52.21,Default,President,0,0,0,,it can be fatal, so be very careful.
+Dialogue: 0,0:05:48.20,0:05:51.14,Default,President,0,0,0,,It can be fatal if it bites you and infects you with SFTS,
+Dialogue: 0,0:05:51.14,0:05:52.21,Default,President,0,0,0,,so be very careful.
 Dialogue: 0,0:05:52.57,0:05:53.92,Default,Yuji,0,0,0,,So what?!
-Dialogue: 0,0:05:53.92,0:05:58.08,Default,Yuji,0,0,0,,The occult club is trying to uncover occult activity, so it's still a proper activity report!
+Dialogue: 0,0:05:53.92,0:05:56.25,Default,Yuji,0,0,0,,The occult club is uncovering occult activity,
+Dialogue: 0,0:05:56.25,0:05:58.08,Default,Yuji,0,0,0,,so it's still a proper activity report!
 Dialogue: 0,0:05:58.08,0:06:00.23,Default,President,0,0,0,,This isn't some kid's game!
 Dialogue: 0,0:06:00.23,0:06:03.18,Default,President,0,0,0,,Besides, the problem here is you, Itadori Yuji!
-Dialogue: 0,0:06:03.18,0:06:05.38,Default,President,0,0,0,,You're registered with track and field, not the occult club.
-Dialogue: 0,0:06:05.38,0:06:10.05,Default,President,0,0,0,,So this club doesn't even have the three members required to {\i1}be{\i0} a club!
+Dialogue: 0,0:06:03.18,0:06:05.38,Default,President,0,0,0,,You're registered with \Ntrack and field, not the occult club.
+Dialogue: 0,0:06:05.38,0:06:10.05,Default,President,0,0,0,,So this club doesn't even have \Nthe three members required to {\i1}be{\i0} a club!
 Dialogue: 0,0:06:10.31,0:06:10.97,Default,Yuji,0,0,0,,Wha—
 Dialogue: 0,0:06:11.10,0:06:12.43,Default,Sasaki,0,0,0,,Itadori
 Dialogue: 0,0:06:12.43,0:06:14.56,Default,Yuji,0,0,0,,No, I'm sure I wrote down the occult club.
@@ -132,7 +133,7 @@ Dialogue: 0,0:06:14.56,0:06:16.56,Default,Takagi,0,0,0,,I rewrote it!
 Dialogue: 0,0:06:16.56,0:06:18.99,Default,Yuji,0,0,0,,The track and field coach, Takagi?!
 Dialogue: 0,0:06:18.99,0:06:21.94,Default,Takagi,0,0,0,,Itadori, we need you for conquering the nationals!
 Dialogue: 0,0:06:22.60,0:06:25.61,Default,President,0,0,0,,{\i1}Here's a teacher more problematic than the students.
-Dialogue: 0,0:06:26.17,0:06:29.17,Default,Yuji,0,0,0,,Give it a break! How many times do I have to refuse?
+Dialogue: 0,0:06:26.17,0:06:29.17,Default,Yuji,0,0,0,,Give it a break! \NHow many times do I have to refuse?
 Dialogue: 0,0:06:29.17,0:06:29.77,Default,Takagi,0,0,0,,No can do!
 Dialogue: 0,0:06:29.77,0:06:30.57,Default,Yuji,0,0,0,,Why not?!
 Dialogue: 0,0:06:30.57,0:06:32.62,Default,Takagi,0,0,0,,However, I'm not some monster.
@@ -149,7 +150,7 @@ Dialogue: 0,0:07:05.15,0:07:07.62,Default,Fushiguro,0,0,0,,{\i1}That's probably 
 Dialogue: 0,0:07:07.62,0:07:09.53,Default,Fushiguro,0,0,0,,{\i1}Must be that cursed object's influence.
 Dialogue: 0,0:07:11.83,0:07:12.87,Default,Fushiguro,0,0,0,,{\i1}Damn it.
 Dialogue: 0,0:07:12.87,0:07:15.16,Default,Fushiguro,0,0,0,,{\i1}Its presence is too big to pin down.
-Dialogue: 0,0:07:15.16,0:07:19.04,Default,Fushiguro,0,0,0,,{\i1}It feels like it's close, but it could still be far away.
+Dialogue: 0,0:07:15.16,0:07:19.04,Default,Fushiguro,0,0,0,,{\i1}It feels like it's close but it could still be far away.
 Dialogue: 0,0:07:19.48,0:07:22.29,Default,Fushiguro,0,0,0,,{\i1}This special-grade cursed object is a serious pain.
 Dialogue: 0,0:07:23.25,0:07:25.17,Default,Fushiguro,0,0,0,,{\i1}Who could have moved it?
 Dialogue: 0,0:07:25.17,0:07:26.76,Default,Fushiguro,0,0,0,,{\i1}Where is it now?
@@ -168,7 +169,7 @@ Dialogue: 0,0:07:54.73,0:07:56.83,Default,Sasaki,0,0,0,,But Mirko's not even dea
 Dialogue: 0,0:07:57.33,0:07:59.89,Default,Iguchi,0,0,0,,He earned the nickname "Tiger of West Middle."
 Dialogue: 0,0:07:59.89,0:08:01.08,Default,Sasaki,0,0,0,,Lame.
 Dialogue: 0,0:08:01.08,0:08:03.34,Default,Yuji,0,0,0,,Hey, can I just throw this however I want?
-Dialogue: 0,0:08:03.34,0:08:06.52,Default,Takagi,0,0,0,,Yep. I won't call any fouls, so throw however you please.
+Dialogue: 0,0:08:03.34,0:08:06.52,Default,Takagi,0,0,0,,Yep. I won't call any fouls, \Nso throw however you please.
 Dialogue: 0,0:08:06.52,0:08:10.01,Default,Takagi,0,0,0,,I'm sorry, I chose something that isn't your forte.
 Dialogue: 0,0:08:10.01,0:08:11.55,Default,Takagi,0,0,0,,Hopefully this will show you how serious—
 Dialogue: 0,0:08:15.57,0:08:19.06,Default,Student,0,0,0,,Uh, roughly thirty meters.
@@ -184,7 +185,8 @@ Dialogue: 0,0:08:39.01,0:08:40.62,Default,Sasaki,0,0,0,,We're scared {\i1}becaus
 Dialogue: 0,0:08:40.62,0:08:42.04,Default,Student,0,0,0,,{\an8}Yay!
 Dialogue: 0,0:08:40.62,0:08:43.80,Default,Yuji,0,0,0,,Besides, everyone in school has to be in some club, right?
 Dialogue: 0,0:08:43.80,0:08:45.25,Default,Yuji,0,0,0,,I could never keep this up.
-Dialogue: 0,0:08:45.25,0:08:48.07,Default,Sasaki,0,0,0,,You don't have to do anything! You can be a ghost member!
+Dialogue: 0,0:08:45.25,0:08:46.72,Default,Sasaki,0,0,0,,You don't have to do anything!
+Dialogue: 0,0:08:46.72,0:08:48.07,Default,Sasaki,0,0,0,,You can be a ghost member!
 Dialogue: 0,0:08:48.07,0:08:49.54,Default,Sasaki,0,0,0,,We're the occult club, after all!
 Dialogue: 0,0:08:50.25,0:08:51.76,Default,Sasaki,0,0,0,,I did say that.
 Dialogue: 0,0:08:51.76,0:08:54.93,Default,Yuji,0,0,0,,I've got my reasons, and I need to be home by five.
@@ -213,14 +215,14 @@ Dialogue: 0,0:10:02.97,0:10:04.87,Default,Yuji,0,0,0,,Oh, chill out.
 Dialogue: 0,0:10:04.87,0:10:06.80,Default,Yuji,0,0,0,,It ends before five.
 Dialogue: 0,0:10:06.80,0:10:09.93,Default,Yuji,0,0,0,,I wouldn't have come here if I wasn't so bored.
 Dialogue: 0,0:10:09.93,0:10:11.13,Default,Grandpa,0,0,0,,Good.
-Dialogue: 0,0:10:11.13,0:10:14.13,Default,Grandpa,0,0,0,,Since you've got free time, listen to what I've got to say.
+Dialogue: 0,0:10:11.13,0:10:14.13,Default,Grandpa,0,0,0,,Since you've got free time,\N listen to what I've gotta say.
 Dialogue: 0,0:10:14.13,0:10:15.68,Default,Yuji,0,0,0,,Not interested.
 Dialogue: 0,0:10:15.68,0:10:17.18,Default,Grandpa,0,0,0,,Just listen anyway.
 Dialogue: 0,0:10:17.18,0:10:20.16,Default,Grandpa,0,0,0,,I have some final words for you.
 Dialogue: 0,0:10:20.16,0:10:22.56,Default,Grandpa,0,0,0,,It's about your parents.
 Dialogue: 0,0:10:21.42,0:10:22.56,Alt,Yuji,0,0,0,,As I said,
 Dialogue: 0,0:10:22.56,0:10:24.14,Default,Yuji,0,0,0,,I'm not interested.
-Dialogue: 0,0:10:24.65,0:10:28.10,Default,Yuji,0,0,0,,Grandpa, could you stop trying to act all cool before you die?
+Dialogue: 0,0:10:24.65,0:10:28.10,Default,Yuji,0,0,0,,Grandpa, could you stop\N trying to act all cool before you die?
 Dialogue: 0,0:10:28.52,0:10:31.60,Default,Grandpa,0,0,0,,A man wants to go out in style, y'know!
 Dialogue: 0,0:10:31.60,0:10:33.79,Default,Grandpa,0,0,0,,Get a clue, you idiot grandson!
 Dialogue: 0,0:10:34.22,0:10:36.07,Default,Yuji,0,0,0,,Quit snapping over everything.
@@ -271,7 +273,7 @@ Dialogue: 0,0:13:18.71,0:13:20.02,Default,Fushiguro,0,0,0,,Those are the facts.
 Dialogue: 0,0:13:20.34,0:13:21.53,Default,Fushiguro,0,0,0,,Moving on.
 Dialogue: 0,0:13:22.28,0:13:26.03,Default,Fushiguro,0,0,0,,Crowded places like schools or hospitals are likely to form pools of negative energy.
 Dialogue: 0,0:13:26.03,0:13:29.07,Default,Fushiguro,0,0,0,,Hardship, regret, humiliation.
-Dialogue: 0,0:13:29.07,0:13:32.16,Default,Fushiguro,0,0,0,,Mankind's negative emotions become the source of curses.
+Dialogue: 0,0:13:29.07,0:13:32.54,Default,Fushiguro,0,0,0,,Mankind's negative emotions become the source of curses.
 Dialogue: 0,0:13:32.54,0:13:37.00,Default,Fushiguro,0,0,0,,That's why a cursed object is kept at such places as a protective talisman.
 Dialogue: 0,0:13:37.53,0:13:39.50,Default,Fushiguro,0,0,0,,The object you found is one of them.
 Dialogue: 0,0:13:39.50,0:13:42.26,Default,Yuji,0,0,0,,If it's protecting us, shouldn't we be grateful for it?
@@ -284,20 +286,20 @@ Dialogue: 0,0:14:05.54,0:14:07.45,Default,Fushiguro,0,0,0,,Hand it over before p
 Dialogue: 0,0:14:07.45,0:14:10.51,Default,Yuji,0,0,0,,Hey, I already told you I don't mind.
 Dialogue: 0,0:14:10.51,0:14:12.00,Default,Yuji,0,0,0,,Explain it to my {*}friends{*senpai}.
 Dialogue: 0,0:14:13.06,0:14:14.26,Default,Fushiguro,0,0,0,,{\i1}It's empty?
-Dialogue: 0,0:14:14.26,0:14:17.17,Default,Fushiguro,0,0,0,,{\i1}I was just chasing the cursed energy lingering in the box?!
+Dialogue: 0,0:14:14.26,0:14:17.17,Default,Fushiguro,0,0,0,,{\i1}I was just chasing the \Ncursed energy lingering in the box?!
 Dialogue: 0,0:14:19.30,0:14:20.42,Default,Fushiguro,0,0,0,,Where are the contents?!
 Dialogue: 0,0:14:20.42,0:14:23.39,Default,Yuji,0,0,0,,Like I said, my {*}friends{*senpai} have it...
 Dialogue: 0,0:14:23.97,0:14:24.97,Default,Fushiguro,0,0,0,,What is it?
-Dialogue: 0,0:14:24.97,0:14:29.31,Default,Fushiguro,0,0,0,,Actually, they mentioned something about peeling off the seal tonight at school.
-Dialogue: 0,0:14:31.14,0:14:33.75,Default,Fushiguro,0,0,0,,What? Is that bad?
+Dialogue: 0,0:14:24.97,0:14:29.31,Default,Fushiguro,0,0,0,,Actually, they mentioned something \Nabout peeling off the seal tonight at school.
+Dialogue: 0,0:14:31.14,0:14:33.75,Default,Fushiguro,0,0,0,,What? Is that a bad idea?
 Dialogue: 0,0:14:35.39,0:14:37.39,Default,Fushiguro,0,0,0,,Bad doesn't even begin to describe it.
 Dialogue: 0,0:14:37.93,0:14:40.53,Default,Fushiguro,0,0,0,,They're gonna die.
 Dialogue: 0,0:14:45.27,0:14:46.91,Default,Sasaki,0,0,0,,I can't get it off.
 Dialogue: 0,0:14:46.91,0:14:49.73,Default,Iguchi,0,0,0,,Did we really need to sneak in to do this?
 Dialogue: 0,0:14:49.73,0:14:51.03,Default,Iguchi,0,0,0,,I'm turning on the lights.
 Dialogue: 0,0:14:51.03,0:14:53.36,Default,Sasaki,0,0,0,,No! The atmosphere's important!
-Dialogue: 0,0:14:53.36,0:14:56.28,Default,Sasaki,0,0,0,,Enjoying the thrill is in the spirit of the occult club, isn't it?
-Dialogue: 0,0:14:56.28,0:14:58.65,Default,Sasaki,0,0,0,,It's not like anything's going to happen, anyway.
+Dialogue: 0,0:14:53.36,0:14:56.28,Default,Sasaki,0,0,0,,Enjoying the thrill is the spirit of the occult club!
+Dialogue: 0,0:14:56.28,0:14:59.17,Default,Sasaki,0,0,0,,It's not like anything's gonna happen, anyway.
 Dialogue: 0,0:15:00.25,0:15:01.55,Default,Sasaki,0,0,0,,Oh, it came off!
 Dialogue: 0,0:15:15.39,0:15:17.35,Default,Iguchi,0,0,0,,A human finger?
 Dialogue: 0,0:15:17.95,0:15:19.35,Default,Sasaki,0,0,0,,Is it real?
@@ -347,7 +349,7 @@ Dialogue: 0,0:17:41.24,0:17:44.37,Default,Grandpa,0,0,0,,You're a strong kid, so
 Dialogue: 0,0:17:50.26,0:17:52.96,Default,Fushiguro,0,0,0,,More of those curses. They're close.
 Dialogue: 0,0:18:01.44,0:18:02.47,Default,Fushiguro,0,0,0,,Found them.
 Dialogue: 0,0:18:04.24,0:18:06.14,Default,Yuji,0,0,0,,{\i1}He was short-tempered and stubborn.
-Dialogue: 0,0:18:06.52,0:18:09.15,Default,Yuji,0,0,0,,{\i1}No one ever paid him a visit, but me. {No one ever paid him a visit, but me. It's technically not wrong as it is, I think. Yet feel this structure is better to give impact to the core statement that "No one ever paid him a visit."}
+Dialogue: 0,0:18:06.52,0:18:09.15,Default,Yuji,0,0,0,,{\i1}No one ever paid him a visit but me. {No one ever paid him a visit, but me. It's technically not wrong as it is, I think. Yet feel this structure is better to give impact to the core statement that "No one ever paid him a visit."}
 Dialogue: 0,0:18:10.64,0:18:13.02,Default,Yuji,0,0,0,,{\i1}Don't end up like you, huh?
 Dialogue: 0,0:18:13.02,0:18:14.65,Default,Yuji,0,0,0,,{\i1}That's okay, but...
 Dialogue: 0,0:18:14.65,0:18:17.86,Default,Fushiguro,0,0,0,,Damn it! Is it trying to swallow her along with the cursed object?!

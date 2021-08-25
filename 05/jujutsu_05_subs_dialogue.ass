@@ -22,13 +22,13 @@ Keyframes File: jujutsu_05_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 151
-Active Line: 158
-Video Position: 18482
+Scroll Position: 290
+Active Line: 303
+Video Position: 30354
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,120,120,60,1
+Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
@@ -60,7 +60,7 @@ Dialogue: 0,0:02:01.06,0:02:04.44,Default,Fushiguro,0,0,0,,{\i1}That special-gra
 Dialogue: 0,0:02:05.44,0:02:09.33,Default,sukuna,0,0,0,,With that, I'm free as a bird.
 Dialogue: 0,0:02:09.33,0:02:11.19,Default,sukuna,0,0,0,,{\i1}Now{\i0} you can be scared.
 Dialogue: 0,0:02:11.19,0:02:14.78,Default,sukuna,0,0,0,,Because I'm about to kill you, just for the hell of it.
-Dialogue: 0,0:02:17.08,0:02:20.54,Default,Fushiguro,0,0,0,,Just like last time, except now our roles are reversed.
+Dialogue: 0,0:02:17.08,0:02:20.66,Default,Fushiguro,0,0,0,,Just like last time, except now our roles are reversed.
 Comment: 0,0:02:22.99,0:02:23.03,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:03:52.96,0:03:53.00,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:03:57.79,0:04:01.97,Default,Fushiguro,0,0,0,,{\an8}The only fair thing about life is how unfair it is to everyone.
@@ -71,7 +71,7 @@ Dialogue: 0,0:04:20.24,0:04:22.52,Default,Fushiguro,0,0,0,,Even if it means he'l
 Dialogue: 0,0:04:23.24,0:04:24.74,Default,Fushiguro,0,0,0,,That's just how he is.
 Dialogue: 0,0:04:24.74,0:04:26.45,Default,Sukuna,0,0,0,,You give him too much credit.
 Dialogue: 0,0:04:26.45,0:04:30.59,Default,Sukuna,0,0,0,,This guy's just a little tougher and denser than other humans.
-Dialogue: 0,0:04:31.46,0:04:36.17,Default,Sukuna,0,0,0,,Just a moment ago, he was scared out of his mind, on the verge of death,
+Dialogue: 0,0:04:31.46,0:04:36.17,Default,Sukuna,0,0,0,,Just a moment ago, he was scared \Nout of his mind, on the verge of death,
 Dialogue: 0,0:04:36.30,0:04:40.26,Default,Sukuna,0,0,0,,{\fade(300,500)}prattling on about his regrets and all that nonsense.
 Dialogue: 0,0:04:40.63,0:04:44.59,Default,Sukuna,0,0,0,,I know for a fact he doesn't have the guts to kill himself.
 Dialogue: 0,0:04:45.72,0:04:47.55,Default,Fushiguro,0,0,0,,{\i1}His arm is restored!
@@ -126,7 +126,7 @@ Dialogue: 0,0:08:51.92,0:08:54.72,Default,,0,0,0,,I'd rather spend it thinking a
 Dialogue: 0,0:08:55.97,0:08:59.19,Default,Fushiguro,0,0,0,,{\i1\fade(0,500)}Without a doubt, she was the kindest person I knew.
 Dialogue: 0,0:09:00.90,0:09:03.78,Default,Fushiguro,0,0,0,,{\i1}She deserved happiness more than anyone else.
 Dialogue: 0,0:09:04.55,0:09:06.95,Default,Fushiguro,0,0,0,,{\i1\fade(0,150)}And yet, Tsumiki was cursed.
-Dialogue: 0,0:09:10.38,0:09:15.24,Default,Fushiguro,0,0,0,,{\i1}The father who didn't even know my gender, gave me the name Megumi.
+Dialogue: 0,0:09:10.38,0:09:15.24,Default,Fushiguro,0,0,0,,{\i1}The father who didn't even know \Nmy gender, gave me the name Megumi.
 Dialogue: 0,0:09:15.24,0:09:18.58,Default,Fushiguro,0,0,0,,{\i1\fade(0,150)}He's still out there, living as he pleases.
 Dialogue: 0,0:09:22.35,0:09:25.20,Default,Fushiguro,0,0,0,,{\i1}Karma doesn't happen on its own.
 Dialogue: 0,0:09:26.86,0:09:30.34,Default,Fushiguro,0,0,0,,{\i1\fade(0,250)}Criminals can only be judged under the law.
@@ -202,20 +202,20 @@ Dialogue: 0,0:13:31.24,0:13:35.64,Default,Ijichi,0,0,0,,I warned them that fight
 Dialogue: 0,0:13:37.62,0:13:38.75,Default,Gojo,0,0,0,,It was intentional.
 Dialogue: 0,0:13:38.75,0:13:41.51,Default,Ijichi,0,0,0,,Huh? What do you mean?
 Dialogue: 0,0:13:42.01,0:13:43.68,Default,Gojo,0,0,0,,The enemy was a special-grade.
-Dialogue: 0,0:13:43.68,0:13:49.43,Default,Gojo,0,0,0,,Sending first-years to rescue five who weren't \Neven confirmed alive should be out of the question.
+Dialogue: 0,0:13:43.68,0:13:49.43,Default,Gojo,0,0,0,,Sending newcomers to rescue five who weren't \Neven confirmed alive should be out of the question.
 Dialogue: 0,0:13:49.43,0:13:55.52,Default,Gojo,0,0,0,,Besides, I was the one who forced the issue and got Yuji's execution suspended.
 Dialogue: 0,0:13:55.52,0:14:03.53,Default,Gojo,0,0,0,,Some higher-ups didn't like that and used the special-grade to tactfully dispose of him in my absence.
 Dialogue: 0,0:14:04.53,0:14:10.70,Default,Gojo,0,0,0,,If the other two had died, it'd be more harassment for me and two birds with one stone for them.
 Dialogue: 0,0:14:10.70,0:14:17.46,Default,Ijichi,0,0,0,,No, but, there was no indication of a special-grade when the dispatch was issued.
 Dialogue: 0,0:14:17.46,0:14:19.67,Default,Gojo,0,0,0,,Searching for the culprit is such a pain.
-Dialogue: 0,0:14:20.92,0:14:23.46,Default,Gojo,0,0,0,,Maybe I should just...
+Dialogue: 0,0:14:20.88,0:14:23.46,Default,Gojo,0,0,0,,Maybe I should just
 Dialogue: 0,0:14:24.34,0:14:26.80,Default,Gojo,0,0,0,,kill all the higher-ups.
 Dialogue: 0,0:14:30.26,0:14:32.51,Default,Shoko,0,0,0,,You're being emotional for once.
 Dialogue: 0,0:14:33.08,0:14:35.37,Default,Ijichi,0,0,0,,It's good to see you, {*}Miss Ieiri{*Ieiri-san}!
 Dialogue: 0,0:14:35.94,0:14:40.03,Default,Shoko,0,0,0,,Seems like you really had a soft spot for him.
-Dialogue: 0,0:14:41.15,0:14:45.03,Default,Gojo,0,0,0,,I've always been a nice guy who looks out for his students.
+Dialogue: 0,0:14:41.15,0:14:45.03,Default,Gojo,0,0,0,,I've always been a nice guy\N who looks out for his students.
 Dialogue: 0,0:14:45.03,0:14:47.36,Default,Shoko,0,0,0,,Don't pick on Ijichi too much.
-Dialogue: 0,0:14:47.95,0:14:50.73,Default,Shoko,0,0,0,,He's got it rough, stuck between us and the higher-ups.
+Dialogue: 0,0:14:47.95,0:14:50.73,Default,Shoko,0,0,0,,He's got it rough, \Nstuck between us and the higher-ups.
 Dialogue: 0,0:14:50.73,0:14:55.12,Default,Ijichi,0,0,0,,{\i1}Keep going! Keep going! Keep going!
 Dialogue: 0,0:14:51.28,0:14:54.67,Default,Gojo,0,0,0,,{\an8}I don't care about a man's hardships.
 Dialogue: 0,0:14:54.67,0:14:55.12,Default,Shoko,0,0,0,,{\an8}That so?
@@ -284,8 +284,8 @@ Dialogue: 0,0:18:08.31,0:18:10.44,Default,Panda,0,0,0,,Actually, maybe the three
 Dialogue: 0,0:18:11.32,0:18:15.07,Default,Panda,0,0,0,,The event has the principals of Tokyo and Kyoto schools
 Dialogue: 0,0:18:15.07,0:18:18.62,Default,Panda,0,0,0,,each propose a competition to be held for the day
 Dialogue: 0,0:18:18.62,0:18:21.58,Default,Panda,0,0,0,,over the course of two days.
-Dialogue: 0,0:18:21.96,0:18:24.08,Default,Panda,0,0,0,,But all that is just on paper.
-Dialogue: 0,0:18:24.08,0:18:28.96,Default,Panda,0,0,0,,Every year, the first day is team battles, and the second day is individual battles.
+Dialogue: 0,0:18:21.96,0:18:24.08,Default,Panda,0,0,0,,But that's just on paper.
+Dialogue: 0,0:18:24.08,0:18:28.96,Default,Panda,0,0,0,,Every year, the first day is a team battle,\N and the second day is individual battles.
 Dialogue: 0,0:18:28.96,0:18:29.92,Default,Toge,0,0,0,,Salmon.
 Dialogue: 0,0:18:30.59,0:18:33.16,Default,Kugisaki,0,0,0,,Individual and team battles?
 Dialogue: 0,0:18:34.34,0:18:36.80,Default,Kugisaki,0,0,0,,We fight?! Against other jujutsu sorcerers?!
@@ -306,9 +306,9 @@ Dialogue: 0,0:19:10.96,0:19:12.29,Default,Kugisaki,0,0,0,,Huh...
 Dialogue: 0,0:19:12.29,0:19:14.17,Default,maki,0,0,0,,So, you're in, right?
 Dialogue: 0,0:19:14.17,0:19:16.13,Default,maki,0,0,0,,Do it for your fallen friend.
 Dialogue: 0,0:19:16.13,0:19:17.59,Default,Both,0,0,0,,We're in!
-Dialogue: 0,0:19:17.59,0:19:18.59,Default,Kugisaki,0,0,0,,{\i1}I will...
-Dialogue: 0,0:19:18.59,0:19:20.05,Default,Fushiguro,0,0,0,,{\i1}I will...
-Dialogue: 0,0:19:20.59,0:19:22.32,Default,Both,0,0,0,,{\i1}...become stronger.
+Dialogue: 0,0:19:17.59,0:19:18.59,Default,Kugisaki,0,0,0,,{\i1}I will
+Dialogue: 0,0:19:18.59,0:19:20.05,Default,Fushiguro,0,0,0,,{\i1}I will
+Dialogue: 0,0:19:20.59,0:19:22.32,Default,Both,0,0,0,,{\i1}become stronger.
 Dialogue: 0,0:19:22.32,0:19:24.52,Default,Both,0,0,0,,{\i1\fade(0,200)}I'll do whatever it takes!
 Dialogue: 0,0:19:25.52,0:19:29.80,Default,Kugisaki,0,0,0,,But if this training and exchange event start to feel pointless, I'm out.
 Dialogue: 0,0:19:29.80,0:19:30.90,Default,Fushiguro,0,0,0,,Same.
@@ -320,7 +320,7 @@ Dialogue: 0,0:19:48.04,0:19:50.38,Default,Jogo,0,0,0,,Well, somewhat.
 Dialogue: 0,0:19:50.38,0:19:52.79,Default,Jogo,0,0,0,,It's slightly different, though.
 Dialogue: 0,0:19:52.79,0:19:55.39,Default,Jogo,0,0,0,,Humans are full of lies.
 Dialogue: 0,0:19:55.39,0:20:00.39,Default,Jogo,0,0,0,,{\fade(0,200)}There's always a flip-side to every positive action and emotion they show.
-Dialogue: 0,0:20:01.18,0:20:08.03,Default,Jogo,0,0,0,,Negative emotions like hatred and hostility are pure truths.
+Dialogue: 0,0:20:01.18,0:20:08.03,Default,Jogo,0,0,0,,Negative emotions like\N hatred and hostility are pure truths.
 Dialogue: 0,0:20:08.03,0:20:11.57,Default,Jogo,0,0,0,,Since we curses are born from such truths,
 Dialogue: 0,0:20:11.57,0:20:14.77,Default,Jogo,0,0,0,,that makes us true, pure beings!
 Dialogue: 0,0:20:14.77,0:20:17.19,Default,Jogo,0,0,0,,Imitations should be eliminated!
@@ -337,8 +337,8 @@ Dialogue: 0,0:20:50.45,0:20:53.73,Default,Jogo,0,0,0,,Hold on. He died, didn't h
 Dialogue: 0,0:20:53.73,0:20:56.19,Default,Jogo,0,0,0,,That Itadori Yuji punk, I mean.
 Dialogue: 0,0:20:56.82,0:20:57.94,Default,Geto,0,0,0,,Did he, though?
 Dialogue: 0,0:20:58.53,0:21:00.53,Default,Geto,0,0,0,,I wouldn't be too sure.
-Dialogue: 0,0:21:06.12,0:21:09.74,Default,Sukuna,0,0,0,,Don't look up at me without permission. It's annoying.
-Dialogue: 0,0:21:09.74,0:21:11.46,Default,Sukuna,0,0,0,,Brat.
+Dialogue: 0,0:21:05.99,0:21:09.92,Default,Sukuna,0,0,0,,Don't look up at me without permission. It's annoying.
+Dialogue: 0,0:21:09.92,0:21:11.46,Default,Sukuna,0,0,0,,Brat.
 Comment: 0,0:21:14.96,0:21:15.00,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:22:44.93,0:22:44.97,Default,chptr,0,0,0,,{Juju Stroll}
 Dialogue: 0,0:22:46.75,0:22:47.47,Default,Toge,0,0,0,,Salmon.
