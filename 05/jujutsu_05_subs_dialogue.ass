@@ -87,7 +87,7 @@ Dialogue: 0,0:05:24.95,0:05:26.89,Default,Fushiguro,0,0,0,,{\i1}It's not about w
 Dialogue: 0,0:05:27.30,0:05:28.76,Default,Fushiguro,0,0,0,,{\i1}I will!
 Dialogue: 0,0:05:34.14,0:05:38.15,Default,Sukuna,0,0,0,,Since I'm finally outside, let's use the open space.
 Dialogue: 0,0:05:46.19,0:05:47.72,Default,Sukuna,0,0,0,,Interesting.
-Dialogue: 0,0:05:47.72,0:05:52.25,Default,Sukuna,0,0,0,,You use Shikigami, \Nbut you'll still come at me yourself? {How come this is untranslated?}{asking the real questions. i'd say its to preserve japanese folklore. since he is referencing the exact creatures from the myths, it's not something that needs to be translated.}
+Dialogue: 0,0:05:47.72,0:05:52.25,Default,Sukuna,0,0,0,,You use cursed beasts, \Nbut you'll still come at me yourself? {How come this is untranslated?}{asking the real questions. i'd say its to preserve japanese folklore. since he is referencing the exact creatures from the myths, it's not something that needs to be translated.}{all right, i take that back}
 Dialogue: 0,0:05:59.13,0:06:00.46,Default,Sukuna,0,0,0,,More.
 Dialogue: 0,0:06:01.36,0:06:02.71,Default,Sukuna,0,0,0,,More.
 Dialogue: 0,0:06:04.27,0:06:06.34,Default,Sukuna,0,0,0,,More!
@@ -101,12 +101,12 @@ Dialogue: 0,0:07:08.04,0:07:10.32,Default,Fushiguro,0,0,0,,{\i1}It's not even a 
 Dialogue: 0,0:07:10.32,0:07:14.55,Default,Fushiguro,0,0,0,,{\i1}His power and agility are on a totally different level.
 Dialogue: 0,0:07:14.55,0:07:16.20,Default,Sukuna,0,0,0,,Nice technique there.
 Dialogue: 0,0:07:28.11,0:07:29.40,Default,Fushiguro,0,0,0,,{\i1}What do I do?
-Dialogue: 0,0:07:29.85,0:07:34.03,Default,Fushiguro,0,0,0,,{\i1}I used up one of my shikigami to escape that Innate Domain.
+Dialogue: 0,0:07:29.85,0:07:34.03,Default,Fushiguro,0,0,0,,{\i1}I used up one of my cursed beasts to escape that Innate Domain.
 Dialogue: 0,0:07:35.36,0:07:38.36,Default,Fushiguro,0,0,0,,{\i1}Demon Dog White and Orochi are both destroyed.
 Dialogue: 0,0:07:39.14,0:07:41.92,Default,Fushiguro,0,0,0,,{\i1}And Nue's at his limit too.
 Dialogue: 0,0:07:43.53,0:07:46.07,Default,Fushiguro,0,0,0,,{\i1}I should release him before he gets destroyed.
 Dialogue: 0,0:07:49.89,0:07:51.11,Default,Sukuna,0,0,0,,I get it now.
-Dialogue: 0,0:07:51.11,0:07:55.49,Default,Sukuna,0,0,0,,Your shikigami are created from shadows.
+Dialogue: 0,0:07:51.11,0:07:55.49,Default,Sukuna,0,0,0,,Your cursed beasts are created from shadows.
 Dialogue: 0,0:07:55.49,0:07:58.41,Default,Fushiguro,0,0,0,,{\i1}Knowing that doesn't change anything.
 Dialogue: 0,0:07:59.04,0:08:00.23,Default,Fushiguro,0,0,0,,So what?
 Dialogue: 0,0:08:01.68,0:08:05.22,Default,Sukuna,0,0,0,,{\i1}It's not the generic technique that uses charms.

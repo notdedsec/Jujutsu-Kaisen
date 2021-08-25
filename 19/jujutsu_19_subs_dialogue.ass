@@ -83,10 +83,10 @@ Dialogue: 0,0:04:06.16,0:04:07.49,Default,Maki,0,0,0,,{\i1}Special-grade cursed 
 Dialogue: 0,0:04:07.80,0:04:09.14,Default,Maki,0,0,0,,{\i1}Playful Cloud!
 Dialogue: 0,0:04:24.21,0:04:26.96,Default,Hanami,0,0,0,,Indeed, that is a good weapon.
 Dialogue: 0,0:04:28.89,0:04:30.38,Default,Fushiguro,0,0,0,,{\i1}Demon Dog.
-Dialogue: 0,0:04:31.06,0:04:35.48,Default,Fushiguro,0,0,0,,{\i1}With the exception of my expanded technique, Bottomless Well,
-Dialogue: 0,0:04:35.48,0:04:41.43,Default,Fushiguro,0,0,0,,{\fade(0,500)\i1}if any of my ten shikigami are completely destroyed, I can never manifest them again.
-Dialogue: 0,0:04:44.92,0:04:49.92,Default,Fushiguro,0,0,0,,{\i1}However, the power and techniques of the destroyed shikigami
-Dialogue: 0,0:04:52.97,0:04:55.49,Default,Fushiguro,0,0,0,,{\i1}are passed on to the others.
+Dialogue: 0,0:04:31.06,0:04:35.48,Default,Fushiguro,0,0,0,,{\i1}With the exception of my \Nexpanded technique, Bottomless Well,
+Dialogue: 0,0:04:35.48,0:04:41.43,Default,Fushiguro,0,0,0,,{\fade(0,500)\i1}if any of my cursed beasts get destroyed,\N I can never manifest them again.
+Dialogue: 0,0:04:44.92,0:04:49.92,Default,Fushiguro,0,0,0,,{\i1}But the powers and techniques \Nof the destroyed beasts
+Dialogue: 0,0:04:52.97,0:04:55.49,Default,Fushiguro,0,0,0,,{\i1}get passed on to the next.
 Dialogue: 0,0:04:59.26,0:05:00.64,Default,Fushiguro,0,0,0,,{\i1}Totality!
 Dialogue: 0,0:05:06.61,0:05:07.82,Default,Hanami,0,0,0,,{\i1}It's fast.
 Dialogue: 0,0:05:07.82,0:05:10.31,Default,Hanami,0,0,0,,{\i1}It's going after my wounded arm first?

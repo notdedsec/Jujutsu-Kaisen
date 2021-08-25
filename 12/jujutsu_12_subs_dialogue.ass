@@ -60,7 +60,7 @@ Dialogue: 5,0:01:51.92,0:01:54.58,Default,Junpei,0,0,0,,Stay out of this, jujuts
 Comment: 5,0:01:56.97,0:01:57.01,Default,chptr,0,0,0,,{Opening}
 Comment: 5,0:03:26.97,0:03:27.01,Default,chptr,0,0,0,,{Part A}
 Dialogue: 5,0:03:36.16,0:03:36.86,Default,Junpei,0,0,0,,Moon Dregs!
-Dialogue: 5,0:03:43.70,0:03:45.75,Default,Yuji,0,0,0,,{\i1}A jellyfish shikigami?
+Dialogue: 5,0:03:43.70,0:03:45.75,Default,Yuji,0,0,0,,{\i1}A jellyfish beast?
 Dialogue: 5,0:03:45.75,0:03:48.71,Default,Yuji,0,0,0,,{\i1}Blunt attacks won't work when he's inside it?
 Dialogue: 5,0:03:50.11,0:03:51.75,Default,Junpei,0,0,0,,Don't make me repeat myself.
 Dialogue: 5,0:03:51.75,0:03:53.64,Default,Junpei,0,0,0,,Stay out of this, jujutsu sorcerer!
@@ -76,7 +76,7 @@ Dialogue: 5,0:04:25.75,0:04:29.93,Default,Junpei,0,0,0,,If someone deserves to d
 Dialogue: 5,0:04:31.21,0:04:33.21,Default,Junpei,0,0,0,,So go ahead and take a nap.
 Dialogue: 5,0:04:33.21,0:04:35.42,Default,Junpei,0,0,0,,There's something I need to take care of.
 Dialogue: 5,0:04:38.76,0:04:42.14,Default,Mahito,0,0,0,,Your cursed technique is poison.
-Dialogue: 5,0:04:43.70,0:04:48.63,Default,Mahito,0,0,0,,Your shikigami can secrete poison \Ncreated by cursed energy from their tentacles.
+Dialogue: 5,0:04:43.70,0:04:48.63,Default,Mahito,0,0,0,,Your cursed beast can secrete poison \Ncreated by cursed energy from their tentacles.
 Dialogue: 5,0:04:48.63,0:04:54.57,Default,Mahito,0,0,0,,In time you'll learn to control their size, strength, and the potency of your poison.
 Dialogue: 5,0:04:55.28,0:05:00.45,Default,Mahito,0,0,0,,I can teach you the skills that take years for normal jujutsu sorcerers to learn,
 Dialogue: 5,0:05:00.45,0:05:02.62,Default,Mahito,0,0,0,,so you'll be able to fight right away.
@@ -93,7 +93,7 @@ Dialogue: 5,0:06:01.86,0:06:04.93,Default,Junpei,0,0,0,,{\i1}No, I'll take him o
 Dialogue: 5,0:06:14.99,0:06:17.53,Default,Yuji,0,0,0,,Junpei, I don't understand...
 Dialogue: 5,0:06:19.27,0:06:21.53,Default,Yuji,0,0,0,,a damn thing you're saying!
 Dialogue: 5,0:06:22.84,0:06:25.78,Default,Yuji,0,0,0,,You can't string together whatever logic you want.
-Dialogue: 5,0:06:26.49,0:06:30.16,Default,Gojo,0,0,0,,{\fade(0,500)}When facing shikigami users, strike the sorcerer directly.
+Dialogue: 5,0:06:26.49,0:06:30.16,Default,Gojo,0,0,0,,{\fade(0,500)}When facing cursed beast users, strike the sorcerer directly.
 Dialogue: 5,0:06:31.20,0:06:32.83,Default,Yuji,0,0,0,,But you're just trying...
 Dialogue: 5,0:06:35.93,0:06:38.83,Default,Yuji,0,0,0,,to convince yourself you're in the right!
 Dialogue: 5,0:06:44.15,0:06:46.30,Default,Yuji,0,0,0,,I don't know why you're doing this.

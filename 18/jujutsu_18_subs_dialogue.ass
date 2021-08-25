@@ -42,7 +42,7 @@ Style: Memefx,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:44.14,0:00:46.22,Default,Fushiguro,0,0,0,,{\i1}There's a bit of blood on the arrowhead.
 Dialogue: 0,0:00:46.96,0:00:50.80,Default,Fushiguro,0,0,0,,{\i1}Kamo{**-san}'s technique must be why \Nthese arrows can defy physics.
-Dialogue: 0,0:00:52.75,0:00:56.45,Default,Kamo,0,0,0,,You can summon more than one \Nshikigami at the same time, right?
+Dialogue: 0,0:00:52.75,0:00:56.45,Default,Kamo,0,0,0,,You can summon more than one \Ncursed beast at the same time, right?
 Dialogue: 0,0:00:56.45,0:00:59.91,Default,Kamo,0,0,0,,Can't say I appreciate you holding back.
 Dialogue: 0,0:01:00.67,0:01:03.59,Default,Fushiguro,0,0,0,,{\i1}My Demon Dog is busy with something else right now.
 Dialogue: 0,0:01:04.04,0:01:07.17,Default,Fushiguro,0,0,0,,What about you? You're down to your last arrow.
@@ -54,7 +54,7 @@ Dialogue: 0,0:01:20.60,0:01:22.10,Default,Kamo,0,0,0,,No need to worry.
 Dialogue: 0,0:01:22.60,0:01:25.94,Default,Kamo,0,0,0,,These are all arrows I prepared in advance.
 Dialogue: 0,0:01:26.40,0:01:28.61,Default,Kamo,0,0,0,,{\i1}Ten Shadows Technique.
 Dialogue: 0,0:01:28.61,0:01:31.65,Default,Kamo,0,0,0,,{\i1}One of the Zenin clan's hereditary techniques.
-Dialogue: 0,0:01:31.65,0:01:35.20,Default,Kamo,0,0,0,,{\i1}It can summon ten different shikigami \Nusing shadows as its medium.
+Dialogue: 0,0:01:31.65,0:01:35.20,Default,Kamo,0,0,0,,{\i1}It can summon ten different cursed beasts \Nusing shadows as its medium.
 Dialogue: 0,0:01:35.20,0:01:38.31,Default,Kamo,0,0,0,,{\i1}If only Maki or Mai had inherited that technique...
 Dialogue: 0,0:01:50.20,0:01:52.27,Default,Fushiguro,0,0,0,,{\i1}Was he always this strong?
 Dialogue: 0,0:01:54.67,0:01:56.45,Default,Kamo,0,0,0,,You've got good reflexes.
@@ -146,7 +146,7 @@ Dialogue: 0,0:08:17.56,0:08:20.40,Default,Kamo,0,0,0,,Then why does everyone fav
 Dialogue: 0,0:08:21.22,0:08:23.84,Default,Kamo,0,0,0,,Why did you take me in as the heir?
 Dialogue: 0,0:08:24.19,0:08:29.70,Default,Woman,0,0,0,,Because the rightful wife didn't bear \Na son who inherited the family's technique.
 Dialogue: 0,0:08:30.24,0:08:33.95,Default,Kamo,0,0,0,,{\i1}Then as the heir to the head of the Kamo clan...
-Dialogue: 0,0:09:05.84,0:09:10.45,Default,Kamo,0,0,0,,Shikigami users who can hold \Ntheir own in close combat are valuable.
+Dialogue: 0,0:09:05.84,0:09:10.45,Default,Kamo,0,0,0,,Cursed beast users who can hold \Ntheir own in close combat are valuable.
 Dialogue: 0,0:09:10.45,0:09:12.05,Default,Kamo,0,0,0,,You've improved.
 Dialogue: 0,0:09:12.05,0:09:13.41,Default,Kamo,0,0,0,,That makes me happy.
 Dialogue: 0,0:09:13.97,0:09:17.91,Default,Fushiguro,0,0,0,,Why are you acting all familiar all of a sudden?
@@ -174,7 +174,7 @@ Dialogue: 0,0:10:28.78,0:10:32.99,Default,Fushiguro,0,0,0,,The only thing I beli
 Dialogue: 0,0:10:33.57,0:10:36.78,Default,Fushiguro,0,0,0,,{\fade(250,200)}I'll follow my conscience and save people.
 Dialogue: 0,0:10:38.40,0:10:41.84,Default,Fushiguro,0,0,0,,If you don't agree with that...
 Dialogue: 0,0:10:44.99,0:10:47.76,Default,Fushiguro,0,0,0,,then we'll just have to curse each other.
-Dialogue: 0,0:10:50.94,0:10:52.01,Default,Kamo,0,0,0,,{\i1}A shikigami?!
+Dialogue: 0,0:10:50.94,0:10:52.01,Default,Kamo,0,0,0,,{\i1}A cursed beast?!
 Dialogue: 0,0:10:53.17,0:10:54.81,Default,Kamo,0,0,0,,{\i1}He still had more?!
 Dialogue: 0,0:10:56.84,0:10:59.36,Default,Kamo,0,0,0,,{\i1}He used it as a decoy and released it?
 Dialogue: 0,0:11:01.71,0:11:05.31,Default,Fushiguro,0,0,0,,This one burns through cursed energy, \Nso I can only summon it once.
