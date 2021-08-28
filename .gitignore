@@ -3,6 +3,9 @@
 *.mp4
 *.avc
 *.aac
+*.m4a
+*.wav
+*.265
 *.index
 *.ffindex
 *.torrent
@@ -12,9 +15,13 @@ _wip
 _memes
 _manga
 _stuff
-.vscode
+_comps
 .gradle
+.vscode
+.vspreview
+
 results
+JUJUTSUKAISEN*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
