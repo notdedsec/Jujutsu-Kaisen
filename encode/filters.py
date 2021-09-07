@@ -8,7 +8,7 @@ from cooldegrain import CoolDegrain
 from adptvgrnMod import adptvgrnMod
 from xvs import WarpFixChromaBlend
 from debandshit import dumb3kdb
-from vsutil import depth
+from vsutil import depth, get_y
 
 core = vs.core
 
@@ -46,8 +46,8 @@ def deband(clip: vs.VideoNode, lineart: vs.VideoNode, heavy: Optional[Union[int,
     return deband
 
 def mask_nc(clip: vs.VideoNode, src: vs.VideoNode, ncop: FileInfo, nced: FileInfo, OP: Optional[int] = None, ED: Optional[int] = None) -> vs.VideoNode:
-    mask_op = vdf.dcm(src, src[OP:OP+ncop.clip_cut.num_frames], ncop.clip_cut, OP, thr=128, prefilter=True) if OP else core.std.BlankClip(src)
-    mask_ed = vdf.dcm(src, src[ED:ED+nced.clip_cut.num_frames], nced.clip_cut, ED, thr=128, prefilter=True) if ED else core.std.BlankClip(src)
+    mask_op = vdf.dcm(src, src[OP:OP+ncop.clip_cut.num_frames], ncop.clip_cut, OP, thr=128, prefilter=True) if OP else get_y(core.std.BlankClip(src))
+    mask_ed = vdf.dcm(src, src[ED:ED+nced.clip_cut.num_frames], nced.clip_cut, ED, thr=128, prefilter=True) if ED else get_y(core.std.BlankClip(src))
     credit_mask = depth(core.std.Expr([mask_op, mask_ed], expr = 'x y +'), 16)
     merge = core.std.MaskedMerge(depth(clip, 16), depth(src, 16), credit_mask)
     return merge
