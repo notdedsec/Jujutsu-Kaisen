@@ -3,6 +3,7 @@ from vardautomation import FileInfo
 from typing import Optional, Tuple, Union
 
 import lvsfunc as lvf
+import havsfunc as haf
 import vardefunc as vdf
 from cooldegrain import CoolDegrain
 from adptvgrnMod import adptvgrnMod
@@ -25,20 +26,19 @@ def antialias(clip: vs.VideoNode, heavy: Optional[Union[int, Tuple[int, int]]] =
 
 def dehalo(clip: vs.VideoNode) -> vs.VideoNode:
     halo_mask = lvf.mask.halo_mask(clip, brz=0.25)
-    dehalo = lvf.dehalo.bidehalo(clip, sigmaS=1.2)
+    dehalo = haf.DeHalo_alpha(clip, rx=2.2, darkstr=0)
     merge = core.std.MaskedMerge(clip, dehalo, halo_mask)
     cwarp = WarpFixChromaBlend(merge, thresh=72)
     return cwarp
 
 def denoise(clip: vs.VideoNode) -> vs.VideoNode:
     adaptive_mask = adptvgrnMod(clip, luma_scaling=8, show_mask=True)
-    denoise_hi = CoolDegrain(clip, thsad=64, thsadc=48, blksize=8, overlap=4)
-    denoise_lo = CoolDegrain(clip, thsad=18, thsadc=48, blksize=8, overlap=4)
-    denoise = core.std.MaskedMerge(denoise_hi, denoise_lo, adaptive_mask)
-    return denoise
+    denoise = CoolDegrain(clip, thsad=48, blksize=8, overlap=4)
+    merge = core.std.MaskedMerge(denoise, clip, adaptive_mask)
+    return merge
 
 def deband(clip: vs.VideoNode, lineart: vs.VideoNode, heavy: Optional[Union[int, Tuple[int, int]]] = None) -> vs.VideoNode:
-    detail_mask = lvf.mask.detail_mask(clip, sigma=1, brz_a=0.15, brz_b=0.075)
+    detail_mask = lvf.mask.detail_mask(clip, brz_a=0.03)
     deband_lo = dumb3kdb(clip, radius=16, threshold=36)
     deband_hi = dumb3kdb(clip, radius=18, threshold=72)
     deband_replace = lvf.rfs(deband_lo, deband_hi, ranges=heavy)
