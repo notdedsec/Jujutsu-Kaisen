@@ -22,7 +22,7 @@ def filter():
     deb = flt.deband(den, deh, DB_RANGES)
     mnc = flt.mask_nc(deb, src, NCOP, NCED, OP, ED)
     gra = flt.grain(mnc)
-    fin = flt.finalize(src)
+    fin = flt.finalize(gra)
     return fin
 
 if __name__ == '__main__':
