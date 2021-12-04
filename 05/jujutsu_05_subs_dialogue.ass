@@ -146,7 +146,7 @@ Dialogue: 0,0:10:43.03,0:10:45.70,Default,Fushiguro,0,0,0,,I did have my reserva
 Dialogue: 0,0:10:45.70,0:10:48.87,Default,Fushiguro,0,0,0,,{\fade(0,500)}but ultimately it was for selfish, emotional reasons.
 Dialogue: 0,0:10:49.89,0:10:52.07,Default,Fushiguro,0,0,0,,But that's okay.
 Dialogue: 0,0:10:53.00,0:10:54.76,Default,Fushiguro,0,0,0,,I'm not a hero.
-Dialogue: 0,0:10:57.05,0:10:58.60,Default,Fushiguro,0,0,0,,I'm a jujutsu sorcerer.
+Dialogue: 0,0:10:57.05,0:10:58.60,Default,Fushiguro,0,0,0,,I'm just a jujutsu sorcerer.
 Dialogue: 0,0:11:00.01,0:11:05.19,Default,Fushiguro,0,0,0,,That's why I've never once regretted saving you.
 Dialogue: 0,0:11:10.19,0:11:11.73,Default,Yuji,0,0,0,,I see.
 Dialogue: 0,0:11:12.20,0:11:14.93,Default,Yuji,0,0,0,,You really are smart, Fushiguro.
@@ -154,7 +154,7 @@ Dialogue: 0,0:11:14.93,0:11:17.19,Default,Yuji,0,0,0,,You've put more thought in
 Dialogue: 0,0:11:17.66,0:11:20.49,Default,Yuji,0,0,0,,I think your way of doing things is correct,
 Dialogue: 0,0:11:20.49,0:11:22.95,Default,Yuji,0,0,0,,but that doesn't mean mine isn't.
 Dialogue: 0,0:11:26.49,0:11:29.84,Default,Yuji,0,0,0,,Oh, sorry, time's up.
-Dialogue: 0,0:11:29.84,0:11:33.17,Default,Yuji,0,0,0,,Fushiguro, as for you, Kugisaki, and {*}Mr. Gojo{*Gojo-sensei}...
+Dialogue: 0,0:11:29.84,0:11:33.17,Default,Yuji,0,0,0,,As for you, Kugisaki, and {*}Mr. Gojo{*Gojo-sensei}...
 Dialogue: 0,0:11:33.17,0:11:35.51,Default,Yuji,0,0,0,,I guess I don't need to worry about him.
 Dialogue: 0,0:11:37.38,0:11:39.80,Default,Yuji,0,0,0,,...live a long life.
 Comment: 0,0:12:06.95,0:12:06.99,Default,chptr,0,0,0,,{Part B}
@@ -288,7 +288,7 @@ Dialogue: 0,0:18:21.96,0:18:24.08,Default,Panda,0,0,0,,But that's just on paper.
 Dialogue: 0,0:18:24.08,0:18:28.96,Default,Panda,0,0,0,,Every year, the first day is a team battle,\N and the second day is individual battles.
 Dialogue: 0,0:18:28.96,0:18:29.92,Default,Toge,0,0,0,,Salmon.
 Dialogue: 0,0:18:30.59,0:18:33.16,Default,Kugisaki,0,0,0,,Individual and team battles?
-Dialogue: 0,0:18:34.34,0:18:36.80,Default,Kugisaki,0,0,0,,We fight?! Against other jujutsu sorcerers?!
+Dialogue: 0,0:18:34.34,0:18:36.80,Default,Kugisaki,0,0,0,,We fight?! Against other sorcerers?!
 Dialogue: 0,0:18:36.80,0:18:41.93,Default,Maki,0,0,0,,Yeah, it's a jujutsu battle where anything goes but killing.
 Dialogue: 0,0:18:42.25,0:18:46.06,Default,Panda,0,0,0,,We'll train you up well so you don't get killed.
 Dialogue: 0,0:18:46.06,0:18:46.65,Default,Panda,0,0,0,,{\fade(0,100)}Yeah!

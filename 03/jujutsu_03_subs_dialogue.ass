@@ -21,10 +21,10 @@ Video File: jujutsu_03_premux.mkv
 Keyframes File: jujutsu_03_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 321
-Active Line: 335
-Video Position: 33607
+Video Zoom Percent: 0.250000
+Scroll Position: 66
+Active Line: 72
+Video Position: 6767
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +37,6 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.62,0:00:01.92,Default,Yaga,0,0,0,,Satoru.
 Dialogue: 0,0:00:01.92,0:00:03.77,Default,Yaga,0,0,0,,Show him to the dorm.
 Dialogue: 0,0:00:03.77,0:00:06.94,Default,Yaga,0,0,0,,Explain the security and rules to him too.
-Dialogue: 0,0:00:07.28,0:00:07.91,Default,Yuji,0,0,0,,Huh?
 Dialogue: 0,0:00:09.68,0:00:10.98,Default,Yaga,0,0,0,,You're in.
 Dialogue: 0,0:00:10.98,0:00:12.66,Default,Yaga,0,0,0,,Welcome to Jujutsu Tech.
 Dialogue: 0,0:00:14.45,0:00:17.72,Default,Yuji,0,0,0,,Fushiguro! You're looking good for real this time.
@@ -56,7 +55,7 @@ Dialogue: 0,0:00:51.45,0:00:55.36,Default,Station,0,0,0,,{\i1\an8}For your safet
 Dialogue: 0,0:00:56.02,0:00:57.36,Default,Kugisaki,0,0,0,,{\i1}Saori{**-chan}.
 Dialogue: 0,0:00:59.48,0:01:01.36,Default,Kugisaki,0,0,0,,{\i1}I'm here.
 Dialogue: 0,0:01:06.52,0:01:07.78,Default,Kugisaki,0,0,0,,{\i1}I'm in Tokyo!
-Dialogue: 0,0:01:10.07,0:01:12.90,Default,Yuji,0,0,0,,How are there only three first-years? \NIsn't that too few?
+Dialogue: 0,0:01:10.07,0:01:12.90,Default,Yuji,0,0,0,,How are there only three first-years? Isn't that too few?
 Dialogue: 0,0:01:12.90,0:01:17.52,Default,Fushiguro,0,0,0,,I mean, think about it. \NHave you ever met anyone who can see curses? {Is "I mean" really needed here?}{not really, it just flows better}
 Dialogue: 0,0:01:19.16,0:01:20.01,Default,Yuji,0,0,0,,Not really.
 Dialogue: 0,0:01:20.01,0:01:23.52,Default,Fushiguro,0,0,0,,That's how rare we jujutsu sorcerers are.
@@ -107,13 +106,13 @@ Dialogue: 0,0:03:06.12,0:03:07.79,Default,Kugisaki,0,0,0,,The name's Kugisaki No
 Dialogue: 0,0:03:07.79,0:03:11.38,Default,Kugisaki,0,0,0,,You should feel honored, boys. \NYou get to hang out with a woman like me.
 Comment: 0,0:03:11.96,0:03:12.00,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:04:42.01,0:04:42.05,Default,chptr,0,0,0,,{Part A}
-Dialogue: 1,0:04:42.24,0:04:47.04,Default,Kugisaki,0,0,0,,{\i1\fade(0,2000)}Let's see.
+Dialogue: 1,0:04:42.24,0:04:46.97,Default,Kugisaki,0,0,0,,{\i1\fade(0,2000)}Stare. {ah, whatever}
 Dialogue: 0,0:04:47.04,0:04:48.98,Default,Yuji,0,0,0,,I'm Itadori Yuji.
 Dialogue: 0,0:04:48.98,0:04:50.24,Default,Yuji,0,0,0,,I'm from Sendai.
 Dialogue: 0,0:04:50.24,0:04:51.74,Default,Fushiguro,0,0,0,,Fushiguro Megumi.
 Dialogue: 0,0:04:53.32,0:04:55.33,Default,Kugisaki,0,0,0,,{\i1}He looks like a potato.
-Dialogue: 0,0:04:55.33,0:04:58.34,Default,Kugisaki,0,0,0,,{\i1}He's definitely the type that ate his own boogers as a kid.
-Dialogue: 0,0:04:59.07,0:05:00.49,Default,Kugisaki,0,0,0,,{\i1}And only a name here?
+Dialogue: 0,0:04:55.33,0:04:58.34,Default,Kugisaki,0,0,0,,{\i1}He's definitely the type that\N ate his own boogers as a kid.
+Dialogue: 0,0:04:59.07,0:05:00.49,Default,Kugisaki,0,0,0,,{\i1}And just his name?
 Dialogue: 0,0:05:00.49,0:05:03.16,Default,Kugisaki,0,0,0,,{\i1}I can't stand high-and-mighty dudes.
 Dialogue: 0,0:05:03.66,0:05:07.41,Default,Kugisaki,0,0,0,,{\i1}I bet he's into stuff like setting seagulls on fire. {LMAO I think it's better this way. Why explain a simple joke or prepare the viewer for a chaotic line. I love her the more chaotic she becomes.}
 Dialogue: 0,0:05:08.82,0:05:11.68,Default,Kugisaki,0,0,0,,Why does it always have to be me?
@@ -346,7 +345,7 @@ Dialogue: 0,0:20:44.71,0:20:45.65,Default,Boy,0,0,0,,Hey...
 Dialogue: 0,0:20:47.18,0:20:48.42,Default,Boy,0,0,0,,What's that?
 Dialogue: 0,0:20:49.82,0:20:50.53,Default,Okazaki,0,0,0,,What?
 Dialogue: 0,0:20:51.07,0:20:54.50,Default,Narrator,0,0,0,,An unnamed apparition of a \Npotential special-grade was discovered.
-Dialogue: 0,0:20:55.08,0:20:59.09,Default,Narrator,0,0,0,,Its curse womb was witnessed by several non-jujutsu sorcerers.
+Dialogue: 0,0:20:55.08,0:20:59.09,Default,Narrator,0,0,0,,Its curse womb was witnessed by several non-sorcerers.
 Dialogue: 0,0:21:00.42,0:21:02.37,Default,Boy,0,0,0,,That up there! Looks like an egg.
 Dialogue: 0,0:21:02.37,0:21:04.11,Default,Okazaki,0,0,0,,What are you talking about?
 Dialogue: 0,0:21:05.60,0:21:10.08,Default,Narrator,0,0,0,,Due to the emergency nature, three \NJujutsu Tech first-years were dispatched to the scene.

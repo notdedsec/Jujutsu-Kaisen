@@ -21,10 +21,10 @@ Video File: jujutsu_23_premux.mkv
 Keyframes File: jujutsu_23_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 209
-Active Line: 221
-Video Position: 25251
+Video Zoom Percent: 0.500000
+Scroll Position: 141
+Active Line: 150
+Video Position: 18906
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -164,8 +164,7 @@ Dialogue: 0,0:10:39.94,0:10:43.96,Default,Fushiguro,0,0,0,,This is it for me, I 
 Dialogue: 0,0:10:45.71,0:10:50.08,Default,Fushiguro,0,0,0,,Sacred Treasure: Eight-Handled...
 Dialogue: 0,0:10:55.98,0:10:58.17,Default,Sukuna,0,0,0,,What a waste of talent.
 Dialogue: 0,0:11:02.00,0:11:03.68,Default,Fushiguro,0,0,0,,Fuck that!
-Dialogue: 0,0:11:04.66,0:11:07.59,Default,Gojo,0,0,0,,A jujutsu sorcerer's growth curve{hm these lines are quotes too, but italics does the quoting well enough I suppse. Since it's Gojo's VOICE here.}{end with ellipses because interrupted by other char's "hmm?" sounds for a bit?}
-Dialogue: 0,0:11:07.59,0:11:10.77,Default,Gojo,0,0,0,,isn't necessarily a gentle slope.
+Dialogue: 0,0:11:04.66,0:11:10.77,Default,Gojo,0,0,0,,A sorcerer's growth curve{hm these lines are quotes too, but italics does the quoting well enough I suppse. Since it's Gojo's VOICE here.}{end with ellipses because interrupted by other char's "hmm?" sounds for a bit?} isn't necessarily a gentle slope.
 Dialogue: 0,0:11:11.53,0:11:15.26,Default,Sukuna,0,0,0,,Back then, why did you run away?
 Dialogue: 0,0:11:16.76,0:11:19.37,Default,Fushiguro,0,0,0,,Bring forth the deepest of your shadows.
 Dialogue: 0,0:11:20.43,0:11:23.16,Default,Fushiguro,0,0,0,,Worry about the specific structure later.
@@ -173,19 +172,19 @@ Dialogue: 0,0:11:24.38,0:11:27.38,Default,Fushiguro,0,0,0,,Just push out all the
 Dialogue: 0,0:11:28.46,0:11:33.25,Default,Fushiguro,0,0,0,,Envision a future me who can freely surpass his limits!
 Dialogue: 0,0:11:34.07,0:11:35.45,Default,Fushiguro,0,0,0,,Here we go!
 Dialogue: 0,0:11:35.85,0:11:37.41,Default,Gojo,0,0,0,,With a strong foundation,
-Dialogue: 0,0:11:37.89,0:11:40.33,Default,Gojo,0,0,0,,and a little bit of skill and imagination,
+Dialogue: 0,0:11:37.89,0:11:40.33,Default,Gojo,0,0,0,,and a bit of skill and imagination,
 Dialogue: 0,0:11:41.05,0:11:44.26,Default,Gojo,0,0,0,,it just takes the slightest trigger to change a person.
 Dialogue: 0,0:11:45.68,0:11:47.69,Default,Fushiguro,0,0,0,,Domain Expansion:
 Dialogue: 0,0:11:52.85,0:11:55.35,Default,Fushiguro,0,0,0,,Chimera Shadow Garden!
 Dialogue: 0,0:11:58.32,0:11:59.78,Default,Fushiguro,0,0,0,,{\i1}It's incomplete!
 Dialogue: 0,0:12:00.45,0:12:02.65,Default,Fushiguro,0,0,0,,{\i1}It's hideous! How pathetic!
-Dialogue: 0,0:12:02.65,0:12:05.03,Default,Fushiguro,0,0,0,,{\i1}But for now, this will be enough!
+Dialogue: 0,0:12:02.65,0:12:05.03,Default,Fushiguro,0,0,0,,{\i1}But that's enough for now!
 Dialogue: 0,0:12:20.89,0:12:22.72,Default,Fushiguro,0,0,0,,{\i1}Surpass the limits
 Dialogue: 0,0:12:25.22,0:12:26.76,Default,Fushiguro,0,0,0,,{\i1}of your imagination!
-Dialogue: 0,0:12:29.85,0:12:31.36,Default,Fushiguro,0,0,0,,{\i1}That is the interpretation
-Dialogue: 0,0:12:34.08,0:12:35.56,Default,Fushiguro,0,0,0,,{\i1}of my technique!
-Dialogue: 0,0:12:59.45,0:13:04.96,Default,Fushiguro,0,0,0,,Demon Dog Totality's claws could even injure {\i1}that{\i0}.
-Dialogue: 0,0:13:08.52,0:13:11.43,Default,Fushiguro,0,0,0,,Piercing through you is no big deal.
+Dialogue: 0,0:12:29.85,0:12:31.36,Default,Fushiguro,0,0,0,,{\i1}That is the key
+Dialogue: 0,0:12:34.08,0:12:35.56,Default,Fushiguro,0,0,0,,{\i1}to my technique!
+Dialogue: 0,0:12:59.45,0:13:04.96,Default,Fushiguro,0,0,0,,{\i1}Demon Dog Totality's claws could even injure {\i0}that{\i1}.
+Dialogue: 0,0:13:08.52,0:13:11.43,Default,Fushiguro,0,0,0,,{\i1}Piercing through you was never a problem.
 Dialogue: 0,0:13:23.70,0:13:24.98,Default,Fushiguro,0,0,0,,I'm tired.
 Dialogue: 0,0:13:28.27,0:13:31.60,Default,Fushiguro,0,0,0,,Now, where are those guys?
 Dialogue: 0,0:13:34.82,0:13:35.87,Default,Sukuna,0,0,0,,Nice!

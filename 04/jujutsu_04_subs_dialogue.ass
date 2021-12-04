@@ -21,10 +21,10 @@ Video File: jujutsu_04_premux.mkv
 Keyframes File: jujutsu_04_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 295
-Active Line: 309
-Video Position: 33285
+Video Zoom Percent: 0.750000
+Scroll Position: 313
+Active Line: 315
+Video Position: 33742
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -157,7 +157,7 @@ Dialogue: 0,0:07:34.35,0:07:37.50,Default,Fushiguro,0,0,0,,Why the hell would I 
 Dialogue: 0,0:07:38.19,0:07:40.31,Default,Yuji,0,0,0,,Not worth saving?
 Dialogue: 0,0:07:40.31,0:07:41.85,Default,Yuji,0,0,0,,What are you talking about?!
 Dialogue: 0,0:07:41.85,0:07:43.86,Default,Fushiguro,0,0,0,,This is a juvenile detention center.
-Dialogue: 0,0:07:43.86,0:07:47.74,Default,Fushiguro,0,0,0,,Jujutsu sorcerers are granted access to all information about the scene beforehand.
+Dialogue: 0,0:07:43.86,0:07:47.74,Default,Fushiguro,0,0,0,,Sorcerers are granted access to all information about the scene beforehand.
 Dialogue: 0,0:07:48.85,0:07:55.12,Default,Fushiguro,0,0,0,,This Okazaki Tadashi hit a little girl on her way home from school while driving without a license.
 Dialogue: 0,0:07:55.12,0:07:57.96,Default,Fushiguro,0,0,0,,And that was his second offense \Nof driving without license.
 Dialogue: 0,0:07:59.27,0:08:04.84,Default,Fushiguro,0,0,0,,I know you're stuck on saving lots of people and guiding them to proper deaths.
@@ -293,7 +293,7 @@ Dialogue: 0,0:17:34.94,0:17:36.70,Default,Sukuna,0,0,0,,Hey, what's the matter?
 Dialogue: 0,0:17:37.15,0:17:39.37,Default,Sukuna,0,0,0,,You're not finished already, are you?
 Dialogue: 0,0:17:41.83,0:17:45.90,Default,Sukuna,0,0,0,,That's it. Come on, you can do better.
 Dialogue: 0,0:17:54.45,0:17:55.93,Default,Sukuna,0,0,0,,Even a cursed spirit...
-Dialogue: 0,0:17:56.82,0:17:58.96,Default,Sukuna,0,0,0,,needs an arm, right?
+Dialogue: 0,0:17:56.82,0:17:58.96,Default,Sukuna,0,0,0,,would miss losing an arm, right?
 Dialogue: 0,0:18:16.05,0:18:18.82,Default,Fushiguro,0,0,0,,Please expand the evacuation area to ten kilometers.
 Dialogue: 0,0:18:18.82,0:18:20.07,Default,Ijichi,0,0,0,,What about you?
 Dialogue: 0,0:18:20.07,0:18:23.49,Default,Fushiguro,0,0,0,,I'm waiting here for Itadori to return.
@@ -349,5 +349,6 @@ Dialogue: 0,0:23:15.29,0:23:17.04,Default,Itadori,0,0,0,,How are they related?
 Dialogue: 0,0:23:17.04,0:23:20.57,Default,Itadori,0,0,0,,You're often irritated when you're on call, Fushiguro.
 Dialogue: 0,0:23:20.57,0:23:23.70,Default,Fushiguro,0,0,0,,That's because of {*}Mr. Gojo{*Gojo-sensei}, not the phone.
 Dialogue: 0,0:23:23.70,0:23:27.30,Default,Kugisaki,0,0,0,,You often wander around when you're on call, Itadori.
-Dialogue: 0,0:23:27.30,0:23:32.80,Default,Ijichi,0,0,0,,Speaking of phones, can you all stay on a call while holding the phone against your shoulder?
+Dialogue: 0,0:23:27.30,0:23:28.68,Default,Ijichi,0,0,0,,Speaking of phones,
+Dialogue: 0,0:23:28.68,0:23:32.80,Default,Ijichi,0,0,0,,can you stay on a call while holding the phone against your shoulder?
 Comment: 0,0:23:44.99,0:23:45.03,Default,chptr,0,0,0,,{Preview}

@@ -21,9 +21,9 @@ Video File: jujutsu_02_premux.mkv
 Keyframes File: jujutsu_02_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 318
-Active Line: 331
-Video Position: 30647
+Scroll Position: 282
+Active Line: 299
+Video Position: 28404
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -222,7 +222,7 @@ Dialogue: 0,0:12:42.53,0:12:46.20,Default,Gojo,0,0,0,,He's fast asleep after rec
 Dialogue: 0,0:12:46.89,0:12:50.71,Default,Gojo,0,0,0,,Tokyo Metropolitan Jujutsu Technical High School.
 Dialogue: 0,0:12:50.71,0:12:54.70,Default,Gojo,0,0,0,,It's one of only two jujutsu educational facilities.
 Dialogue: 0,0:12:55.17,0:12:58.72,Default,Gojo,0,0,0,,On the surface, it's known as a private religious school.
-Dialogue: 0,0:12:59.33,0:13:04.22,Default,Gojo,0,0,0,,Many jujutsu sorcerers continue to use it as a base even after graduation.
+Dialogue: 0,0:12:59.33,0:13:04.22,Default,Gojo,0,0,0,,Many sorcerers continue to use it as a base even after graduation.
 Dialogue: 0,0:13:04.22,0:13:07.68,Default,Gojo,0,0,0,,It's a pillar of the community, not just for education,
 Dialogue: 0,0:13:07.68,0:13:10.18,Default,Gojo,0,0,0,,but for support and mediation in missions too.
 Dialogue: 0,0:13:11.12,0:13:14.65,Default,Gojo,0,0,0,,Anyway, you're about to have an interview with the principal.
@@ -332,7 +332,6 @@ Dialogue: 0,0:19:30.23,0:19:32.78,Default,Yuji,0,0,0,,but I'm not gonna regret t
 Dialogue: 0,0:19:35.63,0:19:36.89,Default,Yaga,0,0,0,,Satoru.
 Dialogue: 0,0:19:36.89,0:19:38.78,Default,Yaga,0,0,0,,Show him to the dorm.
 Dialogue: 0,0:19:38.78,0:19:42.37,Default,Yaga,0,0,0,,Explain the security and rules to him too.
-Dialogue: 0,0:19:42.37,0:19:43.28,Default,Yuji,0,0,0,,Huh?
 Dialogue: 0,0:19:44.65,0:19:46.05,Default,Yaga,0,0,0,,You're in.
 Dialogue: 0,0:19:46.05,0:19:47.67,Default,Yaga,0,0,0,,Welcome to Jujutsu Tech.
 Dialogue: 0,0:19:53.04,0:19:56.40,Default,Yaga,0,0,0,,Oh, sorry. I forgot to release the curse.
