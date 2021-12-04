@@ -160,13 +160,13 @@ Dialogue: 5,0:07:52.03,0:07:54.71,Default,Yuji,0,0,0,,{\i1}We're just not clicki
 Dialogue: 5,0:07:54.71,0:07:56.64,Default,Yuji,0,0,0,,{\i1}I'm not getting anything from him.
 Dialogue: 5,0:07:57.83,0:08:00.54,Default,Gojo,0,0,0,,I won't be able to lead you this time.
 Dialogue: 5,0:08:00.54,0:08:04.33,Default,Gojo,0,0,0,,But I've brought a reliable protege to take my place.
-Dialogue: 5,0:08:06.22,0:08:09.48,Default,Gojo,0,0,0,,This is Nanami Kento, the ex-salaryman jujutsu sorcerer!
-Dialogue: 5,0:08:09.48,0:08:11.51,Default,Nanami,0,0,0,,Please don't call me that.
-Dialogue: 5,0:08:11.84,0:08:14.10,Default,Gojo,0,0,0,,Plenty of jujutsu sorcerers are weirdos.
-Dialogue: 5,0:08:14.10,0:08:17.94,Default,Gojo,0,0,0,,But since he is a former office worker, \Nhe's got a good head on his shoulders.
-Dialogue: 5,0:08:17.94,0:08:19.90,Default,Gojo,0,0,0,,He's a first-grade sorcerer too.
+Dialogue: 5,0:08:06.22,0:08:09.48,Default,Gojo,0,0,0,,This is Nanami Kento,\N the ex-salaryman jujutsu sorcerer!
+Dialogue: 5,0:08:09.48,0:08:11.51,Default,Nanami,0,0,0,,Please don't.
+Dialogue: 5,0:08:11.84,0:08:14.10,Default,Gojo,0,0,0,,We've got a fair share of weirdos in sorcery,
+Dialogue: 5,0:08:14.10,0:08:17.94,Default,Gojo,0,0,0,,but since he is a former office worker, \Nhe's got a good head on his shoulders.
+Dialogue: 5,0:08:17.94,0:08:19.90,Default,Gojo,0,0,0,,He's a first-grade sorcerer, too!
 Dialogue: 5,0:08:19.90,0:08:22.57,Default,Nanami,0,0,0,,That's rich coming from you.
-Dialogue: 5,0:08:23.02,0:08:26.46,Default,Yuji,0,0,0,,{\i1}A lot of them like to wear \Nsunglasses and stuff to hide their eyes.
+Dialogue: 5,0:08:23.02,0:08:26.46,Default,Yuji,0,0,0,,{\i1}Many of them like to wear sunglasses\N and stuff to cover their eyes, huh?
 Dialogue: 5,0:08:27.07,0:08:28.24,Default,Yuji,0,0,0,,Ex-salaryman?
 Dialogue: 5,0:08:28.24,0:08:31.57,Default,Yuji,0,0,0,,Why didn't you become a sorcerer from the start?
 Dialogue: 5,0:08:31.57,0:08:33.60,Default,Nanami,0,0,0,,Why don't we introduce ourselves?
@@ -185,7 +185,7 @@ Dialogue: 5,0:09:00.17,0:09:01.49,Default,Gojo,0,0,0,,Right?
 Dialogue: 5,0:09:01.49,0:09:06.74,Default,Nanami,0,0,0,,Itadori{**-kun}, please don't think that \NI'm of the same mindset as Gojo{**-san}.
 Dialogue: 5,0:09:06.74,0:09:09.99,Default,Nanami,0,0,0,,I do trust him and have faith in him.
 Dialogue: 5,0:09:12.49,0:09:14.53,Default,Nanami,0,0,0,,But I do not respect him!
-Dialogue: 5,0:09:14.53,0:09:15.33,Default,Gojo,0,0,0,,Huh?!
+Dialogue: 5,0:09:14.53,0:09:15.33,Default,Gojo,0,0,0,,Say what?!
 Dialogue: 5,0:09:15.87,0:09:20.33,Default,Nanami,0,0,0,,I'm not a fan of the way things are run,\N but I follow the rules.
 Dialogue: 5,0:09:20.33,0:09:22.48,Default,Nanami,0,0,0,,This conversation is dragging on.
 Dialogue: 5,0:09:22.48,0:09:26.85,Default,Nanami,0,0,0,,In short, I don't acknowledge you as a sorcerer. {tldr}
@@ -198,7 +198,7 @@ Dialogue: 5,0:09:52.11,0:09:55.41,Default,Yuji,0,0,0,,Even without that advice, 
 Dialogue: 5,0:09:55.41,0:09:57.37,Default,Yuji,0,0,0,,Just give me a bit more time.
 Dialogue: 5,0:09:59.61,0:10:02.38,Default,Nanami,0,0,0,,Be sure to tell that to the authorities, not me.
 Dialogue: 5,0:10:02.38,0:10:03.37,Default,Yuji,0,0,0,,Oh, right.
-Dialogue: 5,0:10:03.37,0:10:05.50,Default,Nanami,0,0,0,,Frankly, I don't care!
+Dialogue: 5,0:10:03.37,0:10:05.50,Default,Nanami,0,0,0,,Frankly, I couldn't care less!
 Dialogue: 5,0:10:05.50,0:10:06.83,Default,Yuji,0,0,0,,Okay, I get it!
 Dialogue: 5,0:10:09.45,0:10:12.72,Default,Yuji,0,0,0,,There wasn't anything on the surveillance cameras?
 Dialogue: 5,0:10:13.18,0:10:13.93,Default,Nanami,0,0,0,,Right.

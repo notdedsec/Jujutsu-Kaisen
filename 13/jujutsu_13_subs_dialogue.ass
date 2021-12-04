@@ -20,10 +20,10 @@ Audio File: jujutsu_13_premux.mkv
 Video File: jujutsu_13_premux.mkv
 Keyframes File: jujutsu_13_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 289
-Active Line: 299
-Video Position: 33989
+Video Zoom Percent: 0.500000
+Scroll Position: 63
+Active Line: 71
+Video Position: 10090
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -51,7 +51,7 @@ Dialogue: 5,0:00:44.25,0:00:48.48,Default,Nanami,0,0,0,,Once we've created an op
 Dialogue: 5,0:00:49.36,0:00:51.99,Default,Nanami,0,0,0,,We'll make sure to exorcise him right here.
 Dialogue: 5,0:00:54.28,0:00:55.24,Default,Yuji,0,0,0,,Got it!
 Dialogue: 5,0:01:02.71,0:01:05.46,Default,Mahito,0,0,0,,{\i1}I'll have to keep an eye on Itadori...
-Dialogue: 5,0:01:06.35,0:01:09.51,Default,Mahito,0,0,0,,{\i1}while I start by taking out the seven to three sorcerer.
+Dialogue: 5,0:01:06.35,0:01:09.51,Default,Mahito,0,0,0,,{\i1}while I start by taking out the Seven-Three Sorcerer. {Nana-Mi. geddit?}
 Dialogue: 5,0:01:30.40,0:01:33.16,Default,Mahito,0,0,0,,{\i1}I thought this would be a good one.
 Dialogue: 5,0:01:33.61,0:01:35.83,Default,Mahito,0,0,0,,{\i1}But they just dodged it.
 Dialogue: 5,0:01:35.83,0:01:39.17,Default,Mahito,0,0,0,,{\i1}And now they're breaking all the weaker spikes.
@@ -99,13 +99,12 @@ Dialogue: 5,0:06:29.50,0:06:31.87,Default,Yuji,0,0,0,,{\i1}Why did he only seal 
 Dialogue: 5,0:06:31.87,0:06:33.00,Default,Yuji,0,0,0,,{\i1}At this rate...
 Dialogue: 5,0:06:33.54,0:06:34.62,Default,Yuji,0,0,0,,{\i1}At this rate...!
 Dialogue: 5,0:06:39.40,0:06:41.32,Default,Nanami,0,0,0,,{\i1}Domain Expansion.
-Dialogue: 5,0:06:41.32,0:06:44.50,Default,Nanami,0,0,0,,{\i1}Within this innate domain \Nconstructed from cursed energy,
+Dialogue: 5,0:06:41.32,0:06:44.50,Default,Nanami,0,0,0,,{\i1}Within this Innate Domain \Nconstructed from cursed energy,
 Dialogue: 5,0:06:44.50,0:06:48.39,Default,Nanami,0,0,0,,{\i1}all hits are fatal and can not be evaded.
-Dialogue: 5,0:06:48.81,0:06:52.56,Default,Nanami,0,0,0,,{\i1}It's the height of jujutsu sorcery I could never obtain.{never reach*? "heights" are not for "obtaining"}
-Dialogue: 5,0:06:53.46,0:06:57.33,Default,Nanami,0,0,0,,{\i1}His technique that messes with the soul probably has a condition.
-Dialogue: 5,0:06:57.33,0:07:00.83,Default,Nanami,0,0,0,,{\i1}In its base form, he must touch \Nhis target with the palm of his hand.
-Dialogue: 5,0:07:00.83,0:07:04.15,Default,Nanami,0,0,0,,{\i1}However, in a domain where\N I'm helpless against his attacks...
-Dialogue: 5,0:07:04.15,0:07:05.41,Default,Nanami,0,0,0,,{\i1}That would mean...
+Dialogue: 5,0:06:48.81,0:06:52.56,Default,Nanami,0,0,0,,{\i1}It's the height of sorcery I could never obtain.{never reach*? "heights" are not for "obtaining"}
+Dialogue: 5,0:06:53.46,0:06:57.33,Default,Nanami,0,0,0,,{\i1}His technique that messes with the soul\N seems to have a condition:
+Dialogue: 5,0:06:57.33,0:07:00.83,Default,Nanami,0,0,0,,{\i1}He must touch the target with his hand.
+Dialogue: 5,0:07:00.83,0:07:05.41,Default,Nanami,0,0,0,,{\i1}But in a Domain where I can't avoid his attacks...
 Dialogue: 5,0:07:06.66,0:07:09.17,Default,Nanami,0,0,0,,{\i1}I'm literally in the palm of his hands.
 Dialogue: 5,0:07:10.76,0:07:11.65,Default,Nanami,0,0,0,,{\i1}Idiots.
 Dialogue: 5,0:07:11.65,0:07:14.27,Default,Nanami,0,0,0,,{\i1}Jujutsu sorcerers are idiots.
