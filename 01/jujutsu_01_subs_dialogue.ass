@@ -20,10 +20,10 @@ Audio File: jujutsu_01_premux.mkv
 Video File: jujutsu_01_premux.mkv
 Keyframes File: jujutsu_01_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 254
-Active Line: 266
-Video Position: 21547
+Video Zoom Percent: 0.625000
+Scroll Position: 50
+Active Line: 56
+Video Position: 6465
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -84,17 +84,16 @@ Dialogue: 0,0:04:14.15,0:04:15.90,Default,Yuji,0,0,0,,{\fade(300,0)}Sasaki{**-se
 Dialogue: 0,0:04:16.24,0:04:18.02,Default,Yuji,0,0,0,,{\fade(300,0)}Iguchi{**-senpai}?
 Dialogue: 0,0:04:18.40,0:04:20.28,Default,Yuji,0,0,0,,Okay, here we go!
 Dialogue: 0,0:04:20.28,0:04:22.43,Default,Yuji,0,0,0,,Spirits, spirits, please tell us!
-Dialogue: 0,0:04:22.43,0:04:24.98,Default,Yuji,0,0,0,,Which creature is the council president just barely weaker than?!
+Dialogue: 0,0:04:22.43,0:04:24.98,Default,Yuji,0,0,0,,Which creature is the council president afraid of?!
 Comment: 0,0:04:27.31,0:04:30.12,Default,All&Screen,0,0,0,,Ku-ri-o-ne (sea angel)? {we don't do that here.}
-Dialogue: 0,0:04:27.01,0:04:30.12,Default,All&Screen,0,0,0,,F{\alphaFF}ish?
-Dialogue: 1,0:04:28.01,0:04:30.12,Default,All&Screen,0,0,0,,Fi{\alphaFF}sh?
-Dialogue: 2,0:04:28.83,0:04:30.12,Default,All&Screen,0,0,0,,Fis{\alphaFF}h?
-Dialogue: 3,0:04:29.39,0:04:29.87,Default,All&Screen,0,0,0,,Fish{\alphaFF}?
-Dialogue: 3,0:04:29.87,0:04:30.11,Default,All&Screen,0,0,0,,Fish?
-Dialogue: 0,0:04:30.12,0:04:31.86,Default,Yuji,0,0,0,,A sea angel fish can beat him?!
+Dialogue: 0,0:04:27.29,0:04:28.16,Default,All&Screen,0,0,0,,Sea{\alphaFF} Butterfly?
+Dialogue: 1,0:04:28.16,0:04:28.92,Default,All&Screen,0,0,0,,Sea But{\alphaFF}terfly?
+Dialogue: 2,0:04:28.92,0:04:29.62,Default,All&Screen,0,0,0,,Sea Butter{\alphaFF}fly?
+Dialogue: 3,0:04:29.62,0:04:30.11,Default,All&Screen,0,0,0,,Sea Butterfly?
+Dialogue: 0,0:04:30.12,0:04:31.86,Default,Yuji,0,0,0,,A sea butterfly? That's so lame!
 Dialogue: 0,0:04:31.86,0:04:33.41,Default,Yuji,0,0,0,,What a small fry!
 Dialogue: 0,0:04:33.41,0:04:34.72,Default,President,0,0,0,,Occult club!
-Dialogue: 0,0:04:34.72,0:04:37.33,Default,Yuji,0,0,0,,Hey, Plankton President! What's up?
+Dialogue: 0,0:04:34.72,0:04:37.33,Default,Yuji,0,0,0,,Hey, it's the Plankton President! What's up?
 Dialogue: 0,0:04:38.30,0:04:40.58,Default,President,0,0,0,,As you were previously informed,
 Dialogue: 0,0:04:40.58,0:04:43.54,Default,President,0,0,0,,a research club with no real activities must forfeit its club room.
 Dialogue: 0,0:04:43.54,0:04:45.07,Default,President,0,0,0,,So vacate this room at once!

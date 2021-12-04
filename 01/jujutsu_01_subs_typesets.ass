@@ -21,10 +21,9 @@ Audio File: jujutsu_01_premux.mkv
 Video File: jujutsu_01_premux.mkv
 Keyframes File: jujutsu_01_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 20
-Active Line: 27
-Video Position: 6653
+Video Zoom Percent: 0.750000
+Active Line: 8
+Video Position: 6457
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,11 +40,11 @@ Dialogue: 0,0:03:17.59,0:03:20.54,Signs,Sign,0,0,0,,{\fnATAmigo\fs80\bord6\blur4
 Dialogue: 0,0:04:11.83,0:04:13.76,Signs,Sign,0,0,0,,{=2}{\clip()\t(5,1924,\clip())\fscx100\t(5,1924,\fscx100)\fscy100\t(5,1924,\fscy100)\alpha&H00&\fnBIP\fs32\be1\fax-0.2\c&H654B35&\move(613.6,14.4,613.59,108.98,5,1924)\frz16.34}Occult
 Dialogue: 0,0:04:11.83,0:04:13.76,Signs,Sign,0,0,0,,{=1}{\clip()\t(5,1924,\clip())\fscx100\t(5,1924,\fscx100)\fscy100\t(5,1924,\fscy100)\alpha&H00&\fnBIP\fs32\be1\fax-0.2\c&H654B35&\move(643.76,35.98,643.75,130.55,5,1924)\frz17.1}Phenomenon
 Dialogue: 0,0:04:11.83,0:04:13.76,Signs,Sign,0,0,0,,{=0}{\clip()\t(5,1924,\clip())\fscx100\t(5,1924,\fscx100)\fscy100\t(5,1924,\fscy100)\alpha&H00&\fnBIP\fs32\be1\fax-0.2\c&H654B35&\move(655.79,64.9,655.78,159.47,5,1924)\frz17.25}Research Club
-Dialogue: 0,0:04:27.01,0:04:30.12,Signs,All&Screen,0,0,0,,{\fad(200,0)\fnAveria Sans\fs220\be1\c&H000000&\b1\pos(960,130)}F{\alphaFF}ISH
-Dialogue: 1,0:04:28.01,0:04:30.12,Signs,All&Screen,0,0,0,,{\fad(200,0)\fnAveria Sans\fs220\be1\c&H000000&\b1\pos(960,130)}FI{\alphaFF}SH
-Dialogue: 2,0:04:28.83,0:04:30.12,Signs,All&Screen,0,0,0,,{\fad(200,0)\fnAveria Sans\fs220\be1\c&H000000&\b1\pos(960,130)}FIS{\alphaFF}H
-Dialogue: 3,0:04:29.39,0:04:30.11,Signs,All&Screen,0,0,0,,{\fad(200,0)\fnAveria Sans\fs220\be1\c&H000000&\b1\pos(960,130)}FISH
-Dialogue: 1,0:04:30.14,0:04:32.94,Signs,Sidebar,0,0,0,,{\fnBaqa\b1\fs45\fscx90\be1\c&H6D90E5&\pos(1560.4,551.4)}Sea Angel
+Dialogue: 0,0:04:27.01,0:04:27.91,Signs,All&Screen,0,0,0,,{\pos(750.992,130)\fnAveria Sans\fs120\b1\c&H000000&\be1\fad(220,0)\t(0,1280,\fs175)}sea
+Dialogue: 1,0:04:28.01,0:04:28.75,Signs,All&Screen,0,0,0,,{\pos(919.172,130)\fnAveria Sans\fs120\b1\c&H000000&\be1\fad(220,0)\t(0,1280,\fs175)}but
+Dialogue: 2,0:04:28.83,0:04:29.33,Signs,All&Screen,0,0,0,,{\pos(1068.125,130)\fnAveria Sans\fs120\b1\c&H000000&\be1\fad(240,0)\t(0,1280,\fs175)}ter
+Dialogue: 3,0:04:29.39,0:04:30.11,Signs,All&Screen,0,0,0,,{\pos(1196.078,130)\fnAveria Sans\fs120\b1\c&H000000&\be1\fad(240,0)\t(0,1280,\fs175)}fly
+Dialogue: 1,0:04:30.14,0:04:32.94,Signs,Sidebar,0,0,0,,{\fnBaqa\b1\fs30\fscx85\be1\c&H6D90E5&\pos(1558.4,549.4)}Sea Butterfly
 Dialogue: 1,0:04:30.14,0:04:32.94,Signs,Sidebar,0,0,0,,{\fnBaqa\b1\fs30\fscx84\be1\c&H303032&\pos(1737.333,554.933)}A type of plankton\Nliving in cold oceans!
 Dialogue: 1,0:04:30.14,0:04:32.94,Signs,Sidebar,0,0,0,,{\fnBaqa\fs27\fscx88\be1\c&H303032&\pos(1552.401,635.333)}Transparent\N{\fscx100}body!
 Dialogue: 0,0:04:30.14,0:04:32.94,Signs,,0,0,0,,{\blur1.999\an5\pos(1737.66,981.285)\1c&HF0EEDD&\p1}m 189.75 4.875 l 116.875 0 35.125 2.5 0 6.375 1.875 27.25 0 46 1.875 77.625 182.25 75 183 31 189.75 26.5 189.75 4.875
