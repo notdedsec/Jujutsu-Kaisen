@@ -1,11 +1,8 @@
 import vapoursynth as vs
-from .util import generate_comparison
 from vardautomation import (
-    X265Encoder, QAACEncoder, RunnerConfig, SelfRunner, FileInfo, Mux,
+    X265Encoder, QAACEncoder, RunnerConfig, SelfRunner, FileInfo, Mux, make_comps,
     VideoStream, AudioStream, EztrimCutter, FfmpegAudioExtracter, JAPANESE
 )
-
-core = vs.core
 
 class Encoder:
     runner: SelfRunner
@@ -35,7 +32,7 @@ class Encoder:
             self.file,
             streams=(
                 VideoStream(self.file.name_clip_output, '1080p BD x265 [dedsec]', JAPANESE),
-                AudioStream(self.file.a_enc_cut, 'AAC 2.0', JAPANESE),
+                AudioStream(self.file.a_enc_cut.format(track_number=1), 'AAC 2.0', JAPANESE),
                 None
             )
         )
@@ -53,4 +50,16 @@ class Encoder:
         self.runner.do_cleanup()
 
     def compare(self):
-        generate_comparison(self.file, self.file.name_file_final.to_str(), self.clip)
+        make_comps(
+            clips = dict(
+                src = self.file.clip_cut,
+                flt = self.clip,
+                enc = vs.core.ffms2.Source(self.file.name_file_final.to_str())
+            ),
+            num = 10,
+            path = f'../_comps/{self.file.name}',
+            collection_name = f'[Kaizoku] {self.file.name}',
+            force_bt709 = True,
+            slowpics = True,
+            public = False
+        )
