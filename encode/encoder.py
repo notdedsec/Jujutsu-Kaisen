@@ -1,7 +1,7 @@
 import vapoursynth as vs
 from vardautomation import (
     X265Encoder, QAACEncoder, RunnerConfig, SelfRunner, FileInfo, Mux, make_comps,
-    VideoStream, AudioStream, EztrimCutter, FfmpegAudioExtracter, JAPANESE
+    VideoStream, AudioStream, EztrimCutter, FFmpegAudioExtracter, JAPANESE
 )
 
 class Encoder:
@@ -21,7 +21,7 @@ class Encoder:
             ]
 
         self.v_encoder = X265Encoder('../encode/settings')
-        self.a_extracter = FfmpegAudioExtracter(self.file, track_in=1, track_out=1)
+        self.a_extracter = FFmpegAudioExtracter(self.file, track_in=1, track_out=1)
         self.a_cutters = EztrimCutter(self.file, track=1)
         self.a_encoders = QAACEncoder(self.file, track=1)
     
