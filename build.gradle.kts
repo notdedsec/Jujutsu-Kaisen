@@ -11,8 +11,9 @@ plugins {
 
 subs {
     readProperties("sub.properties", "private.properties")
+    release(arg("release") ?: "BD")
     episodes(getList("episodes"))
-    release(arg("release") ?: "TV")
+    batches(getMap("batches", "episodes"))
 
     merge {
         from(get("dialogue")) {
@@ -62,11 +63,11 @@ subs {
                 lang("jpn")
 
                 if(track.type == TrackType.VIDEO){
-                    name("1080p x264 WEB")
+                    name("1080p BD x265 10bit")
                 }
 
                 if(track.type == TrackType.AUDIO){
-                    name("128k AAC WEB")
+                    name("qAAC 2ch")
                 }
             }
 
@@ -99,27 +100,30 @@ subs {
             includeExtensions("ttf", "otf")
         }
 
-        attach(get("commonfonts")) {
-            includeExtensions("ttf", "otf")
-        }
-
         skipUnusedFonts(true)
         out(get("muxfile"))
     }
 
-    torrent {
-        trackers(getList("tracker"))
-        from(mux.item())
-        out(get("torrent"))
-    }
+    alltasks {
+        torrent {
+            from(mux.batchItems())
 
-    nyaa {
-        from(torrent.item())
-        username(get("nyaauser"))
-        password(get("nyaapass"))
-        category(NyaaCategories.ANIME_ENGLISH)
-        information(get("gitrepo"))
-        torrentDescription(getFile("description.vm"))
-        hidden(false)
+            if (isBatch) {
+                into(get("muxbase"))
+            }
+
+            trackers(getList("tracker"))
+            out(get("torrent"))
+        }
+
+        nyaa {
+            from(torrent.item())
+            username(get("nyaauser"))
+            password(get("nyaapass"))
+            category(NyaaCategories.ANIME_ENGLISH)
+            information(get("gitrepo"))
+            torrentDescription(getFile("description.vm"))
+            hidden(false)
+        }
     }
 }
