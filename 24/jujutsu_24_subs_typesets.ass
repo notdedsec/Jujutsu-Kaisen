@@ -32,8 +32,8 @@ Style: Logo,Cabin,50,&H00FFFFFF,&H000000FF,&H78000000,&H00000000,0,0,0,0,100,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:03:43.99,0:03:51.00,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\c&HD5D3D4&\pos(1565,884)}Episode 24: {\fs70}Accomplices
-Dialogue: 3,0:03:43.99,0:03:51.00,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad0\fad(500,500)\c&HD5D3D4&\pos(1565,884)}Episode 24: {\fs70}Accomplices
+Dialogue: 1,0:03:43.99,0:03:51.00,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\c&HD5D3D4&\pos(1565,884)}Episode 24: {\fs70}Accomplices
+Dialogue: 3,0:03:43.99,0:03:51.00,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad0\fad(500,500)\c&HD5D3D4&\pos(1565,884)}Episode 24: {\fs70}Accomplices
 Dialogue: 0,0:19:12.25,0:19:12.51,Signs,,0,0,0,,{\an8\be1\fs36\shad0\bord1\blur80\3c&HFFFFFF&\frz355.7\pos(984.89,107.34)\c&HDAD7D7&}Iori Utahime
 Dialogue: 1,0:19:12.25,0:19:12.51,Signs,,0,0,0,,{\an8\be2\fs36\shad0\3c&H271A10&\frz355.7\pos(984.89,107.34)\c&HDAD7D7&}Iori Utahime
 Dialogue: 0,0:19:12.51,0:19:12.63,Signs,,0,0,0,,{\an8\be1\fs36\shad0\bord1\blur80\3c&HFFFFFF&\frz355.7\pos(974.89,124.34)\c&HDAD7D7&}Iori Utahime

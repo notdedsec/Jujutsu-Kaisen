@@ -31,7 +31,7 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:04:09.00,0:04:16.01,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\c&HE6E7E7&\pos(1656,882)}Episode 18: {\fs70}Sage
+Dialogue: 0,0:04:09.00,0:04:16.01,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\c&HE6E7E7&\pos(1656,882)}Episode 18: {\fs70}Sage
 Dialogue: 0,0:04:53.43,0:04:56.44,Signs,Screen,0,0,0,,{\an5\1c&H000000&\p1\pos(962.47,539.94)}m 0 1000 l 1800 1000 1800 0 0 0 0 1000
 Dialogue: 0,0:04:53.43,0:04:56.44,Signs,Screen,0,0,0,,{\fnRagnar\fs70\c&HFFFFFF&\pos(960,545)}Kyoto Sister School Exchange Event Team Battle\N{\fs80}Miwa Kasumi — Retired
 Dialogue: 0,0:05:00.44,0:05:00.48,Signs,Phone,0,0,0,,{=1}{\fscx100\fscy100\alpha&H00&\fnCabin\fs28.8\bord0.1\blur10\3c&HFFFFFF&\3a&H81&\frz7.874\c&HFFFFFF&\1a&H64&\pos(879.2,201.89)}Miwa Kasumi
@@ -154,8 +154,8 @@ Dialogue: 1,0:05:02.78,0:05:02.82,Signs,Phone,0,0,0,,{=0}{\fscx86.26\fscy86.26\a
 Dialogue: 1,0:05:02.82,0:05:02.86,Signs,Phone,0,0,0,,{=0}{\fscx86.02\fscy86.02\alpha&H00&\fnCabin\be2\b0\fs28.8\3c&HFFFFFF&\3a&H81&\frz7.874\c&HF8FCFF&\1a&H14&\pos(887.1,248.3)}Miwa Kasumi
 Dialogue: 1,0:05:02.86,0:05:02.90,Signs,Phone,0,0,0,,{=0}{\fscx85.78\fscy85.78\alpha&H00&\fnCabin\be2\b0\fs28.8\3c&HFFFFFF&\3a&H81&\frz7.874\c&HF8FCFF&\1a&H14&\pos(887.24,249.03)}Miwa Kasumi
 Dialogue: 1,0:05:02.90,0:05:02.94,Signs,Phone,0,0,0,,{=0}{\fscx85.57\fscy85.57\alpha&H00&\fnCabin\be2\b0\fs28.8\3c&HFFFFFF&\3a&H81&\frz7.874\c&HF8FCFF&\1a&H14&\pos(887.38,249.7)}Miwa Kasumi
-Dialogue: 0,0:22:14.93,0:22:17.44,Signs,Three&Screen,0,0,0,,{\fnBrush Strokes\b1\be1\fs110\c&H000101&\pos(1400,150)}Juju Stroll
-Dialogue: 0,0:23:51.45,0:23:54.93,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1468,\blur0)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 19{\fs70}\NBlack Flash
+Dialogue: 0,0:22:14.93,0:22:17.44,Signs,Three&Screen,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
+Dialogue: 0,0:23:51.45,0:23:54.93,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1468,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 19{\fs70}\NBlack Flash
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"3bf17f7c-cbeb-4872-96c2-a31a4f301087"#2C"originalText"#3A"{\\fnCabin\\be2\\b0\\fs28.8\\3c&HFFFFFF&\\3a&H81&\\frz7.874\\c&HF8FCFF&\\1a&H14&\\pos(879.2#2C201.89)}Miwa Kasumi"}

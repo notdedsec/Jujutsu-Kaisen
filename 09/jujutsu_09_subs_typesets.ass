@@ -72,7 +72,7 @@ Dialogue: 7,0:19:18.05,0:19:21.59,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Minc
 Dialogue: 1,0:17:26.61,0:17:30.52,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Mincho Old Pro H-Fate\fs98\be1\pos(438,983)}Monday, 11:00 AM
 Dialogue: 0,0:17:26.61,0:17:30.52,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Mincho Old Pro H-Fate\fs98\bord0.4\blur2\be1\pos(438,983)}Monday, 11:00 AM
 Dialogue: 0,0:03:48.70,0:03:53.17,Signs,Screen,0,0,0,,{\fad(1500,1)\fnIwata Mincho Old Pro H-Fate\fs98\be1\pos(438,982)}Monday, 10:10 AM
-Dialogue: 0,0:06:06.42,0:06:13.43,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\pos(1305,885)\c&HE6E7E7&}Episode 9: {\fs70}Small Fry and Reverse Retribution
+Dialogue: 0,0:06:06.42,0:06:13.43,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\pos(1305,885)\c&HE6E7E7&}Episode 9: {\fs70}Small Fry and Reverse Retribution
 Dialogue: 5,0:19:16.34,0:19:21.59,Signs,Sign,0,0,0,,{\fnLino Stamp\fs120\c&H6DB4C6&\be1\fax-0.33\blur15\frz17.92\1a&H50&\pos(1015.34,866.66)}IUIQKDNSJOIEWFMSDJDJFJAI
 Dialogue: 1,0:19:16.34,0:19:21.59,Signs,Sign,0,0,0,,{\p1\c&HC7E7EF&\be1\pos(996.8,1214.4)\frz0.2235}m 0 0 l 905 -287 l 904 -350 l 0 -60
 Dialogue: 0,0:19:16.34,0:19:21.59,Signs,Sign,0,0,0,,{\p1\xshad-2\yshad-2\blur2\pos(996.8,1214.4)\frz0.2235}m 0 0 l 905 -287 l 904 -350 l 0 -60
@@ -1836,8 +1836,8 @@ Dialogue: 0,0:23:40.47,0:23:40.59,Signs,,0,0,0,,{\fnRaysHand\fs145\b0\1c&H807A70
 Dialogue: 0,0:23:40.59,0:23:41.59,Signs,,0,0,0,,{\fnRaysHand\fs145\b0\1c&H807A70&\3c&HF0E6DC&\bord0\blur1\frz-20\frx30\1a&H28&\pos(780.667,677.467)}Dick
 Dialogue: 0,0:23:41.59,0:23:41.84,Signs,,0,0,0,,{\fnRaysHand\fs245\b0\1c&H807A70&\3c&HF0E6DC&\bord0\blur1.6\frz-25\frx30\1a&H28&\pos(670.667,856.133)}Dick
 Dialogue: 0,0:23:41.84,0:23:42.09,Signs,,0,0,0,,{\fnRaysHand\fs305\b0\1c&H807A70&\3c&HF0E6DC&\bord0\blur2\frz-25\frx30\1a&H28&\pos(606.667,914.8)}Dick
-Dialogue: 0,0:23:15.03,0:23:17.58,Signs,Screen&Two,0,0,0,,{\fnBrush Strokes\b1\be1\fs110\c&H000101&\pos(1400,150)}Juju Stroll
-Dialogue: 0,0:23:51.57,0:23:55.03,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1298,\blur0)\fad(500,0)\fscy112\fscx112\t(26,3440,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 10{\fs70}\NIdle Transfiguration
+Dialogue: 0,0:23:15.03,0:23:17.58,Signs,Screen&Two,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
+Dialogue: 0,0:23:51.57,0:23:55.03,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1298,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3440,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 10{\fs70}\NIdle Transfiguration
 
 [Aegisub Extradata]
 Data: 4,a-mo,e{"uuid"#3A"d6a73ee2-0dcd-4d88-9a53-eb5c52c677d5"#2C"originalText"#3A"{\\t(5000#2C6400#2C\\c&H000000&)\\fnRagnar\\fs46\\fax-0.33\\b1\\shad1\\fscx96\\be1\\c&H1C2629&\\1a&H32&\\3c&H000306&\\4c&H1B2627&\\4a&H64&\\frz17.87\\t(5000#2C6450#2C\\c&H000000)\\pos(960.8#2C885.4)}Tokyo Municipal Shuei High School Detached Office"}

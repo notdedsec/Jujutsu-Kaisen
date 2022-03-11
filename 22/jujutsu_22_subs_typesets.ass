@@ -196,7 +196,7 @@ Dialogue: 1,0:02:22.79,0:02:27.73,Signs,Screen,0,0,0,,{\fad(441,392)\p1\shad0\bo
 Dialogue: 2,0:02:22.79,0:02:27.73,Signs,Screen,0,0,0,,{\fad(140,140)\an4\fs30.6\fnIwata Mincho Pro En B\bord0\c&H000000&\pos(160.66,197.22)\be1}Assistant Supervisor
 Dialogue: 2,0:02:22.79,0:02:27.73,Signs,Screen,0,0,0,,{\fad(140,140)\an4\fs50\fnIwata Mincho Pro En B\bord0\c&H000000&\pos(162.66,153.22)\be1}Jujutsu Tech
 Dialogue: 2,0:02:22.79,0:02:27.73,Signs,Screen,0,0,0,,{\fad(140,140)\an4\fs55\fnIwata Mincho Pro En B\bord0\c&H000000&\pos(162.66,254.22)\be1}Nitta Akari
-Dialogue: 0,0:02:28.96,0:02:36.03,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\c&HE6E4E4&\pos(1413,884)}Episode 22: {\fs70}The Origin of Obedience
+Dialogue: 0,0:02:28.96,0:02:36.03,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\c&HE6E4E4&\pos(1413,884)}Episode 22: {\fs70}The Origin of Obedience
 Dialogue: 1,0:03:48.24,0:03:50.27,Signs,Lantern,0,0,0,,{\blur10\fs100\pos(727.12,512.89)}--
 Dialogue: 0,0:03:48.24,0:03:50.27,Signs,Lantern,0,0,0,,{\an5\c&H2D2F2F&\b1\fnBuxton Sketch\bord0\shad0\be1\fs38\frz2.008\pos(726.49,520.38)}Spirit Lantern
 Dialogue: 0,0:04:24.86,0:04:27.89,Signs,Sign,0,0,0,,{\fnArtificeSSK\fs72\fscx96\bord7\blur4\c&H717944&\1a&H21&\pos(940,100)\3c&H0E1200&}Saitama Municipal Urami East Middle School
@@ -905,10 +905,10 @@ Dialogue: 1,0:11:47.77,0:11:47.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fs
 Dialogue: 1,0:11:47.77,0:11:47.81,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.52\fscx98.52\bord0\blur0.3\fs52\frz-7.15\pos(1845.89,593.82)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
 Dialogue: 1,0:11:47.81,0:11:47.85,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.53\fscx98.53\bord0\blur0.3\fs52\frz-7.14\pos(1845.9,593.8)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
 Dialogue: 1,0:11:47.85,0:11:47.89,Signs,Screen&Akari,0,0,0,,{\fnBlockParty\b1\fscy98.52\fscx98.52\bord0\blur0.3\fs52\frz-7.14\pos(1845.91,593.8)\shad0\c&H171EE5&\3c&H1D283D&\be1}Ding
-Dialogue: 0,0:22:15.10,0:22:17.61,Signs,All&Screen,0,0,0,,{\fnBrush Strokes\b1\be1\fs110\c&H000101&\pos(1400,150)}Juju Stroll
+Dialogue: 0,0:22:15.10,0:22:17.61,Signs,All&Screen,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
 Dialogue: 0,0:22:36.17,0:22:40.92,Signs,Signs,0,0,0,,{\fnDK Full Blast\fscx90\fs40\be2\frz1.267\c&HE2DFFF&\pos(664.98,353.67)}Chinese Restaurant Manpuku
 Dialogue: 0,0:23:03.40,0:23:06.28,Signs,Signs,0,0,0,,{\fnDK Full Blast\fscx90\fs40\be2\frz1.267\c&HE2DFFF&\pos(832.55,366.96)}Chinese Restaurant Manpuku
-Dialogue: 0,0:23:36.60,0:23:40.06,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1468,\blur0)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 23{\fs70}\NThe Origin of Obedience 2
+Dialogue: 0,0:23:36.60,0:23:40.06,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1468,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 23{\fs70}\NThe Origin of Obedience 2
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"820027ef-1935-430c-8780-7984c72b0598"#2C"originalText"#3A"{\\fs50\\be1\\fscx90\\fnFOT-HummingStd-Accel-B\\bord0\\shad0\\pos(1803.33#2C250.67)}Operating Procedure"}

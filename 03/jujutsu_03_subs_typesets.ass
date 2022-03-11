@@ -21,10 +21,10 @@ Audio File: jujutsu_03_premux.mkv
 Video File: jujutsu_03_premux.mkv
 Keyframes File: jujutsu_03_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 1140
-Active Line: 1153
-Video Position: 34075
+Video Zoom Percent: 1.375000
+Scroll Position: 1148
+Active Line: 1155
+Video Position: 32726
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,9 +36,9 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:29.52,0:01:35.30,Signs,Screen,0,0,0,,{\fnArtificeSSK\fs66\fscx96\bord1\blur4\c&H000000&\1a&H21&\pos(960,80)\3c&H949494&}Tokyo Metropolitan Jujutsu Technical High School
 Dialogue: 1,0:01:29.52,0:01:35.30,Signs,Screen,0,0,0,,{\fnArtificeSSK\fs66\fscx96\be2\c&H000000&\3c&HFCFCFC&\pos(960,80)}Tokyo Metropolitan Jujutsu Technical High School
-Dialogue: 0,0:04:45.51,0:04:51.73,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,1)\pos(339,885)\c&HE6E7E7&}Episode 3: {\fs70}Girl of Steel
-Dialogue: 0,0:04:52.65,0:05:03.16,Signs,Screen,0,0,0,,{\fnRagnar\fs96\fscx110\b1\bord2\blur5\c&H0F0F0F&\3c&HC9C9C9&\pos(964.571,63.286)}Kugisaki's Point of View
-Dialogue: 1,0:04:52.65,0:05:03.16,Signs,Screen,0,0,0,,{\fnRagnar\fs96\fscx110\b1\be1\c&H0F0F0F&\pos(964.571,63.286)}Kugisaki's Point of View
+Dialogue: 0,0:04:45.51,0:04:51.73,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,1)\pos(339,885)\c&HE6E7E7&}Episode 3: {\fs70}Girl of Steel
+Dialogue: 0,0:04:52.65,0:05:03.16,Signs,Screen,0,0,0,,{\fnRagnar\fs94\fscx110\b1\bord2\blur5\c&H0F0F0F&\3c&HC9C9C9&\pos(964.571,63.286)}Kugisaki's Point of View
+Dialogue: 1,0:04:52.65,0:05:03.16,Signs,Screen,0,0,0,,{\fnRagnar\fs94\fscx110\b1\blur1\be1\c&H0F0F0F&\pos(964.571,63.286)}Kugisaki's Point of View
 Dialogue: 0,0:05:25.93,0:05:25.97,Signs,Screen,0,0,0,,{=24}{\fscy100\blur4.4\alpha&H00&\fnRagnar\fs150\fscx110\b1\be1\c&H0F0F0F&\pos(982.2,62)}Tokyo
 Dialogue: 0,0:05:25.97,0:05:26.01,Signs,Screen,0,0,0,,{=24}{\fscy86.4\blur4\alpha&H00&\fnRagnar\fs140\fscx95.04\b1\be1\c&H0F0F0F&\pos(982.24,44.62)}Tokyo
 Dialogue: 0,0:05:26.01,0:05:26.05,Signs,Screen,0,0,0,,{=24}{\fscy76.07\blur3.4\alpha&H00&\fnRagnar\fs130\fscx83.68\b1\be1\c&H0F0F0F&\pos(982,38.13)}Tokyo
@@ -325,13 +325,14 @@ Comment: 1,0:16:24.00,0:16:27.00,Signs,Screen,0,0,0,,{=8}{\clip()\t(25,2986,\cli
 Comment: 0,0:16:45.48,0:16:47.48,Signs,Sign,0,0,0,,{\fs26\fnEdo\c&H81777D&\3c&HC8CDC7&\b1\be8\bord6\fax-0.1\pos(383.019,43.629)\frz3.956}Highway Extension Protest
 Comment: 1,0:16:45.48,0:16:47.48,Signs,Sign,0,0,0,,{\fs26\fnEdo\c&H81777D&\3c&HC8CDC7&\b1\be4\fax-0.1\pos(383.019,43.629)\frz3.956}Highway Extension Protest
 Dialogue: 0,0:16:51.51,0:16:56.49,Signs,Sign,0,0,0,,{\fnAero Matics Display\bord10\fs52\pos(659.733,713.067)\3c&HD4D8D3&}House for Sale
-Dialogue: 1,0:16:51.51,0:16:56.49,Signs,Sign,0,0,0,,{\fnAero Matics Display\be1\fs52\c&H2B2A2A&\pos(659.733,713.067)}House for Sale
-Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarGlass,0,0,0,,{\fnApex Brush DEMO\be1\fs60\fax-0.15\c&H272624&\frz6.14\pos(1090.057,231.429)}Broken Van
-Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarHood,0,0,0,,{\fnApex Brush DEMO\fs48\b1\be1\fax-0.4\c&H070707&\frz351.4\pos(571.467,475.466)}Filth
-Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarHood,0,0,0,,{\fnEdo\fs47\b1\be1\fax-0.4\c&H070707&\frz353.1\pos(729.334,615.733)}Serves you right
-Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarHood,0,0,0,,{\fnApex Brush DEMO\fs66\b1\frz33.97\be2\fax-0.16\c&H070707&\pos(1052.267,680.933)}Go back to Tokyo
-Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarDoor,0,0,0,,{\fnEdo\fs53\b1\be2\fax-0.24\c&H0B0909&\frz22.83\pos(1578.8,642.4)}Leave
+Dialogue: 1,0:16:51.51,0:16:56.49,Signs,Sign,0,0,0,,{\fnAero Matics Display\blur1\fs52\c&H2B2A2A&\pos(659.733,713.067)}House for Sale
+Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarGlass,0,0,0,,{\fnApex Brush DEMO\blur1\fs60\fax-0.15\c&H272624&\frz6.14\pos(1090.057,231.429)}Broken Van
+Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarHood,0,0,0,,{\fnApex Brush DEMO\fs48\b1\blur1\fax-0.4\c&H070707&\frz351.4\pos(571.467,475.466)}Filth
+Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarHood,0,0,0,,{\fnEdo\fs47\b1\blur1\fax-0.4\c&H070707&\frz353.1\pos(729.334,615.733)}Serves you right
+Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarHood,0,0,0,,{\fnApex Brush DEMO\fs66\b1\frz33.97\be3\fax-0.16\c&H070707&\pos(1052.267,680.933)}Go back to Tokyo
+Dialogue: 0,0:16:56.49,0:17:00.49,Signs,CarDoor,0,0,0,,{\fnEdo\fs53\b1\be3\fax-0.24\c&H0B0909&\frz22.83\pos(1578.8,642.4)}Leave
 Dialogue: 0,0:17:15.01,0:17:18.26,Signs,Sign,0,0,0,,{\fnBPreplay\fs48\be1\shad\an4\c&H514A49&\pos(1347.6,438.801)\1a&H0A&}This bridge is {\c&H55475F&}dangerous\N{\c&H514A49&}due to deterioration from age\N{\c&H55475F&}and can no longer be used.
+Dialogue: 0,0:17:15.01,0:17:18.26,Signs,Sign,0,0,0,,{\clip()\t(29,3992,\clip())\fscx100\t(29,3992,\fscx100)\fscy100\t(29,3992,\fscy100)\fs50\blur10\pos(1347.64,439.64)}.                                                      ;'.;',;'*.,'.,*.,,;'*.,'.,*.,'..;',;'*.,'.,*.,'.,"-*\N.                                                         ;'.;'.;',;'*.,'.,*.,'.,;'*.,'.,*.;.'*.,'.,*.,'.,".,"-*.;'\N.                                                      ;'.;'.;',;'*.,'.,*.;;',;'*.,'.,*.,'..;',;'*.,'.,*.,'.," {don't ask me what the fuck this is, either}
 Dialogue: 0,0:17:53.76,0:17:53.80,Signs,,0,0,0,,{\an5\pos(340.519,710.58)\1c&H23202C&\p1\1a&H00&}m 214.375 168 b 210 163 204.25 156.25 204.25 156.25 l 204.25 156.25 202.5 154.125 72.25 0.25 b 71.125 0.25 69.625 0.25 68.5 0 67.5 1.875 66.625 3.75 65.625 5.5 67.125 7.125 68.5 9 69.625 10.875 l 195.625 160 132.375 130.125 162.25 178.375 104.125 153.75 123.625 181.5 69.25 155.875 123.375 237.25 29.625 162.75 66.25 218.875 0 177.625 b 1 181.875 2.25 186.25 3.75 190.375 l 61.5 226.5 68.875 231.25 68.875 231.25 b 70.875 232.375 73 233.625 74.875 235 81.25 238.75 86.875 233.875 83.125 228.25 l 76.125 217.5 76.125 217.5 73.75 214 67.5 204.375 118 244.375 133 256.375 b 133 256.375 133.125 256.375 133.125 256.375 146.5 266.125 148 258.75 146.25 255.25 146.25 255.25 146.25 255.25 146.25 255.25 l 145.875 254.625 b 145.875 254.625 145.875 254.625 145.875 254.625 l 145.875 254.625 130.875 232.125 94.75 177.75 119.875 189.625 130 194.5 b 130 194.5 130 194.5 130 194.5 131.125 195 132.25 195.625 133.125 196 136 197.25 143.5 194.125 139.875 189 138.75 187.375 137.875 185.875 136.875 184.75 136.875 184.75 136.875 184.75 136.875 184.75 l 131.125 176.5 129.625 174.375 157 185.875 157 185.875 b 157 185.875 158.875 186.75 161.25 187.75 l 161.25 187.75 162 188.125 b 162.375 188.25 162.75 188.5 163.125 188.5 l 165.25 189.375 165.25 189.375 b 165.625 189.625 166 189.75 166.375 190 173.125 192.75 177.625 185.875 173.5 179.5 172.5 178 171.625 176.5 170.875 175.125 l 170.875 175.125 170.125 173.875 b 169 172.375 168.375 171.25 168.375 171.25 l 168.375 171.25 156 151.375 191.875 168.25 196 170.125 196 170.125 197.125 170.5 202.75 173.25 202.75 173.25 208.125 175.75 b 213.625 178.375 218.625 173.25 214.375 168
 Dialogue: 0,0:17:53.76,0:17:53.80,Signs,,0,0,0,,{\an5\c&HF9F9F9&\p1\blur1.001\fscx80\pos(459.199,273.6)}m -412.5 541.5 b -412.5 541.5 -412.5 541.5 -412.5 541.5 b -351 550.5 -286.5 559.5 -225 568.5 b -225 603 -228 639 -228 673.5 b -243 703.5 -259.5 733.5 -274.5 763.5 b -312 771 -352.5 781.5 -390 789 b -402 765 -417 738 -429 714 b -424.5 657 -420 598.5 -415.5 541.5
 Dialogue: 0,0:17:53.76,0:17:53.80,Signs,,0,0,0,,{\an5\pos(228.27,537.35)\c&HF9F9F9&\p1\blur1.001}m 670 385.5 l 708 325.7 598.4 288.6 600.6 282 652.7 271.9 547.4 236 548 229.7 646.4 202 592.7 202.7 591 196.5 699.7 120.4 553 122 552.6 114.7 611.9 73 579.6 73.4 576 70 614.5 5 531.4 42.6 522.4 40.4 532.4 5 516.6 5 451 41.9 441.6 40 463.4 0 437 29.9 428 26.6 434 5 389.5 5 365 32 355.4 32 350.5 5 318 5 299 34 288.7 33.6 280.5 5 212.5 5 200.5 27.6 190.7 25 187.7 7.7 171 64.4 160.9 66 137 12 129.7 139.4 120.4 140.5 90.4 118.7 125.6 183.6 118.9 187.7 7 156 7 181.4 92.6 269.5 85.5 274.7 7 250.9 68.6 316.7 63.4 322 36.6 317.9 106.4 352.9 105.6 359 7 386 7 418 44 431.5 42 437.6 2 448.7 128 465 128 471.4 17 527.5 94.7 523 97 529 52 564 127.4 557.5 129 565 43.9 606 84.6 613.4 83 619.4 11.5 649 80.9 656 80.9 662.9 7 710 7 745.5 124.4 741.6 125.6 746.5 18.4 821.5 94.7 807.6 97.4 814.4 0 914.9 0 926.9 142 869 148.7 874.7 130.4 903 149.9 891.7 159.7 892.7 142 993.7 174 942.4 184.9 943.4 b 184.9 943.4 185.9 1066.4 184.9 1068.7 l 242.6 941 252 940.5 262 966.6 261 914.6 271 913.9 290 940.9 289.4 889 299.5 887 379.7 971.5 347.5 886.7 357.6 885.4 377 902.9 347.9 750.7 352.9 749.9 423 793.4 386.5 737 480.4 811.7 426 730.4 480.6 756 461 728.5 519 753 489 704.6 552.6 734.5 422 580.4 421.7 581 417.6 573.7 426.4 569.9 527.5 629 519.6 621 528 616.7 652 664 651 654 556 571.7 560 565.4 600.4 569.9 558.4 545 563 539 614 551 620 514 551.6 463.4 554.6 457.7 628.5 452.9 543.6 419 545 412 670 385.5 m 210 894 l 193.5 902.5 181 891 187.4 874.4 197.6 871 211 876.7 210 894 m 217.4 825 l 208.5 866.9 190.7 865.7 190.7 819.6 196.7 782 215 781 223.7 791 217.4 825 m 266.5 894 l 250.7 902.5 238 891 244.5 874.4 253.9 871 267.4 876.7 266.5 894 m 274.7 825 l 264.7 866.9 247 866.9 247 819.6 253.9 782 271.4 780 281 791 274.7 825.25
@@ -770,425 +771,425 @@ Dialogue: 0,0:20:01.09,0:20:01.13,Signs,,0,0,0,,{\blur1.001\an5\pos(1103.94,335.
 Dialogue: 0,0:20:01.09,0:20:01.13,Signs,,0,0,0,,{\blur1.001\an5\pos(1103.09,515.149)\1c&HDC9C78&\p1}m 18.375 117.25 b 19.5 117.25 77.125 117.25 77.125 117.25 l 77.625 0.375 0 0.375 b 0 0.375 17.25 117.25 18.375 117.25 m 26.125 161.125 b 27.625 168.625 30.625 183.375 33 193.375 34.75 200.5 38.625 210.625 38.625 210.625 l 10.875 241.75 77.625 217.75 77.625 125.875 19 124.125 b 19.375 125.125 21 137.625 26.125 161.125 m 395.125 179.875 b 395.125 179.125 459.625 126.625 459.625 126.625 l 395.875 125.625 b 395.875 125.625 395.125 180.625 395.125 179.875 m 387.625 125.625 l 323.25 125.125 b 319 122.625 321 118.5 323.25 118.125 l 387.625 118.125 388.75 0.625 296.875 0.625 296.875 39 b 296.5 43.5 290.125 44.25 289.75 38.5 289.75 38.5 289.75 38.5 289.75 38.5 l 290.125 0.625 183 0 183.375 44.875 b 183 46.75 176.625 47.625 176.25 44.5 l 175.75 3.25 174 0 83.875 0.375 84.25 117.25 124.375 116.875 b 128.25 116.625 127.375 124 123.625 124.375 l 123.25 124.125 123 124.125 b 123 124.125 123 124.125 123 124.125 123 124.125 123 124.125 123 124.125 l 84.625 125.5 85.375 216.75 176.125 216.75 175 159.25 175.125 158.125 175.125 158.125 b 176.875 153.625 183 156.25 183 158.5 l 183 217 288.25 216 289.5 158.875 b 289.5 158.625 289.5 158.625 289.5 158.5 289.875 152.875 294.75 154.375 296.5 157.375 l 294.625 216 352.375 214 355 212.875 389.25 185.125 388.5 182.625 387.625 125.625 m 397 0.625 l 394.75 118.125 464.25 119.125 490.5 0.625 397 0.625
 Dialogue: 1,0:20:01.09,0:20:01.13,Signs,Bubble,0,0,0,,{\blur1.001\fnCAC Moose\fs55\c&H492F3C&\3c&HD79873&\shad0\b0\pos(1080.93,501.98)}Harajuku
 Dialogue: 0,0:20:29.33,0:20:36.92,Signs,Screen,0,0,0,,{\p1\c&H000000&}m 0 0 l 1800 -1 l 1800 800 l -1 800
-Dialogue: 1,0:20:30.58,0:20:30.62,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}R{\alpha&HFF&}ecord of July 2018.
-Dialogue: 1,0:20:30.62,0:20:30.66,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}R{\alpha&HFF&}ecord of July 2018.
-Dialogue: 1,0:20:30.66,0:20:30.70,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}R{\alpha&HFF&}ecord of July 2018.
-Dialogue: 1,0:20:30.70,0:20:30.75,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Re{\alpha&HFF&}cord of July 2018.
-Dialogue: 1,0:20:30.75,0:20:30.79,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Re{\alpha&HFF&}cord of July 2018.
-Dialogue: 1,0:20:30.79,0:20:30.83,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Re{\alpha&HFF&}cord of July 2018.
-Dialogue: 1,0:20:30.83,0:20:30.87,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Rec{\alpha&HFF&}ord of July 2018.
-Dialogue: 1,0:20:30.87,0:20:30.91,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Rec{\alpha&HFF&}ord of July 2018.
-Dialogue: 1,0:20:30.91,0:20:30.95,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Rec{\alpha&HFF&}ord of July 2018.
-Dialogue: 1,0:20:30.95,0:20:31.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Reco{\alpha&HFF&}rd of July 2018.
-Dialogue: 1,0:20:31.00,0:20:31.04,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Reco{\alpha&HFF&}rd of July 2018.
-Dialogue: 1,0:20:31.04,0:20:31.08,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Reco{\alpha&HFF&}rd of July 2018.
-Dialogue: 1,0:20:31.08,0:20:31.12,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Recor{\alpha&HFF&}d of July 2018.
-Dialogue: 1,0:20:31.12,0:20:31.16,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Recor{\alpha&HFF&}d of July 2018.
-Dialogue: 1,0:20:31.16,0:20:31.20,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Recor{\alpha&HFF&}d of July 2018.
-Dialogue: 1,0:20:31.20,0:20:31.25,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record{\alpha&HFF&} of July 2018.
-Dialogue: 1,0:20:31.25,0:20:31.29,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record{\alpha&HFF&} of July 2018.
-Dialogue: 1,0:20:31.29,0:20:31.33,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record{\alpha&HFF&} of July 2018.
-Dialogue: 1,0:20:31.33,0:20:31.37,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record {\alpha&HFF&}of July 2018.
-Dialogue: 1,0:20:31.37,0:20:31.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record {\alpha&HFF&}of July 2018.
-Dialogue: 1,0:20:31.41,0:20:31.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record {\alpha&HFF&}of July 2018.
-Dialogue: 1,0:20:31.46,0:20:31.50,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record o{\alpha&HFF&}f July 2018.
-Dialogue: 1,0:20:31.50,0:20:31.54,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record o{\alpha&HFF&}f July 2018.
-Dialogue: 1,0:20:31.54,0:20:31.58,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record o{\alpha&HFF&}f July 2018.
-Dialogue: 1,0:20:31.58,0:20:31.62,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of{\alpha&HFF&} July 2018.
-Dialogue: 1,0:20:31.62,0:20:31.66,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of{\alpha&HFF&} July 2018.
-Dialogue: 1,0:20:31.66,0:20:31.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of{\alpha&HFF&} July 2018.
-Dialogue: 1,0:20:31.71,0:20:31.75,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of {\alpha&HFF&}July 2018.
-Dialogue: 1,0:20:31.75,0:20:31.79,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of {\alpha&HFF&}July 2018.
-Dialogue: 1,0:20:31.79,0:20:31.83,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of {\alpha&HFF&}July 2018.
-Dialogue: 1,0:20:31.83,0:20:31.87,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of J{\alpha&HFF&}uly 2018.
-Dialogue: 1,0:20:31.87,0:20:31.91,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of J{\alpha&HFF&}uly 2018.
-Dialogue: 1,0:20:31.91,0:20:31.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of J{\alpha&HFF&}uly 2018.
-Dialogue: 1,0:20:31.96,0:20:32.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of Ju{\alpha&HFF&}ly 2018.
-Dialogue: 1,0:20:32.00,0:20:32.04,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of Ju{\alpha&HFF&}ly 2018.
-Dialogue: 1,0:20:32.04,0:20:32.08,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of Ju{\alpha&HFF&}ly 2018.
-Dialogue: 1,0:20:32.08,0:20:32.12,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of Jul{\alpha&HFF&}y 2018.
-Dialogue: 1,0:20:32.12,0:20:32.16,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of Jul{\alpha&HFF&}y 2018.
-Dialogue: 1,0:20:32.16,0:20:32.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of Jul{\alpha&HFF&}y 2018.
-Dialogue: 1,0:20:32.21,0:20:32.25,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July{\alpha&HFF&} 2018.
-Dialogue: 1,0:20:32.25,0:20:32.29,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July{\alpha&HFF&} 2018.
-Dialogue: 1,0:20:32.29,0:20:32.33,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July{\alpha&HFF&} 2018.
-Dialogue: 1,0:20:32.33,0:20:32.37,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July {\alpha&HFF&}2018.
-Dialogue: 1,0:20:32.37,0:20:32.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July {\alpha&HFF&}2018.
-Dialogue: 1,0:20:32.41,0:20:32.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July {\alpha&HFF&}2018.
-Dialogue: 1,0:20:32.46,0:20:32.50,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July 2{\alpha&HFF&}018.
-Dialogue: 1,0:20:32.50,0:20:32.54,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July 2{\alpha&HFF&}018.
-Dialogue: 1,0:20:32.54,0:20:32.58,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July 2{\alpha&HFF&}018.
-Dialogue: 1,0:20:32.58,0:20:32.62,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July 20{\alpha&HFF&}18.
-Dialogue: 1,0:20:32.62,0:20:32.66,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July 20{\alpha&HFF&}18.
-Dialogue: 1,0:20:32.66,0:20:32.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July 20{\alpha&HFF&}18.
-Dialogue: 1,0:20:32.71,0:20:32.75,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July 201{\alpha&HFF&}8.
-Dialogue: 1,0:20:32.75,0:20:32.79,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July 201{\alpha&HFF&}8.
-Dialogue: 1,0:20:32.79,0:20:32.83,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July 201{\alpha&HFF&}8.
-Dialogue: 1,0:20:32.83,0:20:32.87,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July 2018.
-Dialogue: 1,0:20:32.87,0:20:32.91,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July 2018.
-Dialogue: 1,0:20:32.91,0:20:32.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July 2018.
-Dialogue: 1,0:20:32.96,0:20:33.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,540)}Record of July 2018.
-Dialogue: 1,0:20:33.00,0:20:33.58,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\move(960,540,960,435)}Record of July 2018.
-Dialogue: 1,0:20:33.58,0:20:36.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs85\pos(960,435)}Record of July 2018.
-Dialogue: 2,0:20:33.87,0:20:33.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}W{\alpha&HFF&}est Tokyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:33.92,0:20:33.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}We{\alpha&HFF&}st Tokyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:33.96,0:20:34.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}Wes{\alpha&HFF&}t Tokyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.00,0:20:34.04,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West{\alpha&HFF&} Tokyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.04,0:20:34.08,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West {\alpha&HFF&}Tokyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.08,0:20:34.12,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West T{\alpha&HFF&}okyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.12,0:20:34.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West T{\alpha&HFF&}okyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.17,0:20:34.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West To{\alpha&HFF&}kyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.21,0:20:34.25,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tok{\alpha&HFF&}yo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.25,0:20:34.29,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Toky{\alpha&HFF&}o City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.29,0:20:34.33,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo{\alpha&HFF&} City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.33,0:20:34.37,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo {\alpha&HFF&}City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.37,0:20:34.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo {\alpha&HFF&}City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.42,0:20:34.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo C{\alpha&HFF&}ity,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.46,0:20:34.50,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo Ci{\alpha&HFF&}ty,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.50,0:20:34.54,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo Cit{\alpha&HFF&}y,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.54,0:20:34.58,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City{\alpha&HFF&},\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.58,0:20:34.62,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City{\alpha&HFF&},\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.62,0:20:34.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\N{\alpha&HFF&}Eishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.67,0:20:34.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\N{\alpha&HFF&}Eishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.71,0:20:34.75,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NE{\alpha&HFF&}ishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.75,0:20:34.79,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEi{\alpha&HFF&}shuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.79,0:20:34.83,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEis{\alpha&HFF&}huu Juvenile Detention Center.
-Dialogue: 2,0:20:34.83,0:20:34.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEish{\alpha&HFF&}uu Juvenile Detention Center.
-Dialogue: 2,0:20:34.88,0:20:34.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishu{\alpha&HFF&}u Juvenile Detention Center.
-Dialogue: 2,0:20:34.92,0:20:34.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishu{\alpha&HFF&}u Juvenile Detention Center.
-Dialogue: 2,0:20:34.96,0:20:35.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu{\alpha&HFF&} Juvenile Detention Center.
-Dialogue: 2,0:20:35.00,0:20:35.04,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu {\alpha&HFF&}Juvenile Detention Center.
-Dialogue: 2,0:20:35.04,0:20:35.08,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu J{\alpha&HFF&}uvenile Detention Center.
-Dialogue: 2,0:20:35.08,0:20:35.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Ju{\alpha&HFF&}venile Detention Center.
-Dialogue: 2,0:20:35.13,0:20:35.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juv{\alpha&HFF&}enile Detention Center.
-Dialogue: 2,0:20:35.17,0:20:35.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juve{\alpha&HFF&}nile Detention Center.
-Dialogue: 2,0:20:35.21,0:20:35.25,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juve{\alpha&HFF&}nile Detention Center.
-Dialogue: 2,0:20:35.25,0:20:35.29,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juven{\alpha&HFF&}ile Detention Center.
-Dialogue: 2,0:20:35.29,0:20:35.33,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juveni{\alpha&HFF&}le Detention Center.
-Dialogue: 2,0:20:35.33,0:20:35.38,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenil{\alpha&HFF&}e Detention Center.
-Dialogue: 2,0:20:35.38,0:20:35.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile{\alpha&HFF&} Detention Center.
-Dialogue: 2,0:20:35.42,0:20:35.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile {\alpha&HFF&}Detention Center.
-Dialogue: 2,0:20:35.46,0:20:35.50,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile {\alpha&HFF&}Detention Center.
-Dialogue: 2,0:20:35.50,0:20:35.54,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile D{\alpha&HFF&}etention Center.
-Dialogue: 2,0:20:35.54,0:20:35.58,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile De{\alpha&HFF&}tention Center.
-Dialogue: 2,0:20:35.58,0:20:35.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Det{\alpha&HFF&}ention Center.
-Dialogue: 2,0:20:35.63,0:20:35.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Dete{\alpha&HFF&}ntion Center.
-Dialogue: 2,0:20:35.67,0:20:35.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Deten{\alpha&HFF&}tion Center.
-Dialogue: 2,0:20:35.71,0:20:35.75,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detent{\alpha&HFF&}ion Center.
-Dialogue: 2,0:20:35.75,0:20:35.79,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detent{\alpha&HFF&}ion Center.
-Dialogue: 2,0:20:35.79,0:20:35.83,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detenti{\alpha&HFF&}on Center.
-Dialogue: 2,0:20:35.83,0:20:35.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detentio{\alpha&HFF&}n Center.
-Dialogue: 2,0:20:35.88,0:20:35.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention{\alpha&HFF&} Center.
-Dialogue: 2,0:20:35.92,0:20:35.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention {\alpha&HFF&}Center.
-Dialogue: 2,0:20:35.96,0:20:36.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention C{\alpha&HFF&}enter.
-Dialogue: 2,0:20:36.00,0:20:36.04,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention C{\alpha&HFF&}enter.
-Dialogue: 2,0:20:36.04,0:20:36.08,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Ce{\alpha&HFF&}nter.
-Dialogue: 2,0:20:36.08,0:20:36.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Cen{\alpha&HFF&}ter.
-Dialogue: 2,0:20:36.13,0:20:36.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Cent{\alpha&HFF&}er.
-Dialogue: 2,0:20:36.17,0:20:36.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Cente{\alpha&HFF&}r.
-Dialogue: 2,0:20:36.21,0:20:36.25,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:36.25,0:20:36.29,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be0\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Center.
+Dialogue: 1,0:20:30.58,0:20:30.62,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}R{\alpha&HFF&}ecord of July 2018.
+Dialogue: 1,0:20:30.62,0:20:30.66,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}R{\alpha&HFF&}ecord of July 2018.
+Dialogue: 1,0:20:30.66,0:20:30.70,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}R{\alpha&HFF&}ecord of July 2018.
+Dialogue: 1,0:20:30.70,0:20:30.75,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Re{\alpha&HFF&}cord of July 2018.
+Dialogue: 1,0:20:30.75,0:20:30.79,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Re{\alpha&HFF&}cord of July 2018.
+Dialogue: 1,0:20:30.79,0:20:30.83,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Re{\alpha&HFF&}cord of July 2018.
+Dialogue: 1,0:20:30.83,0:20:30.87,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Rec{\alpha&HFF&}ord of July 2018.
+Dialogue: 1,0:20:30.87,0:20:30.91,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Rec{\alpha&HFF&}ord of July 2018.
+Dialogue: 1,0:20:30.91,0:20:30.95,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Rec{\alpha&HFF&}ord of July 2018.
+Dialogue: 1,0:20:30.95,0:20:31.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Reco{\alpha&HFF&}rd of July 2018.
+Dialogue: 1,0:20:31.00,0:20:31.04,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Reco{\alpha&HFF&}rd of July 2018.
+Dialogue: 1,0:20:31.04,0:20:31.08,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Reco{\alpha&HFF&}rd of July 2018.
+Dialogue: 1,0:20:31.08,0:20:31.12,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Recor{\alpha&HFF&}d of July 2018.
+Dialogue: 1,0:20:31.12,0:20:31.16,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Recor{\alpha&HFF&}d of July 2018.
+Dialogue: 1,0:20:31.16,0:20:31.20,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Recor{\alpha&HFF&}d of July 2018.
+Dialogue: 1,0:20:31.20,0:20:31.25,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record{\alpha&HFF&} of July 2018.
+Dialogue: 1,0:20:31.25,0:20:31.29,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record{\alpha&HFF&} of July 2018.
+Dialogue: 1,0:20:31.29,0:20:31.33,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record{\alpha&HFF&} of July 2018.
+Dialogue: 1,0:20:31.33,0:20:31.37,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record {\alpha&HFF&}of July 2018.
+Dialogue: 1,0:20:31.37,0:20:31.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record {\alpha&HFF&}of July 2018.
+Dialogue: 1,0:20:31.41,0:20:31.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record {\alpha&HFF&}of July 2018.
+Dialogue: 1,0:20:31.46,0:20:31.50,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record o{\alpha&HFF&}f July 2018.
+Dialogue: 1,0:20:31.50,0:20:31.54,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record o{\alpha&HFF&}f July 2018.
+Dialogue: 1,0:20:31.54,0:20:31.58,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record o{\alpha&HFF&}f July 2018.
+Dialogue: 1,0:20:31.58,0:20:31.62,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of{\alpha&HFF&} July 2018.
+Dialogue: 1,0:20:31.62,0:20:31.66,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of{\alpha&HFF&} July 2018.
+Dialogue: 1,0:20:31.66,0:20:31.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of{\alpha&HFF&} July 2018.
+Dialogue: 1,0:20:31.71,0:20:31.75,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of {\alpha&HFF&}July 2018.
+Dialogue: 1,0:20:31.75,0:20:31.79,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of {\alpha&HFF&}July 2018.
+Dialogue: 1,0:20:31.79,0:20:31.83,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of {\alpha&HFF&}July 2018.
+Dialogue: 1,0:20:31.83,0:20:31.87,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of J{\alpha&HFF&}uly 2018.
+Dialogue: 1,0:20:31.87,0:20:31.91,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of J{\alpha&HFF&}uly 2018.
+Dialogue: 1,0:20:31.91,0:20:31.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of J{\alpha&HFF&}uly 2018.
+Dialogue: 1,0:20:31.96,0:20:32.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of Ju{\alpha&HFF&}ly 2018.
+Dialogue: 1,0:20:32.00,0:20:32.04,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of Ju{\alpha&HFF&}ly 2018.
+Dialogue: 1,0:20:32.04,0:20:32.08,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of Ju{\alpha&HFF&}ly 2018.
+Dialogue: 1,0:20:32.08,0:20:32.12,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of Jul{\alpha&HFF&}y 2018.
+Dialogue: 1,0:20:32.12,0:20:32.16,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of Jul{\alpha&HFF&}y 2018.
+Dialogue: 1,0:20:32.16,0:20:32.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of Jul{\alpha&HFF&}y 2018.
+Dialogue: 1,0:20:32.21,0:20:32.25,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July{\alpha&HFF&} 2018.
+Dialogue: 1,0:20:32.25,0:20:32.29,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July{\alpha&HFF&} 2018.
+Dialogue: 1,0:20:32.29,0:20:32.33,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July{\alpha&HFF&} 2018.
+Dialogue: 1,0:20:32.33,0:20:32.37,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July {\alpha&HFF&}2018.
+Dialogue: 1,0:20:32.37,0:20:32.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July {\alpha&HFF&}2018.
+Dialogue: 1,0:20:32.41,0:20:32.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July {\alpha&HFF&}2018.
+Dialogue: 1,0:20:32.46,0:20:32.50,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 2{\alpha&HFF&}018.
+Dialogue: 1,0:20:32.50,0:20:32.54,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 2{\alpha&HFF&}018.
+Dialogue: 1,0:20:32.54,0:20:32.58,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 2{\alpha&HFF&}018.
+Dialogue: 1,0:20:32.58,0:20:32.62,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 20{\alpha&HFF&}18.
+Dialogue: 1,0:20:32.62,0:20:32.66,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 20{\alpha&HFF&}18.
+Dialogue: 1,0:20:32.66,0:20:32.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 20{\alpha&HFF&}18.
+Dialogue: 1,0:20:32.71,0:20:32.75,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 201{\alpha&HFF&}8.
+Dialogue: 1,0:20:32.75,0:20:32.79,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 201{\alpha&HFF&}8.
+Dialogue: 1,0:20:32.79,0:20:32.83,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 201{\alpha&HFF&}8.
+Dialogue: 1,0:20:32.83,0:20:32.87,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 2018.
+Dialogue: 1,0:20:32.87,0:20:32.91,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 2018.
+Dialogue: 1,0:20:32.91,0:20:32.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 2018.
+Dialogue: 1,0:20:32.96,0:20:33.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 2018.
+Dialogue: 1,0:20:33.00,0:20:33.58,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\move(960,540,960,435)}Record of July 2018.
+Dialogue: 1,0:20:33.58,0:20:36.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,435)}Record of July 2018.
+Dialogue: 2,0:20:33.87,0:20:33.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}W{\alpha&HFF&}est Tokyo City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:33.92,0:20:33.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}We{\alpha&HFF&}st Tokyo City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:33.96,0:20:34.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}Wes{\alpha&HFF&}t Tokyo City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.00,0:20:34.04,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West{\alpha&HFF&} Tokyo City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.04,0:20:34.08,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West {\alpha&HFF&}Tokyo City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.08,0:20:34.12,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West T{\alpha&HFF&}okyo City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.12,0:20:34.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West T{\alpha&HFF&}okyo City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.17,0:20:34.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West To{\alpha&HFF&}kyo City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.21,0:20:34.25,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tok{\alpha&HFF&}yo City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.25,0:20:34.29,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Toky{\alpha&HFF&}o City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.29,0:20:34.33,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo{\alpha&HFF&} City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.33,0:20:34.37,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo {\alpha&HFF&}City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.37,0:20:34.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo {\alpha&HFF&}City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.42,0:20:34.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo C{\alpha&HFF&}ity,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.46,0:20:34.50,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo Ci{\alpha&HFF&}ty,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.50,0:20:34.54,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo Cit{\alpha&HFF&}y,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.54,0:20:34.58,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City{\alpha&HFF&},\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.58,0:20:34.62,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City{\alpha&HFF&},\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.62,0:20:34.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\N{\alpha&HFF&}Eishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.67,0:20:34.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\N{\alpha&HFF&}Eishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.71,0:20:34.75,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NE{\alpha&HFF&}ishuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.75,0:20:34.79,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEi{\alpha&HFF&}shuu Juvenile Detention Center.
+Dialogue: 2,0:20:34.79,0:20:34.83,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEis{\alpha&HFF&}huu Juvenile Detention Center.
+Dialogue: 2,0:20:34.83,0:20:34.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEish{\alpha&HFF&}uu Juvenile Detention Center.
+Dialogue: 2,0:20:34.88,0:20:34.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu{\alpha&HFF&}u Juvenile Detention Center.
+Dialogue: 2,0:20:34.92,0:20:34.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu{\alpha&HFF&}u Juvenile Detention Center.
+Dialogue: 2,0:20:34.96,0:20:35.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu{\alpha&HFF&} Juvenile Detention Center.
+Dialogue: 2,0:20:35.00,0:20:35.04,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu {\alpha&HFF&}Juvenile Detention Center.
+Dialogue: 2,0:20:35.04,0:20:35.08,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu J{\alpha&HFF&}uvenile Detention Center.
+Dialogue: 2,0:20:35.08,0:20:35.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Ju{\alpha&HFF&}venile Detention Center.
+Dialogue: 2,0:20:35.13,0:20:35.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juv{\alpha&HFF&}enile Detention Center.
+Dialogue: 2,0:20:35.17,0:20:35.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juve{\alpha&HFF&}nile Detention Center.
+Dialogue: 2,0:20:35.21,0:20:35.25,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juve{\alpha&HFF&}nile Detention Center.
+Dialogue: 2,0:20:35.25,0:20:35.29,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juven{\alpha&HFF&}ile Detention Center.
+Dialogue: 2,0:20:35.29,0:20:35.33,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juveni{\alpha&HFF&}le Detention Center.
+Dialogue: 2,0:20:35.33,0:20:35.38,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenil{\alpha&HFF&}e Detention Center.
+Dialogue: 2,0:20:35.38,0:20:35.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile{\alpha&HFF&} Detention Center.
+Dialogue: 2,0:20:35.42,0:20:35.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile {\alpha&HFF&}Detention Center.
+Dialogue: 2,0:20:35.46,0:20:35.50,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile {\alpha&HFF&}Detention Center.
+Dialogue: 2,0:20:35.50,0:20:35.54,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile D{\alpha&HFF&}etention Center.
+Dialogue: 2,0:20:35.54,0:20:35.58,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile De{\alpha&HFF&}tention Center.
+Dialogue: 2,0:20:35.58,0:20:35.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Det{\alpha&HFF&}ention Center.
+Dialogue: 2,0:20:35.63,0:20:35.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Dete{\alpha&HFF&}ntion Center.
+Dialogue: 2,0:20:35.67,0:20:35.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Deten{\alpha&HFF&}tion Center.
+Dialogue: 2,0:20:35.71,0:20:35.75,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detent{\alpha&HFF&}ion Center.
+Dialogue: 2,0:20:35.75,0:20:35.79,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detent{\alpha&HFF&}ion Center.
+Dialogue: 2,0:20:35.79,0:20:35.83,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detenti{\alpha&HFF&}on Center.
+Dialogue: 2,0:20:35.83,0:20:35.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detentio{\alpha&HFF&}n Center.
+Dialogue: 2,0:20:35.88,0:20:35.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention{\alpha&HFF&} Center.
+Dialogue: 2,0:20:35.92,0:20:35.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention {\alpha&HFF&}Center.
+Dialogue: 2,0:20:35.96,0:20:36.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention C{\alpha&HFF&}enter.
+Dialogue: 2,0:20:36.00,0:20:36.04,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention C{\alpha&HFF&}enter.
+Dialogue: 2,0:20:36.04,0:20:36.08,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Ce{\alpha&HFF&}nter.
+Dialogue: 2,0:20:36.08,0:20:36.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Cen{\alpha&HFF&}ter.
+Dialogue: 2,0:20:36.13,0:20:36.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Cent{\alpha&HFF&}er.
+Dialogue: 2,0:20:36.17,0:20:36.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Cente{\alpha&HFF&}r.
+Dialogue: 2,0:20:36.21,0:20:36.25,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:36.25,0:20:36.29,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Center.
 Dialogue: 2,0:20:36.29,0:20:36.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs90\be0\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Center.
 Dialogue: 0,0:20:39.42,0:20:42.42,Signs,Screen,0,0,0,,{\p1\c&H000000&}m 0 0 l 1800 -1 l 1800 800 l -1 800
-Dialogue: 1,0:20:39.63,0:20:39.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}I{\alpha&HFF&}n the sky, just above the exercise yard.
-Dialogue: 1,0:20:39.67,0:20:39.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In{\alpha&HFF&} the sky, just above the exercise yard.
-Dialogue: 1,0:20:39.71,0:20:39.76,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In {\alpha&HFF&}the sky, just above the exercise yard.
-Dialogue: 1,0:20:39.76,0:20:39.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In t{\alpha&HFF&}he sky, just above the exercise yard.
-Dialogue: 1,0:20:39.80,0:20:39.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In t{\alpha&HFF&}he sky, just above the exercise yard.
-Dialogue: 1,0:20:39.84,0:20:39.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In th{\alpha&HFF&}e sky, just above the exercise yard.
-Dialogue: 1,0:20:39.88,0:20:39.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the{\alpha&HFF&} sky, just above the exercise yard.
-Dialogue: 1,0:20:39.92,0:20:39.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the {\alpha&HFF&}sky, just above the exercise yard.
-Dialogue: 1,0:20:39.96,0:20:40.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the s{\alpha&HFF&}ky, just above the exercise yard.
-Dialogue: 1,0:20:40.01,0:20:40.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the s{\alpha&HFF&}ky, just above the exercise yard.
-Dialogue: 1,0:20:40.05,0:20:40.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sk{\alpha&HFF&}y, just above the exercise yard.
-Dialogue: 1,0:20:40.09,0:20:40.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky{\alpha&HFF&}, just above the exercise yard.
-Dialogue: 1,0:20:40.13,0:20:40.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky,{\alpha&HFF&} just above the exercise yard.
-Dialogue: 1,0:20:40.17,0:20:40.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, {\alpha&HFF&}just above the exercise yard.
-Dialogue: 1,0:20:40.21,0:20:40.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, {\alpha&HFF&}just above the exercise yard.
-Dialogue: 1,0:20:40.26,0:20:40.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, j{\alpha&HFF&}ust above the exercise yard.
-Dialogue: 1,0:20:40.30,0:20:40.34,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, ju{\alpha&HFF&}st above the exercise yard.
-Dialogue: 1,0:20:40.34,0:20:40.38,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, jus{\alpha&HFF&}t above the exercise yard.
-Dialogue: 1,0:20:40.38,0:20:40.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just{\alpha&HFF&} above the exercise yard.
-Dialogue: 1,0:20:40.42,0:20:40.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just{\alpha&HFF&} above the exercise yard.
-Dialogue: 1,0:20:40.46,0:20:40.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just {\alpha&HFF&}above the exercise yard.
-Dialogue: 1,0:20:40.51,0:20:40.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just a{\alpha&HFF&}bove the exercise yard.
-Dialogue: 1,0:20:40.55,0:20:40.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just ab{\alpha&HFF&}ove the exercise yard.
-Dialogue: 1,0:20:40.59,0:20:40.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just abo{\alpha&HFF&}ve the exercise yard.
-Dialogue: 1,0:20:40.63,0:20:40.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just abo{\alpha&HFF&}ve the exercise yard.
-Dialogue: 1,0:20:40.67,0:20:40.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just abov{\alpha&HFF&}e the exercise yard.
-Dialogue: 1,0:20:40.71,0:20:40.76,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above{\alpha&HFF&} the exercise yard.
-Dialogue: 1,0:20:40.76,0:20:40.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above {\alpha&HFF&}the exercise yard.
-Dialogue: 1,0:20:40.80,0:20:40.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above t{\alpha&HFF&}he exercise yard.
-Dialogue: 1,0:20:40.84,0:20:40.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above t{\alpha&HFF&}he exercise yard.
-Dialogue: 1,0:20:40.88,0:20:40.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above th{\alpha&HFF&}e exercise yard.
-Dialogue: 1,0:20:40.92,0:20:40.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the{\alpha&HFF&} exercise yard.
-Dialogue: 1,0:20:40.96,0:20:41.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the {\alpha&HFF&}exercise yard.
-Dialogue: 1,0:20:41.01,0:20:41.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the e{\alpha&HFF&}xercise yard.
-Dialogue: 1,0:20:41.05,0:20:41.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the e{\alpha&HFF&}xercise yard.
-Dialogue: 1,0:20:41.09,0:20:41.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the ex{\alpha&HFF&}ercise yard.
-Dialogue: 1,0:20:41.13,0:20:41.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exe{\alpha&HFF&}rcise yard.
-Dialogue: 1,0:20:41.17,0:20:41.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exer{\alpha&HFF&}cise yard.
-Dialogue: 1,0:20:41.21,0:20:41.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exerc{\alpha&HFF&}ise yard.
-Dialogue: 1,0:20:41.26,0:20:41.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exerc{\alpha&HFF&}ise yard.
-Dialogue: 1,0:20:41.30,0:20:41.34,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exerci{\alpha&HFF&}se yard.
-Dialogue: 1,0:20:41.34,0:20:41.38,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exercis{\alpha&HFF&}e yard.
-Dialogue: 1,0:20:41.38,0:20:41.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exercise{\alpha&HFF&} yard.
-Dialogue: 1,0:20:41.42,0:20:41.47,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exercise {\alpha&HFF&}yard.
-Dialogue: 1,0:20:41.47,0:20:41.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exercise {\alpha&HFF&}yard.
-Dialogue: 1,0:20:41.51,0:20:41.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exercise y{\alpha&HFF&}ard.
-Dialogue: 1,0:20:41.55,0:20:41.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exercise ya{\alpha&HFF&}rd.
-Dialogue: 1,0:20:41.59,0:20:41.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exercise yar{\alpha&HFF&}d.
-Dialogue: 1,0:20:41.63,0:20:41.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exercise yard.
-Dialogue: 1,0:20:41.67,0:20:41.72,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exercise yard.
-Dialogue: 1,0:20:41.72,0:20:42.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}In the sky, just above the exercise yard.
+Dialogue: 1,0:20:39.63,0:20:39.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}I{\alpha&HFF&}n the sky, just above the exercise yard.
+Dialogue: 1,0:20:39.67,0:20:39.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In{\alpha&HFF&} the sky, just above the exercise yard.
+Dialogue: 1,0:20:39.71,0:20:39.76,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In {\alpha&HFF&}the sky, just above the exercise yard.
+Dialogue: 1,0:20:39.76,0:20:39.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In t{\alpha&HFF&}he sky, just above the exercise yard.
+Dialogue: 1,0:20:39.80,0:20:39.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In t{\alpha&HFF&}he sky, just above the exercise yard.
+Dialogue: 1,0:20:39.84,0:20:39.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In th{\alpha&HFF&}e sky, just above the exercise yard.
+Dialogue: 1,0:20:39.88,0:20:39.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the{\alpha&HFF&} sky, just above the exercise yard.
+Dialogue: 1,0:20:39.92,0:20:39.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the {\alpha&HFF&}sky, just above the exercise yard.
+Dialogue: 1,0:20:39.96,0:20:40.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the s{\alpha&HFF&}ky, just above the exercise yard.
+Dialogue: 1,0:20:40.01,0:20:40.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the s{\alpha&HFF&}ky, just above the exercise yard.
+Dialogue: 1,0:20:40.05,0:20:40.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sk{\alpha&HFF&}y, just above the exercise yard.
+Dialogue: 1,0:20:40.09,0:20:40.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky{\alpha&HFF&}, just above the exercise yard.
+Dialogue: 1,0:20:40.13,0:20:40.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky,{\alpha&HFF&} just above the exercise yard.
+Dialogue: 1,0:20:40.17,0:20:40.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, {\alpha&HFF&}just above the exercise yard.
+Dialogue: 1,0:20:40.21,0:20:40.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, {\alpha&HFF&}just above the exercise yard.
+Dialogue: 1,0:20:40.26,0:20:40.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, j{\alpha&HFF&}ust above the exercise yard.
+Dialogue: 1,0:20:40.30,0:20:40.34,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, ju{\alpha&HFF&}st above the exercise yard.
+Dialogue: 1,0:20:40.34,0:20:40.38,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, jus{\alpha&HFF&}t above the exercise yard.
+Dialogue: 1,0:20:40.38,0:20:40.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just{\alpha&HFF&} above the exercise yard.
+Dialogue: 1,0:20:40.42,0:20:40.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just{\alpha&HFF&} above the exercise yard.
+Dialogue: 1,0:20:40.46,0:20:40.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just {\alpha&HFF&}above the exercise yard.
+Dialogue: 1,0:20:40.51,0:20:40.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just a{\alpha&HFF&}bove the exercise yard.
+Dialogue: 1,0:20:40.55,0:20:40.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just ab{\alpha&HFF&}ove the exercise yard.
+Dialogue: 1,0:20:40.59,0:20:40.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just abo{\alpha&HFF&}ve the exercise yard.
+Dialogue: 1,0:20:40.63,0:20:40.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just abo{\alpha&HFF&}ve the exercise yard.
+Dialogue: 1,0:20:40.67,0:20:40.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just abov{\alpha&HFF&}e the exercise yard.
+Dialogue: 1,0:20:40.71,0:20:40.76,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above{\alpha&HFF&} the exercise yard.
+Dialogue: 1,0:20:40.76,0:20:40.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above {\alpha&HFF&}the exercise yard.
+Dialogue: 1,0:20:40.80,0:20:40.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above t{\alpha&HFF&}he exercise yard.
+Dialogue: 1,0:20:40.84,0:20:40.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above t{\alpha&HFF&}he exercise yard.
+Dialogue: 1,0:20:40.88,0:20:40.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above th{\alpha&HFF&}e exercise yard.
+Dialogue: 1,0:20:40.92,0:20:40.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the{\alpha&HFF&} exercise yard.
+Dialogue: 1,0:20:40.96,0:20:41.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the {\alpha&HFF&}exercise yard.
+Dialogue: 1,0:20:41.01,0:20:41.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the e{\alpha&HFF&}xercise yard.
+Dialogue: 1,0:20:41.05,0:20:41.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the e{\alpha&HFF&}xercise yard.
+Dialogue: 1,0:20:41.09,0:20:41.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the ex{\alpha&HFF&}ercise yard.
+Dialogue: 1,0:20:41.13,0:20:41.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exe{\alpha&HFF&}rcise yard.
+Dialogue: 1,0:20:41.17,0:20:41.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exer{\alpha&HFF&}cise yard.
+Dialogue: 1,0:20:41.21,0:20:41.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exerc{\alpha&HFF&}ise yard.
+Dialogue: 1,0:20:41.26,0:20:41.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exerc{\alpha&HFF&}ise yard.
+Dialogue: 1,0:20:41.30,0:20:41.34,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exerci{\alpha&HFF&}se yard.
+Dialogue: 1,0:20:41.34,0:20:41.38,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exercis{\alpha&HFF&}e yard.
+Dialogue: 1,0:20:41.38,0:20:41.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exercise{\alpha&HFF&} yard.
+Dialogue: 1,0:20:41.42,0:20:41.47,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exercise {\alpha&HFF&}yard.
+Dialogue: 1,0:20:41.47,0:20:41.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exercise {\alpha&HFF&}yard.
+Dialogue: 1,0:20:41.51,0:20:41.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exercise y{\alpha&HFF&}ard.
+Dialogue: 1,0:20:41.55,0:20:41.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exercise ya{\alpha&HFF&}rd.
+Dialogue: 1,0:20:41.59,0:20:41.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exercise yar{\alpha&HFF&}d.
+Dialogue: 1,0:20:41.63,0:20:41.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exercise yard.
+Dialogue: 1,0:20:41.67,0:20:41.72,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exercise yard.
+Dialogue: 1,0:20:41.72,0:20:42.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In the sky, just above the exercise yard.
 Dialogue: 0,0:20:50.68,0:20:59.94,Signs,Screen,0,0,0,,{\p1\c&H000000&}m 0 0 l 1800 -1 l 1800 800 l -1 800
-Comment: 1,0:20:51.10,0:20:54.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.10,0:20:51.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}A{\alpha&HFF&}n unnamed apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.15,0:20:51.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An{\alpha&HFF&} unnamed apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.19,0:20:51.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An {\alpha&HFF&}unnamed apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.23,0:20:51.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An u{\alpha&HFF&}nnamed apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.27,0:20:51.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An un{\alpha&HFF&}named apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.31,0:20:51.35,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unn{\alpha&HFF&}amed apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.35,0:20:51.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unna{\alpha&HFF&}med apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.40,0:20:51.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnam{\alpha&HFF&}ed apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.44,0:20:51.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnam{\alpha&HFF&}ed apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.48,0:20:51.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unname{\alpha&HFF&}d apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.52,0:20:51.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed{\alpha&HFF&} apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.56,0:20:51.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed {\alpha&HFF&}apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.61,0:20:51.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed a{\alpha&HFF&}pparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.65,0:20:51.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed ap{\alpha&HFF&}parition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.69,0:20:51.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed app{\alpha&HFF&}arition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.73,0:20:51.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed appa{\alpha&HFF&}rition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.77,0:20:51.81,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed appar{\alpha&HFF&}ition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.81,0:20:51.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed appar{\alpha&HFF&}ition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.86,0:20:51.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed appari{\alpha&HFF&}tion of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.90,0:20:51.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparit{\alpha&HFF&}ion of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.94,0:20:51.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed appariti{\alpha&HFF&}on of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:51.98,0:20:52.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparitio{\alpha&HFF&}n of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:52.02,0:20:52.06,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition{\alpha&HFF&} of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:52.06,0:20:52.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition {\alpha&HFF&}of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:52.11,0:20:52.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition o{\alpha&HFF&}f a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:52.15,0:20:52.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition o{\alpha&HFF&}f a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:52.19,0:20:52.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of{\alpha&HFF&} a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:52.23,0:20:52.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of {\alpha&HFF&}a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:52.27,0:20:52.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a{\alpha&HFF&} \Npotential special-grade was discovered.
-Dialogue: 1,0:20:52.31,0:20:52.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a {\alpha&HFF&}\Npotential special-grade was discovered.
-Dialogue: 1,0:20:52.36,0:20:52.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a {\alpha&HFF&}\Npotential special-grade was discovered.
-Dialogue: 1,0:20:52.40,0:20:52.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \N{\alpha&HFF&}potential special-grade was discovered.
-Dialogue: 1,0:20:52.44,0:20:52.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Np{\alpha&HFF&}otential special-grade was discovered.
-Dialogue: 1,0:20:52.48,0:20:52.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npo{\alpha&HFF&}tential special-grade was discovered.
-Dialogue: 1,0:20:52.52,0:20:52.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npo{\alpha&HFF&}tential special-grade was discovered.
-Dialogue: 1,0:20:52.56,0:20:52.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npot{\alpha&HFF&}ential special-grade was discovered.
-Dialogue: 1,0:20:52.61,0:20:52.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npote{\alpha&HFF&}ntial special-grade was discovered.
-Dialogue: 1,0:20:52.65,0:20:52.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npoten{\alpha&HFF&}tial special-grade was discovered.
-Dialogue: 1,0:20:52.69,0:20:52.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotent{\alpha&HFF&}ial special-grade was discovered.
-Dialogue: 1,0:20:52.73,0:20:52.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotenti{\alpha&HFF&}al special-grade was discovered.
-Dialogue: 1,0:20:52.77,0:20:52.81,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotentia{\alpha&HFF&}l special-grade was discovered.
-Dialogue: 1,0:20:52.81,0:20:52.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential{\alpha&HFF&} special-grade was discovered.
-Dialogue: 1,0:20:52.86,0:20:52.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential{\alpha&HFF&} special-grade was discovered.
-Dialogue: 1,0:20:52.90,0:20:52.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential {\alpha&HFF&}special-grade was discovered.
-Dialogue: 1,0:20:52.94,0:20:52.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential s{\alpha&HFF&}pecial-grade was discovered.
-Dialogue: 1,0:20:52.98,0:20:53.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential sp{\alpha&HFF&}ecial-grade was discovered.
-Dialogue: 1,0:20:53.02,0:20:53.06,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential spe{\alpha&HFF&}cial-grade was discovered.
-Dialogue: 1,0:20:53.06,0:20:53.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential spec{\alpha&HFF&}ial-grade was discovered.
-Dialogue: 1,0:20:53.11,0:20:53.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential speci{\alpha&HFF&}al-grade was discovered.
-Dialogue: 1,0:20:53.15,0:20:53.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential specia{\alpha&HFF&}l-grade was discovered.
-Dialogue: 1,0:20:53.19,0:20:53.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special{\alpha&HFF&}-grade was discovered.
-Dialogue: 1,0:20:53.23,0:20:53.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special{\alpha&HFF&}-grade was discovered.
-Dialogue: 1,0:20:53.27,0:20:53.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-{\alpha&HFF&}grade was discovered.
-Dialogue: 1,0:20:53.32,0:20:53.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-g{\alpha&HFF&}rade was discovered.
-Dialogue: 1,0:20:53.36,0:20:53.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-gr{\alpha&HFF&}ade was discovered.
-Dialogue: 1,0:20:53.40,0:20:53.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-gra{\alpha&HFF&}de was discovered.
-Dialogue: 1,0:20:53.44,0:20:53.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grad{\alpha&HFF&}e was discovered.
-Dialogue: 1,0:20:53.48,0:20:53.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade{\alpha&HFF&} was discovered.
-Dialogue: 1,0:20:53.52,0:20:53.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade {\alpha&HFF&}was discovered.
-Dialogue: 1,0:20:53.57,0:20:53.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade {\alpha&HFF&}was discovered.
-Dialogue: 1,0:20:53.61,0:20:53.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade w{\alpha&HFF&}as discovered.
-Dialogue: 1,0:20:53.65,0:20:53.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade wa{\alpha&HFF&}s discovered.
-Dialogue: 1,0:20:53.69,0:20:53.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was{\alpha&HFF&} discovered.
-Dialogue: 1,0:20:53.73,0:20:53.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was {\alpha&HFF&}discovered.
-Dialogue: 1,0:20:53.77,0:20:53.82,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was d{\alpha&HFF&}iscovered.
-Dialogue: 1,0:20:53.82,0:20:53.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was di{\alpha&HFF&}scovered.
-Dialogue: 1,0:20:53.86,0:20:53.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was dis{\alpha&HFF&}covered.
-Dialogue: 1,0:20:53.90,0:20:53.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was disc{\alpha&HFF&}overed.
-Dialogue: 1,0:20:53.94,0:20:53.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was disc{\alpha&HFF&}overed.
-Dialogue: 1,0:20:53.98,0:20:54.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was disco{\alpha&HFF&}vered.
-Dialogue: 1,0:20:54.02,0:20:54.07,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discov{\alpha&HFF&}ered.
-Dialogue: 1,0:20:54.07,0:20:54.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discove{\alpha&HFF&}red.
-Dialogue: 1,0:20:54.11,0:20:54.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discover{\alpha&HFF&}ed.
-Dialogue: 1,0:20:54.15,0:20:54.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovere{\alpha&HFF&}d.
-Dialogue: 1,0:20:54.19,0:20:54.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovered{\alpha&HFF&}.
-Dialogue: 1,0:20:54.23,0:20:54.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:54.27,0:20:54.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:54.23,0:20:54.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:54.27,0:20:54.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:54.31,0:20:55.10,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\move(960,600,960,480)}An unnamed apparition of a \Npotential special-grade was discovered.
-Dialogue: 1,0:20:55.10,0:20:59.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,480)}An unnamed apparition of a \Npotential special-grade was discovered.
-Dialogue: 2,0:20:55.23,0:20:55.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}I{\alpha&HFF&}ts curse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.27,0:20:55.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}It{\alpha&HFF&}s curse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.31,0:20:55.35,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its{\alpha&HFF&} curse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.35,0:20:55.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its {\alpha&HFF&}curse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.40,0:20:55.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its c{\alpha&HFF&}urse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.44,0:20:55.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its cu{\alpha&HFF&}rse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.48,0:20:55.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its cu{\alpha&HFF&}rse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.52,0:20:55.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its cur{\alpha&HFF&}se womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.56,0:20:55.60,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curs{\alpha&HFF&}e womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.60,0:20:55.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse{\alpha&HFF&} womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.65,0:20:55.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse {\alpha&HFF&}womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.69,0:20:55.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse w{\alpha&HFF&}omb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.73,0:20:55.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse w{\alpha&HFF&}omb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.77,0:20:55.81,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse wo{\alpha&HFF&}mb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.81,0:20:55.85,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse wom{\alpha&HFF&}b was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.85,0:20:55.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb{\alpha&HFF&} was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.90,0:20:55.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb {\alpha&HFF&}was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.94,0:20:55.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb w{\alpha&HFF&}as witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.98,0:20:56.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb w{\alpha&HFF&}as witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.02,0:20:56.06,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb wa{\alpha&HFF&}s witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.06,0:20:56.10,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was{\alpha&HFF&} witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.10,0:20:56.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was {\alpha&HFF&}witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.15,0:20:56.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was w{\alpha&HFF&}itnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.19,0:20:56.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was wi{\alpha&HFF&}tnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.23,0:20:56.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was wit{\alpha&HFF&}nessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.27,0:20:56.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was wit{\alpha&HFF&}nessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.31,0:20:56.35,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witn{\alpha&HFF&}essed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.35,0:20:56.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witne{\alpha&HFF&}ssed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.40,0:20:56.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnes{\alpha&HFF&}sed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.44,0:20:56.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witness{\alpha&HFF&}ed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.48,0:20:56.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnesse{\alpha&HFF&}d \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.52,0:20:56.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnesse{\alpha&HFF&}d \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.56,0:20:56.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed{\alpha&HFF&} \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.61,0:20:56.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed {\alpha&HFF&}\Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.65,0:20:56.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed {\alpha&HFF&}\Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.69,0:20:56.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \N{\alpha&HFF&}by several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.73,0:20:56.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nb{\alpha&HFF&}y several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.77,0:20:56.81,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nb{\alpha&HFF&}y several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.81,0:20:56.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby{\alpha&HFF&} several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.86,0:20:56.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby {\alpha&HFF&}several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.90,0:20:56.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby s{\alpha&HFF&}everal non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.94,0:20:56.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby se{\alpha&HFF&}veral non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.98,0:20:57.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby sev{\alpha&HFF&}eral non-jujutsu sorcerers.
-Dialogue: 2,0:20:57.02,0:20:57.06,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby seve{\alpha&HFF&}ral non-jujutsu sorcerers.
-Dialogue: 2,0:20:57.06,0:20:57.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby seve{\alpha&HFF&}ral non-jujutsu sorcerers.
-Dialogue: 2,0:20:57.11,0:20:57.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby sever{\alpha&HFF&}al non-jujutsu sorcerers.
-Dialogue: 2,0:20:57.15,0:20:57.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby severa{\alpha&HFF&}l non-jujutsu sorcerers.
-Dialogue: 2,0:20:57.19,0:20:57.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several{\alpha&HFF&} non-jujutsu sorcerers.
-Dialogue: 2,0:20:57.23,0:20:57.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several {\alpha&HFF&}non-jujutsu sorcerers.
-Dialogue: 2,0:20:57.27,0:20:57.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several n{\alpha&HFF&}on-jujutsu sorcerers.
-Dialogue: 2,0:20:57.31,0:20:57.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several n{\alpha&HFF&}on-jujutsu sorcerers.
-Dialogue: 2,0:20:57.36,0:20:57.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several no{\alpha&HFF&}n-jujutsu sorcerers.
-Dialogue: 2,0:20:57.40,0:20:57.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non{\alpha&HFF&}-jujutsu sorcerers.
-Dialogue: 2,0:20:57.44,0:20:57.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-{\alpha&HFF&}jujutsu sorcerers.
-Dialogue: 2,0:20:57.48,0:20:57.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-j{\alpha&HFF&}ujutsu sorcerers.
-Dialogue: 2,0:20:57.52,0:20:57.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-ju{\alpha&HFF&}jutsu sorcerers.
-Dialogue: 2,0:20:57.56,0:20:57.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-ju{\alpha&HFF&}jutsu sorcerers.
-Dialogue: 2,0:20:57.61,0:20:57.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-juj{\alpha&HFF&}utsu sorcerers.
-Dialogue: 2,0:20:57.65,0:20:57.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-juju{\alpha&HFF&}tsu sorcerers.
-Dialogue: 2,0:20:57.69,0:20:57.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujut{\alpha&HFF&}su sorcerers.
-Dialogue: 2,0:20:57.73,0:20:57.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujuts{\alpha&HFF&}u sorcerers.
-Dialogue: 2,0:20:57.77,0:20:57.81,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu{\alpha&HFF&} sorcerers.
-Dialogue: 2,0:20:57.81,0:20:57.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu {\alpha&HFF&}sorcerers.
-Dialogue: 2,0:20:57.86,0:20:57.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu {\alpha&HFF&}sorcerers.
-Dialogue: 2,0:20:57.90,0:20:57.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu s{\alpha&HFF&}orcerers.
-Dialogue: 2,0:20:57.94,0:20:57.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu so{\alpha&HFF&}rcerers.
-Dialogue: 2,0:20:57.98,0:20:58.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sor{\alpha&HFF&}cerers.
-Dialogue: 2,0:20:58.02,0:20:58.06,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorc{\alpha&HFF&}erers.
-Dialogue: 2,0:20:58.06,0:20:58.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorce{\alpha&HFF&}rers.
-Dialogue: 2,0:20:58.11,0:20:58.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorce{\alpha&HFF&}rers.
-Dialogue: 2,0:20:58.15,0:20:58.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcer{\alpha&HFF&}ers.
-Dialogue: 2,0:20:58.19,0:20:58.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcere{\alpha&HFF&}rs.
-Dialogue: 2,0:20:58.23,0:20:58.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcerer{\alpha&HFF&}s.
-Dialogue: 2,0:20:58.27,0:20:58.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcerers{\alpha&HFF&}.
-Dialogue: 2,0:20:58.32,0:20:58.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:58.36,0:20:58.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:58.40,0:20:59.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,700)}Its curse womb was witnessed\N by several non-jujutsu sorcerers.
+Comment: 1,0:20:51.10,0:20:54.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.10,0:20:51.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}A{\alpha&HFF&}n unnamed apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.15,0:20:51.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An{\alpha&HFF&} unnamed apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.19,0:20:51.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An {\alpha&HFF&}unnamed apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.23,0:20:51.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An u{\alpha&HFF&}nnamed apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.27,0:20:51.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An un{\alpha&HFF&}named apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.31,0:20:51.35,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unn{\alpha&HFF&}amed apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.35,0:20:51.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unna{\alpha&HFF&}med apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.40,0:20:51.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnam{\alpha&HFF&}ed apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.44,0:20:51.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnam{\alpha&HFF&}ed apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.48,0:20:51.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unname{\alpha&HFF&}d apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.52,0:20:51.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed{\alpha&HFF&} apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.56,0:20:51.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed {\alpha&HFF&}apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.61,0:20:51.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed a{\alpha&HFF&}pparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.65,0:20:51.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed ap{\alpha&HFF&}parition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.69,0:20:51.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed app{\alpha&HFF&}arition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.73,0:20:51.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed appa{\alpha&HFF&}rition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.77,0:20:51.81,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed appar{\alpha&HFF&}ition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.81,0:20:51.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed appar{\alpha&HFF&}ition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.86,0:20:51.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed appari{\alpha&HFF&}tion of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.90,0:20:51.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparit{\alpha&HFF&}ion of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.94,0:20:51.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed appariti{\alpha&HFF&}on of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:51.98,0:20:52.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparitio{\alpha&HFF&}n of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:52.02,0:20:52.06,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition{\alpha&HFF&} of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:52.06,0:20:52.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition {\alpha&HFF&}of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:52.11,0:20:52.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition o{\alpha&HFF&}f a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:52.15,0:20:52.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition o{\alpha&HFF&}f a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:52.19,0:20:52.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of{\alpha&HFF&} a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:52.23,0:20:52.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of {\alpha&HFF&}a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:52.27,0:20:52.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a{\alpha&HFF&} \Npotential special-grade was discovered.
+Dialogue: 1,0:20:52.31,0:20:52.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a {\alpha&HFF&}\Npotential special-grade was discovered.
+Dialogue: 1,0:20:52.36,0:20:52.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a {\alpha&HFF&}\Npotential special-grade was discovered.
+Dialogue: 1,0:20:52.40,0:20:52.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \N{\alpha&HFF&}potential special-grade was discovered.
+Dialogue: 1,0:20:52.44,0:20:52.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Np{\alpha&HFF&}otential special-grade was discovered.
+Dialogue: 1,0:20:52.48,0:20:52.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npo{\alpha&HFF&}tential special-grade was discovered.
+Dialogue: 1,0:20:52.52,0:20:52.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npo{\alpha&HFF&}tential special-grade was discovered.
+Dialogue: 1,0:20:52.56,0:20:52.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npot{\alpha&HFF&}ential special-grade was discovered.
+Dialogue: 1,0:20:52.61,0:20:52.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npote{\alpha&HFF&}ntial special-grade was discovered.
+Dialogue: 1,0:20:52.65,0:20:52.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npoten{\alpha&HFF&}tial special-grade was discovered.
+Dialogue: 1,0:20:52.69,0:20:52.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotent{\alpha&HFF&}ial special-grade was discovered.
+Dialogue: 1,0:20:52.73,0:20:52.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotenti{\alpha&HFF&}al special-grade was discovered.
+Dialogue: 1,0:20:52.77,0:20:52.81,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotentia{\alpha&HFF&}l special-grade was discovered.
+Dialogue: 1,0:20:52.81,0:20:52.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential{\alpha&HFF&} special-grade was discovered.
+Dialogue: 1,0:20:52.86,0:20:52.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential{\alpha&HFF&} special-grade was discovered.
+Dialogue: 1,0:20:52.90,0:20:52.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential {\alpha&HFF&}special-grade was discovered.
+Dialogue: 1,0:20:52.94,0:20:52.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential s{\alpha&HFF&}pecial-grade was discovered.
+Dialogue: 1,0:20:52.98,0:20:53.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential sp{\alpha&HFF&}ecial-grade was discovered.
+Dialogue: 1,0:20:53.02,0:20:53.06,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential spe{\alpha&HFF&}cial-grade was discovered.
+Dialogue: 1,0:20:53.06,0:20:53.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential spec{\alpha&HFF&}ial-grade was discovered.
+Dialogue: 1,0:20:53.11,0:20:53.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential speci{\alpha&HFF&}al-grade was discovered.
+Dialogue: 1,0:20:53.15,0:20:53.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential specia{\alpha&HFF&}l-grade was discovered.
+Dialogue: 1,0:20:53.19,0:20:53.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special{\alpha&HFF&}-grade was discovered.
+Dialogue: 1,0:20:53.23,0:20:53.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special{\alpha&HFF&}-grade was discovered.
+Dialogue: 1,0:20:53.27,0:20:53.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-{\alpha&HFF&}grade was discovered.
+Dialogue: 1,0:20:53.32,0:20:53.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-g{\alpha&HFF&}rade was discovered.
+Dialogue: 1,0:20:53.36,0:20:53.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-gr{\alpha&HFF&}ade was discovered.
+Dialogue: 1,0:20:53.40,0:20:53.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-gra{\alpha&HFF&}de was discovered.
+Dialogue: 1,0:20:53.44,0:20:53.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grad{\alpha&HFF&}e was discovered.
+Dialogue: 1,0:20:53.48,0:20:53.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade{\alpha&HFF&} was discovered.
+Dialogue: 1,0:20:53.52,0:20:53.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade {\alpha&HFF&}was discovered.
+Dialogue: 1,0:20:53.57,0:20:53.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade {\alpha&HFF&}was discovered.
+Dialogue: 1,0:20:53.61,0:20:53.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade w{\alpha&HFF&}as discovered.
+Dialogue: 1,0:20:53.65,0:20:53.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade wa{\alpha&HFF&}s discovered.
+Dialogue: 1,0:20:53.69,0:20:53.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was{\alpha&HFF&} discovered.
+Dialogue: 1,0:20:53.73,0:20:53.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was {\alpha&HFF&}discovered.
+Dialogue: 1,0:20:53.77,0:20:53.82,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was d{\alpha&HFF&}iscovered.
+Dialogue: 1,0:20:53.82,0:20:53.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was di{\alpha&HFF&}scovered.
+Dialogue: 1,0:20:53.86,0:20:53.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was dis{\alpha&HFF&}covered.
+Dialogue: 1,0:20:53.90,0:20:53.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was disc{\alpha&HFF&}overed.
+Dialogue: 1,0:20:53.94,0:20:53.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was disc{\alpha&HFF&}overed.
+Dialogue: 1,0:20:53.98,0:20:54.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was disco{\alpha&HFF&}vered.
+Dialogue: 1,0:20:54.02,0:20:54.07,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discov{\alpha&HFF&}ered.
+Dialogue: 1,0:20:54.07,0:20:54.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discove{\alpha&HFF&}red.
+Dialogue: 1,0:20:54.11,0:20:54.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discover{\alpha&HFF&}ed.
+Dialogue: 1,0:20:54.15,0:20:54.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovere{\alpha&HFF&}d.
+Dialogue: 1,0:20:54.19,0:20:54.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovered{\alpha&HFF&}.
+Dialogue: 1,0:20:54.23,0:20:54.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:54.27,0:20:54.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:54.23,0:20:54.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:54.27,0:20:54.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:54.31,0:20:55.10,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\move(960,600,960,480)}An unnamed apparition of a \Npotential special-grade was discovered.
+Dialogue: 1,0:20:55.10,0:20:59.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,480)}An unnamed apparition of a \Npotential special-grade was discovered.
+Dialogue: 2,0:20:55.23,0:20:55.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}I{\alpha&HFF&}ts curse womb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.27,0:20:55.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}It{\alpha&HFF&}s curse womb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.31,0:20:55.35,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its{\alpha&HFF&} curse womb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.35,0:20:55.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its {\alpha&HFF&}curse womb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.40,0:20:55.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its c{\alpha&HFF&}urse womb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.44,0:20:55.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its cu{\alpha&HFF&}rse womb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.48,0:20:55.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its cu{\alpha&HFF&}rse womb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.52,0:20:55.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its cur{\alpha&HFF&}se womb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.56,0:20:55.60,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curs{\alpha&HFF&}e womb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.60,0:20:55.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse{\alpha&HFF&} womb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.65,0:20:55.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse {\alpha&HFF&}womb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.69,0:20:55.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse w{\alpha&HFF&}omb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.73,0:20:55.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse w{\alpha&HFF&}omb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.77,0:20:55.81,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse wo{\alpha&HFF&}mb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.81,0:20:55.85,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse wom{\alpha&HFF&}b was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.85,0:20:55.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb{\alpha&HFF&} was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.90,0:20:55.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb {\alpha&HFF&}was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.94,0:20:55.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb w{\alpha&HFF&}as witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:55.98,0:20:56.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb w{\alpha&HFF&}as witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.02,0:20:56.06,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb wa{\alpha&HFF&}s witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.06,0:20:56.10,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was{\alpha&HFF&} witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.10,0:20:56.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was {\alpha&HFF&}witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.15,0:20:56.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was w{\alpha&HFF&}itnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.19,0:20:56.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was wi{\alpha&HFF&}tnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.23,0:20:56.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was wit{\alpha&HFF&}nessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.27,0:20:56.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was wit{\alpha&HFF&}nessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.31,0:20:56.35,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witn{\alpha&HFF&}essed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.35,0:20:56.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witne{\alpha&HFF&}ssed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.40,0:20:56.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnes{\alpha&HFF&}sed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.44,0:20:56.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witness{\alpha&HFF&}ed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.48,0:20:56.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnesse{\alpha&HFF&}d \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.52,0:20:56.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnesse{\alpha&HFF&}d \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.56,0:20:56.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed{\alpha&HFF&} \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.61,0:20:56.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed {\alpha&HFF&}\Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.65,0:20:56.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed {\alpha&HFF&}\Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.69,0:20:56.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \N{\alpha&HFF&}by several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.73,0:20:56.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nb{\alpha&HFF&}y several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.77,0:20:56.81,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nb{\alpha&HFF&}y several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.81,0:20:56.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby{\alpha&HFF&} several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.86,0:20:56.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby {\alpha&HFF&}several non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.90,0:20:56.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby s{\alpha&HFF&}everal non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.94,0:20:56.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby se{\alpha&HFF&}veral non-jujutsu sorcerers.
+Dialogue: 2,0:20:56.98,0:20:57.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby sev{\alpha&HFF&}eral non-jujutsu sorcerers.
+Dialogue: 2,0:20:57.02,0:20:57.06,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby seve{\alpha&HFF&}ral non-jujutsu sorcerers.
+Dialogue: 2,0:20:57.06,0:20:57.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby seve{\alpha&HFF&}ral non-jujutsu sorcerers.
+Dialogue: 2,0:20:57.11,0:20:57.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby sever{\alpha&HFF&}al non-jujutsu sorcerers.
+Dialogue: 2,0:20:57.15,0:20:57.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby severa{\alpha&HFF&}l non-jujutsu sorcerers.
+Dialogue: 2,0:20:57.19,0:20:57.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several{\alpha&HFF&} non-jujutsu sorcerers.
+Dialogue: 2,0:20:57.23,0:20:57.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several {\alpha&HFF&}non-jujutsu sorcerers.
+Dialogue: 2,0:20:57.27,0:20:57.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several n{\alpha&HFF&}on-jujutsu sorcerers.
+Dialogue: 2,0:20:57.31,0:20:57.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several n{\alpha&HFF&}on-jujutsu sorcerers.
+Dialogue: 2,0:20:57.36,0:20:57.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several no{\alpha&HFF&}n-jujutsu sorcerers.
+Dialogue: 2,0:20:57.40,0:20:57.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non{\alpha&HFF&}-jujutsu sorcerers.
+Dialogue: 2,0:20:57.44,0:20:57.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-{\alpha&HFF&}jujutsu sorcerers.
+Dialogue: 2,0:20:57.48,0:20:57.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-j{\alpha&HFF&}ujutsu sorcerers.
+Dialogue: 2,0:20:57.52,0:20:57.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-ju{\alpha&HFF&}jutsu sorcerers.
+Dialogue: 2,0:20:57.56,0:20:57.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-ju{\alpha&HFF&}jutsu sorcerers.
+Dialogue: 2,0:20:57.61,0:20:57.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-juj{\alpha&HFF&}utsu sorcerers.
+Dialogue: 2,0:20:57.65,0:20:57.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-juju{\alpha&HFF&}tsu sorcerers.
+Dialogue: 2,0:20:57.69,0:20:57.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujut{\alpha&HFF&}su sorcerers.
+Dialogue: 2,0:20:57.73,0:20:57.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujuts{\alpha&HFF&}u sorcerers.
+Dialogue: 2,0:20:57.77,0:20:57.81,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu{\alpha&HFF&} sorcerers.
+Dialogue: 2,0:20:57.81,0:20:57.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu {\alpha&HFF&}sorcerers.
+Dialogue: 2,0:20:57.86,0:20:57.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu {\alpha&HFF&}sorcerers.
+Dialogue: 2,0:20:57.90,0:20:57.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu s{\alpha&HFF&}orcerers.
+Dialogue: 2,0:20:57.94,0:20:57.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu so{\alpha&HFF&}rcerers.
+Dialogue: 2,0:20:57.98,0:20:58.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sor{\alpha&HFF&}cerers.
+Dialogue: 2,0:20:58.02,0:20:58.06,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorc{\alpha&HFF&}erers.
+Dialogue: 2,0:20:58.06,0:20:58.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorce{\alpha&HFF&}rers.
+Dialogue: 2,0:20:58.11,0:20:58.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorce{\alpha&HFF&}rers.
+Dialogue: 2,0:20:58.15,0:20:58.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcer{\alpha&HFF&}ers.
+Dialogue: 2,0:20:58.19,0:20:58.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcere{\alpha&HFF&}rs.
+Dialogue: 2,0:20:58.23,0:20:58.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcerer{\alpha&HFF&}s.
+Dialogue: 2,0:20:58.27,0:20:58.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcerers{\alpha&HFF&}.
+Dialogue: 2,0:20:58.32,0:20:58.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:58.36,0:20:58.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcerers.
+Dialogue: 2,0:20:58.40,0:20:59.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed\N by several non-jujutsu sorcerers.
 Dialogue: 0,0:21:04.95,0:21:14.96,Signs,Screen,0,0,0,,{\p1\c&H000000&}m 0 0 l 1800 -1 l 1800 800 l -1 800
-Dialogue: 0,0:21:05.32,0:21:05.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}D{\alpha&HFF&}ue to the emergency nature,
-Dialogue: 0,0:21:05.36,0:21:05.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Du{\alpha&HFF&}e to the emergency nature,
-Dialogue: 0,0:21:05.41,0:21:05.45,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due{\alpha&HFF&} to the emergency nature,
-Dialogue: 0,0:21:05.45,0:21:05.49,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due {\alpha&HFF&}to the emergency nature,
-Dialogue: 0,0:21:05.49,0:21:05.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due t{\alpha&HFF&}o the emergency nature,
-Dialogue: 0,0:21:05.53,0:21:05.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to{\alpha&HFF&} the emergency nature,
-Dialogue: 0,0:21:05.57,0:21:05.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to {\alpha&HFF&}the emergency nature,
-Dialogue: 0,0:21:05.61,0:21:05.66,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to t{\alpha&HFF&}he emergency nature,
-Dialogue: 0,0:21:05.66,0:21:05.70,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to th{\alpha&HFF&}e emergency nature,
-Dialogue: 0,0:21:05.70,0:21:05.74,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the{\alpha&HFF&} emergency nature,
-Dialogue: 0,0:21:05.74,0:21:05.78,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the {\alpha&HFF&}emergency nature,
-Dialogue: 0,0:21:05.78,0:21:05.82,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the e{\alpha&HFF&}mergency nature,
-Dialogue: 0,0:21:05.82,0:21:05.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the em{\alpha&HFF&}ergency nature,
-Dialogue: 0,0:21:05.86,0:21:05.91,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the eme{\alpha&HFF&}rgency nature,
-Dialogue: 0,0:21:05.91,0:21:05.95,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the eme{\alpha&HFF&}rgency nature,
-Dialogue: 0,0:21:05.95,0:21:05.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emer{\alpha&HFF&}gency nature,
-Dialogue: 0,0:21:05.99,0:21:06.03,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emerg{\alpha&HFF&}ency nature,
-Dialogue: 0,0:21:06.03,0:21:06.07,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emerge{\alpha&HFF&}ncy nature,
-Dialogue: 0,0:21:06.07,0:21:06.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emergen{\alpha&HFF&}cy nature,
-Dialogue: 0,0:21:06.11,0:21:06.16,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emergenc{\alpha&HFF&}y nature,
-Dialogue: 0,0:21:06.16,0:21:06.20,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emergency{\alpha&HFF&} nature,
-Dialogue: 0,0:21:06.20,0:21:06.24,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emergency {\alpha&HFF&}nature,
-Dialogue: 0,0:21:06.24,0:21:06.28,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emergency n{\alpha&HFF&}ature,
-Dialogue: 0,0:21:06.28,0:21:06.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emergency na{\alpha&HFF&}ture,
-Dialogue: 0,0:21:06.32,0:21:06.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emergency nat{\alpha&HFF&}ure,
-Dialogue: 0,0:21:06.36,0:21:06.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emergency natu{\alpha&HFF&}re,
-Dialogue: 0,0:21:06.41,0:21:06.45,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emergency natur{\alpha&HFF&}e,
-Dialogue: 0,0:21:06.45,0:21:06.49,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emergency nature{\alpha&HFF&},
-Dialogue: 0,0:21:06.49,0:21:06.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emergency nature,
-Dialogue: 0,0:21:06.53,0:21:06.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}Due to the emergency nature,
-Dialogue: 0,0:21:06.57,0:21:07.16,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\move(960,600,960,500)}Due to the emergency nature,
-Dialogue: 0,0:21:07.16,0:21:10.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,500)\fade(0,500)}Due to the emergency nature,
-Dialogue: 0,0:21:07.37,0:21:07.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}th{\alpha&HFF&}ree Jujutsu Tech first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.41,0:21:07.45,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}thr{\alpha&HFF&}ee Jujutsu Tech first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.45,0:21:07.49,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}thre{\alpha&HFF&}e Jujutsu Tech first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.49,0:21:07.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three{\alpha&HFF&} Jujutsu Tech first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.53,0:21:07.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three {\alpha&HFF&}Jujutsu Tech first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.57,0:21:07.62,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Ju{\alpha&HFF&}jutsu Tech first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.62,0:21:07.66,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Juj{\alpha&HFF&}utsu Tech first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.66,0:21:07.70,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Juju{\alpha&HFF&}tsu Tech first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.70,0:21:07.74,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujut{\alpha&HFF&}su Tech first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.74,0:21:07.78,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujuts{\alpha&HFF&}u Tech first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.78,0:21:07.82,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu {\alpha&HFF&}Tech first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.82,0:21:07.87,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu T{\alpha&HFF&}ech first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.87,0:21:07.91,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Te{\alpha&HFF&}ch first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.91,0:21:07.95,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tec{\alpha&HFF&}h first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.95,0:21:07.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech{\alpha&HFF&} first-years were dispatched to the scene.
-Dialogue: 0,0:21:07.99,0:21:08.03,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech f{\alpha&HFF&}irst-years were dispatched to the scene.
-Dialogue: 0,0:21:08.03,0:21:08.07,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech fi{\alpha&HFF&}rst-years were dispatched to the scene.
-Dialogue: 0,0:21:08.07,0:21:08.12,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech fir{\alpha&HFF&}st-years were dispatched to the scene.
-Dialogue: 0,0:21:08.12,0:21:08.16,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech firs{\alpha&HFF&}t-years were dispatched to the scene.
-Dialogue: 0,0:21:08.16,0:21:08.20,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first{\alpha&HFF&}-years were dispatched to the scene.
-Dialogue: 0,0:21:08.20,0:21:08.24,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-y{\alpha&HFF&}ears were dispatched to the scene.
-Dialogue: 0,0:21:08.24,0:21:08.28,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-ye{\alpha&HFF&}ars were dispatched to the scene.
-Dialogue: 0,0:21:08.28,0:21:08.33,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-yea{\alpha&HFF&}rs were dispatched to the scene.
-Dialogue: 0,0:21:08.33,0:21:08.37,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-year{\alpha&HFF&}s were dispatched to the scene.
-Dialogue: 0,0:21:08.37,0:21:08.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years{\alpha&HFF&} were dispatched to the scene.
-Dialogue: 0,0:21:08.41,0:21:08.45,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years w{\alpha&HFF&}ere dispatched to the scene.
-Dialogue: 0,0:21:08.45,0:21:08.49,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years we{\alpha&HFF&}re dispatched to the scene.
-Dialogue: 0,0:21:08.49,0:21:08.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years wer{\alpha&HFF&}e dispatched to the scene.
-Dialogue: 0,0:21:08.53,0:21:08.58,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were{\alpha&HFF&} dispatched to the scene.
-Dialogue: 0,0:21:08.58,0:21:08.62,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were {\alpha&HFF&}dispatched to the scene.
-Dialogue: 0,0:21:08.62,0:21:08.66,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were di{\alpha&HFF&}spatched to the scene.
-Dialogue: 0,0:21:08.66,0:21:08.70,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dis{\alpha&HFF&}patched to the scene.
-Dialogue: 0,0:21:08.70,0:21:08.74,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were disp{\alpha&HFF&}atched to the scene.
-Dialogue: 0,0:21:08.74,0:21:08.78,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispa{\alpha&HFF&}tched to the scene.
-Dialogue: 0,0:21:08.78,0:21:08.83,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispat{\alpha&HFF&}ched to the scene.
-Dialogue: 0,0:21:08.83,0:21:08.87,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatch{\alpha&HFF&}ed to the scene.
-Dialogue: 0,0:21:08.87,0:21:08.91,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatche{\alpha&HFF&}d to the scene.
-Dialogue: 0,0:21:08.91,0:21:08.95,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatched{\alpha&HFF&} to the scene.
-Dialogue: 0,0:21:08.95,0:21:08.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatched {\alpha&HFF&}to the scene.
-Dialogue: 0,0:21:08.99,0:21:09.03,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatched t{\alpha&HFF&}o the scene.
-Dialogue: 0,0:21:09.03,0:21:09.08,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatched to {\alpha&HFF&}the scene.
-Dialogue: 0,0:21:09.08,0:21:09.12,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatched to t{\alpha&HFF&}he scene.
-Dialogue: 0,0:21:09.12,0:21:09.16,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatched to th{\alpha&HFF&}e scene.
-Dialogue: 0,0:21:09.16,0:21:09.20,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatched to the{\alpha&HFF&} scene.
-Dialogue: 0,0:21:09.20,0:21:09.24,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatched to the {\alpha&HFF&}scene.
-Dialogue: 0,0:21:09.24,0:21:09.28,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatched to the sc{\alpha&HFF&}ene.
-Dialogue: 0,0:21:09.28,0:21:09.33,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatched to the sce{\alpha&HFF&}ne.
-Dialogue: 0,0:21:09.33,0:21:09.37,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatched to the scen{\alpha&HFF&}e.
-Dialogue: 0,0:21:09.37,0:21:09.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatched to the scene{\alpha&HFF&}.
-Dialogue: 0,0:21:09.41,0:21:09.45,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)}three Jujutsu Tech first-years were dispatched to the scene.
-Dialogue: 0,0:21:09.45,0:21:10.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)\fade(0,500)}three Jujutsu Tech first-years were dispatched to the scene.
-Dialogue: 0,0:21:10.99,0:21:14.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be0\pos(960,600)\fade(500,0)}One of them died.
-Dialogue: 0,0:22:44.92,0:22:47.21,Signs,Screen&Voice,0,0,0,,{\fnBrush Strokes\b1\be1\fs110\c&H000101&\pos(1400,150)}Juju Stroll
+Dialogue: 0,0:21:05.32,0:21:05.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}D{\alpha&HFF&}ue to the emergency nature,
+Dialogue: 0,0:21:05.36,0:21:05.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Du{\alpha&HFF&}e to the emergency nature,
+Dialogue: 0,0:21:05.41,0:21:05.45,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due{\alpha&HFF&} to the emergency nature,
+Dialogue: 0,0:21:05.45,0:21:05.49,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due {\alpha&HFF&}to the emergency nature,
+Dialogue: 0,0:21:05.49,0:21:05.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due t{\alpha&HFF&}o the emergency nature,
+Dialogue: 0,0:21:05.53,0:21:05.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to{\alpha&HFF&} the emergency nature,
+Dialogue: 0,0:21:05.57,0:21:05.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to {\alpha&HFF&}the emergency nature,
+Dialogue: 0,0:21:05.61,0:21:05.66,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to t{\alpha&HFF&}he emergency nature,
+Dialogue: 0,0:21:05.66,0:21:05.70,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to th{\alpha&HFF&}e emergency nature,
+Dialogue: 0,0:21:05.70,0:21:05.74,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the{\alpha&HFF&} emergency nature,
+Dialogue: 0,0:21:05.74,0:21:05.78,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the {\alpha&HFF&}emergency nature,
+Dialogue: 0,0:21:05.78,0:21:05.82,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the e{\alpha&HFF&}mergency nature,
+Dialogue: 0,0:21:05.82,0:21:05.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the em{\alpha&HFF&}ergency nature,
+Dialogue: 0,0:21:05.86,0:21:05.91,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the eme{\alpha&HFF&}rgency nature,
+Dialogue: 0,0:21:05.91,0:21:05.95,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the eme{\alpha&HFF&}rgency nature,
+Dialogue: 0,0:21:05.95,0:21:05.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emer{\alpha&HFF&}gency nature,
+Dialogue: 0,0:21:05.99,0:21:06.03,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emerg{\alpha&HFF&}ency nature,
+Dialogue: 0,0:21:06.03,0:21:06.07,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emerge{\alpha&HFF&}ncy nature,
+Dialogue: 0,0:21:06.07,0:21:06.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emergen{\alpha&HFF&}cy nature,
+Dialogue: 0,0:21:06.11,0:21:06.16,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emergenc{\alpha&HFF&}y nature,
+Dialogue: 0,0:21:06.16,0:21:06.20,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emergency{\alpha&HFF&} nature,
+Dialogue: 0,0:21:06.20,0:21:06.24,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emergency {\alpha&HFF&}nature,
+Dialogue: 0,0:21:06.24,0:21:06.28,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emergency n{\alpha&HFF&}ature,
+Dialogue: 0,0:21:06.28,0:21:06.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emergency na{\alpha&HFF&}ture,
+Dialogue: 0,0:21:06.32,0:21:06.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emergency nat{\alpha&HFF&}ure,
+Dialogue: 0,0:21:06.36,0:21:06.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emergency natu{\alpha&HFF&}re,
+Dialogue: 0,0:21:06.41,0:21:06.45,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emergency natur{\alpha&HFF&}e,
+Dialogue: 0,0:21:06.45,0:21:06.49,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emergency nature{\alpha&HFF&},
+Dialogue: 0,0:21:06.49,0:21:06.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emergency nature,
+Dialogue: 0,0:21:06.53,0:21:06.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Due to the emergency nature,
+Dialogue: 0,0:21:06.57,0:21:07.16,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\move(960,600,960,500)}Due to the emergency nature,
+Dialogue: 0,0:21:07.16,0:21:10.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,500)\fade(0,500)}Due to the emergency nature,
+Dialogue: 0,0:21:07.37,0:21:07.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}th{\alpha&HFF&}ree Jujutsu Tech first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.41,0:21:07.45,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}thr{\alpha&HFF&}ee Jujutsu Tech first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.45,0:21:07.49,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}thre{\alpha&HFF&}e Jujutsu Tech first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.49,0:21:07.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three{\alpha&HFF&} Jujutsu Tech first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.53,0:21:07.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three {\alpha&HFF&}Jujutsu Tech first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.57,0:21:07.62,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Ju{\alpha&HFF&}jutsu Tech first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.62,0:21:07.66,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Juj{\alpha&HFF&}utsu Tech first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.66,0:21:07.70,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Juju{\alpha&HFF&}tsu Tech first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.70,0:21:07.74,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujut{\alpha&HFF&}su Tech first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.74,0:21:07.78,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujuts{\alpha&HFF&}u Tech first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.78,0:21:07.82,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu {\alpha&HFF&}Tech first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.82,0:21:07.87,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu T{\alpha&HFF&}ech first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.87,0:21:07.91,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Te{\alpha&HFF&}ch first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.91,0:21:07.95,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tec{\alpha&HFF&}h first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.95,0:21:07.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech{\alpha&HFF&} first-years were dispatched to the scene.
+Dialogue: 0,0:21:07.99,0:21:08.03,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech f{\alpha&HFF&}irst-years were dispatched to the scene.
+Dialogue: 0,0:21:08.03,0:21:08.07,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech fi{\alpha&HFF&}rst-years were dispatched to the scene.
+Dialogue: 0,0:21:08.07,0:21:08.12,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech fir{\alpha&HFF&}st-years were dispatched to the scene.
+Dialogue: 0,0:21:08.12,0:21:08.16,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech firs{\alpha&HFF&}t-years were dispatched to the scene.
+Dialogue: 0,0:21:08.16,0:21:08.20,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first{\alpha&HFF&}-years were dispatched to the scene.
+Dialogue: 0,0:21:08.20,0:21:08.24,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-y{\alpha&HFF&}ears were dispatched to the scene.
+Dialogue: 0,0:21:08.24,0:21:08.28,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-ye{\alpha&HFF&}ars were dispatched to the scene.
+Dialogue: 0,0:21:08.28,0:21:08.33,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-yea{\alpha&HFF&}rs were dispatched to the scene.
+Dialogue: 0,0:21:08.33,0:21:08.37,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-year{\alpha&HFF&}s were dispatched to the scene.
+Dialogue: 0,0:21:08.37,0:21:08.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years{\alpha&HFF&} were dispatched to the scene.
+Dialogue: 0,0:21:08.41,0:21:08.45,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years w{\alpha&HFF&}ere dispatched to the scene.
+Dialogue: 0,0:21:08.45,0:21:08.49,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years we{\alpha&HFF&}re dispatched to the scene.
+Dialogue: 0,0:21:08.49,0:21:08.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years wer{\alpha&HFF&}e dispatched to the scene.
+Dialogue: 0,0:21:08.53,0:21:08.58,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were{\alpha&HFF&} dispatched to the scene.
+Dialogue: 0,0:21:08.58,0:21:08.62,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were {\alpha&HFF&}dispatched to the scene.
+Dialogue: 0,0:21:08.62,0:21:08.66,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were di{\alpha&HFF&}spatched to the scene.
+Dialogue: 0,0:21:08.66,0:21:08.70,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dis{\alpha&HFF&}patched to the scene.
+Dialogue: 0,0:21:08.70,0:21:08.74,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were disp{\alpha&HFF&}atched to the scene.
+Dialogue: 0,0:21:08.74,0:21:08.78,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispa{\alpha&HFF&}tched to the scene.
+Dialogue: 0,0:21:08.78,0:21:08.83,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispat{\alpha&HFF&}ched to the scene.
+Dialogue: 0,0:21:08.83,0:21:08.87,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatch{\alpha&HFF&}ed to the scene.
+Dialogue: 0,0:21:08.87,0:21:08.91,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatche{\alpha&HFF&}d to the scene.
+Dialogue: 0,0:21:08.91,0:21:08.95,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatched{\alpha&HFF&} to the scene.
+Dialogue: 0,0:21:08.95,0:21:08.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatched {\alpha&HFF&}to the scene.
+Dialogue: 0,0:21:08.99,0:21:09.03,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatched t{\alpha&HFF&}o the scene.
+Dialogue: 0,0:21:09.03,0:21:09.08,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatched to {\alpha&HFF&}the scene.
+Dialogue: 0,0:21:09.08,0:21:09.12,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatched to t{\alpha&HFF&}he scene.
+Dialogue: 0,0:21:09.12,0:21:09.16,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatched to th{\alpha&HFF&}e scene.
+Dialogue: 0,0:21:09.16,0:21:09.20,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatched to the{\alpha&HFF&} scene.
+Dialogue: 0,0:21:09.20,0:21:09.24,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatched to the {\alpha&HFF&}scene.
+Dialogue: 0,0:21:09.24,0:21:09.28,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatched to the sc{\alpha&HFF&}ene.
+Dialogue: 0,0:21:09.28,0:21:09.33,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatched to the sce{\alpha&HFF&}ne.
+Dialogue: 0,0:21:09.33,0:21:09.37,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatched to the scen{\alpha&HFF&}e.
+Dialogue: 0,0:21:09.37,0:21:09.41,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatched to the scene{\alpha&HFF&}.
+Dialogue: 0,0:21:09.41,0:21:09.45,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}three Jujutsu Tech first-years were dispatched to the scene.
+Dialogue: 0,0:21:09.45,0:21:10.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)\fade(0,500)}three Jujutsu Tech first-years were dispatched to the scene.
+Dialogue: 0,0:21:10.99,0:21:14.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)\fade(500,0)}One of them died.
+Dialogue: 0,0:22:44.92,0:22:47.21,Signs,Screen&Voice,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
 Dialogue: 0,0:23:41.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnRagnar\b1\bord3.2\fs54.4\fad(458,1)\pos(960.4,1030.6)}Please ensure proper safety measures while riding in cars.
-Dialogue: 0,0:23:51.49,0:23:54.95,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0)\fad(1068,0)\fscx112\fscy112\t(26,3464,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 4{\fs70}\NCurse Womb Must Die
+Dialogue: 0,0:23:51.49,0:23:54.95,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0.5)\fad(1068,0)\fscx112\fscy112\t(26,3464,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 4{\fs70}\NCurse Womb Must Die
 
 [Aegisub Extradata]
 Data: 6,a-mo,e{"uuid"#3A"c6dcd5c3-6126-46fc-a642-80ad8ecf25ba"#2C"originalText"#3A"{\\fnRagnar\\fs80\\fscx110\\b1\\be3\\c&H070707&\\pos(969#2C250)}Roppongi"}

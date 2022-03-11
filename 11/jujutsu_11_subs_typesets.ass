@@ -32,7 +32,7 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:07:53.07,0:07:53.53,Signs,Flash,0,0,0,,{\fad(225,225)\an8\fnArial\b1\c&H140F10&\3c&HF5F5F3&\4c&H22271E&\bord4\shad3}Cramp
 Comment: 0,0:07:54.45,0:07:56.95,Signs,Screen,0,0,0,,{\fad(524,1)\an5\pos(88,126.667)\b1\fscy80\c&H202121&\bord1\3c&HF0F1EE&\shad1}Rumble
-Dialogue: 0,0:03:48.49,0:03:55.05,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\pos(1512,885)\c&HE6E7E7&}Episode 11: {\fs70}Narrow-minded
+Dialogue: 0,0:03:48.49,0:03:55.05,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\pos(1512,885)\c&HE6E7E7&}Episode 11: {\fs70}Narrow-minded
 Dialogue: 0,0:04:15.65,0:04:19.61,Signs,,0,0,0,,{\blur5\an5\pos(901.915,280.59)\1c&H090709&\p1}m 0 70 l 18 150 315.33 84 290.66 0 0 70
 Dialogue: 0,0:04:15.65,0:04:19.61,Signs,Screen,0,0,0,,{\blur5\fnCabin\fs40\b\bord0\shad0\c&HBCBDC4&\frz11.79\pos(905.333,281.333)\fax0\1a&HBC&}Ijichi Kiyotaka
 Dialogue: 0,0:04:15.65,0:04:19.61,Signs,Screen,0,0,0,,{\blur0.8\fnCabin\fs40\b\bord0\shad0\c&HBCBDC4&\frz11.79\pos(905.333,281.333)\fax0}Ijichi Kiyotaka
@@ -125,10 +125,10 @@ Dialogue: 1,0:15:09.31,0:15:09.35,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\
 Dialogue: 1,0:15:09.35,0:15:11.47,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs80\be0\pos(960,600)}After the Satozakura High School Incident
 Dialogue: 1,0:09:45.31,0:09:50.31,Signs,Phone,0,0,0,,{\fnCabin\fs40\bord0\blur0.85\shad0\c&HDDEDFF&\frz-3.41\fax0\fscx112\fscy112\pos(925.44,325.89)}Nanami Kento
 Dialogue: 0,0:09:45.31,0:09:50.31,Signs,Phone,0,0,0,,{\fnCabin\fs40\bord0\blur5\shad0\c&HDDEDFF&\frz-3.41\fax0\fscx112\fscy112\1a&H7B&\pos(925.44,325.89)}Nanami Kento
-Dialogue: 0,0:23:29.92,0:23:31.18,Signs,Screen,0,0,0,,{\fnBrush Strokes\b1\be1\fs110\c&H000101&\pos(1358.4,246)}Juju Stroll
+Dialogue: 0,0:23:29.92,0:23:31.18,Signs,Screen,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1358.4,246)}Juju Stroll
 Dialogue: 0,0:23:43.19,0:23:44.94,Signs,,0,0,0,,{\an5\pos(970.32,556.32)\1c&H000000&\p1}m 2061.2 1221.12 l 0 1221.12 0 0 2061.2 0 2061.2 1221.12
 Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an5\b1\blur14\bord0\shad0\c&HF5F5F5&\fs55\fscx182\fscy182\1a&HD9&\pos(954.67,394)}Next Episode
 Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an5\b1\blur1\bord0\shad0\fs55\c&HF5F5F5&\fscx182\fscy182\pos(954.67,394)}Next Episode
 Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an5\b1\fs120\blur14\bord0\shad0\c&HF5F5F5&\fscx152\fscy152\1a&HD9&\pos(962,596.66)}Bloody Autumn Leaf  Viewing
 Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an5\b1\fs120\blur1\bord0\shad0\c&HF5F5F5&\fscx152\fscy152\pos(962,596.66)}Bloody Autumn Leaf  Viewing
-Dialogue: 0,0:23:51.49,0:23:54.95,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0)\fad(500,0)\fscy112\fscx112\t(26,3340,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 12{\fs70}\NTo You, Someday {2000 years from now}
+Dialogue: 0,0:23:51.49,0:23:54.95,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3340,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 12{\fs70}\NTo You, Someday {2000 years from now}

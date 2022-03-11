@@ -20,10 +20,9 @@ Audio File: jujutsu_05_premux.mkv
 Video File: jujutsu_05_premux.mkv
 Keyframes File: jujutsu_05_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 1059
-Active Line: 1063
-Video Position: 28346
+Video Zoom Percent: 1.375000
+Active Line: 1
+Video Position: 18800
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,9 +32,9 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:03:55.46,0:04:00.55,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\pos(508,885)\c&HE6E7E7&}Episode 5: {\fs70}Curse Womb Must Die II
+Dialogue: 0,0:03:55.46,0:04:00.55,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\pos(508,885)\c&HE6E7E7&}Episode 5: {\fs70}Curse Womb Must Die II
 Dialogue: 0,0:13:04.09,0:13:06.39,Signs,Sign,0,0,0,,{\fnBell Gothic Std Black\b1\be1\fscx128\fs60\an4\fax0.45\c&H66CFFC&\3c&HFDFDFF&\frz333.3\frx356\fry2\pos(784.211,472.562)}Restaurant
-Dialogue: 0,0:13:04.09,0:13:06.39,Signs,Sign,0,0,0,,{\fnBell Gothic Std Black\b1\be1\fscx100\fs50\an4\fax0.48\c&H55B274&\3c&HFCFFF9&\xshad-5\4c&HC4CCC7&\frz336\pos(792.494,538.276)}Rice
+Dialogue: 0,0:13:04.09,0:13:06.39,Signs,Sign,0,0,0,,{\fnBell Gothic Std Black\b1\blur0.8\fscx100\fs50\an4\fax0.48\c&H55B274&\3c&HFCFFF9&\xshad-5\4c&HC4CCC7&\frz336\pos(792.494,538.276)}Rice
 Dialogue: 0,0:18:58.11,0:18:58.15,Signs,,0,0,0,,{\fscy100\fscx100\blur1.2\an5\pos(842.14,451.38)\1c&H727677&\p1}m 0 0 l 4.49 248.32 b 4.49 248.32 14.98 250.04 15.63 257.81 16.18 264.49 4.84 269.23 4.98 270.21 5.11 271.19 5.1 276.59 5.1 276.59 5.1 276.59 17.01 277.68 17.72 279.07 22.38 288.28 13.84 292.91 13.84 292.91 13.84 292.91 20.6 291.13 22.27 292.43 31.03 299.27 26.25 309.23 26.25 309.23 39.67 311.27 29.2 328.65 19.66 329.76 15.36 330.25 11.06 328.95 9.96 328.65 8.86 328.35 6.85 334.51 6.64 335.85 6.42 337.2 18.01 347.97 17.99 349.42 17.98 350.32 32.66 343.81 57.26 353.87 l 477.42 408.58 477.42 323.4 654.99 352.35 b 654.99 352.35 653.88 346.14 674.11 345.64 l 674.13 341.26 679.4 104.13 0 0
 Dialogue: 0,0:18:58.15,0:18:58.20,Signs,,0,0,0,,{\fscy100.16\fscx100.16\blur1.2\an5\pos(836.39,445.26)\1c&HBAC2C2&\p1}m 0 0 l 4.49 248.32 b 4.49 248.32 14.98 250.04 15.63 257.81 16.18 264.49 4.84 269.23 4.98 270.21 5.11 271.19 5.1 276.59 5.1 276.59 5.1 276.59 17.01 277.68 17.72 279.07 22.38 288.28 13.84 292.91 13.84 292.91 13.84 292.91 20.6 291.13 22.27 292.43 31.03 299.27 26.25 309.23 26.25 309.23 39.67 311.27 29.2 328.65 19.66 329.76 15.36 330.25 11.06 328.95 9.96 328.65 8.86 328.35 6.85 334.51 6.64 335.85 6.42 337.2 18.01 347.97 17.99 349.42 17.98 350.32 32.66 343.81 57.26 353.87 l 477.42 408.58 477.42 323.4 654.99 352.35 b 654.99 352.35 653.88 346.14 674.11 345.64 l 674.13 341.26 679.4 104.13 0 0
 Dialogue: 0,0:18:58.20,0:18:58.24,Signs,,0,0,0,,{\fscy100.1\fscx100.1\blur1.2\an5\pos(830.8,439.15)\1c&HF6F7F7&\p1}m 0 0 l 4.49 248.32 b 4.49 248.32 14.98 250.04 15.63 257.81 16.18 264.49 4.84 269.23 4.98 270.21 5.11 271.19 5.1 276.59 5.1 276.59 5.1 276.59 17.01 277.68 17.72 279.07 22.38 288.28 13.84 292.91 13.84 292.91 13.84 292.91 20.6 291.13 22.27 292.43 31.03 299.27 26.25 309.23 26.25 309.23 39.67 311.27 29.2 328.65 19.66 329.76 15.36 330.25 11.06 328.95 9.96 328.65 8.86 328.35 6.85 334.51 6.64 335.85 6.42 337.2 18.01 347.97 17.99 349.42 17.98 350.32 32.66 343.81 57.26 353.87 l 477.42 408.58 477.42 323.4 654.99 352.35 b 654.99 352.35 653.88 346.14 674.11 345.64 l 674.13 341.26 679.4 104.13 0 0
@@ -1382,8 +1381,8 @@ Dialogue: 1,0:19:41.45,0:19:41.49,Signs,Sign,0,0,0,,{=0}{\fscx100\fscy100\alpha&
 Dialogue: 1,0:19:41.49,0:19:41.53,Signs,Sign,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\fnBell Gothic Std Black\b1\fax-0.3\fs70\an4\c&H4BA06B&\3c&HFCFFF9&\4c&HC4CCC7&\frz15.23\pos(635.18,615.64)\bord0\be1}Rice
 Dialogue: 1,0:19:41.53,0:19:41.57,Signs,Sign,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\fnBell Gothic Std Black\b1\fax-0.3\fs70\an4\c&H4BA06B&\3c&HFCFFF9&\4c&HC4CCC7&\frz15.23\pos(635.21,611.61)\bord0\be1}Rice
 Dialogue: 1,0:19:41.57,0:19:41.61,Signs,Sign,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\fnBell Gothic Std Black\b1\fax-0.3\fs70\an4\c&H4BA06B&\3c&HFCFFF9&\4c&HC4CCC7&\frz15.23\pos(635.18,607.61)\bord0\be1}Rice
-Dialogue: 0,0:22:44.92,0:22:47.47,Signs,Screen&Voice,0,0,0,,{\fnBrush Strokes\b1\be1\fs110\c&H000101&\pos(1400,150)}Juju Stroll
-Dialogue: 0,0:23:51.44,0:23:54.99,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0)\fad(1068,0)\fscx112\fscy112\t(26,3550,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 6{\fs70}\NAfter Rain
+Dialogue: 0,0:22:44.92,0:22:47.47,Signs,Screen&Voice,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
+Dialogue: 0,0:23:51.44,0:23:54.99,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0.5)\fad(1068,0)\fscx112\fscy112\t(26,3550,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 6{\fs70}\NAfter Rain
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"7c673f23-7732-44a0-bf02-6d66617fccc8"#2C"originalText"#3A"{\\fnBell Gothic Std Black\\b1\\fax-0.3\\fs70\\an4\\c&H4BA06B&\\3c&HFCFFF9&\\4c&HC4CCC7&\\frz15.23\\pos(635.2#2C991.6)\\bord0\\be1}Rice"}

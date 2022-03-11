@@ -21,8 +21,8 @@ Video File: jujutsu_06_premux.mkv
 Keyframes File: jujutsu_06_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Active Line: 3
-Video Position: 16409
+Active Line: 4
+Video Position: 16194
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,11 +32,11 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:06.73,0:02:12.73,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,1)\pos(1599,885)\c&HE6E7E7&}Episode 6: {\fs70}After Rain
+Dialogue: 0,0:02:06.73,0:02:12.73,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,1)\pos(1599,885)\c&HE6E7E7&}Episode 6: {\fs70}After Rain
 Dialogue: 0,0:07:30.72,0:07:31.93,Signs,,0,0,0,,{\fnBaqa\fad(180,0)\fs33\fscx90\be1\c&HEFEEEA&\3c&HEFEEEA&\bord3.2\frz2.156\pos(252.847,53.872)}Meanwhile, put this on!
-Dialogue: 0,0:07:30.72,0:07:31.93,Signs,,0,0,0,,{\fnBaqa\fad(180,0)\fs33\be1\fscx90\c&H2F312C&\3c&HDDDFDA&\frz2.156\pos(252.847,53.872)}Meanwhile, put this on!
-Dialogue: 0,0:11:24.37,0:11:27.87,Signs,,0,0,0,,{\fnRagnar\fs40\b1\be1\c&H524A40&\frz346.9\pos(782.01,594.29)}Okazaki {\frz346}Tadashi
-Dialogue: 0,0:11:14.61,0:11:15.56,Default,Tag,0,0,0,,{\blur2\fnRagnar\fs66\b1\bord0\shad0\be2\c&H0B0A07&\frz1.126\t(0,300,\c&H454032&)\t(650,940,\c&H0B0A07&)\pos(1075.87,819.22)}Okazaki {\frz355}Tadashi
+Dialogue: 0,0:07:30.72,0:07:31.93,Signs,,0,0,0,,{\fnBaqa\fad(180,0)\fs33\blur0.7\fscx90\c&H2F312C&\3c&HDDDFDA&\frz2.156\pos(252.847,53.872)}Meanwhile, put this on!
+Dialogue: 0,0:11:24.37,0:11:27.87,Signs,,0,0,0,,{\fnRagnar\fs40\b1\be1\c&H524A40&\pos(782.01,596.29)\frz347.1}Okazaki {\frz349}Tadashi
+Dialogue: 0,0:11:14.61,0:11:15.53,Default,Tag,0,0,0,,{\blur2\fnRagnar\fs66\b1\bord0\shad0\be2\c&H0B0A07&\t(0,300,\c&H454032&)\t(650,940,\c&H0B0A07&)\pos(1073.2,828.56)\frz358.8}Okazaki Tadashi
 Dialogue: 0,0:12:50.29,0:12:50.33,Signs,,0,0,0,,{=10}{\fscx100\fscy100\alpha&H00&\fnAdLib BT\c&HC26AFF&\3c&HE7DAEA&\shad0\fs36\frz357.8\pos(1100.6,736.2)\be1}Smile
 Dialogue: 0,0:12:50.33,0:12:50.37,Signs,,0,0,0,,{=10}{\fscx100\fscy100\alpha&H00&\fnAdLib BT\c&HC26AFF&\3c&HE7DAEA&\shad0\fs36\frz357.8\pos(1100.64,736.2)\be1}Smile
 Dialogue: 0,0:12:50.37,0:12:50.41,Signs,,0,0,0,,{=10}{\fscx100\fscy100\alpha&H00&\fnAdLib BT\c&HC26AFF&\3c&HE7DAEA&\shad0\fs36\frz357.8\pos(1100.69,736.2)\be1}Smile
@@ -408,7 +408,7 @@ Dialogue: 0,0:17:35.82,0:17:36.07,Signs,,0,0,0,,{\fnCoiny Cyrillic\fscx80\b1\be1
 Dialogue: 1,0:17:35.82,0:17:36.07,Signs,,0,0,0,,{\fnCoiny Cyrillic\fscx80\b1\be1\c&HD1D2CF&\3c&H908E8C&\frz37.75\pos(1587.2,188.8)}Num
 Dialogue: 0,0:17:35.82,0:17:36.07,Signs,,0,0,0,,{\fnCoiny Cyrillic\fscx80\b1\be1\bord8\frz20.74\c&H908E8C&\3c&H908E8C&\pos(1631.2,388.133)}Num
 Dialogue: 1,0:17:35.82,0:17:36.07,Signs,,0,0,0,,{\fnCoiny Cyrillic\fscx80\b1\be1\frz20.74\c&HD1D2CF&\3c&H908E8C&\pos(1631.2,388.133)}Num
-Dialogue: 0,0:23:15.08,0:23:17.62,Signs,Screen&Voice,0,0,0,,{\fnBrush Strokes\b1\be1\fs110\c&H000101&\pos(1400,150)}Juju Stroll
+Dialogue: 0,0:23:15.08,0:23:17.62,Signs,Screen&Voice,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
 Dialogue: 0,0:23:19.25,0:23:19.29,Signs,Child,0,0,0,,{=15}{\fscx100\fscy100\alpha&H00&\fnCAC Moose\fs128\shad5\be2\c&H171F1C&\4c&H000000&\4a&H96&\frz0.7772\pos(953,2.67)}Gojo Satoru's
 Dialogue: 0,0:23:19.29,0:23:19.33,Signs,Child,0,0,0,,{=15}{\fscx87.86\fscy87.86\alpha&H00&\fnCAC Moose\fs128\shad4.39\be2\c&H171F1C&\4c&H000000&\4a&H96&\frz0.7772\pos(979.78,65.38)}Gojo Satoru's
 Dialogue: 0,0:23:19.33,0:23:19.37,Signs,Child,0,0,0,,{=15}{\fscx79.48\fscy79.48\alpha&H00&\fnCAC Moose\fs128\shad3.97\be2\c&H171F1C&\4c&H000000&\4a&H96&\frz0.7772\pos(1003.54,95.82)}Gojo Satoru's
@@ -429,7 +429,7 @@ Dialogue: 0,0:23:24.63,0:23:26.74,Signs,Screen,0,0,0,,{\fnJasonSharpie\bord2\blu
 Dialogue: 1,0:23:24.63,0:23:26.74,Signs,Screen,0,0,0,,{\fnJasonSharpie\be2\fs99\fad(550,250)\c&H3F3DF4&\3c&H1A115E&\pos(972,822)}Gojo Satoru
 Dialogue: 0,0:23:29.09,0:23:31.80,Default,Screen,0,0,0,,{\fnJasonSharpie\bord2\shad0\be2\fs120\fscx110\fad(550,210)\c&H7679FE&\3c&H523E3E&\pos(1119.6,1002.8)}Yuji
 Dialogue: 1,0:23:29.09,0:23:31.80,Default,Screen,0,0,0,,{\fnJasonSharpie\bord0\shad0\blur2\fs120\fscx110\fad(550,210)\c&H7679FE&\3c&H725655&\pos(1119.6,1002.8)}Yuji
-Dialogue: 0,0:23:51.57,0:23:55.11,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0)\fad(1068,0)\fscx112\fscy112\t(26,3650,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 7{\fs70}\NAssault
+Dialogue: 0,0:23:51.57,0:23:55.11,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0.5)\fad(1068,0)\fscx112\fscy112\t(26,3650,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 7{\fs70}\NAssault
 
 [Aegisub Extradata]
 Data: 10,a-mo,e{"uuid"#3A"553e9956-625f-4b51-b4d7-1fd1aa076d8a"#2C"originalText"#3A"{\\fnAdLib BT\\c&HC26AFF&\\3c&HE7DAEA&\\shad0\\fs36\\frz357.8\\pos(1100.6#2C736.2)}Smile"}

@@ -29,6 +29,6 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:03:27.47,0:03:34.48,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\shad2\fad(500,500)\pos(1502,885)\c&HE6E7E7&}Episode 12: {\fs70}To You, Someday
-Dialogue: 0,0:22:45.00,0:22:47.55,Signs,Screen,0,0,0,,{\fnBrush Strokes\b1\be1\fs110\c&H000101&\pos(1400,150)}Juju Stroll
-Dialogue: 0,0:23:51.57,0:23:55.03,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0)\fad(500,0)\fscy112\fscx112\t(26,3430,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 13{\fs70}\NTomorrow
+Dialogue: 0,0:03:27.47,0:03:34.48,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\pos(1502,885)\c&HE6E7E7&}Episode 12: {\fs70}To You, Someday
+Dialogue: 0,0:22:45.00,0:22:47.55,Signs,Screen,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
+Dialogue: 0,0:23:51.57,0:23:55.03,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3430,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 13{\fs70}\NTomorrow
