@@ -34,53 +34,59 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.06,0:00:00.10,OP2,,0,0,0,sync,
-Dialogue: 1,0:19:04.58,0:19:12.34,Insert,,0,0,0,,{\be1\fade(400,380)}Once again I woke up with warm tears in my eyes
-Dialogue: 1,0:19:14.26,0:19:23.14,Insert,,0,0,0,,{\be1\fade(380,380)}Where are all those dreams I longed for?
-Dialogue: 1,0:19:23.14,0:19:27.86,Insert,,0,0,0,,{\be1\fade(380,380)}Where are you?
+Dialogue: 1,0:19:04.58,0:19:09.13,Insert,,0,0,0,,{\be1\fade(400,380)}Woke up with a start
+Dialogue: 1,0:19:09.21,0:19:12.51,Insert,,0,0,0,,{\be1\fade(380,380)}Warm tears in my eyes
+Dialogue: 1,0:19:14.47,0:19:23.14,Insert,,0,0,0,,{\be1\fade(380,380)}Wanting to recapture the thread of my dream
+Dialogue: 1,0:19:23.31,0:19:27.86,Insert,,0,0,0,,{\be1\fade(380,380)}Where can I find it?
 Dialogue: 1,0:19:27.86,0:19:31.65,Insert,,0,0,0,,{\be1\fade(380,380)}I'm all alone
 Dialogue: 1,0:19:31.65,0:19:37.12,Insert,,0,0,0,,{\be1\fade(380,380)}Please, give it back
-Dialogue: 1,0:19:37.12,0:19:45.75,Insert,,0,0,0,,{\be1\fade(380,380)}Tell me when will it get easier?
+Dialogue: 1,0:19:37.12,0:19:42.16,Insert,,0,0,0,,{\be1\fade(380,380)}Tell me when will I be free from this?
+Dialogue: 1,0:19:42.16,0:19:45.75,Insert,,0,0,0,,{\be1\fade(380,380)}I will keep fighting
 Dialogue: 1,0:19:45.75,0:19:53.72,Insert,,0,0,0,,{\be1\fade(380,380)}I'll keep enduring all the waves that come and go
-Dialogue: 1,0:19:57.09,0:20:06.60,Insert,,0,0,0,,{\be1\fade(380,380)}Still lightheaded with sleep, I bury my face into the pillow
-Dialogue: 1,0:20:07.15,0:20:16.03,Insert,,0,0,0,,{\be1\fade(380,380)}All I wish for is to have that same dream again
-Dialogue: 1,0:20:16.03,0:20:24.33,Insert,,0,0,0,,{\be1\fade(380,380)}That wish takes my sleep away, I'm wide awake
+Dialogue: 1,0:19:57.09,0:20:01.72,Insert,,0,0,0,,{\be1\fade(380,380)}Still lightheaded with sleep
+Dialogue: 1,0:20:01.97,0:20:06.73,Insert,,0,0,0,,{\be1\fade(380,380)}I bury my face into the pillow
+Dialogue: 1,0:20:07.15,0:20:16.03,Insert,,0,0,0,,{\be1\fade(380,380)}All I wish for is to have the same dream again
+Dialogue: 1,0:20:16.03,0:20:20.70,Insert,,0,0,0,,{\be1\fade(380,380)}That wish takes my sleep away
+Dialogue: 1,0:20:20.70,0:20:24.33,Insert,,0,0,0,,{\be1\fade(380,380)}I'm wide awake
 Dialogue: 1,0:20:24.33,0:20:29.96,Insert,,0,0,0,,{\be1\fade(380,380)}Please, give it back
 Dialogue: 1,0:20:29.96,0:20:34.51,Insert,,0,0,0,,{\be1\fade(380,380)}You are the only one for me
 Dialogue: 1,0:20:35.09,0:20:40.80,Insert,,0,0,0,,{\be1\fade(380,380)}I can't remember your scent anymore
-Dialogue: 1,0:20:40.80,0:20:47.85,Insert,,0,0,0,,{\be1\fade(380,380)}It's being washed away by the waves
+Dialogue: 1,0:20:40.80,0:20:47.85,Insert,,0,0,0,,{\be1\fade(380,380)}It's washed away by the waves
 Dialogue: 1,0:20:54.82,0:21:04.12,Insert,,0,0,0,,{\be1\fade(380,380)}I'll go and grab hold of the rest of this dream, so wait for me
 Dialogue: 1,0:21:04.12,0:21:10.33,Insert,,0,0,0,,{\be1\fade(380,380)}Before I realized it, I got too attached to your kindness to be alone again
 Dialogue: 1,0:21:10.33,0:21:13.71,Insert,,0,0,0,,{\be1\fade(380,380)}Should I try to lift my flushed face?
-Dialogue: 1,0:21:13.71,0:21:18.42,Insert,,0,0,0,,{\be1\fade(380,380)}I'm not alone
-Dialogue: 1,0:21:18.42,0:21:20.51,Insert,,0,0,0,,{\be1\fade(380,380)}That's what I want
-Dialogue: 1,0:21:20.51,0:21:24.76,Insert,,0,0,0,,{\be1\fade(380,380)}That's what I want to believe
+Dialogue: 1,0:21:13.71,0:21:20.51,Insert,,0,0,0,,{\be1\fade(380,380)}I want to believe that I'm not alone
+Dialogue: 1,0:21:20.51,0:21:24.76,Insert,,0,0,0,,{\be1\fade(380,380)}I just want to believe
 Dialogue: 1,0:21:24.76,0:21:29.52,Insert,,0,0,0,,{\be1\fade(380,380)}Give it a shot
 Dialogue: 1,0:21:29.52,0:21:33.90,Insert,,0,0,0,,{\be1\fade(380,380)}In this ray of light that just dawned
-Dialogue: 1,0:21:34.48,0:21:43.66,Insert,,0,0,0,,{\be1\fade(380,300)}I saw hope, which made my chest all feverish
-Dialogue: 1,0:21:43.66,0:21:53.50,Insert,,0,0,0,,{\be1\fade(200,350)}Take my hand so we don't get separated
-Dialogue: 1,0:21:53.79,0:22:08.22,Insert,,0,0,0,,{\be1\fade(300,800)}Tomorrow, let's move forward on the path we've chosen for ourselves
-Dialogue: 0,0:19:04.58,0:19:12.34,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(300,280)}Once again I woke up with warm tears in my eyes
-Dialogue: 0,0:19:14.26,0:19:23.14,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Where are all those dreams I longed for?
-Dialogue: 0,0:19:23.14,0:19:27.86,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Where are you?
+Dialogue: 1,0:21:34.48,0:21:43.66,Insert,,0,0,0,,{\be1\fade(380,300)}I saw hope which made my chest all feverish
+Dialogue: 1,0:21:43.66,0:21:53.50,Insert,,0,0,0,,{\be1\fade(200,350)}Hold my hand so we don't lose our way
+Dialogue: 1,0:21:53.79,0:22:08.22,Insert,,0,0,0,,{\be1\fade(300,800)}So we can continue to walk the path we've chosen
+Dialogue: 0,0:19:04.58,0:19:09.13,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(300,280)}Woke up with a start
+Dialogue: 0,0:19:09.21,0:19:12.51,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Warm tears in my eyes
+Dialogue: 0,0:19:14.47,0:19:23.14,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Wanting to recapture the thread of my dream
+Dialogue: 0,0:19:23.31,0:19:27.86,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Where can I find it?
 Dialogue: 0,0:19:27.86,0:19:31.65,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}I'm all alone
 Dialogue: 0,0:19:31.65,0:19:37.12,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Please, give it back
-Dialogue: 0,0:19:37.12,0:19:45.75,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Tell me when will it get easier?
+Dialogue: 0,0:19:37.12,0:19:42.16,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Tell me when will I be free from this?
+Dialogue: 0,0:19:42.16,0:19:45.75,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}I will keep fighting
 Dialogue: 0,0:19:45.75,0:19:53.72,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}I'll keep enduring all the waves that come and go
-Dialogue: 0,0:19:57.09,0:20:06.60,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Still lightheaded with sleep, I bury my face into the pillow
-Dialogue: 0,0:20:07.15,0:20:16.03,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}All I wish for is to have that same dream again
-Dialogue: 0,0:20:16.03,0:20:24.33,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}That wish takes my sleep away, I'm wide awake
+Dialogue: 0,0:19:57.09,0:20:01.72,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Still lightheaded with sleep
+Dialogue: 0,0:20:01.97,0:20:06.73,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}I bury my face into the pillow
+Dialogue: 0,0:20:07.15,0:20:16.03,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}All I wish for is to have the same dream again
+Dialogue: 0,0:20:16.03,0:20:20.70,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}That wish takes my sleep away
+Dialogue: 0,0:20:20.70,0:20:24.33,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}I'm wide awake
 Dialogue: 0,0:20:24.33,0:20:29.96,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Please, give it back
 Dialogue: 0,0:20:29.96,0:20:34.51,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}You are the only one for me
 Dialogue: 0,0:20:35.09,0:20:40.80,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}I can't remember your scent anymore
-Dialogue: 0,0:20:40.80,0:20:47.85,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}It's being washed away by the waves
+Dialogue: 0,0:20:40.80,0:20:47.85,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}It's washed away by the waves
 Dialogue: 0,0:20:54.82,0:21:04.12,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}I'll go and grab hold of the rest of this dream, so wait for me
 Dialogue: 0,0:21:04.12,0:21:10.33,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Before I realized it, I got too attached to your kindness to be alone again
 Dialogue: 0,0:21:10.33,0:21:13.71,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Should I try to lift my flushed face?
-Dialogue: 0,0:21:13.71,0:21:18.42,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}I'm not alone
-Dialogue: 0,0:21:18.42,0:21:20.51,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}That's what I want
-Dialogue: 0,0:21:20.51,0:21:24.76,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}That's what I want to believe
+Dialogue: 0,0:21:13.71,0:21:20.51,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}I want to believe that I'm not alone
+Dialogue: 0,0:21:20.51,0:21:24.76,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}I just want to believe
 Dialogue: 0,0:21:24.76,0:21:29.52,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}Give it a shot
 Dialogue: 0,0:21:29.52,0:21:33.90,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,280)}In this ray of light that just dawned
-Dialogue: 0,0:21:34.48,0:21:43.66,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,300)}I saw hope, which made my chest all feverish
-Dialogue: 0,0:21:43.66,0:21:53.50,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(150,250)}Take my hand so we don't get separated
-Dialogue: 0,0:21:53.79,0:22:08.22,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(300,800)}Tomorrow, let's move forward on the path we've chosen for ourselves
+Dialogue: 0,0:21:34.48,0:21:43.66,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(280,300)}I saw hope which made my chest all feverish
+Dialogue: 0,0:21:43.66,0:21:53.50,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(150,250)}Hold my hand so we don't lose our way
+Dialogue: 0,0:21:53.79,0:22:08.22,Insert,,0,0,0,,{\be1\b1\blur6\c&H004A66&\fade(300,800)}So we can continue to walk the path we've chosen
