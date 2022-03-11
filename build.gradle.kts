@@ -45,14 +45,18 @@ subs {
                 syncTargetTime(getAs<Duration>("insync"))
             }
         }
+
+        out(get("out_merge"))
     }
 
     swap {
         from(merge.item())
+        out(get("out_swap"))
     }
 
     chapters {
-        from(get("dialogue"))
+        from(swap.item())
+        out(get("out_chapters"))
     }
 
     mux {
@@ -63,7 +67,7 @@ subs {
                 lang("jpn")
 
                 if(track.type == TrackType.VIDEO){
-                    name("1080p BD x265 10bit")
+                    name("1080p BD x265 [dedsec]")
                 }
 
                 if(track.type == TrackType.AUDIO){
