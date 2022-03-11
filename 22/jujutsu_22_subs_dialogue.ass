@@ -21,10 +21,10 @@ Video File: jujutsu_22_premux.mkv
 Keyframes File: jujutsu_22_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 27
-Active Line: 36
-Video Position: 4988
+Video Zoom Percent: 0.750000
+Scroll Position: 319
+Active Line: 325
+Video Position: 26027
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -357,11 +357,11 @@ Dialogue: 0,0:17:44.08,0:17:46.92,Default,Akari,0,0,0,,You probably can't get in
 Dialogue: 0,0:17:46.92,0:17:50.67,Default,Akari,0,0,0,,Since the curse has put up a barrier, the order's gonna be important.
 Dialogue: 0,0:17:50.67,0:17:52.78,Default,Akari,0,0,0,,You go at night, from underneath.
 Dialogue: 0,0:17:52.78,0:17:54.01,Default,Akari,0,0,0,,And one more thing...
-Dialogue: 0,0:17:55.29,0:18:01.17,Default,Fushiguro,0,0,0,,{\i1}It is impossible to keep a domain \Nimbued with a technique deployed forever.
-Dialogue: 0,0:18:01.17,0:18:05.52,Default,Fushiguro,0,0,0,,{\i1}Which means this barrier is like the one from the juvenile detention center:
-Dialogue: 0,0:18:05.52,0:18:07.23,Default,Fushiguro,0,0,0,,{\i1}an incomplete domain.
-Dialogue: 0,0:18:07.98,0:18:09.99,Default,Fushiguro,0,0,0,,{\i1}I'm actually lucky for once.
-Dialogue: 0,0:18:12.11,0:18:14.03,Default,Fushiguro,0,0,0,,{\i1}I won't need a veil this time around.
+Dialogue: 0,0:17:55.29,0:18:01.17,Default,Fushiguro,0,0,0,,{\i1}It's impossible to keep a Domain \Nimbued with a technique deployed forever.
+Dialogue: 0,0:18:01.17,0:18:05.52,Default,Fushiguro,0,0,0,,{\i1}Which means it's just like the one from the juvenile detention center:
+Dialogue: 0,0:18:05.52,0:18:07.23,Default,Fushiguro,0,0,0,,{\i1}an incomplete Domain.
+Dialogue: 0,0:18:07.98,0:18:10.07,Default,Fushiguro,0,0,0,,{\i1}I'm actually lucky this time around
+Dialogue: 0,0:18:12.11,0:18:14.03,Default,Fushiguro,0,0,0,,{\i1}since I won't need a veil.
 Dialogue: 0,0:18:17.53,0:18:20.16,Default,Kugisaki,0,0,0,,You tell us too little about yourself.
 Dialogue: 0,0:18:20.16,0:18:21.03,Default,Yuji,0,0,0,,I know, right?
 Dialogue: 0,0:18:23.60,0:18:27.43,Default,Kugisaki,0,0,0,,You must seriously be at your wits' end \Nif you didn't notice us until now.
@@ -382,7 +382,7 @@ Dialogue: 0,0:19:27.81,0:19:29.77,Default,Akari,0,0,0,,You go at night, from und
 Dialogue: 0,0:19:30.27,0:19:31.69,Default,Akari,0,0,0,,And one more thing...
 Dialogue: 0,0:19:32.45,0:19:33.69,Default,Akari,0,0,0,,At the bottom of the valley,
 Dialogue: 0,0:19:34.98,0:19:36.50,Default,Akari,0,0,0,,there might be a river.
-Dialogue: 0,0:19:41.74,0:19:45.61,Default,Akari,0,0,0,,Crossing a river or a border:\N acts that symbolize crossing to the afterlife,
+Dialogue: 0,0:19:41.74,0:19:45.61,Default,Akari,0,0,0,,Crossing a river or a border,\N acts that symbolize crossing to the afterlife,
 Dialogue: 0,0:19:46.56,0:19:50.01,Default,Akari,0,0,0,,carry significant meaning in sorcery.
 Dialogue: 0,0:20:02.58,0:20:03.68,Default,Yuji,0,0,0,,There it is.
 Dialogue: 0,0:20:06.05,0:20:08.23,Default,Kugisaki,0,0,0,,This one will be rewarding to exorcise.
