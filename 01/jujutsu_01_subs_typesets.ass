@@ -583,4 +583,4 @@ Dialogue: 0,0:14:44.41,0:14:45.16,Signs,Sign,0,0,0,,{=2}{\fnBIP\fs32\blur0.85\fa
 Dialogue: 0,0:14:44.41,0:14:45.16,Signs,Sign,0,0,0,,{=1}{\fnBIP\fs32\blur0.85\fax-0.2\c&H0C0807&\frz18.46\pos(643.76,137.98)}Phenomenon
 Dialogue: 0,0:14:44.41,0:14:45.16,Signs,Sign,0,0,0,,{=0}{\fnBIP\fs32\blur0.85\fax-0.2\c&H0B0705&\frz18.46\pos(655.79,166.9)}Research Club
 Comment: 0,0:16:14.34,0:16:17.07,Signs,Sign,0,0,0,,{\fs20\fnBIP\be1\c&H151516&\frz52.22\pos(653.067,803.2)}Occult Phenomenon
-Dialogue: 0,0:23:52.03,0:23:55.65,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0.5)\fad(1068,0)\fscx112\fscy112\t(26,2942,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 2{\fs70}\NFor Myself
+Dialogue: 0,0:23:52.03,0:23:55.65,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1200,\blur0.5)\fad(1068,0)\fscx112\fscy112\t(26,2942,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 2{\fs70}\NFor Myself

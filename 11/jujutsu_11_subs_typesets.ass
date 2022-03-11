@@ -131,4 +131,4 @@ Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an
 Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an5\b1\blur1\bord0\shad0\fs55\c&HF5F5F5&\fscx182\fscy182\pos(954.67,394)}Next Episode
 Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an5\b1\fs120\blur14\bord0\shad0\c&HF5F5F5&\fscx152\fscy152\1a&HD9&\pos(962,596.66)}Bloody Autumn Leaf  Viewing
 Dialogue: 0,0:23:43.19,0:23:44.94,Signs,Screen,0,0,0,,{\fnImagination Station\an5\b1\fs120\blur1\bord0\shad0\c&HF5F5F5&\fscx152\fscy152\pos(962,596.66)}Bloody Autumn Leaf  Viewing
-Dialogue: 0,0:23:51.49,0:23:54.95,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3340,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 12{\fs70}\NTo You, Someday {2000 years from now}
+Dialogue: 0,0:23:51.49,0:23:54.95,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1200,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3340,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 12{\fs70}\NTo You, Someday {2000 years from now}

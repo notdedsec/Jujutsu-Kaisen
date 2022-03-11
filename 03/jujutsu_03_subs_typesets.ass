@@ -1402,7 +1402,7 @@ Dialogue: 0,0:21:09.37,0:21:10.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\
 Dialogue: 0,0:21:10.92,0:21:14.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)\fade(500,0)}One of them died.
 Dialogue: 0,0:22:44.84,0:22:47.14,Signs,Screen&Voice,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
 Dialogue: 0,0:23:41.11,0:23:44.86,Signs,Screen,0,0,0,,{\fnRagnar\b1\bord3.2\fs54.4\fad(458,1)\pos(960.4,1030.6)}Please ensure proper safety measures while riding in cars.
-Dialogue: 0,0:23:51.41,0:23:54.87,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0.5)\fad(1068,0)\fscx112\fscy112\t(26,3464,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 4{\fs70}\NCurse Womb Must Die
+Dialogue: 0,0:23:51.41,0:23:54.87,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1200,\blur0.5)\fad(1068,0)\fscx112\fscy112\t(26,3464,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 4{\fs70}\NCurse Womb Must Die
 
 [Aegisub Extradata]
 Data: 6,a-mo,e{"uuid"#3A"c6dcd5c3-6126-46fc-a642-80ad8ecf25ba"#2C"originalText"#3A"{\\fnRagnar\\fs80\\fscx110\\b1\\be3\\c&H070707&\\pos(969#2C250)}Roppongi"}

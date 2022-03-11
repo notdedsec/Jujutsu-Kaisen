@@ -384,4 +384,4 @@ Dialogue: 0,0:12:30.22,0:12:30.35,Signs,Stone,0,0,0,,{\fscx100\fscy100\1a&H18&\f
 Dialogue: 0,0:12:30.35,0:12:33.06,Signs,Stone,0,0,0,,{\fscx100\fscy100\1a&H18&\fnArtificeSSK\xshad-1\yshad-1\4c&H3D3D3D&\fs36\fscx96\pos(932.19,898.3)\be2\c&H0A0A0A&}Itadori Family Grave
 Dialogue: 0,0:12:50.70,0:12:54.71,Signs,Board,0,0,0,,{\fnArtificeSSK\fs72\fscx96\bord7\blur4\c&H396295&\1a&H21&\pos(940,100)\3c&H000306&}Tokyo Metropolitan Jujutsu Technical High School
 Dialogue: 0,0:12:50.70,0:12:54.71,Signs,Board,0,0,0,,{\fnArtificeSSK\fs72\fscx96\bord0\be1\c&H396295&\1a&H21&\pos(940,100)\3c&H000306&}Tokyo Metropolitan Jujutsu Technical High School
-Dialogue: 1,0:23:51.95,0:23:54.91,Signs,,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0.5)\fad(1068,0)\fscy112\fscx112\t(26,2942,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 3{\fs70}\NGirl of Steel
+Dialogue: 1,0:23:51.95,0:23:54.91,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1200,\blur0.5)\fad(1068,0)\fscy112\fscx112\t(26,2942,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 3{\fs70}\NGirl of Steel

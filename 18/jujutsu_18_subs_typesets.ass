@@ -20,10 +20,10 @@ Audio File: jujutsu_18_premux.mkv
 Video File: jujutsu_18_premux.mkv
 Keyframes File: jujutsu_18_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
+Video Zoom Percent: 1.125000
 Scroll Position: 114
-Active Line: 123
-Video Position: 32007
+Active Line: 124
+Video Position: 34349
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -155,7 +155,7 @@ Dialogue: 1,0:05:02.82,0:05:02.86,Signs,Phone,0,0,0,,{=0}{\fscx86.02\fscy86.02\a
 Dialogue: 1,0:05:02.86,0:05:02.90,Signs,Phone,0,0,0,,{=0}{\fscx85.78\fscy85.78\alpha&H00&\fnCabin\be2\b0\fs28.8\3c&HFFFFFF&\3a&H81&\frz7.874\c&HF8FCFF&\1a&H14&\pos(887.24,249.03)}Miwa Kasumi
 Dialogue: 1,0:05:02.90,0:05:02.94,Signs,Phone,0,0,0,,{=0}{\fscx85.57\fscy85.57\alpha&H00&\fnCabin\be2\b0\fs28.8\3c&HFFFFFF&\3a&H81&\frz7.874\c&HF8FCFF&\1a&H14&\pos(887.38,249.7)}Miwa Kasumi
 Dialogue: 0,0:22:14.93,0:22:17.44,Signs,Three&Screen,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
-Dialogue: 0,0:23:51.45,0:23:54.93,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1468,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 19{\fs70}\NBlack Flash
+Dialogue: 0,0:23:51.45,0:23:54.93,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1200,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 19{\fs70}\NBlack Flash
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"3bf17f7c-cbeb-4872-96c2-a31a4f301087"#2C"originalText"#3A"{\\fnCabin\\be2\\b0\\fs28.8\\3c&HFFFFFF&\\3a&H81&\\frz7.874\\c&HF8FCFF&\\1a&H14&\\pos(879.2#2C201.89)}Miwa Kasumi"}

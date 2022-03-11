@@ -4964,4 +4964,4 @@ Dialogue: 0,0:10:38.99,0:10:39.03,Signs,ScreenCenter,0,0,0,,{\b1\fs40\c&H333B46&
 Dialogue: 0,0:10:39.03,0:10:39.07,Signs,ScreenCenter,0,0,0,,{\b1\fs40\c&H333B46&\3c&HD2DADF&\shad0\an5\bord2.2\3a&H44&\fnIstok Web\fscx112\fscy112\pos(959.7,1099.69)\blur0\bord0\be1}Weak
 Dialogue: 0,0:16:20.16,0:16:22.41,Signs,Screen,0,0,0,,{\fnIwata Mincho Old Pro H-Fate\an4\be1\fs64\\blur.5\pos(1575.47,548.27)}Seconds \NBefore the \NOperation
 Dialogue: 0,0:22:45.00,0:22:47.55,Signs,Both&Screen,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
-Dialogue: 0,0:23:51.54,0:23:55.03,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0.5)\fad(1068,0)\fscy112\fscx112\t(26,3472,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 11{\fs70}\NNarrow-minded
+Dialogue: 0,0:23:51.54,0:23:55.03,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1200,\blur0.5)\fad(1068,0)\fscy112\fscx112\t(26,3472,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 11{\fs70}\NNarrow-minded

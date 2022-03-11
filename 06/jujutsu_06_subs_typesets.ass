@@ -429,7 +429,7 @@ Dialogue: 0,0:23:24.63,0:23:26.74,Signs,Screen,0,0,0,,{\fnJasonSharpie\bord2\blu
 Dialogue: 1,0:23:24.63,0:23:26.74,Signs,Screen,0,0,0,,{\fnJasonSharpie\be2\fs99\fad(550,250)\c&H3F3DF4&\3c&H1A115E&\pos(972,822)}Gojo Satoru
 Dialogue: 0,0:23:29.09,0:23:31.80,Default,Screen,0,0,0,,{\fnJasonSharpie\bord2\shad0\be2\fs120\fscx110\fad(550,210)\c&H7679FE&\3c&H523E3E&\pos(1119.6,1002.8)}Yuji
 Dialogue: 1,0:23:29.09,0:23:31.80,Default,Screen,0,0,0,,{\fnJasonSharpie\bord0\shad0\blur2\fs120\fscx110\fad(550,210)\c&H7679FE&\3c&H725655&\pos(1119.6,1002.8)}Yuji
-Dialogue: 0,0:23:51.57,0:23:55.11,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1068,\blur0.5)\fad(1068,0)\fscx112\fscy112\t(26,3650,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 7{\fs70}\NAssault
+Dialogue: 0,0:23:51.57,0:23:55.11,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1200,\blur0.5)\fad(1068,0)\fscx112\fscy112\t(26,3650,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 7{\fs70}\NAssault
 
 [Aegisub Extradata]
 Data: 10,a-mo,e{"uuid"#3A"553e9956-625f-4b51-b4d7-1fd1aa076d8a"#2C"originalText"#3A"{\\fnAdLib BT\\c&HC26AFF&\\3c&HE7DAEA&\\shad0\\fs36\\frz357.8\\pos(1100.6#2C736.2)}Smile"}
