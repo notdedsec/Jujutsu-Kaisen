@@ -20,7 +20,7 @@ def filter():
     return fin
 
 if __name__ == '__main__':
-    brr = enc.Encoder(ED, filter())
+    brr = enc.Encoder(ED, filter(), 1)
     brr.run()
     brr.clean()
 else:
