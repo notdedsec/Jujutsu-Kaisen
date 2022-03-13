@@ -21,14 +21,15 @@ Video File: jujutsu_06_premux.mkv
 Keyframes File: jujutsu_06_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 335
-Active Line: 347
-Video Position: 30651
+Scroll Position: 219
+Active Line: 232
+Video Position: 21681
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Cursed,KG HAPPY Solid,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -165,7 +166,7 @@ Dialogue: 0,0:08:36.95,0:08:39.20,Default,Worker,0,0,0,,{\i1}If I get close to t
 Dialogue: 0,0:08:39.20,0:08:41.20,Default,Jogo,0,0,0,,Gojo Satoru.
 Dialogue: 0,0:08:41.20,0:08:45.13,Default,Jogo,0,0,0,,I wonder if we could kill him if we joined forces.
 Dialogue: 0,0:08:45.13,0:08:49.60,Default,Geto,0,0,0,,He'd either flutter out of your grasp, or worst case, you'd all get exorcised.
-Dialogue: 0,0:08:50.13,0:08:55.10,Default,Geto,0,0,0,,I'd recommend you focus on sealing him rather than killing him.
+Dialogue: 0,0:08:50.13,0:08:55.10,Default,Geto,0,0,0,,I'd recommend you focus on sealing rather than killing.
 Dialogue: 0,0:08:55.10,0:08:57.60,Default,Jogo,0,0,0,,Sealing? How?
 Dialogue: 0,0:08:58.18,0:09:01.53,Default,Geto,0,0,0,,We'll use the special-grade cursed object, Prison Realm.
 Dialogue: 0,0:09:02.48,0:09:04.39,Default,Jogo,0,0,0,,Prison Realm?
@@ -253,16 +254,16 @@ Dialogue: 0,0:14:14.25,0:14:17.86,Default,Gojo,0,0,0,,Setting aside simple curse
 Dialogue: 0,0:14:17.86,0:14:22.25,Default,Gojo,0,0,0,,cursed techniques are fundamentally etched into your body from the day you're born.
 Dialogue: 0,0:14:22.73,0:14:28.18,Default,Gojo,0,0,0,,So the ability to use cursed techniques \Nis about eighty percent innate talent.
 Dialogue: 0,0:14:30.29,0:14:31.40,Default,Gojo,0,0,0,,You okay?
-Dialogue: 0,0:14:31.40,0:14:36.63,Default,Yuji,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}I just thought I'd be able to pull off a \Nthunder or fire or a power bomb or something.
-Dialogue: 0,0:14:36.63,0:14:38.98,Default,Gojo,0,0,0,,You can still pull off a power bomb. Onita's, right?
-Dialogue: 0,0:14:40.58,0:14:42.57,Default,Yuji,0,0,0,,{\an8\fnKG HAPPY Solid\b0\fscx90}This sucks!
-Dialogue: 0,0:14:42.57,0:14:48.99,Default,Yuji,0,0,0,,{\an8\fnKG HAPPY Solid\b0\fscx90}I wanted to pull off a Spirit Gun\N or Bankai, or Rasengan, or a Dodon Ray!
+Dialogue: 0,0:14:31.40,0:14:36.63,Cursed,Yuji,0,0,0,,I just thought I'd be able to pull off a \Nthunder or fire or a power bomb or something.
+Dialogue: 0,0:14:36.63,0:14:38.98,Default,Gojo,0,0,0,,You can still do a power bomb, just like Onita.
+Dialogue: 0,0:14:40.58,0:14:42.65,Cursed,Yuji,0,0,0,,{\an8}Man, this sucks!
+Dialogue: 0,0:14:42.65,0:14:48.99,Cursed,Yuji,0,0,0,,{\an8}I wanted to pull off a Spirit Gun or \NBankai, or Rasengan, or a Dodon Ray!
 Dialogue: 0,0:14:46.43,0:14:48.58,Default,Gojo,0,0,0,,{\i1}You can't use them {\i0}yet{\i1}.
 Dialogue: 0,0:14:48.99,0:14:52.99,Default,Gojo,0,0,0,,{\i1}Eventually, Sukuna's cursed \Ntechniques will be engraved into your body.
-Dialogue: 0,0:14:51.24,0:14:54.81,Default,Yuji,0,0,0,,{\an8\fnKG HAPPY Solid\b0\fscx90}I wanted to fire off a Kamehameha!
+Dialogue: 0,0:14:51.24,0:14:54.81,Cursed,Yuji,0,0,0,,{\an8}I wanna fire off a Kamehameha!
 Dialogue: 0,0:14:53.53,0:14:55.59,Default,Gojo,0,0,0,,Let's just ignore what you can't do!
 Dialogue: 0,0:14:55.59,0:14:57.33,Default,Gojo,0,0,0,,We're going to focus on your strengths.
-Dialogue: 0,0:14:56.09,0:14:58.69,Default,Yuji,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\an8}This totally sucks!
+Dialogue: 0,0:14:56.09,0:14:58.69,Cursed,Yuji,0,0,0,,{\an8}This totally sucks!
 Dialogue: 0,0:14:57.33,0:14:59.91,Default,Gojo,0,0,0,,We'll apply cursed energy to your physical attacks.
 Dialogue: 0,0:14:59.91,0:15:04.24,Default,Gojo,0,0,0,,I'm way more scared of savage basic attacks than I am of half-assed cursed techniques.
 Dialogue: 0,0:15:04.24,0:15:07.76,Default,Gojo,0,0,0,,Like I said, your talent for close combat is top-notch.

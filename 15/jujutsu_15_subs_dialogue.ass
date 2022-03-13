@@ -30,6 +30,7 @@ Video Position: 32789
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,120,120,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Cursed,KG HAPPY Solid,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -58,7 +59,7 @@ Dialogue: 0,0:01:12.34,0:01:13.88,Default,Maki,0,0,0,,At the designated time,
 Dialogue: 0,0:01:13.88,0:01:17.59,Default,Maki,0,0,0,,we'll split into the Panda and \NMegumi squads for scouting.
 Dialogue: 0,0:01:17.59,0:01:19.97,Default,Maki,0,0,0,,The rest is up to you, Yuji.
 Dialogue: 0,0:01:19.97,0:01:20.80,Default,Yuji,0,0,0,,Got it!
-Dialogue: 0,0:01:25.39,0:01:28.90,Default,CursedSpirit15A,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Where are you going?
+Dialogue: 0,0:01:25.39,0:01:28.90,Cursed,CursedSpirit15A,0,0,0,,Where are you going?
 Dialogue: 0,0:01:30.19,0:01:31.52,Default,Panda,0,0,0,,That's small fry.
 Dialogue: 0,0:01:36.08,0:01:37.70,Default,Fushiguro,0,0,0,,{*}Panda{*Senpai}, stop!
 Dialogue: 0,0:01:45.54,0:01:48.12,Default,Todo,0,0,0,,Great! The gang's all here!
@@ -95,7 +96,7 @@ Dialogue: 0,0:05:10.74,0:05:12.08,Default,Yuji,0,0,0,,{\i1}No way!
 Dialogue: 0,0:05:12.08,0:05:14.16,Default,Yuji,0,0,0,,{\i1}I thought I landed a good one.
 Dialogue: 0,0:05:20.34,0:05:22.22,Default,Todo,0,0,0,,Let me return the favor, first-year.
 Dialogue: 0,0:05:22.22,0:05:23.96,Default,Todo,0,0,0,,Defend like your life depends on it!
-Dialogue: 0,0:05:26.09,0:05:28.76,Default,Cursedspirit15A,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Where?
+Dialogue: 0,0:05:26.09,0:05:28.76,Cursed,Cursedspirit15A,0,0,0,,Where?
 Dialogue: 0,0:05:41.70,0:05:43.57,Default,Yuji,0,0,0,,{\i1}My arm's still here, right?
 Dialogue: 0,0:05:44.53,0:05:46.74,Default,Yuji,0,0,0,,{\i1}I thought it got blown off.
 Dialogue: 0,0:05:46.74,0:05:48.78,Default,Yuji,0,0,0,,{\i1}If that curse didn't get in the way,

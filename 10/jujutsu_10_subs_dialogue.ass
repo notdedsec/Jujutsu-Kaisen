@@ -29,6 +29,7 @@ Video Position: 12196
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Cursed,KG HAPPY Solid,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -289,8 +290,8 @@ Dialogue: 5,0:18:08.40,0:18:09.96,Default,Mahito,0,0,0,,Your mobility is impress
 Dialogue: 5,0:18:24.07,0:18:25.09,Default,Mahito,0,0,0,,{\i1}This is so fun!
 Dialogue: 5,0:18:25.76,0:18:30.55,Default,Nanami,0,0,0,,{\i1}Is the person's original mass irrelevant when changing their shape?
 Dialogue: 5,0:18:32.31,0:18:36.66,Default,Nanami,0,0,0,,{\i1}Either way, it's not a good match for my technique.
-Dialogue: 5,0:18:37.17,0:18:38.17,Default,Boy,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}...elp me!
-Dialogue: 5,0:18:39.41,0:18:41.75,Default,Boy,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Help... me!
+Dialogue: 5,0:18:37.17,0:18:38.17,Cursed,Boy,0,0,0,,...elp me!
+Dialogue: 5,0:18:39.41,0:18:41.75,Cursed,Boy,0,0,0,,Help... me!
 Dialogue: 5,0:18:45.04,0:18:48.55,Default,Shoko,0,0,0,,Once disfigured, they are beyond saving.
 Dialogue: 5,0:18:48.55,0:18:50.79,Default,Shoko,0,0,0,,If they attack, kill them without hesitation.
 Dialogue: 5,0:18:50.79,0:18:52.82,Default,Shoko,0,0,0,,That's better for the victims as well.

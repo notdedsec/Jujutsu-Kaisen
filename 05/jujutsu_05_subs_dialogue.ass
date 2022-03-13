@@ -30,6 +30,7 @@ Video Position: 18486
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Cursed,KG HAPPY Solid,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -163,35 +164,35 @@ Dialogue: 0,0:12:30.33,0:12:37.83,Default,Jogo,0,0,0,,Was there any real reason 
 Dialogue: 0,0:12:38.40,0:12:42.62,Default,Geto,0,0,0,,Well, there wasn't much point to it with half measures.
 Dialogue: 0,0:12:43.08,0:12:45.13,Default,Geto,0,0,0,,We did learn a few things.
 Dialogue: 0,0:12:45.13,0:12:47.98,Default,Jogo,0,0,0,,Hmph. I'll be praying that's not just an excuse.
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(507.8,1020)}H
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(543.88,1020)}e
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(584.73,1020)}i
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(607.15,1020)}s
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(646.96,1020)}t
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(675.17,1020)}h
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(709.74,1020)}e
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(759.77,1020)}K
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(786.05,1020)}i
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(810.65,1020)}n
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(845.43,1020)}g
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(896.29,1020)}o
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(926.87,1020)}f
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(972.29,1020)}C
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1007.84,1020)}u
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1039.78,1020)}r
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1068.48,1020)}s
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1100.39,1020)}e
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1132.3,1020)}s
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1154.36,1020)},
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1195.35,1020)}a
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1226.6,1020)}f
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1250.99,1020)}t
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1280.7,1020)}e
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1313.56,1020)}r
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1361.18,1020)}a
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1387.91,1020)}l
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1404.3,1020)}l
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1420.94,1020)}.
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(507.8,1020)}H
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(543.88,1020)}e
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(584.73,1020)}i
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(607.15,1020)}s
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(646.96,1020)}t
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(675.17,1020)}h
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(709.74,1020)}e
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(759.77,1020)}K
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(786.05,1020)}i
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(810.65,1020)}n
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(845.43,1020)}g
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(896.29,1020)}o
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(926.87,1020)}f
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(972.29,1020)}C
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1007.84,1020)}u
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1039.78,1020)}r
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1068.48,1020)}s
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1100.39,1020)}e
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1132.3,1020)}s
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1154.36,1020)},
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1195.35,1020)}a
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1226.6,1020)}f
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1250.99,1020)}t
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1280.7,1020)}e
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1313.56,1020)}r
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1361.18,1020)}a
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1387.91,1020)}l
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1404.3,1020)}l
+Dialogue: 0,0:12:48.83,0:12:50.62,Cursed,Hanami,0,0,0,,{\fry180\pos(1420.94,1020)}.
 Dialogue: 0,0:12:50.62,0:12:54.62,Default,Jogo,0,0,0,,Stop talking! No one understands what you're saying!
 Dialogue: 0,0:12:57.51,0:13:01.93,Default,Jogo,0,0,0,,We don't understand, yet the meaning flows right into our minds. It's creepy!
 Dialogue: 0,0:13:07.16,0:13:08.72,Default,Waitress,0,0,0,,Welcome!

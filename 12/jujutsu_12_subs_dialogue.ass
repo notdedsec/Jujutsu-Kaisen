@@ -29,6 +29,7 @@ Video Position: 29231
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,120,120,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Cursed,KG HAPPY Solid,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -176,8 +177,8 @@ Dialogue: 5,0:12:17.59,0:12:19.55,Default,Yuji,0,0,0,,{\i1}Oh, I almost forgot.
 Dialogue: 5,0:12:20.29,0:12:21.34,Default,Yuji,0,0,0,,{\i1}At the end of the day,
 Dialogue: 5,0:12:22.01,0:12:24.10,Default,Yuji,0,0,0,,{\i1}these guys are, and always will be
 Dialogue: 5,0:12:24.60,0:12:25.81,Default,Yuji,0,0,0,,{\i1}curses.
-Dialogue: 5,0:12:31.64,0:12:33.14,Default,Junpei,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Yuji.
-Dialogue: 5,0:12:41.56,0:12:43.99,Default,Junpei,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Why?
+Dialogue: 5,0:12:31.64,0:12:33.14,Cursed,Junpei,0,0,0,,Yuji.
+Dialogue: 5,0:12:41.56,0:12:43.99,Cursed,Junpei,0,0,0,,Why?
 Dialogue: 5,0:13:11.05,0:13:12.88,Default,Mahito,0,0,0,,Oh, dead already?
 Dialogue: 5,0:13:13.46,0:13:16.48,Default,Mahito,0,0,0,,I guess I was kinda rough when I transfigured him.
 Dialogue: 5,0:13:19.27,0:13:20.82,Default,Mahito,0,0,0,,Guess that's how it goes.

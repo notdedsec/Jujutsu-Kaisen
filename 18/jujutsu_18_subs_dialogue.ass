@@ -31,10 +31,12 @@ Video Position: 27927
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Memefx-furigana,Cabin,40,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,2,0.8,2,128,128,60,1
 Style: Signs-furigana,Cabin,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Cursed,KG HAPPY Solid,40,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt-furigana,Cabin,40,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,2,0.8,2,180,180,60,1
 Style: Default-furigana,Cabin,40,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,2,0.8,2,128,128,60,1
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Cursed,KG HAPPY Solid,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Memefx,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 
@@ -114,25 +116,25 @@ Dialogue: 0,0:06:44.96,0:06:46.48,Default,Gakuganji,0,0,0,,That's true.
 Dialogue: 0,0:06:46.48,0:06:48.29,Default,Gakuganji,0,0,0,,I'm worried about Miwa.
 Dialogue: 0,0:06:48.29,0:06:50.30,Default,Gakuganji,0,0,0,,Hurry up and get her.
 Dialogue: 0,0:06:58.31,0:06:59.37,Default,Toge,0,0,0,,Kelp.
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(651.04,1020)}O
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(689.22,1020)}h
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(745.83,1020)}m
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(789.42,1020)}y
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(816.13,1020)},
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(857.86,1020)}a
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(884.95,1020)}l
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(901.71,1020)}l
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(943.81,1020)}b
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(981.23,1020)}y
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1032.53,1020)}y
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1068.91,1020)}o
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1104.25,1020)}u
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1136.55,1020)}r
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1165.61,1020)}s
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1197.89,1020)}e
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1224.49,1020)}l
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1245.77,1020)}f
-Dialogue: 0,0:07:31.40,0:07:33.64,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1274.06,1020)}?
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(651.04,1020)}O
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(689.22,1020)}h
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(745.83,1020)}m
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(789.42,1020)}y
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(816.13,1020)},
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(857.86,1020)}a
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(884.95,1020)}l
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(901.71,1020)}l
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(943.81,1020)}b
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(981.23,1020)}y
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(1032.53,1020)}y
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(1068.91,1020)}o
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(1104.25,1020)}u
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(1136.55,1020)}r
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(1165.61,1020)}s
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(1197.89,1020)}e
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(1224.49,1020)}l
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(1245.77,1020)}f
+Dialogue: 0,0:07:31.40,0:07:33.64,Cursed,Hanami,0,0,0,,{\fry180\pos(1274.06,1020)}?
 Dialogue: 0,0:07:35.80,0:07:38.60,Default,Toge,0,0,0,,Salmon, caviar, roe.
 Dialogue: 0,0:07:43.27,0:07:44.27,Default,Mahito,0,0,0,,Well, then.
 Dialogue: 0,0:07:45.78,0:07:48.08,Default,Mahito,0,0,0,,Time for us to get to work as well.
@@ -295,29 +297,29 @@ Dialogue: 0,0:19:00.04,0:19:01.75,Default,Kamo,0,0,0,,{\i1}No damage at all?!
 Dialogue: 0,0:19:12.73,0:19:14.55,Default,Fushiguro,0,0,0,,{\i1}Didn't even scratch it.
 Dialogue: 0,0:19:16.00,0:19:17.27,Default,Kamo,0,0,0,,{\i1}That sword...
 Dialogue: 0,0:19:18.60,0:19:20.40,Default,Kamo,0,0,0,,{\i1}Where has he been hiding it?
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(641.34,1020)}S
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(668.03,1020)}t
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(697.47,1020)}o
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(733.28,1020)}p
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(773.94,1020)}i
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(794.07,1020)}t
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(813.85,1020)},
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(848.83,1020)}f
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(879.31,1020)}o
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(914.94,1020)}o
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(940.9,1020)}l
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(957.55,1020)}i
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(979.87,1020)}s
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(1010.18,1020)}h
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(1058.83,1020)}c
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(1093.31,1020)}h
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(1118.3,1020)}i
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(1134.95,1020)}l
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(1161,1020)}d
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(1193.68,1020)}r
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(1226.45,1020)}e
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(1260.44,1020)}n
-Dialogue: 0,0:19:21.56,0:19:23.72,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\c&H291811&\3c&HAEBFC7&\fry180\pos(1284.83,1020)}.
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(641.34,1020)}S
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(668.03,1020)}t
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(697.47,1020)}o
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(733.28,1020)}p
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(773.94,1020)}i
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(794.07,1020)}t
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(813.85,1020)},
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(848.83,1020)}f
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(879.31,1020)}o
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(914.94,1020)}o
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(940.9,1020)}l
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(957.55,1020)}i
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(979.87,1020)}s
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(1010.18,1020)}h
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(1058.83,1020)}c
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(1093.31,1020)}h
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(1118.3,1020)}i
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(1134.95,1020)}l
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(1161,1020)}d
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(1193.68,1020)}r
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(1226.45,1020)}e
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(1260.44,1020)}n
+Dialogue: 0,0:19:21.56,0:19:23.72,Cursed,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\fry180\pos(1284.83,1020)}.
 Dialogue: 0,0:19:24.75,0:19:27.77,Default,Hanami,0,0,0,,{\c&H291811&\3c&HAEBFC7&\4c&H3F2D26&\4a&H0A&}Stop it, foolish children.
 Dialogue: 0,0:19:30.24,0:19:31.49,Default,Fushiguro,0,0,0,,{\i1}What is this?
 Dialogue: 0,0:19:31.49,0:19:35.66,Default,Fushiguro,0,0,0,,{\i1}I can't tell what it's saying, \Nbut I can understand its meaning?

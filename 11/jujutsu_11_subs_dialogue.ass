@@ -29,6 +29,7 @@ Video Position: 7912
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Cursed,KG HAPPY Solid,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -219,7 +220,7 @@ Dialogue: 5,0:10:41.84,0:10:44.99,Default,Nanami,0,0,0,,{\i1}He's greedily enjoy
 Dialogue: 5,0:10:46.11,0:10:51.28,Default,Nanami,0,0,0,,{\i1}The special-grade spirit that Gojo{**-san}\N fought had mastered Domain Expansion.
 Dialogue: 5,0:10:51.71,0:10:57.30,Default,Nanami,0,0,0,,{\i1}If the child spirit survives, it's only \Na matter of time before he reaches that point.
 Dialogue: 5,0:10:57.87,0:11:01.60,Default,Nanami,0,0,0,,{\i1}We can expect an unfathomable body count.
-Dialogue: 5,0:11:02.02,0:11:04.24,Default,Boy,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Help... me!
+Dialogue: 5,0:11:02.02,0:11:04.24,Cursed,Boy,0,0,0,,Help... me!
 Dialogue: 5,0:11:05.44,0:11:08.19,Default,Nanami,0,0,0,,{\i1}If we're not swift in exorcising him,
 Dialogue: 5,0:11:08.61,0:11:11.19,Default,Nanami,0,0,0,,{\i1}we might pass the point of no return.
 Dialogue: 5,0:11:16.73,0:11:17.91,Default,Mother,0,0,0,,And then?

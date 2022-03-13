@@ -29,6 +29,7 @@ Video Position: 10090
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,120,120,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Cursed,KG HAPPY Solid,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -68,9 +69,9 @@ Dialogue: 5,0:02:13.61,0:02:15.35,Default,Nanami,0,0,0,,{\i1}He still had more o
 Dialogue: 5,0:02:16.00,0:02:17.97,Default,Mahito,0,0,0,,Kill the short-haired kid.
 Dialogue: 5,0:02:26.40,0:02:27.92,Default,Mahito,0,0,0,,I knew it.
 Dialogue: 5,0:02:28.54,0:02:30.66,Default,Mahito,0,0,0,,He doesn't have what it takes to kill!
-Dialogue: 5,0:02:45.79,0:02:47.44,Default,TransfiguredA,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Let's play!
-Dialogue: 5,0:02:56.33,0:02:58.07,Default,TrasnfiguredB,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Please...
-Dialogue: 5,0:02:58.63,0:03:00.17,Default,TrasnfiguredB,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Kill me...
+Dialogue: 5,0:02:45.79,0:02:47.44,Cursed,TransfiguredA,0,0,0,,Let's play!
+Dialogue: 5,0:02:56.33,0:02:58.07,Cursed,TransfiguredB,0,0,0,,Please...
+Dialogue: 5,0:02:58.63,0:03:00.17,Cursed,TransfiguredB,0,0,0,,Kill me...
 Dialogue: 5,0:03:04.80,0:03:07.66,Default,Mahito,0,0,0,,I'll have him fight you next.
 Dialogue: 5,0:03:07.66,0:03:09.48,Default,Mahito,0,0,0,,I wonder if he'll cry then.
 Dialogue: 5,0:03:09.48,0:03:13.42,Default,Mahito,0,0,0,,He's a stupid brat who \Ncan't separate his ideals from reality.

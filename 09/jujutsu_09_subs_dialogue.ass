@@ -29,6 +29,7 @@ Video Position: 33688
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Cursed,KG HAPPY Solid,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -207,11 +208,11 @@ Dialogue: 5,0:10:16.84,0:10:18.84,Default,Yuji,0,0,0,,Then a cursed spirit was b
 Dialogue: 5,0:10:19.53,0:10:21.63,Default,Nanami,0,0,0,,Well, most likely.
 Dialogue: 5,0:10:23.73,0:10:26.89,Default,Nanami,0,0,0,,There's a small chance \Nthe young man could have done it,
 Dialogue: 5,0:10:26.89,0:10:29.52,Default,Nanami,0,0,0,,but identifying him is the police's—
-Dialogue: 5,0:10:32.81,0:10:37.12,Default,CurseA,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}{*}Lunch... Lunch... Lunch... Lunchbox{*Bento... Bento... Bento... Box}!
+Dialogue: 5,0:10:32.81,0:10:37.12,Cursed,CurseA,0,0,0,,{*}Lunch... Lunch... Lunch... Lunchbox{*Bento... Bento... Bento... Box}!
 Dialogue: 5,0:10:37.85,0:10:38.53,Default,Nanami,0,0,0,,Stop.
 Dialogue: 5,0:10:38.88,0:10:41.14,Default,Nanami,0,0,0,,I'll take care of this one.
 Dialogue: 5,0:10:41.14,0:10:43.25,Default,Nanami,0,0,0,,You handle the one over there.
-Dialogue: 5,0:10:45.41,0:10:49.39,Default,CurseB,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Good... detergent!
+Dialogue: 5,0:10:45.41,0:10:49.39,Cursed,CurseB,0,0,0,,Good... detergent!
 Dialogue: 5,0:10:49.39,0:10:52.08,Default,Nanami,0,0,0,,If you feel you're in trouble, please let me know.
 Dialogue: 5,0:10:52.08,0:10:54.90,Default,Yuji,0,0,0,,Have some faith in me, will you?
 Dialogue: 5,0:10:54.90,0:10:57.54,Default,Nanami,0,0,0,,It's not a matter of faith.
@@ -249,7 +250,7 @@ Dialogue: 5,0:13:27.54,0:13:29.06,Default,Nanami,0,0,0,,Itadori{**-kun}, behind 
 Dialogue: 5,0:13:29.82,0:13:30.63,Default,Yuji,0,0,0,,Huh?
 Dialogue: 5,0:13:35.77,0:13:37.95,Default,Nanami,0,0,0,,I don't like you looking away.
 Dialogue: 5,0:13:37.95,0:13:40.22,Default,Yuji,0,0,0,,Who's the one distracting me here?!
-Dialogue: 5,0:13:41.02,0:13:44.51,Default,CurseB,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Detergent!
+Dialogue: 5,0:13:41.02,0:13:44.51,Cursed,CurseB,0,0,0,,Detergent!
 Dialogue: 5,0:13:55.48,0:13:58.54,Default,Gojo,0,0,0,,Your cursed energy has a lag, huh?
 Dialogue: 5,0:13:58.90,0:14:00.19,Default,Yuji,0,0,0,,Ow...
 Dialogue: 5,0:14:00.19,0:14:01.53,Default,Yuji,0,0,0,,Lag?
@@ -270,7 +271,7 @@ Dialogue: 5,0:15:03.63,0:15:06.72,Default,Nanami,0,0,0,,{\i1}It must be quite un
 Dialogue: 5,0:15:07.68,0:15:09.47,Default,Nanami,0,0,0,,{\i1}He's got potential.
 Dialogue: 5,0:15:09.47,0:15:15.19,Default,Nanami,0,0,0,,{\i1}If he's able to go all out and combine \Nhis full physical strength with a cursed technique...
 Dialogue: 5,0:15:15.69,0:15:18.52,Default,Nanami,0,0,0,,{\i1}I can see why Gojo brought him to me.
-Dialogue: 5,0:15:19.50,0:15:21.10,Default,CurseA,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Box...
+Dialogue: 5,0:15:19.50,0:15:21.10,Cursed,CurseA,0,0,0,,Box...
 Dialogue: 5,0:15:21.10,0:15:22.98,Default,Nanami,0,0,0,,Apologies. Time to end this.
 Dialogue: 5,0:15:27.46,0:15:30.40,Default,Nanami,0,0,0,,Itadori{**-kun}! Don't finish it off yet!
 Dialogue: 5,0:15:32.23,0:15:33.57,Default,Nanami,0,0,0,,Have a look a this.

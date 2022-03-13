@@ -30,6 +30,7 @@ Video Position: 33912
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Cursed,KG HAPPY Solid,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -198,7 +199,7 @@ Dialogue: 0,0:08:36.04,0:08:39.29,Default,Yuji,0,0,0,,You're a roller coaster of
 Dialogue: 0,0:08:39.29,0:08:41.04,Default,Kugisaki,0,0,0,,This is why girls don't like you!
 Dialogue: 0,0:08:41.42,0:08:44.00,Default,Yuji,0,0,0,,Why do you know that anyway?!
 Dialogue: 0,0:08:44.38,0:08:47.51,Default,Yuji,0,0,0,,I bet you're not popular either, smartass.
-Dialogue: 0,0:08:57.93,0:09:03.48,Default,Curse,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Do... you need... a receipt?
+Dialogue: 0,0:08:57.93,0:09:03.48,Cursed,Curse,0,0,0,,Do... you need... a receipt?
 Dialogue: 0,0:09:03.73,0:09:05.07,Default,Yuji,0,0,0,,{\i1}It's a curse!
 Dialogue: 0,0:09:28.63,0:09:30.09,Default,Yuji,0,0,0,,I've got some moves!
 Dialogue: 0,0:09:31.55,0:09:32.93,Default,Gojo,0,0,0,,That Yuji guy,

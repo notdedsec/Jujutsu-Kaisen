@@ -29,6 +29,7 @@ Video Position: 6465
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
+Style: Cursed,KG HAPPY Solid,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -319,19 +320,19 @@ Dialogue: 0,0:16:03.78,0:16:05.15,Default,Yuji,0,0,0,,I'm coming, too!
 Dialogue: 0,0:16:05.15,0:16:06.44,Default,Yuji,0,0,0,,It's dangerous, right?
 Dialogue: 0,0:16:06.44,0:16:10.44,Default,Yuji,0,0,0,,I've only known them a few months, \Nbut they're my friends. I can't just stand by!
 Dialogue: 0,0:16:12.36,0:16:13.70,Default,Fushiguro,0,0,0,,Stay here.
-Dialogue: 0,0:16:17.66,0:16:24.00,Default,Curse,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}What time is it?
-Dialogue: 0,0:16:25.13,0:16:32.05,Default,Curse,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}The hour hand is at eleven.
+Dialogue: 0,0:16:17.66,0:16:24.00,Cursed,Curse,0,0,0,,What time is it?
+Dialogue: 0,0:16:25.13,0:16:32.05,Cursed,Curse,0,0,0,,The hour hand is at eleven.
 Dialogue: 0,0:16:32.05,0:16:34.08,Default,Sasaki,0,0,0,,{\i1}What is that monster?
 Dialogue: 0,0:16:34.08,0:16:35.81,Default,Iguchi,0,0,0,,S-Sasaki...
 Dialogue: 0,0:16:35.81,0:16:38.77,Default,Sasaki,0,0,0,,Iguchi? Thank goodness! Where have you—
 Dialogue: 0,0:16:38.77,0:16:41.92,Default,Iguchi,0,0,0,,Help me...
-Dialogue: 0,0:16:45.47,0:16:48.07,Default,Curse,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}What time is it?
+Dialogue: 0,0:16:45.47,0:16:48.07,Cursed,Curse,0,0,0,,What time is it?
 Dialogue: 0,0:16:48.43,0:16:50.03,Default,Fushiguro,0,0,0,,{\i1}The curse has been unleashed!
 Dialogue: 0,0:16:50.03,0:16:51.99,Default,Fushiguro,0,0,0,,{\i1}Its presence is all over the place!
-Comment: 0,0:16:53.95,0:16:55.41,Default,Curse,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Slurp, slurp. {is this needed?}
+Comment: 0,0:16:53.95,0:16:55.41,Cursed,Curse,0,0,0,,Slurp, slurp. {is this needed?}
 Dialogue: 0,0:16:55.41,0:16:56.78,Default,Fushiguro,0,0,0,,Out of my way!
 Dialogue: 0,0:16:57.30,0:16:58.20,Default,Fushiguro,0,0,0,,Divine Dogs!
-Comment: 0,0:17:04.71,0:17:05.62,Default,Curse,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90}Slurp.
+Comment: 0,0:17:04.71,0:17:05.62,Cursed,Curse,0,0,0,,Slurp.
 Dialogue: 0,0:17:05.97,0:17:07.63,Default,Fushiguro,0,0,0,,Go and feast.
 Dialogue: 0,0:17:08.79,0:17:12.78,Default,Yuji,0,0,0,,Am I just going to wait here like he told me to?
 Dialogue: 0,0:17:12.78,0:17:15.63,Default,Yuji,0,0,0,,What am I so afraid of?
