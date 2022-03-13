@@ -21,10 +21,10 @@ Video File: jujutsu_16_premux.mkv
 Keyframes File: jujutsu_16_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 286
-Active Line: 294
-Video Position: 33994
+Video Zoom Percent: 0.750000
+Scroll Position: 75
+Active Line: 78
+Video Position: 9093
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -89,7 +89,7 @@ Dialogue: 0,0:03:11.54,0:03:16.21,Default,Todo,0,0,0,,We exist in this world wit
 Dialogue: 0,0:03:16.55,0:03:20.72,Default,Todo,0,0,0,,It's so obvious that everyone has taken it for granted.
 Dialogue: 0,0:03:26.06,0:03:27.97,Default,Yuji,0,0,0,,Thanks, Todo.
 Dialogue: 0,0:03:29.18,0:03:32.48,Default,Yuji,0,0,0,,I think I get it now.
-Dialogue: 0,0:03:33.44,0:03:36.44,Default,Todo,0,0,0,,Looks like we're done talking.
+Dialogue: 0,0:03:33.44,0:03:36.44,Default,Todo,0,0,0,,Then no more words are needed. {Say no more, fam}
 Dialogue: 0,0:03:36.94,0:03:39.03,Default,Todo,0,0,0,,{\i1}I won't hold back.
 Dialogue: 0,0:03:44.62,0:03:47.53,Default,Todo,0,0,0,,{\i1}I'll guide you with my full strength!
 Dialogue: 0,0:03:48.25,0:03:49.79,Default,Todo,0,0,0,,{\i1}Don't die on me, Itadori!
@@ -103,15 +103,15 @@ Dialogue: 0,0:05:35.86,0:05:39.10,Default,Momo,0,0,0,,{\i1}No, that was probably
 Dialogue: 0,0:05:39.53,0:05:41.32,Default,Momo,0,0,0,,Huh? What are you talking about?
 Dialogue: 0,0:05:41.32,0:05:43.57,Default,Kugisaki,0,0,0,,You really don't need to hide it.
 Dialogue: 0,0:05:43.57,0:05:45.74,Default,Kugisaki,0,0,0,,I'm out to kill someone too.
-Dialogue: 0,0:05:45.74,0:05:50.20,Default,Kugisaki,0,0,0,,Especially that bitch Mai, \Nthe watered-down version of Maki.
+Dialogue: 0,0:05:45.74,0:05:50.20,Default,Kugisaki,0,0,0,,Specifically that bitch Mai, \Nthe watered-down version of Maki.
 Dialogue: 0,0:05:50.54,0:05:51.45,Default,Momo,0,0,0,,What?
-Dialogue: 0,0:05:51.83,0:05:53.70,Default,Kugisaki,0,0,0,,Don't "What?" me.
+Dialogue: 0,0:05:51.83,0:05:53.70,Default,Kugisaki,0,0,0,,What's so hard to understand?
 Dialogue: 0,0:05:53.70,0:05:57.16,Default,Kugisaki,0,0,0,,Even Pepper{**-kun} would give a better response. {pepper is actually a robot}
 Dialogue: 0,0:05:57.16,0:05:59.21,Default,Kugisaki,0,0,0,,{\i1}So you {\i0}do{\i1} get angry.
-Dialogue: 0,0:05:59.67,0:06:02.21,Default,Kugisaki,0,0,0,,{\i1}I'm crazy mad too, y'know!
-Dialogue: 0,0:06:02.42,0:06:06.59,Default,Kugisaki,0,0,0,,Oh, come to think of it, \Nyou guys have your own Pepper{**-kun}, don't you?
-Dialogue: 0,0:06:06.59,0:06:10.09,Default,Kugisaki,0,0,0,,Maybe I'll scrap it and dump it off somewhere.
-Dialogue: 0,0:06:12.69,0:06:13.85,Default,Panda,0,0,0,,{\i1}Scary.
+Dialogue: 0,0:05:59.67,0:06:02.21,Default,Kugisaki,0,0,0,,{\i1}I'm crazy mad too right now!
+Dialogue: 0,0:06:02.21,0:06:06.59,Default,Kugisaki,0,0,0,,Oh, come to think of it, \Nyou guys have your own Pepper{**-kun}, don't you?
+Dialogue: 0,0:06:06.59,0:06:10.09,Default,Kugisaki,0,0,0,,Maybe I'll scrap it and dump the parts somewhere.
+Dialogue: 0,0:06:12.69,0:06:13.85,Default,Panda,0,0,0,,{\i1}Holy panda!
 Dialogue: 0,0:06:18.69,0:06:19.90,Default,Kugisaki,0,0,0,,Panda{**-senpai}!
 Dialogue: 0,0:06:22.53,0:06:25.48,Default,Mechamaru,0,0,0,,It's a cursed corpse. It won't die.
 Dialogue: 0,0:06:25.48,0:06:27.44,Default,Mechamaru,0,0,0,,He won't be moving for a while, though.

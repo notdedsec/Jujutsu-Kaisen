@@ -20,10 +20,10 @@ Audio File: jujutsu_13_premux.mkv
 Video File: jujutsu_13_premux.mkv
 Keyframes File: jujutsu_13_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 63
-Active Line: 71
-Video Position: 10090
+Video Zoom Percent: 0.625000
+Scroll Position: 168
+Active Line: 176
+Video Position: 18907
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -209,8 +209,8 @@ Dialogue: 5,0:12:40.24,0:12:43.70,Default,Nanami,0,0,0,,{\i1}However, within Ita
 Dialogue: 5,0:12:44.54,0:12:46.96,Default,Nanami,0,0,0,,{\i1}dwells a forbidden soul.
 Dialogue: 5,0:12:52.04,0:12:53.77,Default,Sukuna,0,0,0,,I thought I told you...
 Dialogue: 5,0:12:56.78,0:12:58.59,Default,Sukuna,0,0,0,,that there wouldn't be a second time.
-Dialogue: 5,0:13:04.14,0:13:07.64,Default,Nanami,0,0,0,,{\i1}There is no one in this world more proud and conceited.
-Dialogue: 5,0:13:08.06,0:13:11.65,Default,Nanami,0,0,0,,{\i1}He lives guided only by his pleasure and displeasure.
+Dialogue: 5,0:13:04.14,0:13:07.64,Default,Nanami,0,0,0,,{\i1}There is no one in this world more proud and conceited. {the literal translation would be "Throughout heaven and earth, he alone is the honored one." which is the exact same line Gojo says later in the manga. It is speculated to be a parallel to this but Akutami mentioned he only used it because it makes the character feel more arrogant. Besides, it doesn't make sense that Nanami and Gojo would use the exact same phrase to describe Sukuna and himself.}
+Dialogue: 5,0:13:08.02,0:13:11.65,Default,Nanami,0,0,0,,{\i1}He lives guided only by his pleasure and displeasure.
 Dialogue: 5,0:13:12.19,0:13:18.61,Default,Sukuna,0,0,0,,{\i1}Whether you die or you die, I do not care. {this was originally split}
 Dialogue: 5,0:13:19.65,0:13:21.53,Default,Sukuna,0,0,0,,{\i1\fade(150,200)}Aside from him,
 Dialogue: 5,0:13:22.99,0:13:26.54,Default,Sukuna,0,0,0,,{\i1\fade(0,1000)}I truly don't care about anyone else.

@@ -20,10 +20,10 @@ Audio File: jujutsu_02_premux.mkv
 Video File: jujutsu_02_premux.mkv
 Keyframes File: jujutsu_02_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 282
-Active Line: 299
-Video Position: 28404
+Video Zoom Percent: 0.625000
+Scroll Position: 202
+Active Line: 213
+Video Position: 20372
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -111,8 +111,10 @@ Dialogue: 0,0:04:01.55,0:04:03.06,Default,Fushiguro,0,0,0,,Please do something a
 Dialogue: 0,0:04:04.82,0:04:06.72,Default,Gojo,0,0,0,,Now it's a request from a precious student.
 Dialogue: 0,0:04:07.23,0:04:08.69,Default,Gojo,0,0,0,,Leave it to me!
 Dialogue: 0,0:04:09.55,0:04:11.18,Default,Gojo,0,0,0,,With that, let me reiterate.
-Dialogue: 0,0:04:11.18,0:04:13.40,Default,Gojo,0,0,0,,You're gonna be executed!
-Dialogue: 0,0:04:14.82,0:04:17.49,Default,Yuji,0,0,0,,Your recap doesn't line up with the current events. {Optional. "Current events" sounds too much like formal news reports.}{reverted. this just reads better.}
+Dialogue: 0,0:04:11.48,0:04:11.94,Default,Gojo,0,0,0,,You're {\alpha&HFF&}getting executed.
+Dialogue: 0,0:04:11.94,0:04:12.40,Default,Gojo,0,0,0,,You're getting {\alpha&HFF&}executed.
+Dialogue: 0,0:04:12.40,0:04:13.40,Default,Gojo,0,0,0,,You're getting executed.
+Dialogue: 0,0:04:14.82,0:04:17.49,Default,Yuji,0,0,0,,That last line doesn't fit in with your recap. {Optional. "Current events" sounds too much like formal news reports.}{reverted. this just reads better.}{okay you win}
 Dialogue: 0,0:04:17.49,0:04:19.61,Default,Gojo,0,0,0,,Hey now, I did try me best.
 Dialogue: 0,0:04:19.61,0:04:23.08,Default,Gojo,0,0,0,,The execution's still on, \Nbut I got your sentence suspended.
 Dialogue: 0,0:04:23.09,0:04:24.79,Default,Yuji,0,0,0,,Suspended?
@@ -240,12 +242,13 @@ Dialogue: 0,0:13:39.17,0:13:40.89,Alt,Yuji,0,0,0,,Not again!
 Dialogue: 0,0:13:40.89,0:13:45.58,Default,Sukuna,0,0,0,,Once I make this brat's body my own, \Nyou'll be the first one I kill!
 Dialogue: 0,0:13:45.58,0:13:48.77,Default,Gojo,0,0,0,,Me, a target of the great Sukuna? What an honor.
 Dialogue: 0,0:13:49.43,0:13:51.71,Default,Yuji,0,0,0,,This guy's really that famous?
-Dialogue: 0,0:13:51.71,0:13:57.06,Default,Gojo,0,0,0,,Ryomen Sukuna, with four arms and two faces, is a demon of legend.
-Dialogue: 0,0:13:57.39,0:14:02.16,Default,Gojo,0,0,0,,Truth is that he was a human who actually existed, \Nbut that was over a thousand years ago.
-Dialogue: 0,0:14:03.13,0:14:09.12,Default,Gojo,0,0,0,,In the golden age of jujutsu, sorcerers gathered up all their might to challenge him and failed.
-Dialogue: 0,0:14:09.86,0:14:14.63,Default,Gojo,0,0,0,,Crowned with the title of Sukuna, \Nhe traversed the ages after his death as a cursed object.
+Dialogue: 0,0:13:51.71,0:13:57.06,Default,Gojo,0,0,0,,Ryomen Sukuna—with four arms \Nand two faces—is a demon of legend.
+Dialogue: 0,0:13:57.06,0:14:02.16,Default,Gojo,0,0,0,,In reality, he was actually a human \Nwho existed over a thousand years ago.
+Dialogue: 0,0:14:03.13,0:14:05.07,Default,Gojo,0,0,0,,{\fade(200,0)}In the Golden Age of Jujutsu,
+Dialogue: 0,0:14:05.07,0:14:09.33,Default,Gojo,0,0,0,,{\fade(0,150)}sorcerers gathered up all their might \Nto challenge him—only to be defeated miserably.
+Dialogue: 0,0:14:09.66,0:14:14.63,Default,Gojo,0,0,0,,{\fade(150,0)}Crowned with the title of Sukuna, \Nhe traversed the ages after his death as a cursed object.
 Dialogue: 0,0:14:14.63,0:14:17.49,Default,Gojo,0,0,0,,We couldn't even destroy his remains.
-Dialogue: 0,0:14:17.49,0:14:19.88,Default,Gojo,0,0,0,,Without a doubt, he is the king of curses.
+Dialogue: 0,0:14:17.49,0:14:19.88,Default,Gojo,0,0,0,,Without a doubt, he is the King of Curses.
 Dialogue: 0,0:14:21.03,0:14:23.03,Default,Yuji,0,0,0,,Who's stronger, you or him?
 Dialogue: 0,0:14:23.03,0:14:25.08,Default,Gojo,0,0,0,,Well, good question.
 Dialogue: 0,0:14:25.08,0:14:27.76,Default,Gojo,0,0,0,,If Sukuna regained all of his power,

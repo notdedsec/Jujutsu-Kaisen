@@ -122,9 +122,9 @@ Dialogue: 0,0:05:51.14,0:05:52.21,Default,President,0,0,0,,so be very careful.
 Dialogue: 0,0:05:52.57,0:05:53.92,Default,Yuji,0,0,0,,So what?!
 Dialogue: 0,0:05:53.92,0:05:56.25,Default,Yuji,0,0,0,,The occult club is uncovering occult activity,
 Dialogue: 0,0:05:56.25,0:05:58.08,Default,Yuji,0,0,0,,so it's still a proper activity report!
-Dialogue: 0,0:05:58.08,0:06:00.23,Default,President,0,0,0,,This isn't some kid's game!
+Dialogue: 0,0:05:58.08,0:06:00.23,Default,President,0,0,0,,I'm not here to play your childish games!
 Dialogue: 0,0:06:00.23,0:06:03.18,Default,President,0,0,0,,Besides, the problem here is you, Itadori Yuji!
-Dialogue: 0,0:06:03.18,0:06:05.38,Default,President,0,0,0,,You're registered with \Ntrack and field, not the occult club.
+Dialogue: 0,0:06:03.18,0:06:05.38,Default,President,0,0,0,,You're registered with the track and field club.
 Dialogue: 0,0:06:05.38,0:06:10.05,Default,President,0,0,0,,So this club doesn't even have \Nthe three members required to {\i1}be{\i0} a club!
 Dialogue: 0,0:06:10.31,0:06:10.97,Default,Yuji,0,0,0,,Wha—
 Dialogue: 0,0:06:11.10,0:06:12.43,Default,Sasaki,0,0,0,,Itadori
@@ -150,7 +150,7 @@ Dialogue: 0,0:07:05.15,0:07:07.62,Default,Fushiguro,0,0,0,,{\i1}That's probably 
 Dialogue: 0,0:07:07.62,0:07:09.53,Default,Fushiguro,0,0,0,,{\i1}Must be that cursed object's influence.
 Dialogue: 0,0:07:11.83,0:07:12.87,Default,Fushiguro,0,0,0,,{\i1}Damn it.
 Dialogue: 0,0:07:12.87,0:07:15.16,Default,Fushiguro,0,0,0,,{\i1}Its presence is too big to pin down.
-Dialogue: 0,0:07:15.16,0:07:19.04,Default,Fushiguro,0,0,0,,{\i1}It feels like it's close but it could still be far away.
+Dialogue: 0,0:07:15.16,0:07:19.04,Default,Fushiguro,0,0,0,,{\i1}It feels like it's close but it could be anywhere.
 Dialogue: 0,0:07:19.48,0:07:22.29,Default,Fushiguro,0,0,0,,{\i1}This special-grade cursed object is a serious pain.
 Dialogue: 0,0:07:23.25,0:07:25.17,Default,Fushiguro,0,0,0,,{\i1}Who could have moved it?
 Dialogue: 0,0:07:25.17,0:07:26.76,Default,Fushiguro,0,0,0,,{\i1}Where is it now?
@@ -199,7 +199,7 @@ Dialogue: 0,0:09:06.55,0:09:09.32,Default,Fushiguro,0,0,0,,{\i1}He pulled that o
 Dialogue: 0,0:09:09.32,0:09:11.86,Default,Fushiguro,0,0,0,,{\i1}I wonder if he's like Zenin{**-senpai}.
 Dialogue: 0,0:09:12.20,0:09:14.79,Default,Yuji,0,0,0,,Crap, it's already half past four!
 Dialogue: 0,0:09:14.79,0:09:17.28,Default,Yuji,0,0,0,,Later, Coach. I've got stuff to do!
-Dialogue: 0,0:09:26.76,0:09:28.44,Default,Fushiguro,0,0,0,,{\i1}The presence of a cursed object!
+Dialogue: 0,0:09:26.76,0:09:28.44,Default,Fushiguro,0,0,0,,{\i1}The cursed object's presence!
 Dialogue: 0,0:09:28.44,0:09:29.21,Default,Fushiguro,0,0,0,,Hey, you!
 Dialogue: 0,0:09:29.54,0:09:31.40,Default,Fushiguro,0,0,0,,How the heck is he so fast!
 Dialogue: 0,0:09:31.40,0:09:34.29,Default,Student,0,0,0,,I heard he runs the fifty meter dash in three seconds.
@@ -242,11 +242,11 @@ Dialogue: 0,0:11:28.51,0:11:30.52,Default,Nurse,0,0,0,,Yes, what's the matter?
 Dialogue: 0,0:11:32.80,0:11:33.99,Default,Nurse,0,0,0,,Hello?
 Dialogue: 0,0:11:33.99,0:11:35.17,Default,Nurse,0,0,0,,{*}Mr. Itadori{*Itadori-san}?!
 Dialogue: 0,0:11:38.44,0:11:39.66,Default,Nurse,0,0,0,,{\i1}Hello?
-Dialogue: 0,0:11:42.20,0:11:45.14,Default,Yuji,0,0,0,,My grandpa... is dead.
+Dialogue: 0,0:11:42.20,0:11:45.14,Default,Yuji,0,0,0,,My grandpa... passed away.
 Comment: 0,0:11:45.14,0:11:45.18,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:12:11.13,0:12:12.08,Default,Nurse,0,0,0,,Okay.
 Dialogue: 0,0:12:12.08,0:12:14.27,Default,Nurse,0,0,0,,That's all of the necessary paperwork.
-Dialogue: 0,0:12:14.27,0:12:16.62,Default,Yuji,0,0,0,,Okay. Thank you for everything.
+Dialogue: 0,0:12:14.27,0:12:16.62,Default,Yuji,0,0,0,,Got it. Thank you for everything.
 Dialogue: 0,0:12:16.62,0:12:18.34,Default,Nurse,0,0,0,,Are you sure you're okay?
 Dialogue: 0,0:12:18.85,0:12:24.80,Default,Yuji,0,0,0,,Well, this is my first time experiencing \Nsomething like this so it hasn't really sunk in yet.
 Dialogue: 0,0:12:24.80,0:12:29.51,Default,Yuji,0,0,0,,But Grandpa would snap if I kept moping around forever.
@@ -432,7 +432,7 @@ Dialogue: 0,0:23:21.38,0:23:23.88,Default,Sukuna,0,0,0,,How are you able to move
 Dialogue: 0,0:23:23.88,0:23:26.42,Default,Yuji,0,0,0,,I mean, it's {\i1}my{\i0} body.
 Dialogue: 0,0:23:27.60,0:23:29.51,Default,Sukuna,0,0,0,,He's suppressing me?
 Dialogue: 0,0:23:30.12,0:23:30.88,Default,Fushiguro,0,0,0,,Don't move.
-Dialogue: 0,0:23:31.49,0:23:33.60,Default,Fushiguro,0,0,0,,You're no longer human.
+Dialogue: 0,0:23:31.49,0:23:33.60,Default,Fushiguro,0,0,0,,You're not human anymore.
 Dialogue: 0,0:23:35.98,0:23:39.18,Default,Fushiguro,0,0,0,,Under Jujutsu regulations, Itadori Yuji,
 Dialogue: 0,0:23:40.05,0:23:43.94,Default,Fushiguro,0,0,0,,I will exorcise you as a curse!
 Comment: 0,0:23:44.99,0:23:45.03,Default,chptr,0,0,0,,{Preview}
