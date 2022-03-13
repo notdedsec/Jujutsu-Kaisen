@@ -49,7 +49,7 @@ Dialogue: 0,0:01:00.33,0:01:04.60,Default,Sukuna,0,0,0,,He had it coming for try
 Dialogue: 0,0:01:04.60,0:01:07.60,Default,Sukuna,0,0,0,,Feels like he's having some trouble switching back.
 Dialogue: 0,0:01:08.86,0:01:12.61,Default,Sukuna,0,0,0,,Still, it's only a matter of time.
 Dialogue: 0,0:01:16.38,0:01:20.68,Default,Sukuna,0,0,0,,So I've been thinking about what I can do right now.
-Dialogue: 0,0:01:28.48,0:01:30.82,Default,Fushiguro,0,0,0,,Wh-What are you—
+Dialogue: 0,0:01:28.48,0:01:30.82,Default,Fushiguro,0,0,0,,Wh-What are you{\fscx180}—{\fscx}
 Dialogue: 0,0:01:37.84,0:01:40.33,Default,Sukuna,0,0,0,,I'm taking this brat hostage.
 Dialogue: 0,0:01:40.33,0:01:41.58,Default,Fushiguro,0,0,0,,What do you mean?
 Dialogue: 0,0:01:41.58,0:01:45.08,Default,Sukuna,0,0,0,,Yeah, because I can live without this no problem
@@ -139,7 +139,7 @@ Dialogue: 0,0:10:02.91,0:10:07.42,Default,Sukuna,0,0,0,,So this is when you star
 Dialogue: 0,0:10:07.42,0:10:09.08,Default,Sukuna,0,0,0,,Now I see.
 Dialogue: 0,0:10:09.08,0:10:12.05,Default,Sukuna,0,0,0,,Well, in that case,
 Dialogue: 0,0:10:12.79,0:10:16.26,Default,Sukuna,0,0,0,,show me what you've got, Fushiguro Megumi!
-Dialogue: 0,0:10:18.98,0:10:23.43,Default,Fushiguro,0,0,0,,Sacred Treasure: Eight-Handled—
+Dialogue: 0,0:10:18.98,0:10:23.43,Default,Fushiguro,0,0,0,,Sacred Treasure: Eight-Handled{\fscx180}—{\fscx}
 Dialogue: 0,0:10:29.52,0:10:31.43,Default,Fushiguro,0,0,0,,Just so you know,
 Dialogue: 0,0:10:32.74,0:10:37.53,Default,Fushiguro,0,0,0,,I didn't have any logical reason for saving you back then.
 Dialogue: 0,0:10:38.70,0:10:43.03,Default,Fushiguro,0,0,0,,Even if it was dangerous, \NI couldn't bear to see a good person like you die.
@@ -301,7 +301,7 @@ Dialogue: 0,0:18:49.13,0:18:51.47,Default,Kugisaki,0,0,0,,Wait, do you have time
 Dialogue: 0,0:18:51.47,0:18:53.94,Default,Kugisaki,0,0,0,,I thought we were short on jujutsu sorcerers.
 Dialogue: 0,0:18:53.94,0:18:57.45,Default,Panda,0,0,0,,That's a good question. For now, we do.
 Dialogue: 0,0:18:58.37,0:19:01.33,Default,Panda,0,0,0,,People's depression often accumulates from winter to spring
-Dialogue: 0,0:19:01.33,0:19:06.17,Default,Panda,0,0,0,,and erupts in summer—transforming into curses—making it our busy season.
+Dialogue: 0,0:19:01.33,0:19:06.17,Default,Panda,0,0,0,,and erupts in summer{\fscx180}—{\fscx}transforming into curses{\fscx180}—{\fscx}making it our busy season.
 Dialogue: 0,0:19:06.17,0:19:08.69,Default,Maki,0,0,0,,Sometimes we're busy all year long,
 Dialogue: 0,0:19:08.69,0:19:10.96,Default,Maki,0,0,0,,but things should be settling down soon.
 Dialogue: 0,0:19:10.96,0:19:12.29,Default,Kugisaki,0,0,0,,Okay...

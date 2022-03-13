@@ -47,8 +47,8 @@ Dialogue: 0,0:00:57.24,0:01:00.50,Default,Haruta,0,0,0,,Come on, I'm just being 
 Dialogue: 0,0:01:00.50,0:01:02.96,Default,Haruta,0,0,0,,I guess a curse wouldn't \Nunderstand such subtleties.
 Dialogue: 0,0:01:11.01,0:01:12.84,Default,Haruta,0,0,0,,So, got the goods?
 Dialogue: 0,0:01:13.98,0:01:15.77,Default,Mahito,0,0,0,,Piece of cake!
-Dialogue: 0,0:01:17.70,0:01:23.22,Default,Mahito,0,0,0,,All six Sukuna's fingers—special-grade cursed objects—that Jujutsu Tech possessed.
-Dialogue: 0,0:01:24.16,0:01:30.74,Default,Mahito,0,0,0,,Along with the first three \NDeath Painting Wombs—also special-grade.
+Dialogue: 0,0:01:17.70,0:01:23.22,Default,Mahito,0,0,0,,All six Sukuna's fingers{\fscx180}—{\fscx}special-grade cursed objects{\fscx180}—{\fscx}that Jujutsu Tech possessed.
+Dialogue: 0,0:01:24.16,0:01:30.74,Default,Mahito,0,0,0,,Along with the first three \NDeath Painting Wombs{\fscx180}—{\fscx}also special-grade.
 Dialogue: 0,0:01:31.86,0:01:36.58,Default,Geto,0,0,0,,Most of the temples at Jujutsu Tech\N are actually just a facade.
 Dialogue: 0,0:01:36.58,0:01:40.70,Default,Geto,0,0,0,,Their positions keep changing \Nevery day thanks to Tengen's barrier.
 Dialogue: 0,0:01:42.42,0:01:47.05,Default,Geto,0,0,0,,Among those, only one of over a thousand doors leads to the storehouse
@@ -86,7 +86,7 @@ Dialogue: 0,0:03:35.92,0:03:40.43,Default,Geto,0,0,0,,but I believe one of the \
 Dialogue: 0,0:03:42.17,0:03:47.46,Default,Geto,0,0,0,,Step on that and in the worst case, \Nall our plans will be blown to smithereens.
 Dialogue: 0,0:03:47.46,0:03:50.86,Default,Jogo,0,0,0,,We should just kidnap Itadori ahead of time.
 Dialogue: 0,0:03:50.86,0:03:52.55,Default,Jogo,0,0,0,,He's just a pawn for us anyway.
-Dialogue: 0,0:03:52.55,0:03:57.09,Default,Geto,0,0,0,,Actually, Itadori—or rather Sukuna himself—is the bomb.
+Dialogue: 0,0:03:52.55,0:03:57.09,Default,Geto,0,0,0,,Actually, Itadori{\fscx180}—{\fscx}or rather Sukuna himself{\fscx180}—{\fscx}is the bomb.
 Dialogue: 0,0:03:57.09,0:04:00.22,Default,Geto,0,0,0,,Both for us and for Jujutsu Tech.
 Dialogue: 0,0:04:04.04,0:04:09.18,Default,Geto,0,0,0,,We shouldn't set it off until the moment we need the most chaos.
 Dialogue: 0,0:04:11.02,0:04:14.69,Default,Geto,0,0,0,,{\fade(0,250)}That is, on October 31st in Shibuya. {HYPE! HYPE! HYPE!}

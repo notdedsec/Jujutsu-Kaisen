@@ -60,7 +60,7 @@ Dialogue: 0,0:02:42.71,0:02:46.49,Default,Nurse,0,0,0,,Oh, please hold on. I'll 
 Dialogue: 0,0:02:49.23,0:02:52.04,Default,Nurse,0,0,0,,{*}Mr. Itadori{*Itadori-san} never uses his call button.
 Dialogue: 0,0:02:52.04,0:02:53.98,Default,Nurse,0,0,0,,It's actually scary that he doesn't.
 Dialogue: 0,0:02:54.33,0:02:56.98,Default,Nurse,0,0,0,,{*}Mr. Itadori{*Itadori-san}, you have a phone call.
-Dialogue: 0,0:02:56.98,0:02:58.95,Default,Nurse,0,0,0,,Yuji{**-kun} is asking if you want him to bring any—
+Dialogue: 0,0:02:56.98,0:02:58.95,Default,Nurse,0,0,0,,Yuji{**-kun} is asking if you want him to bring any{\fscx180}—{\fscx}
 Dialogue: 0,0:02:58.95,0:03:00.20,Default,Grandpa,0,0,0,,Leave me alone!
 Dialogue: 0,0:03:00.20,0:03:01.70,Default,Grandpa,0,0,0,,Tell him not to come!
 Dialogue: 0,0:03:01.70,0:03:03.95,Default,Grandpa,0,0,0,,{\i1}He should go to his club! His club!
@@ -126,7 +126,7 @@ Dialogue: 0,0:05:58.08,0:06:00.23,Default,President,0,0,0,,I'm not here to play 
 Dialogue: 0,0:06:00.23,0:06:03.18,Default,President,0,0,0,,Besides, the problem here is you, Itadori Yuji!
 Dialogue: 0,0:06:03.18,0:06:05.38,Default,President,0,0,0,,You're registered with the track and field club.
 Dialogue: 0,0:06:05.38,0:06:10.05,Default,President,0,0,0,,So this club doesn't even have \Nthe three members required to {\i1}be{\i0} a club!
-Dialogue: 0,0:06:10.31,0:06:10.97,Default,Yuji,0,0,0,,Wha—
+Dialogue: 0,0:06:10.31,0:06:10.97,Default,Yuji,0,0,0,,Wha{\fscx180}—{\fscx}
 Dialogue: 0,0:06:11.10,0:06:12.43,Default,Sasaki,0,0,0,,Itadori
 Dialogue: 0,0:06:12.43,0:06:14.56,Default,Yuji,0,0,0,,No, I'm sure I wrote down the occult club.
 Dialogue: 0,0:06:14.56,0:06:16.56,Default,Takagi,0,0,0,,I rewrote it!
@@ -171,7 +171,7 @@ Dialogue: 0,0:07:59.89,0:08:01.08,Default,Sasaki,0,0,0,,Lame.
 Dialogue: 0,0:08:01.08,0:08:03.34,Default,Yuji,0,0,0,,Hey, can I just throw this however I want?
 Dialogue: 0,0:08:03.34,0:08:06.52,Default,Takagi,0,0,0,,Yep. I won't call any fouls, \Nso throw however you please.
 Dialogue: 0,0:08:06.52,0:08:10.01,Default,Takagi,0,0,0,,I'm sorry, I chose something that isn't your forte.
-Dialogue: 0,0:08:10.01,0:08:11.55,Default,Takagi,0,0,0,,Hopefully this will show you how serious—
+Dialogue: 0,0:08:10.01,0:08:11.55,Default,Takagi,0,0,0,,Hopefully this will show you how serious{\fscx180}—{\fscx}
 Dialogue: 0,0:08:15.57,0:08:19.06,Default,Student,0,0,0,,Uh, roughly thirty meters.
 Dialogue: 0,0:08:19.06,0:08:21.52,Default,Yuji,0,0,0,,All right, I killed it!
 Dialogue: 0,0:08:21.52,0:08:23.83,Default,Sasaki,0,0,0,,Tiger? More like, Gorilla.
@@ -324,7 +324,7 @@ Dialogue: 0,0:16:17.66,0:16:24.00,Cursed,Curse,0,0,0,,What time is it?
 Dialogue: 0,0:16:25.13,0:16:32.05,Cursed,Curse,0,0,0,,The hour hand is at eleven.
 Dialogue: 0,0:16:32.05,0:16:34.08,Default,Sasaki,0,0,0,,{\i1}What is that monster?
 Dialogue: 0,0:16:34.08,0:16:35.81,Default,Iguchi,0,0,0,,S-Sasaki...
-Dialogue: 0,0:16:35.81,0:16:38.77,Default,Sasaki,0,0,0,,Iguchi? Thank goodness! Where have you—
+Dialogue: 0,0:16:35.81,0:16:38.77,Default,Sasaki,0,0,0,,Iguchi? Thank goodness! Where have you{\fscx180}—{\fscx}
 Dialogue: 0,0:16:38.77,0:16:41.92,Default,Iguchi,0,0,0,,Help me...
 Dialogue: 0,0:16:45.47,0:16:48.07,Cursed,Curse,0,0,0,,What time is it?
 Dialogue: 0,0:16:48.43,0:16:50.03,Default,Fushiguro,0,0,0,,{\i1}The curse has been unleashed!

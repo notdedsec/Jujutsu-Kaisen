@@ -91,7 +91,7 @@ Dialogue: 5,0:02:10.40,0:02:11.57,Default,Junpei,0,0,0,,{\fade(120,150)\i1}I'm g
 Dialogue: 5,0:02:12.87,0:02:16.67,Default,Junpei,0,0,0,,You're not as cute as you think you are, Tsubasa{**-san}.
 Dialogue: 5,0:02:18.16,0:02:20.72,Default,Junpei,0,0,0,,These three know that too.
 Dialogue: 5,0:02:20.72,0:02:23.50,Default,Junpei,0,0,0,,The only reason they're fawning over you is
-Dialogue: 5,0:02:24.08,0:02:25.63,Default,Junpei,0,0,0,,because they think you'll let them bang—
+Dialogue: 5,0:02:24.08,0:02:25.63,Default,Junpei,0,0,0,,because they think you'll let them bang{\fscx180}—{\fscx}
 Dialogue: 5,0:02:28.12,0:02:31.63,Default,Mad Doctor,0,0,0,,{\an8}Now to create the perfect human being!
 Dialogue: 5,0:02:30.48,0:02:31.64,Default,Sayama,0,0,0,,It ain't happening.
 Dialogue: 5,0:02:31.64,0:02:33.72,Default,Sayama,0,0,0,,She's not gonna let any of us bang her.
@@ -137,7 +137,7 @@ Dialogue: 5,0:06:42.27,0:06:44.22,Default,Senior Detective,0,0,0,,Just pretend y
 Dialogue: 5,0:06:44.64,0:06:48.01,Default,Senior Detective,0,0,0,,{\fade(0,1000)}Otherwise, you're looking at an early retirement.
 Dialogue: 5,0:06:49.86,0:06:51.11,Default,Nanami,0,0,0,,Can you see it?
 Dialogue: 5,0:06:51.11,0:06:53.52,Default,Nanami,0,0,0,,This is the residual taint of cursed energy.
-Dialogue: 5,0:06:54.69,0:06:55.90,Default,Yuji,0,0,0,,Nope, I can't see anything—
+Dialogue: 5,0:06:54.69,0:06:55.90,Default,Yuji,0,0,0,,Nope, I can't see anything{\fscx180}—{\fscx}
 Dialogue: 5,0:06:55.90,0:06:57.92,Default,Nanami,0,0,0,,That's because you're not trying to see it.
 Dialogue: 5,0:06:57.92,0:07:02.11,Default,Nanami,0,0,0,,We typically see curses as if it's perfectly natural to.
 Dialogue: 5,0:07:02.40,0:07:06.83,Default,Nanami,0,0,0,,When a cursed technique is used, \Nit leaves traces behind. That's what residuals are.
@@ -207,7 +207,7 @@ Dialogue: 5,0:10:13.93,0:10:16.84,Default,Nanami,0,0,0,,There was only one young
 Dialogue: 5,0:10:16.84,0:10:18.84,Default,Yuji,0,0,0,,Then a cursed spirit was behind it?
 Dialogue: 5,0:10:19.53,0:10:21.63,Default,Nanami,0,0,0,,Well, most likely.
 Dialogue: 5,0:10:23.73,0:10:26.89,Default,Nanami,0,0,0,,There's a small chance \Nthe young man could have done it,
-Dialogue: 5,0:10:26.89,0:10:29.52,Default,Nanami,0,0,0,,but identifying him is the police's—
+Dialogue: 5,0:10:26.89,0:10:29.52,Default,Nanami,0,0,0,,but identifying him is the police's{\fscx180}—{\fscx}
 Dialogue: 5,0:10:32.81,0:10:37.12,Cursed,CurseA,0,0,0,,{*}Lunch... Lunch... Lunch... Lunchbox{*Bento... Bento... Bento... Box}!
 Dialogue: 5,0:10:37.85,0:10:38.53,Default,Nanami,0,0,0,,Stop.
 Dialogue: 5,0:10:38.88,0:10:41.14,Default,Nanami,0,0,0,,I'll take care of this one.

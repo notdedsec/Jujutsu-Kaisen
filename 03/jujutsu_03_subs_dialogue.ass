@@ -42,7 +42,7 @@ Dialogue: 0,0:00:09.61,0:00:10.91,Default,Yaga,0,0,0,,You're in.
 Dialogue: 0,0:00:10.91,0:00:12.58,Default,Yaga,0,0,0,,Welcome to Jujutsu Tech.
 Dialogue: 0,0:00:14.37,0:00:17.62,Default,Yuji,0,0,0,,Fushiguro! You're looking good for real this time.
 Dialogue: 0,0:00:17.62,0:00:20.12,Default,Fushiguro,0,0,0,,There were a bunch of \Nother empty rooms, weren't there?
-Dialogue: 0,0:00:20.12,0:00:23.29,Default,Gojo,0,0,0,,I thought it'd be more lively this way, y'know—
+Dialogue: 0,0:00:20.12,0:00:23.29,Default,Gojo,0,0,0,,I thought it'd be more lively this way, y'know{\fscx180}—{\fscx}
 Dialogue: 0,0:00:23.29,0:00:25.38,Default,Fushiguro,0,0,0,,Classes and missions are enough.
 Dialogue: 0,0:00:25.38,0:00:26.76,Default,Fushiguro,0,0,0,,This was an unwelcome favor.
 Dialogue: 0,0:00:26.76,0:00:29.30,Default,Yuji,0,0,0,,Wow, it's so organized in here.
@@ -360,7 +360,7 @@ Dialogue: 0,0:22:52.64,0:22:53.77,Default,Kugisaki,0,0,0,,Hell yeah!
 Dialogue: 0,0:22:53.77,0:22:56.56,Default,Gojo,0,0,0,,Sushi, huh? \NGuess we can go to the usual place in Ginza.
 Dialogue: 0,0:22:56.56,0:22:58.77,Default,Kugisaki,0,0,0,,Ginza, yahoo!
 Dialogue: 0,0:22:58.77,0:23:00.28,Default,Yuji,0,0,0,,I want revolving sushi!
-Dialogue: 0,0:23:01.28,0:23:03.11,Default,Kugisaki,0,0,0,,Ugh! Itadori, you're such a—
+Dialogue: 0,0:23:01.28,0:23:03.11,Default,Kugisaki,0,0,0,,Ugh! Itadori, you're such a{\fscx180}—{\fscx}
 Dialogue: 0,0:23:03.11,0:23:04.78,Default,Kugisaki,0,0,0,,Ugh! Fushiguro, say something to him!
 Dialogue: 0,0:23:04.78,0:23:07.07,Default,Fushiguro,0,0,0,,I'd rather get something\N that tastes good if we're going.
 Dialogue: 0,0:23:07.07,0:23:08.28,Default,Fushiguro,0,0,0,,{*}Mr. Gojo{*Gojo-sensei} is paying, anyway.

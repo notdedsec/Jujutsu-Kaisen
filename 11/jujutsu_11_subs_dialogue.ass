@@ -114,7 +114,7 @@ Dialogue: 5,0:05:34.74,0:05:36.07,Default,Junpei,0,0,0,,You got hit?
 Dialogue: 5,0:05:36.69,0:05:38.19,Default,Junpei,0,0,0,,Honestly, it was.
 Dialogue: 5,0:05:38.72,0:05:40.91,Default,Junpei,0,0,0,,But it {\i1}is{\i0} just a gorefest, after all.
 Dialogue: 5,0:05:40.91,0:05:44.90,Default,Junpei,0,0,0,,Maybe we never should've expected anything from it.
-Dialogue: 5,0:05:45.27,0:05:46.22,Default,Junpei,0,0,0,,But part two—
+Dialogue: 5,0:05:45.27,0:05:46.22,Default,Junpei,0,0,0,,But part two{\fscx180}—{\fscx}
 Dialogue: 5,0:05:46.22,0:05:48.41,Default,Yuji,0,0,0,,But part two was pretty good, right?
 Dialogue: 5,0:05:49.87,0:05:51.70,Default,Junpei,0,0,0,,Yeah! Exactly!
 Dialogue: 5,0:05:51.70,0:05:54.06,Default,Junpei,0,0,0,,It really had some redeemable qualities!
@@ -261,7 +261,7 @@ Dialogue: 5,0:13:07.73,0:13:09.44,Default,Yuji,0,0,0,,Yeah, I'm fine.
 Dialogue: 5,0:13:11.50,0:13:13.57,Default,Yuji,0,0,0,,But we're about to watch a movie.
 Dialogue: 5,0:13:14.35,0:13:15.17,Default,Yuji,0,0,0,,Okay.
 Dialogue: 5,0:13:15.56,0:13:16.73,Default,Yuji,0,0,0,,Two hours from now, then.
-Dialogue: 5,0:13:16.73,0:13:17.61,Default,Ijichi,0,0,0,,{\i1}Two ho—
+Dialogue: 5,0:13:16.73,0:13:17.61,Default,Ijichi,0,0,0,,{\i1}Two ho{\fscx180}—{\fscx}
 Dialogue: 5,0:13:19.26,0:13:21.85,Default,Junpei,0,0,0,,You're a jujutsu sorcerer, right?
 Dialogue: 5,0:13:22.35,0:13:23.12,Default,Yuji,0,0,0,,Yeah.
 Dialogue: 5,0:13:23.61,0:13:25.65,Default,Yuji,0,0,0,,{\i1}Was it okay to tell him that?
@@ -390,13 +390,13 @@ Dialogue: 5,0:20:23.49,0:20:27.89,Default,Sotomura,0,0,0,,Wait, do you know what
 Dialogue: 5,0:20:28.34,0:20:29.34,Default,Junpei,0,0,0,,{*}Teach{*Sensei}.
 Dialogue: 5,0:20:30.77,0:20:32.38,Default,Junpei,0,0,0,,Please remember...
 Dialogue: 5,0:20:33.41,0:20:35.51,Default,Sotomura,0,0,0,,You... Those scars...
-Dialogue: 5,0:20:37.24,0:20:38.04,Default,Sotomura,0,0,0,,That's—
+Dialogue: 5,0:20:37.24,0:20:38.04,Default,Sotomura,0,0,0,,That's{\fscx180}—{\fscx}
 Dialogue: 5,0:20:38.47,0:20:40.13,Default,Junpei,0,0,0,,...everything that's happened,
 Dialogue: 5,0:20:40.52,0:20:42.42,Default,Junpei,0,0,0,,and what's about to happen next.
 Dialogue: 5,0:20:43.06,0:20:44.29,Default,Ito,0,0,0,,Yoshino...
 Dialogue: 5,0:20:46.89,0:20:48.85,Default,Junpei,0,0,0,,I've got a question for you.
 Dialogue: 5,0:20:49.38,0:20:52.85,Default,Junpei,0,0,0,,Are you the one who left that thing in my home?
-Dialogue: 5,0:20:53.88,0:20:55.27,Default,Ito,0,0,0,,What are you—
+Dialogue: 5,0:20:53.88,0:20:55.27,Default,Ito,0,0,0,,What are you{\fscx180}—{\fscx}
 Dialogue: 5,0:20:59.46,0:21:01.82,Default,Ito,0,0,0,,Wh-What is this?
 Dialogue: 5,0:21:01.82,0:21:03.17,Default,Ito,0,0,0,,What the fuck did you do?!
 Dialogue: 5,0:21:04.13,0:21:05.82,Default,Junpei,0,0,0,,Excuse me?

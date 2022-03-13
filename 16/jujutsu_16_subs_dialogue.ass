@@ -290,7 +290,7 @@ Dialogue: 0,0:19:13.22,0:19:17.43,Default,Miwa,0,0,0,,Mechamaru, this is just ob
 Dialogue: 0,0:19:17.43,0:19:20.18,Default,Miwa,0,0,0,,I heard you liked AA Evoltas.
 Dialogue: 0,0:19:20.18,0:19:21.80,Default,Mechamaru,0,0,0,,What exactly do you think I am?
 Dialogue: 0,0:19:21.80,0:19:22.93,Default,Miwa,0,0,0,,Huh?
-Dialogue: 0,0:19:22.93,0:19:24.81,Default,Miwa,0,0,0,,But Mai said—
+Dialogue: 0,0:19:22.93,0:19:24.81,Default,Miwa,0,0,0,,But Mai said{\fscx180}—{\fscx}
 Dialogue: 0,0:19:26.60,0:19:28.31,Default,Mechamaru,0,0,0,,One day...
 Dialogue: 0,0:19:44.58,0:19:48.13,Default,Mechamaru,0,0,0,,{\fade(0,500)}together with everyone...
 Dialogue: 0,0:19:49.92,0:19:51.92,Default,Panda,0,0,0,,Hm? Come again?

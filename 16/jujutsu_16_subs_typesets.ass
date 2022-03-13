@@ -179,7 +179,7 @@ Dialogue: 0,0:08:03.49,0:08:09.91,Signs,,0,0,0,,{\an2\fnDisposableDroid BB\be1\f
 Dialogue: 0,0:08:03.49,0:08:09.91,Signs,,0,0,0,,{\an2\fnDisposableDroid BB\be1\fs38\fscx80\bord0\shad0\1c&H464646&\pos(1002,683)}Semi\NSecond\NGrade
 Dialogue: 0,0:08:03.49,0:08:09.91,Signs,,0,0,0,,{\an2\fnDisposableDroid BB\be1\fs38\fscx80\bord0\shad0\1c&H464646&\pos(1000,830)}Third\NGrade
 Dialogue: 0,0:08:03.49,0:08:09.91,Signs,,0,0,0,,{\an2\fnDisposableDroid BB\be1\fs38\fscx80\bord0\shad0\1c&H464646&\pos(1002,1003)\iclip(m 854 825 b 912 869 968 863 1082 1004 1263 1137 952 1161 792 1072 766 1037 714 968 688 934)}Semi\NThird\NGrade
-Dialogue: 1,0:20:27.12,0:20:32.50,Signs,Screen,0,0,0,,{\fad(900,0)\fnRagnar\b1\fs55\pos(960,909)\c&H000000&}Kyoto Sister School Exchange Event Team Battle\N{\fs83}Ultimate Mechamaru — Retired
+Dialogue: 1,0:20:27.12,0:20:32.50,Signs,Screen,0,0,0,,{\fad(900,0)\fnRagnar\b1\fs55\pos(960,909)\c&H000000&}Kyoto Sister School Exchange Event Team Battle\N{\fs83}Ultimate Mechamaru {\fscx180}—{\fscx} Retired
 Dialogue: 0,0:20:27.12,0:20:32.50,Signs,Screen,0,0,0,,{\fad(500,0)\bord4\an5\pos(960,906)\1c&HFDFEFE&\p1}m 0 160 l 1000 160 1000 0 0 0 0 160
 Dialogue: 0,0:22:15.02,0:22:17.52,Signs,Screen,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
 Dialogue: 0,0:23:51.54,0:23:55.74,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1200,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 17{\fs70}\NKyoto Sister School Exchange Event - Team Battle 3

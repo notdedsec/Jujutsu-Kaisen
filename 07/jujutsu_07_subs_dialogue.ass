@@ -80,7 +80,7 @@ Dialogue: 0,0:04:48.10,0:04:51.84,Default,Jogo,0,0,0,,Now that I've seen it for 
 Dialogue: 0,0:04:51.84,0:04:55.06,Default,Jogo,0,0,0,,He was just as weak as the rest.
 Dialogue: 0,0:04:55.48,0:04:57.76,Default,Jogo,0,0,0,,He wasn't living a life of truth.
 Dialogue: 0,0:04:57.76,0:05:00.53,Default,Jogo,0,0,0,,It's all so nauseatingly repulsive.
-Dialogue: 0,0:05:00.53,0:05:06.46,Default,Jogo,0,0,0,,I'll spread real strength—the truth—through death.
+Dialogue: 0,0:05:00.53,0:05:06.46,Default,Jogo,0,0,0,,I'll spread real strength{\fscx180}—{\fscx}the truth{\fscx180}—{\fscx}through death.
 Dialogue: 0,0:05:06.95,0:05:10.45,Default,Gojo,0,0,0,,Didn't we go over this just a moment ago?
 Dialogue: 0,0:05:10.87,0:05:12.21,Default,Gojo,0,0,0,,When are you gonna learn?
 Dialogue: 0,0:05:12.21,0:05:12.95,Default,Gojo,0,0,0,,Ugh, this smoke.
@@ -143,7 +143,7 @@ Dialogue: 0,0:09:12.74,0:09:16.70,Default,Gojo,0,0,0,,{\i1}We should up his outp
 Dialogue: 0,0:09:17.04,0:09:18.63,Default,Gojo,0,0,0,,We're heading out, Yuji.
 Dialogue: 0,0:09:18.63,0:09:19.45,Default,Yuji,0,0,0,,Huh?
 Dialogue: 0,0:09:19.45,0:09:21.42,Default,Gojo,0,0,0,,It's an extracurricular lesson.
-Dialogue: 0,0:09:21.42,0:09:27.23,Default,Gojo,0,0,0,,I'll teach you about the pinnacle of jujutsu battles—Domain Expansion.
+Dialogue: 0,0:09:21.42,0:09:27.23,Default,Gojo,0,0,0,,I'll teach you about the pinnacle of jujutsu battles{\fscx180}—{\fscx}Domain Expansion.
 Dialogue: 0,0:09:31.76,0:09:34.88,Default,Yuji,0,0,0,,Why aren't we sinking?!
 Dialogue: 0,0:09:34.88,0:09:39.66,Default,Yuji,0,0,0,,Weren't we at the school just ten seconds ago?
 Dialogue: 0,0:09:39.66,0:09:40.77,Default,Yuji,0,0,0,,What's going on here?
@@ -202,7 +202,7 @@ Dialogue: 0,0:13:09.95,0:13:12.77,Default,Gojo,0,0,0,,You can hit it with a curs
 Dialogue: 0,0:13:13.66,0:13:15.88,Default,Gojo,0,0,0,,I don't really recommend this next one,
 Dialogue: 0,0:13:16.59,0:13:18.86,Default,Gojo,0,0,0,,but you can run away, outside the Domain.
 Dialogue: 0,0:13:18.86,0:13:19.90,Default,Gojo,0,0,0,,Pretty much impossible.
-Dialogue: 0,0:13:20.24,0:13:21.18,Default,Gojo,0,0,0,,You can also—
+Dialogue: 0,0:13:20.24,0:13:21.18,Default,Gojo,0,0,0,,You can also{\fscx180}—{\fscx}
 Dialogue: 0,0:13:21.18,0:13:25.49,Default,Jogo,0,0,0,,If I neutralize that Infinity of yours with my Domain,
 Dialogue: 0,0:13:25.49,0:13:27.62,Default,Jogo,0,0,0,,my techniques will reach you, right?
 Dialogue: 0,0:13:27.62,0:13:29.37,Default,Gojo,0,0,0,,Yep, they'll hit.
@@ -309,7 +309,7 @@ Dialogue: 0,0:18:23.83,0:18:26.25,Default,Yuji,0,0,0,,{\an8\fs55\bord2.5}but you
 Dialogue: 0,0:18:21.07,0:18:24.54,Default,Gojo,0,0,0,,So the high-level curses of are forming a faction now?
 Dialogue: 0,0:18:24.54,0:18:26.25,Default,Gojo,0,0,0,,This is getting interesting.
 Dialogue: 0,0:18:26.69,0:18:27.78,Default,Gojo,0,0,0,,Yuji,
-Dialogue: 0,0:18:27.78,0:18:32.66,Default,Gojo,0,0,0,,I want you—or more like, everyone—to become strong enough to beat that.
+Dialogue: 0,0:18:27.78,0:18:32.66,Default,Gojo,0,0,0,,I want you{\fscx180}—{\fscx}or more like, everyone{\fscx180}—{\fscx}to become strong enough to beat that.
 Dialogue: 0,0:18:33.01,0:18:35.17,Default,Yuji,0,0,0,,Beat {\i1}that{\i0}, huh?
 Dialogue: 0,0:18:35.17,0:18:38.06,Default,Gojo,0,0,0,,Don't you think it's better to set a concrete goal?
 Dialogue: 0,0:18:38.06,0:18:41.01,Default,Gojo,0,0,0,,Man, I'm glad I brought you here!

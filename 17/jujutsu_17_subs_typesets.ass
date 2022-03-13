@@ -37,7 +37,7 @@ Comment: 0,0:05:25.13,0:05:28.72,Signs,Screen,0,0,0,,{\t(2364,2404,1 \c&HE1E5F0&
 Comment: 0,0:05:28.72,0:05:32.43,Signs,Screen,0,0,0,,{\t(1819,1859,1 \c&HFAF3ED&\3c&H88653B&)\pos(966,478)\c&H000000&}Kyoto
 Comment: 0,0:05:35.93,0:05:38.40,Signs,Screen,0,0,0,,{\fad(280,1)\3c&H241FD8&\blur2}Tokyo
 Dialogue: 0,0:20:40.43,0:20:45.01,Signs,Screen,0,0,0,,{\an5\1c&H000000&\p1\pos(962.47,539.94)}m 0 1000 l 1800 1000 1800 0 0 0 0 1000
-Dialogue: 1,0:20:41.18,0:20:45.01,Signs,Screen,0,0,0,,{\fad(550,0)\fnRagnar\fs66\c&HFFFFFF&\pos(666,936)}Kyoto Sister School Exchange Event Team Battle\N{\fs75}Zenin Mai and Kugisaki Nobara — Retired
+Dialogue: 1,0:20:41.18,0:20:45.01,Signs,Screen,0,0,0,,{\fad(550,0)\fnRagnar\fs66\c&HFFFFFF&\pos(666,936)}Kyoto Sister School Exchange Event Team Battle\N{\fs75}Zenin Mai and Kugisaki Nobara {\fscx180}—{\fscx} Retired
 Dialogue: 0,0:22:15.02,0:22:17.52,Signs,Screen&Three,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
 Comment: 0,0:22:49.93,0:22:56.68,Signs,Cup,0,0,0,,{\b1\fs14\c&H62CEDC&\3c&HA2774A&\shad0\pos(320.667,270.667)}Seafood
 Comment: 0,0:22:58.31,0:23:00.69,Signs,,0,0,0,,{\fad(275,1)\pos(164,190)\fs16\c&H383733&\3c&HAEA5A6&\bord1\shad0\frz20.54}Hot\NChili\NPepper

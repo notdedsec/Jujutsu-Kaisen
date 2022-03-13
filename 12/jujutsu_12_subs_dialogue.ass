@@ -104,7 +104,7 @@ Dialogue: 5,0:06:53.01,0:06:55.47,Default,Yuji,0,0,0,,throwing away that life yo
 Dialogue: 5,0:06:59.29,0:07:01.78,Default,Yuji,0,0,0,,The human heart is a delusion?
 Dialogue: 5,0:07:02.17,0:07:04.28,Default,Yuji,0,0,0,,Can you say that in front of her?!
 Dialogue: 5,0:07:06.09,0:07:08.83,Default,Junpei,0,0,0,,People don't have hearts.
-Dialogue: 5,0:07:09.16,0:07:10.04,Default,Yuji,0,0,0,,You're still—
+Dialogue: 5,0:07:09.16,0:07:10.04,Default,Yuji,0,0,0,,You're still{\fscx180}—{\fscx}
 Dialogue: 5,0:07:10.04,0:07:11.02,Default,Junpei,0,0,0,,They don't!
 Dialogue: 5,0:07:12.35,0:07:13.77,Default,Junpei,0,0,0,,Otherwise...
 Dialogue: 5,0:07:15.50,0:07:16.61,Default,Junpei,0,0,0,,Otherwise...
@@ -185,7 +185,7 @@ Dialogue: 5,0:13:19.27,0:13:20.82,Default,Mahito,0,0,0,,Guess that's how it goes
 Dialogue: 5,0:13:24.69,0:13:26.42,Default,Mahito,0,0,0,,{\i1}That was an unusual attack.
 Dialogue: 5,0:13:26.42,0:13:27.76,Default,Mahito,0,0,0,,{\i1}Interesting!
 Dialogue: 5,0:13:27.76,0:13:30.46,Default,Mahito,0,0,0,,Too bad that won't work on me.
-Dialogue: 5,0:13:30.46,0:13:32.76,Default,Mahito,0,0,0,,As long as I maintain the shape of my—
+Dialogue: 5,0:13:30.46,0:13:32.76,Default,Mahito,0,0,0,,As long as I maintain the shape of my{\fscx180}—{\fscx}
 Dialogue: 5,0:13:36.83,0:13:38.13,Default,Mahito,0,0,0,,{\i1}What's going on?!
 Dialogue: 5,0:13:41.22,0:13:43.96,Default,Mahito,0,0,0,,{\i1}Did he somehow hit my soul?
 Dialogue: 5,0:13:45.50,0:13:46.94,Default,Mahito,0,0,0,,{\i1}That's it!

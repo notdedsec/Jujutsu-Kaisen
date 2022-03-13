@@ -166,12 +166,12 @@ Dialogue: 0,0:08:11.30,0:08:14.06,Default,Yuji,0,0,0,,Then why did you save me?!
 Dialogue: 0,0:08:15.89,0:08:17.06,Default,Kugisaki,0,0,0,,Cut it out!
 Dialogue: 0,0:08:17.48,0:08:20.80,Default,Kugisaki,0,0,0,,Christ, what are you two doing?!
 Dialogue: 0,0:08:20.80,0:08:22.23,Default,Kugisaki,0,0,0,,Have you both totally lost it?
-Dialogue: 0,0:08:22.23,0:08:25.23,Default,Kugisaki,0,0,0,,This isn't the time or the place—
+Dialogue: 0,0:08:22.23,0:08:25.23,Default,Kugisaki,0,0,0,,This isn't the time or the place{\fscx180}—{\fscx}
 Dialogue: 0,0:08:26.94,0:08:28.69,Default,Yuji,0,0,0,,Kugisaki?
 Dialogue: 0,0:08:28.69,0:08:31.95,Default,Fushiguro,0,0,0,,{\i1}No way! My Divine Dogs should've sensed the curse!
 Dialogue: 0,0:08:35.47,0:08:36.41,Default,Fushiguro,0,0,0,,Itadori!
 Dialogue: 0,0:08:37.24,0:08:38.46,Default,Fushiguro,0,0,0,,We're running!
-Dialogue: 0,0:08:38.46,0:08:41.33,Default,Fushiguro,0,0,0,,We'll search for Kugisaki la—
+Dialogue: 0,0:08:38.46,0:08:41.33,Default,Fushiguro,0,0,0,,We'll search for Kugisaki la{\fscx180}—{\fscx}
 Dialogue: 0,0:08:46.59,0:08:49.69,Default,Fushiguro,0,0,0,,{\i1}There's no mistake. It's a special-grade.
 Dialogue: 0,0:08:49.69,0:08:50.80,Default,Fushiguro,0,0,0,,{\i1}I can't move.
 Dialogue: 0,0:08:51.39,0:08:52.62,Default,Yuji,0,0,0,,{\i1}Move it.
@@ -225,7 +225,7 @@ Dialogue: 0,0:12:00.62,0:12:03.91,Default,Yuji,0,0,0,,Easier to move around in y
 Dialogue: 0,0:12:03.91,0:12:05.79,Default,Yuji,0,0,0,,{\i1}What do I do, though?
 Dialogue: 0,0:12:05.79,0:12:08.78,Default,Yuji,0,0,0,,{\i1}I have no clue how to use cursed energy.
 Dialogue: 0,0:12:08.78,0:12:10.51,Default,Yuji,0,0,0,,{\i1}But that's okay for now.
-Dialogue: 0,0:12:10.51,0:12:11.79,Default,Yuji,0,0,0,,{\i1}I just have to buy ti—
+Dialogue: 0,0:12:10.51,0:12:11.79,Default,Yuji,0,0,0,,{\i1}I just have to buy ti{\fscx180}—{\fscx}
 Dialogue: 0,0:12:18.03,0:12:21.12,Default,Yuji,0,0,0,,{\i1}What was that? A cursed energy barrier?
 Dialogue: 0,0:13:00.99,0:13:02.92,Default,Yuji,0,0,0,,{\i1}Ow, ow, ow.
 Dialogue: 0,0:13:02.92,0:13:05.39,Default,Yuji,0,0,0,,{\i1}It hurts, it hurts, it hurts!

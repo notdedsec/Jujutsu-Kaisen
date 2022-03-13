@@ -149,7 +149,7 @@ Dialogue: 0,0:10:49.87,0:10:52.33,Default,Todo,0,0,0,,T-Takada{**-chan}?!
 Dialogue: 0,0:10:53.94,0:10:57.89,Default,Takada,0,0,0,,You remember Fushiguro{**-kun}'s injuries?
 Dialogue: 0,0:10:57.89,0:10:59.64,Default,Todo,0,0,0,,Of course I do!
 Dialogue: 0,0:10:59.64,0:11:02.81,Default,Todo,0,0,0,,Those are the same cursed buds that are coming for me as we speak!
-Dialogue: 0,0:11:02.81,0:11:03.93,Default,Todo,0,0,0,,That's exactly why—
+Dialogue: 0,0:11:02.81,0:11:03.93,Default,Todo,0,0,0,,That's exactly why{\fscx180}—{\fscx}
 Dialogue: 0,0:11:03.93,0:11:05.45,Default,Takada,0,0,0,,But think about it:
 Dialogue: 0,0:11:05.45,0:11:09.17,Default,Takada,0,0,0,,Fushiguro{**-kun}'s buds had grown a little.
 Dialogue: 0,0:11:12.94,0:11:16.41,Default,Takada,0,0,0,,You think it grew by sucking his blood?
@@ -166,13 +166,13 @@ Dialogue: 0,0:11:53.35,0:11:55.86,Default,Todo,0,0,0,,I'll have to thank her the
 Dialogue: 0,0:11:56.35,0:11:57.52,Default,Todo,0,0,0,,won't I?
 Dialogue: 0,0:12:07.00,0:12:08.98,Default,Todo,0,0,0,,{\i1}Hey, special-grade!
 Dialogue: 0,0:12:09.96,0:12:14.32,Default,Todo,0,0,0,,{\i1}I know you've realized I didn't tell you the whole truth.
-Dialogue: 0,0:12:14.90,0:12:19.21,Default,Todo,0,0,0,,{\i1}But there's one more thing you need to think about:{or dash "—"}
+Dialogue: 0,0:12:14.90,0:12:19.21,Default,Todo,0,0,0,,{\i1}But there's one more thing you need to think about:{or dash "{\fscx180}—{\fscx}"}
 Dialogue: 0,0:12:19.59,0:12:22.62,Default,Todo,0,0,0,,{\i1}What counts as a target for Boogie Woogie!
 Dialogue: 0,0:12:23.87,0:12:27.27,Default,Todo,0,0,0,,{\i1}What can I swap within the range of my technique?
 Dialogue: 0,0:12:27.27,0:12:28.94,Default,Todo,0,0,0,,{\i1}Only living things?
 Dialogue: 0,0:12:28.94,0:12:30.23,Default,Todo,0,0,0,,{\i1}Non!{why suddenly french. it's just engrish.}
 Dialogue: 0,0:12:30.23,0:12:34.38,Default,Todo,0,0,0,,{\i1}My technique works on cursed corpses \Nand inanimate objects as well.
-Dialogue: 0,0:12:34.38,0:12:36.40,Default,Todo,0,0,0,,{\i1}So, the answer is:{or —}
+Dialogue: 0,0:12:34.38,0:12:36.40,Default,Todo,0,0,0,,{\i1}So, the answer is:{or {\fscx180}—{\fscx}}
 Dialogue: 0,0:12:36.97,0:12:40.11,Default,Todo,0,0,0,,{\i1}Anything that possesses \Ncursed energy above a certain level!
 Dialogue: 0,0:12:43.06,0:12:45.94,Default,Todo,0,0,0,,{\i1}Tell me, special-grade, have you noticed?
 Dialogue: 0,0:12:46.58,0:12:50.49,Default,Todo,0,0,0,,{\fade(120,0)\i1}We're back at that spot again.
@@ -194,7 +194,7 @@ Dialogue: 0,0:14:24.19,0:14:25.48,Default,Todo,0,0,0,,Stay away, Brother!
 Dialogue: 0,0:14:25.48,0:14:27.83,Default,Todo,0,0,0,,It's gonna be an incredible blast of cursed energy!
 Dialogue: 0,0:14:27.83,0:14:33.07,Default,Hanami,0,0,0,,But you can easily avoid it with your technique.
 Dialogue: 0,0:14:33.07,0:14:35.47,Default,Hanami,0,0,0,,Whatever shall I do now?
-Dialogue: 0,0:14:36.56,0:14:37.52,Default,Hanami,0,0,0,,Domain Ex—
+Dialogue: 0,0:14:36.56,0:14:37.52,Default,Hanami,0,0,0,,Domain Ex{\fscx180}—{\fscx}
 Dialogue: 0,0:14:40.96,0:14:42.10,Default,Yuji,0,0,0,,The veil's broken?!
 Dialogue: 0,0:15:09.53,0:15:11.57,Default,Kumiya,0,0,0,,{\i1}I see.
 Dialogue: 0,0:15:11.57,0:15:15.10,Default,Kumiya,0,0,0,,{\i1}I thought he sounded pretty good without an amp,
