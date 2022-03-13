@@ -20,10 +20,10 @@ Audio File: jujutsu_04_premux.mkv
 Video File: jujutsu_04_premux.mkv
 Keyframes File: jujutsu_04_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 542
-Active Line: 551
-Video Position: 1618
+Video Zoom Percent: 0.750000
+Scroll Position: 610
+Active Line: 618
+Video Position: 1888
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -77,9 +77,7 @@ Dialogue: 1,0:01:08.79,0:01:08.84,bord-g,,0,0,0,,{=59}{\fscx99.64\fscy99.64\frz0
 Dialogue: 1,0:01:08.84,0:01:08.88,bord-g,,0,0,0,,{=59}{\fscx99.59\fscy99.59\frz0.15\alpha&H00&\pos(343.766,262.125)\3c&HCBD452&\blur1}Third Grade
 Dialogue: 1,0:01:08.88,0:01:08.92,bord-g,,0,0,0,,{=59}{\fscx99.58\fscy99.58\frz0.16\alpha&H00&\pos(343.925,224.775)\3c&HCBD452&\blur1}Third Grade
 Dialogue: 1,0:01:08.92,0:01:08.96,bord-g,,0,0,0,,{=59}{\fscx99.56\fscy99.56\frz0.17\alpha&H00&\pos(344.128,187.425)\3c&HCBD452&\blur1}Third Grade
-Dialogue: 1,0:01:08.96,0:01:13.76,bord-g,,0,0,0,,{=59}{\fscx99.54\fscy99.54\frz0.18\alpha&H00&\pos(344.309,150.075)\3c&HCBD452&\blur1}Third Grade
-Dialogue: 1,0:01:13.67,0:01:13.72,bord-g,,0,0,0,,{=59}{\fscx99.54\fscy99.54\frz0.18\alpha&H00&\pos(344.309,150.075)\3c&HCBD452&\blur1}Third Grade
-Dialogue: 1,0:01:13.72,0:01:13.76,bord-g,,0,0,0,,{=59}{\fscx99.54\fscy99.54\frz0.18\alpha&H00&\pos(344.309,150.075)\3c&HCBD452&\blur1}Third Grade
+Dialogue: 1,0:01:08.96,0:01:13.76,bord-y,,0,0,0,,{=59}{\fscx99.54\fscy99.54\frz0.18\alpha&H00&\pos(344.309,150.075)\3c&HCBD452&\blur1}Third Grade
 Dialogue: 1,0:01:13.76,0:01:13.80,bord-g,,0,0,0,,{=59}{\fscx99.52\fscy99.52\frz0.19\alpha&H00&\pos(344.491,120.578)\3c&HCBD452&\blur1}Third Grade
 Dialogue: 1,0:01:13.80,0:01:13.84,bord-g,,0,0,0,,{=59}{\fscx99.52\fscy99.52\frz0.18\alpha&H00&\pos(344.626,91.013)\3c&HCBD452&\blur1}Third Grade
 Dialogue: 1,0:01:13.84,0:01:13.88,bord-g,,0,0,0,,{=59}{\fscx99.51\fscy99.51\frz0.19\alpha&H00&\pos(344.808,61.447)\3c&HCBD452&\blur1}Third Grade
@@ -316,7 +314,7 @@ Dialogue: 1,0:01:08.71,0:01:08.75,mask2,,0,0,0,,{=74}{\fscx100.08\fscy100.08\frz
 Dialogue: 1,0:01:08.71,0:01:08.75,mask2,,0,0,0,,{=61}{\fscx99.72\fscy99.72\frz0.09\alpha&H00&\pos(345.01,131.49)\blur1}A wooden bat would be enough
 Dialogue: 1,0:01:08.71,0:01:08.75,mask2,,0,0,0,,{=58}{\fscx99.72\fscy99.72\frz0.09\alpha&H00&\pos(346.29,434.46)\q2\blur1}You can rest easy with a handgun
 Dialogue: 0,0:01:08.75,0:01:08.79,mask2,,0,0,0,,{=85}{\frz0.04\alpha&H00&\an7\blur2.25\bord0\shad0\fscx99.78\fscy99.78\p1\c&HE7CB5C&\pos(640.8,33.3)}m -339.625 -45 l -360 36 360 33.75 387.125 -45
-Dialogue: 0,0:01:08.75,0:01:08.79,mask2,,0,0,0,,{=60}{\frz0.11\alpha&H00&\an7\blur2.25\bord0\shad0\fscx99.69\fscy99.69\pos(540.294,114.683)\p1\c&HFFFEFD&}m -208.25 -22.5 l 212.875 -22.5 212.875 40.5 -208.25 40.5
+Dialogue: 0,0:01:08.75,0:01:08.79,mask2,,0,0,0,,{=60}{\frz0.11\alpha&H00&\an7\blur2.25\bord0\shad0\fscx99.69\fscy99.69\pos(540.294,114.683)\p1\c&HF5F4F4&}m -208.25 -22.5 l 212.875 -22.5 212.875 40.5 -208.25 40.5
 Dialogue: 0,0:01:08.75,0:01:08.79,mask2,,0,0,0,,{=57}{\frz0.11\alpha&H00&\an7\blur2.25\bord0\shad0\p1\c&HFEFCFD&\pos(614.604,405.63)\fscx134.58\fscy101.68}m -208.25 -22.5 l 212.875 -22.5 212.875 40.5 -208.25 40.5
 Dialogue: 0,0:01:08.75,0:01:08.79,mask2,,0,0,0,,{=66}{\frz-0.07\alpha&H00&\an7\blur2.25\bord0\shad0\fscx100.15\fscy100.15\p1\c&HFFFEFD&\pos(522.747,751.095)}m -208.25 -22.5 l 212.875 -22.5 212.875 40.5 -208.25 40.5
 Dialogue: 0,0:01:08.75,0:01:08.79,mask2,,0,0,0,,{=76}{\frz-0.04\alpha&H00&\an7\blur2.25\bord0\shad0\fscx100.07\fscy100.07\p1\c&H606CE9&\pos(549.442,1003.298)}m -208.25 -22.5 l 212.875 -22.5 212.875 40.5 -208.25 40.5
@@ -336,7 +334,7 @@ Dialogue: 1,0:01:08.79,0:01:08.84,mask2,,0,0,0,,{=74}{\fscx100.05\fscy100.05\frz
 Dialogue: 1,0:01:08.79,0:01:08.84,mask2,,0,0,0,,{=61}{\fscx99.64\fscy99.64\frz0.13\alpha&H00&\pos(345.21,57.31)\blur1}A wooden bat would be enough
 Dialogue: 1,0:01:08.79,0:01:08.84,mask2,,0,0,0,,{=58}{\fscx99.64\fscy99.64\frz0.13\alpha&H00&\pos(346.72,360.03)\q2\blur1}You can rest easy with a handgun
 Dialogue: 0,0:01:08.84,0:01:08.88,mask2,,0,0,0,,{=85}{\frz0.06\alpha&H00&\an7\blur2.25\bord0\shad0\fscx99.7\fscy99.7\p1\c&HE7CB5C&\pos(640.845,-41.175)}m -339.625 -45 l -360 36 360 33.75 387.125 -45
-Dialogue: 0,0:01:08.84,0:01:08.88,mask2,,0,0,0,,{=60}{\frz0.15\alpha&H00&\an7\blur2.25\bord0\shad0\fscx99.59\fscy99.59\pos(540.385,40.523)\p1\c&HFFFEFD&}m -208.25 -22.5 l 212.875 -22.5 212.875 40.5 -208.25 40.5
+Dialogue: 0,0:01:08.84,0:01:08.88,mask2,,0,0,0,,{=60}{\frz0.15\alpha&H00&\an7\blur2.25\bord0\shad0\fscx99.59\fscy99.59\pos(540.385,40.523)\p1\c&HF5F4F4&}m -208.25 -22.5 l 212.875 -22.5 212.875 40.5 -208.25 40.5
 Dialogue: 0,0:01:08.84,0:01:08.88,mask2,,0,0,0,,{=57}{\frz0.15\alpha&H00&\an7\blur2.25\bord0\shad0\p1\c&HFEFCFD&\pos(614.853,331.132)\fscx134.45\fscy101.58}m -208.25 -22.5 l 212.875 -22.5 212.875 40.5 -208.25 40.5
 Dialogue: 0,0:01:08.84,0:01:08.88,mask2,,0,0,0,,{=66}{\frz-0.03\alpha&H00&\an7\blur2.25\bord0\shad0\fscx100.05\fscy100.05\p1\c&HFFFEFD&\pos(523.358,676.327)}m -208.25 -22.5 l 212.875 -22.5 212.875 40.5 -208.25 40.5
 Dialogue: 0,0:01:08.84,0:01:08.88,mask2,,0,0,0,,{=76}{\frz-0.03\alpha&H00&\an7\blur2.25\bord0\shad0\fscx100.05\fscy100.05\p1\c&H606CE9&\pos(549.555,928.418)}m -208.25 -22.5 l 212.875 -22.5 212.875 40.5 -208.25 40.5
@@ -583,46 +581,26 @@ Dialogue: 1,0:01:18.89,0:01:18.93,mask2,,0,0,0,,{=82}{\fscy100\frz0\alpha&H00&\q
 Dialogue: 1,0:01:18.93,0:01:19.01,mask2,,0,0,0,,{=82}{\fscy100\frz0\alpha&H00&\q2\pos(335.96,680.02)\fscx90\blur1}Maybe on even footing with carpet bombing of cluster bombs
 Dialogue: 1,0:01:19.01,0:01:19.05,mask2,,0,0,0,,{=82}{\fscy100\frz0\alpha&H00&\q2\pos(335.98,679.99)\fscx90\blur1}Maybe on even footing with carpet bombing of cluster bombs
 Dialogue: 1,0:01:19.05,0:01:19.10,mask2,,0,0,0,,{=82}{\fscy100\frz0\alpha&H00&\q2\pos(335.96,680.02)\fscx90\blur1}Maybe on even footing with carpet bombing of cluster bombs
-Dialogue: 1,0:00:58.70,0:01:08.21,mask3,,0,0,0,,{\blur1\fs60.5\c&H5F5F69&\pos(305.187,189.333)\clip(636,189,1259,254)}Conventional {\blur1.28}weapons{\blur1} against cursed spirits
-Dialogue: 1,0:00:58.70,0:01:08.21,mask3,,0,0,0,,{\blur1.5\fs60.5\c&H5F5F69&\pos(305.187,189.333)\clip(233,171,634,259)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.21,0:01:08.25,mask3,,0,0,0,,{=72}{\fscx100\fscy100\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.185,189.338)\clip(636,189,1259,254)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.21,0:01:08.25,mask3,,0,0,0,,{=73}{\fscx100\fscy100\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.185,189.338)\clip(233,171,634,259)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.25,0:01:08.29,mask3,,0,0,0,,{=72}{\fscx99.99\fscy99.99\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.162,151.965)\clip(636,153,1259,216)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.25,0:01:08.29,mask3,,0,0,0,,{=73}{\fscx99.99\fscy99.99\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.162,151.965)\clip(233,135,634,221)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.29,0:01:08.33,mask3,,0,0,0,,{=72}{\fscx99.97\fscy99.97\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.162,114.728)\clip(636,115,1259,180)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.29,0:01:08.33,mask3,,0,0,0,,{=73}{\fscx99.97\fscy99.97\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.162,114.728)\clip(233,97,634,182)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.33,0:01:08.38,mask3,,0,0,0,,{=72}{\fscx99.95\fscy99.95\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.162,77.468)\clip(636,79,1259,142)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.33,0:01:08.38,mask3,,0,0,0,,{=73}{\fscx99.95\fscy99.95\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.162,77.468)\clip(233,61,634,146)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.38,0:01:08.42,mask3,,0,0,0,,{=72}{\fscx99.95\fscy99.95\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.14,40.072)\clip(636,41,1259,104)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.38,0:01:08.42,mask3,,0,0,0,,{=73}{\fscx99.95\fscy99.95\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.14,40.072)\clip(233,23,634,108)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.42,0:01:08.46,mask3,,0,0,0,,{=72}{\fscx99.97\fscy99.97\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.072,2.52)\clip(636,2,1259,68)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.42,0:01:08.46,mask3,,0,0,0,,{=73}{\fscx99.97\fscy99.97\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.072,2.52)\clip(233,-12,634,72)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.46,0:01:08.50,mask3,,0,0,0,,{=72}{\fscx99.96\fscy99.96\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.117,-34.83)\clip(636,-30,1259,29)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.46,0:01:08.50,mask3,,0,0,0,,{=73}{\fscx99.96\fscy99.96\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.117,-34.83)\clip(233,-48,634,34)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.50,0:01:08.54,mask3,,0,0,0,,{=72}{\fscx99.95\fscy99.95\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.185,-72.112)\clip(636,-68,1259,-3)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.50,0:01:08.54,mask3,,0,0,0,,{=73}{\fscx99.95\fscy99.95\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.185,-72.112)\clip(233,-86,634,0)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.54,0:01:08.59,mask3,,0,0,0,,{=72}{\fscx99.92\fscy99.92\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.253,-109.305)\clip(636,-104,1259,-41)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.54,0:01:08.59,mask3,,0,0,0,,{=73}{\fscx99.92\fscy99.92\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.253,-109.305)\clip(233,-122,634,-36)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.59,0:01:08.63,mask3,,0,0,0,,{=72}{\fscx99.9\fscy99.9\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.343,-146.52)\clip(636,-142,1259,-79)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.59,0:01:08.63,mask3,,0,0,0,,{=73}{\fscx99.9\fscy99.9\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.343,-146.52)\clip(233,-160,634,-75)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.63,0:01:08.67,mask3,,0,0,0,,{=72}{\fscx99.86\fscy99.86\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.411,-183.555)\clip(636,-178,1259,-115)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.63,0:01:08.67,mask3,,0,0,0,,{=73}{\fscx99.86\fscy99.86\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.411,-183.555)\clip(233,-196,634,-111)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.67,0:01:08.71,mask3,,0,0,0,,{=72}{\fscx99.81\fscy99.81\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.457,-220.433)\clip(636,-216,1259,-151)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.67,0:01:08.71,mask3,,0,0,0,,{=73}{\fscx99.81\fscy99.81\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.457,-220.433)\clip(233,-234,634,-149)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.71,0:01:08.75,mask3,,0,0,0,,{=72}{\fscx99.75\fscy99.75\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.366,-257.243)\clip(636,-252,1259,-189)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.71,0:01:08.75,mask3,,0,0,0,,{=73}{\fscx99.75\fscy99.75\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.366,-257.243)\clip(233,-270,634,-185)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.75,0:01:08.79,mask3,,0,0,0,,{=72}{\fscx99.72\fscy99.72\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.321,-294.277)\clip(636,-291,1259,-225)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.75,0:01:08.79,mask3,,0,0,0,,{=73}{\fscx99.72\fscy99.72\frz0\alpha&H00&\blur4.252\fs60.5\c&H5F5F69&\pos(305.321,-294.277)\clip(233,-309,634,-223)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.79,0:01:08.84,mask3,,0,0,0,,{=72}{\fscx99.68\fscy99.68\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.253,-331.088)\clip(636,-327,1259,-264)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.79,0:01:08.84,mask3,,0,0,0,,{=73}{\fscx99.68\fscy99.68\frz0\alpha&H00&\blur4.252\fs60.5\c&H5F5F69&\pos(305.253,-331.088)\clip(233,-345,634,-259)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.84,0:01:08.88,mask3,,0,0,0,,{=72}{\fscx99.64\fscy99.64\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.162,-367.875)\clip(636,-365,1257,-300)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.84,0:01:08.88,mask3,,0,0,0,,{=73}{\fscx99.64\fscy99.64\frz0\alpha&H00&\blur4.252\fs60.5\c&H5F5F69&\pos(305.162,-367.875)\clip(233,-383,634,-295)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.88,0:01:08.92,mask3,,0,0,0,,{=72}{\fscx99.62\fscy99.62\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.253,-405.135)\clip(636,-401,1257,-338)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.88,0:01:08.92,mask3,,0,0,0,,{=73}{\fscx99.62\fscy99.62\frz0\alpha&H00&\blur4.252\fs60.5\c&H5F5F69&\pos(305.253,-405.135)\clip(235,-419,634,-333)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.92,0:01:08.96,mask3,,0,0,0,,{=72}{\fscx99.6\fscy99.6\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.343,-442.373)\clip(636,-439,1257,-374)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.92,0:01:08.96,mask3,,0,0,0,,{=73}{\fscx99.6\fscy99.6\frz0\alpha&H00&\blur4.252\fs60.5\c&H5F5F69&\pos(305.343,-442.373)\clip(235,-457,634,-372)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.96,0:01:09.00,mask3,,0,0,0,,{=72}{\fscx99.58\fscy99.58\frz0\alpha&H00&\blur\blur1\fs60.5\c&H5F5F69&\pos(305.457,-479.565)\clip(636,-475,1257,-412)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
-Dialogue: 1,0:01:08.96,0:01:09.00,mask3,,0,0,0,,{=73}{\fscx99.58\fscy99.58\frz0\alpha&H00&\blur4.252\fs60.5\c&H5F5F69&\pos(305.457,-479.565)\clip(235,-493,634,-408)}Conventional {\blur1.2}weapons{\blur1} against{\blur0.8} cursed spirits
+Dialogue: 1,0:00:58.70,0:01:08.21,mask3,,0,0,0,,{\blur1.5\fs60.5\c&H5F5F69&\pos(305.187,189.333)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.21,0:01:08.25,mask3,,0,0,0,,{=73}{\fscx100\fscy100\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.185,189.338)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.25,0:01:08.29,mask3,,0,0,0,,{=73}{\fscx99.99\fscy99.99\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.162,151.965)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.29,0:01:08.33,mask3,,0,0,0,,{=73}{\fscx99.97\fscy99.97\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.162,114.728)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.33,0:01:08.38,mask3,,0,0,0,,{=73}{\fscx99.95\fscy99.95\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.162,77.468)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.38,0:01:08.42,mask3,,0,0,0,,{=73}{\fscx99.95\fscy99.95\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.14,40.072)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.42,0:01:08.46,mask3,,0,0,0,,{=73}{\fscx99.97\fscy99.97\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.072,2.52)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.46,0:01:08.50,mask3,,0,0,0,,{=73}{\fscx99.96\fscy99.96\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.117,-34.83)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.50,0:01:08.54,mask3,,0,0,0,,{=73}{\fscx99.95\fscy99.95\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.185,-72.112)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.54,0:01:08.59,mask3,,0,0,0,,{=73}{\fscx99.92\fscy99.92\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.253,-109.305)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.59,0:01:08.63,mask3,,0,0,0,,{=73}{\fscx99.9\fscy99.9\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.343,-146.52)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.63,0:01:08.67,mask3,,0,0,0,,{=73}{\fscx99.86\fscy99.86\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.411,-183.555)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.67,0:01:08.71,mask3,,0,0,0,,{=73}{\fscx99.81\fscy99.81\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.457,-220.433)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.71,0:01:08.75,mask3,,0,0,0,,{=73}{\fscx99.75\fscy99.75\frz0\alpha&H00&\blur2\fs60.5\c&H5F5F69&\pos(305.366,-257.243)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.75,0:01:08.79,mask3,,0,0,0,,{=73}{\fscx99.72\fscy99.72\frz0\alpha&H00&\blur4.252\fs60.5\c&H5F5F69&\pos(305.321,-294.277)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.79,0:01:08.84,mask3,,0,0,0,,{=73}{\fscx99.68\fscy99.68\frz0\alpha&H00&\blur4.252\fs60.5\c&H5F5F69&\pos(305.253,-331.088)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.84,0:01:08.88,mask3,,0,0,0,,{=73}{\fscx99.64\fscy99.64\frz0\alpha&H00&\blur4.252\fs60.5\c&H5F5F69&\pos(305.162,-367.875)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.88,0:01:08.92,mask3,,0,0,0,,{=73}{\fscx99.62\fscy99.62\frz0\alpha&H00&\blur4.252\fs60.5\c&H5F5F69&\pos(305.253,-405.135)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.92,0:01:08.96,mask3,,0,0,0,,{=73}{\fscx99.6\fscy99.6\frz0\alpha&H00&\blur4.252\fs60.5\c&H5F5F69&\pos(305.343,-442.373)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
+Dialogue: 1,0:01:08.96,0:01:09.00,mask3,,0,0,0,,{=73}{\fscx99.58\fscy99.58\frz0\alpha&H00&\blur4.252\fs60.5\c&H5F5F69&\pos(305.457,-479.565)\b0}Conventional {\blur1.6}weapons{\blur1.5} against{\blur1.4} cursed {\blur1.3}spirits
 Dialogue: 1,0:01:13.76,0:01:13.80,mask4,,0,0,0,,{=83}{\fscx100.31\fscy100.31\frz0\alpha&H00&\3c&H3016D5&\q2\pos(333.917,1121.513)\blur1}Special Grade
 Dialogue: 1,0:01:13.76,0:01:13.80,mask4,,0,0,0,,{=77}{\fscx100\fscy100\frz0\alpha&H00&\3c&H606CE9&\q2\pos(354,792.99)\blur1}First Grade
 Dialogue: 1,0:01:13.80,0:01:13.84,mask4,,0,0,0,,{=83}{\fscx100.28\fscy100.28\frz0\alpha&H00&\3c&H3016D5&\q2\pos(334.008,1091.835)\blur1}Special Grade
@@ -694,7 +672,6 @@ Data: 62,a-mo,u?S*V>7FE)DIC9D.C/76G.71N:4-T.SUU.4&B,4AS/45N.T)Q9DBG9TBD:D%X)CQC<
 Data: 65,a-mo,u?S*V>7FE)DIC-W1T.7%V9W-N.G6C.#UU9G5W,7%Q9D9N:$BB94&B.4*G.4%W)CQC<X*J:WFO97R5:8BU)DIC?VR=='^T+$%V-3YQ.3QS.$AJ@>CIW+@:B.G$W9D9LS$9M^CKW9<9L.CN).CIW+@9M^CKW,H:B>CHW91AW+D:BNCPW9,:CNG2W+EC@1
 Data: 66,a-mo,e{"uuid"#3A"2d3fe537-dcb7-4f2a-bb64-69844e41045b"#2C"originalText"#3A"{\\an7\\blur1\\bord0\\shad0\\fscx100\\fscy100\\p1\\c&HFFFEFD&\\pos(231.433#2C250.667)}m -92 -10 l 94 -10 94 18 -92 18"}
 Data: 67,a-mo,u?S*V>7FE)DIC.4EU-75Y-DAN.T5V.3UU.T2F,7)S9T5N/'5T9G5Q/4.E/$1X)CQC<X*J:WFO97R5:8BU)DIC?VR=='^T+$%U/#YU,$)R/#YW.D=J8&QT9S:).E&%159V*HX9J^G%W,(9KNCIW+EAW+@:B.CLW+@:BNG+W+EC@1
-Data: 72,a-mo,u?S*V>7FE)DIC.W5S-$*G.$EN-'%X.SUU-T-R,4AQ-$=N:71T:G5W9G:E9W6B)CQC<X*J:WFO97R5:8BU)DIC?VR=9GRV=D%O-6R=:H-T-&R=9S:).59V249Y*FR=='^T+$%T.#YX/4%M/$1O-41Y+6R=9WRJ=#AS/$%O-T1S,$AU,DAY/3QV.49O/41S,$%R-SYT-T-J@3$9K.CHW9(9KNCRW+@9NC$9I^G').CHW949I^CTW949L>CJ).CHW949KNG#W94:CNCPW9L9K3$:A>CZW:(9J^G%W+EAW,<9LS$9J^G%W949O>G'W+@9KC*^
 Data: 73,a-mo,u?S*V>7FE)DIC.D&E:$>C-'5N:G5U.SUU9D6G,7)Y-DEN9D%Q/49Y.DEY:'-Z)CQC<X*J:WFO97R5:8BU)DIC?VR=9GRV=D%O/6R=:H-T-&R=9S:).59V249Y*FR=='^T+$%T.#YX/4%M/$1O-41Y+6R=9WRJ=#AR-$-O-T5M.T9O/$AZ,$)Y-#YZ,$%R.3YR-4%J@3$9K.CHW9(9KNCRW+@9NC$9I^G').CHW949I^CTW949L>CJ).CHW949KNG#W94:CNCPW9L9K3$:A>CZW:(9J^G%W+EAW,<9LS$9J^G%W949O>G'W+@9KC*^
 Data: 74,a-mo,u?S*V>7FE)DIC.W6G:DBD9D)N-'-W9SUU9G-W,4AS:$%N.W%R.$:D-DER:49R)CQC<X*J:WFO97R5:8BU)DIC?VR=='^T+$%V-3YQ.3QT/4-O-T-T+6R==4*^W94:BC$9KNG$W9(:CNG$).CHW949L^CIW+@9K.CJ).CHW949O>CTW909M>G+W:(9K3*^
 Data: 75,a-mo,e{"uuid"#3A"e56fc0b6-4ac0-4845-b752-e555d96ad5d8"#2C"originalText"#3A"{\\an7\\blur1\\bord0\\shad0\\fscx100\\fscy100\\p1\\c&HF9F8F8&\\pos(235.183#2C400.667)}m -92 -10 l 94 -10 94 18 -92 18"}

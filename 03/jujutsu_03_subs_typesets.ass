@@ -21,10 +21,10 @@ Audio File: jujutsu_03_premux.mkv
 Video File: jujutsu_03_premux.mkv
 Keyframes File: jujutsu_03_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 272
-Active Line: 288
-Video Position: 23594
+Video Zoom Percent: 0.250000
+Scroll Position: 1266
+Active Line: 1280
+Video Position: 30327
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1044,65 +1044,64 @@ Dialogue: 1,0:20:32.84,0:20:32.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\
 Dialogue: 1,0:20:32.88,0:20:32.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of July 2018.
 Dialogue: 1,0:20:32.92,0:20:33.50,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\move(960,540,960,435)}Record of July 2018.
 Dialogue: 1,0:20:33.50,0:20:36.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,435)}Record of July 2018.
-Dialogue: 2,0:20:33.80,0:20:33.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}W{\alpha&HFF&}est Tokyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:33.84,0:20:33.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}We{\alpha&HFF&}st Tokyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:33.88,0:20:33.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}Wes{\alpha&HFF&}t Tokyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:33.92,0:20:33.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West{\alpha&HFF&} Tokyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:33.96,0:20:34.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West {\alpha&HFF&}Tokyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.00,0:20:34.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West T{\alpha&HFF&}okyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.05,0:20:34.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West T{\alpha&HFF&}okyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.09,0:20:34.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West To{\alpha&HFF&}kyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.13,0:20:34.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tok{\alpha&HFF&}yo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.17,0:20:34.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Toky{\alpha&HFF&}o City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.21,0:20:34.25,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo{\alpha&HFF&} City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.25,0:20:34.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo {\alpha&HFF&}City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.30,0:20:34.34,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo {\alpha&HFF&}City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.34,0:20:34.38,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo C{\alpha&HFF&}ity,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.38,0:20:34.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo Ci{\alpha&HFF&}ty,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.42,0:20:34.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo Cit{\alpha&HFF&}y,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.46,0:20:34.50,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City{\alpha&HFF&},\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.50,0:20:34.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City{\alpha&HFF&},\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.55,0:20:34.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\N{\alpha&HFF&}Eishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.59,0:20:34.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\N{\alpha&HFF&}Eishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.63,0:20:34.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NE{\alpha&HFF&}ishuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.67,0:20:34.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEi{\alpha&HFF&}shuu Juvenile Detention Center.
-Dialogue: 2,0:20:34.71,0:20:34.75,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEis{\alpha&HFF&}huu Juvenile Detention Center.
-Dialogue: 2,0:20:34.75,0:20:34.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEish{\alpha&HFF&}uu Juvenile Detention Center.
-Dialogue: 2,0:20:34.80,0:20:34.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu{\alpha&HFF&}u Juvenile Detention Center.
-Dialogue: 2,0:20:34.84,0:20:34.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu{\alpha&HFF&}u Juvenile Detention Center.
-Dialogue: 2,0:20:34.88,0:20:34.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu{\alpha&HFF&} Juvenile Detention Center.
-Dialogue: 2,0:20:34.92,0:20:34.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu {\alpha&HFF&}Juvenile Detention Center.
-Dialogue: 2,0:20:34.96,0:20:35.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu J{\alpha&HFF&}uvenile Detention Center.
-Dialogue: 2,0:20:35.01,0:20:35.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Ju{\alpha&HFF&}venile Detention Center.
-Dialogue: 2,0:20:35.05,0:20:35.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juv{\alpha&HFF&}enile Detention Center.
-Dialogue: 2,0:20:35.09,0:20:35.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juve{\alpha&HFF&}nile Detention Center.
-Dialogue: 2,0:20:35.13,0:20:35.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juve{\alpha&HFF&}nile Detention Center.
-Dialogue: 2,0:20:35.17,0:20:35.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juven{\alpha&HFF&}ile Detention Center.
-Dialogue: 2,0:20:35.21,0:20:35.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juveni{\alpha&HFF&}le Detention Center.
-Dialogue: 2,0:20:35.26,0:20:35.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenil{\alpha&HFF&}e Detention Center.
-Dialogue: 2,0:20:35.30,0:20:35.34,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile{\alpha&HFF&} Detention Center.
-Dialogue: 2,0:20:35.34,0:20:35.38,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile {\alpha&HFF&}Detention Center.
-Dialogue: 2,0:20:35.38,0:20:35.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile {\alpha&HFF&}Detention Center.
-Dialogue: 2,0:20:35.42,0:20:35.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile D{\alpha&HFF&}etention Center.
-Dialogue: 2,0:20:35.46,0:20:35.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile De{\alpha&HFF&}tention Center.
-Dialogue: 2,0:20:35.51,0:20:35.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Det{\alpha&HFF&}ention Center.
-Dialogue: 2,0:20:35.55,0:20:35.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Dete{\alpha&HFF&}ntion Center.
-Dialogue: 2,0:20:35.59,0:20:35.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Deten{\alpha&HFF&}tion Center.
-Dialogue: 2,0:20:35.63,0:20:35.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detent{\alpha&HFF&}ion Center.
-Dialogue: 2,0:20:35.67,0:20:35.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detent{\alpha&HFF&}ion Center.
-Dialogue: 2,0:20:35.71,0:20:35.76,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detenti{\alpha&HFF&}on Center.
-Dialogue: 2,0:20:35.76,0:20:35.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detentio{\alpha&HFF&}n Center.
-Dialogue: 2,0:20:35.80,0:20:35.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention{\alpha&HFF&} Center.
-Dialogue: 2,0:20:35.84,0:20:35.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention {\alpha&HFF&}Center.
-Dialogue: 2,0:20:35.88,0:20:35.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention C{\alpha&HFF&}enter.
-Dialogue: 2,0:20:35.92,0:20:35.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention C{\alpha&HFF&}enter.
-Dialogue: 2,0:20:35.96,0:20:36.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Ce{\alpha&HFF&}nter.
-Dialogue: 2,0:20:36.01,0:20:36.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Cen{\alpha&HFF&}ter.
-Dialogue: 2,0:20:36.05,0:20:36.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Cent{\alpha&HFF&}er.
-Dialogue: 2,0:20:36.09,0:20:36.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Cente{\alpha&HFF&}r.
-Dialogue: 2,0:20:36.13,0:20:36.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:36.17,0:20:36.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Center.
-Dialogue: 2,0:20:36.21,0:20:36.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs90\be0\pos(960,600)}West Tokyo City,\NEishuu Juvenile Detention Center.
+Dialogue: 2,0:20:33.80,0:20:33.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}W{\alpha&HFF&}est Tokyo City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:33.84,0:20:33.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}We{\alpha&HFF&}st Tokyo City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:33.88,0:20:33.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}Wes{\alpha&HFF&}t Tokyo City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:33.92,0:20:33.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West{\alpha&HFF&} Tokyo City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:33.96,0:20:34.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West {\alpha&HFF&}Tokyo City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.00,0:20:34.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West T{\alpha&HFF&}okyo City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.05,0:20:34.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West T{\alpha&HFF&}okyo City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.09,0:20:34.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West To{\alpha&HFF&}kyo City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.13,0:20:34.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tok{\alpha&HFF&}yo City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.17,0:20:34.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Toky{\alpha&HFF&}o City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.21,0:20:34.25,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo{\alpha&HFF&} City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.25,0:20:34.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo {\alpha&HFF&}City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.30,0:20:34.34,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo {\alpha&HFF&}City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.34,0:20:34.38,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo C{\alpha&HFF&}ity,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.38,0:20:34.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo Ci{\alpha&HFF&}ty,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.42,0:20:34.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo Cit{\alpha&HFF&}y,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.46,0:20:34.50,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City{\alpha&HFF&},\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.50,0:20:34.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City{\alpha&HFF&},\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.55,0:20:34.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\N{\alpha&HFF&}Eishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.59,0:20:34.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\N{\alpha&HFF&}Eishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.63,0:20:34.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NE{\alpha&HFF&}ishu Juvenile Detention Center.
+Dialogue: 2,0:20:34.67,0:20:34.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEi{\alpha&HFF&}shu Juvenile Detention Center.
+Dialogue: 2,0:20:34.71,0:20:34.75,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEis{\alpha&HFF&}hu Juvenile Detention Center.
+Dialogue: 2,0:20:34.75,0:20:34.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEish{\alpha&HFF&}u Juvenile Detention Center.
+Dialogue: 2,0:20:34.84,0:20:34.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu{\alpha&HFF&} Juvenile Detention Center.
+Dialogue: 2,0:20:34.88,0:20:34.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu{\alpha&HFF&} Juvenile Detention Center.
+Dialogue: 2,0:20:34.92,0:20:34.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu {\alpha&HFF&}Juvenile Detention Center.
+Dialogue: 2,0:20:34.96,0:20:35.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu J{\alpha&HFF&}uvenile Detention Center.
+Dialogue: 2,0:20:35.01,0:20:35.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Ju{\alpha&HFF&}venile Detention Center.
+Dialogue: 2,0:20:35.05,0:20:35.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juv{\alpha&HFF&}enile Detention Center.
+Dialogue: 2,0:20:35.09,0:20:35.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juve{\alpha&HFF&}nile Detention Center.
+Dialogue: 2,0:20:35.13,0:20:35.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juve{\alpha&HFF&}nile Detention Center.
+Dialogue: 2,0:20:35.17,0:20:35.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juven{\alpha&HFF&}ile Detention Center.
+Dialogue: 2,0:20:35.21,0:20:35.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juveni{\alpha&HFF&}le Detention Center.
+Dialogue: 2,0:20:35.26,0:20:35.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenil{\alpha&HFF&}e Detention Center.
+Dialogue: 2,0:20:35.30,0:20:35.34,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile{\alpha&HFF&} Detention Center.
+Dialogue: 2,0:20:35.34,0:20:35.38,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile {\alpha&HFF&}Detention Center.
+Dialogue: 2,0:20:35.38,0:20:35.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile {\alpha&HFF&}Detention Center.
+Dialogue: 2,0:20:35.42,0:20:35.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile D{\alpha&HFF&}etention Center.
+Dialogue: 2,0:20:35.46,0:20:35.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile De{\alpha&HFF&}tention Center.
+Dialogue: 2,0:20:35.51,0:20:35.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Det{\alpha&HFF&}ention Center.
+Dialogue: 2,0:20:35.55,0:20:35.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Dete{\alpha&HFF&}ntion Center.
+Dialogue: 2,0:20:35.59,0:20:35.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Deten{\alpha&HFF&}tion Center.
+Dialogue: 2,0:20:35.63,0:20:35.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detent{\alpha&HFF&}ion Center.
+Dialogue: 2,0:20:35.67,0:20:35.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detent{\alpha&HFF&}ion Center.
+Dialogue: 2,0:20:35.71,0:20:35.76,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detenti{\alpha&HFF&}on Center.
+Dialogue: 2,0:20:35.76,0:20:35.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detentio{\alpha&HFF&}n Center.
+Dialogue: 2,0:20:35.80,0:20:35.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detention{\alpha&HFF&} Center.
+Dialogue: 2,0:20:35.84,0:20:35.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detention {\alpha&HFF&}Center.
+Dialogue: 2,0:20:35.88,0:20:35.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detention C{\alpha&HFF&}enter.
+Dialogue: 2,0:20:35.92,0:20:35.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detention C{\alpha&HFF&}enter.
+Dialogue: 2,0:20:35.96,0:20:36.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detention Ce{\alpha&HFF&}nter.
+Dialogue: 2,0:20:36.01,0:20:36.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detention Cen{\alpha&HFF&}ter.
+Dialogue: 2,0:20:36.05,0:20:36.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detention Cent{\alpha&HFF&}er.
+Dialogue: 2,0:20:36.09,0:20:36.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detention Cente{\alpha&HFF&}r.
+Dialogue: 2,0:20:36.13,0:20:36.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:36.17,0:20:36.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs90\pos(960,600)}West Tokyo City,\NEishu Juvenile Detention Center.
+Dialogue: 2,0:20:36.21,0:20:36.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs90\be0\pos(960,600)}West Tokyo City,\NEishu Juvenile Detention Center.
 Dialogue: 0,0:20:39.34,0:20:42.35,Signs,Screen,0,0,0,,{\p1\c&H000000&}m 0 0 l 1800 -1 l 1800 800 l -1 800
 Dialogue: 1,0:20:39.55,0:20:39.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}I{\alpha&HFF&}n the sky, just above the exercise yard.
 Dialogue: 1,0:20:39.59,0:20:39.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}In{\alpha&HFF&} the sky, just above the exercise yard.
@@ -1238,83 +1237,83 @@ Dialogue: 1,0:20:54.15,0:20:54.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\
 Dialogue: 1,0:20:54.19,0:20:54.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}An unnamed apparition of a \Npotential special-grade was discovered.
 Dialogue: 1,0:20:54.23,0:20:55.03,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\move(960,600,960,480)}An unnamed apparition of a \Npotential special-grade was discovered.
 Dialogue: 1,0:20:55.03,0:20:59.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,480)}An unnamed apparition of a \Npotential special-grade was discovered.
-Dialogue: 2,0:20:55.15,0:20:55.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}I{\alpha&HFF&}ts curse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.19,0:20:55.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}It{\alpha&HFF&}s curse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.23,0:20:55.28,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its{\alpha&HFF&} curse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.28,0:20:55.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its {\alpha&HFF&}curse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.32,0:20:55.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its c{\alpha&HFF&}urse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.36,0:20:55.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its cu{\alpha&HFF&}rse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.40,0:20:55.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its cu{\alpha&HFF&}rse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.44,0:20:55.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its cur{\alpha&HFF&}se womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.48,0:20:55.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curs{\alpha&HFF&}e womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.53,0:20:55.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse{\alpha&HFF&} womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.57,0:20:55.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse {\alpha&HFF&}womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.61,0:20:55.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse w{\alpha&HFF&}omb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.65,0:20:55.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse w{\alpha&HFF&}omb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.69,0:20:55.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse wo{\alpha&HFF&}mb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.73,0:20:55.78,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse wom{\alpha&HFF&}b was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.78,0:20:55.82,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb{\alpha&HFF&} was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.82,0:20:55.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb {\alpha&HFF&}was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.86,0:20:55.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb w{\alpha&HFF&}as witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.90,0:20:55.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb w{\alpha&HFF&}as witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.94,0:20:55.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb wa{\alpha&HFF&}s witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:55.98,0:20:56.03,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was{\alpha&HFF&} witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.03,0:20:56.07,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was {\alpha&HFF&}witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.07,0:20:56.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was w{\alpha&HFF&}itnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.11,0:20:56.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was wi{\alpha&HFF&}tnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.15,0:20:56.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was wit{\alpha&HFF&}nessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.19,0:20:56.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was wit{\alpha&HFF&}nessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.23,0:20:56.28,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witn{\alpha&HFF&}essed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.28,0:20:56.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witne{\alpha&HFF&}ssed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.32,0:20:56.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnes{\alpha&HFF&}sed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.36,0:20:56.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witness{\alpha&HFF&}ed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.40,0:20:56.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnesse{\alpha&HFF&}d \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.44,0:20:56.49,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnesse{\alpha&HFF&}d \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.49,0:20:56.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed{\alpha&HFF&} \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.53,0:20:56.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed {\alpha&HFF&}\Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.57,0:20:56.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed {\alpha&HFF&}\Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.61,0:20:56.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \N{\alpha&HFF&}by several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.65,0:20:56.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nb{\alpha&HFF&}y several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.69,0:20:56.74,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nb{\alpha&HFF&}y several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.74,0:20:56.78,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby{\alpha&HFF&} several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.78,0:20:56.82,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby {\alpha&HFF&}several non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.82,0:20:56.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby s{\alpha&HFF&}everal non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.86,0:20:56.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby se{\alpha&HFF&}veral non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.90,0:20:56.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby sev{\alpha&HFF&}eral non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.94,0:20:56.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby seve{\alpha&HFF&}ral non-jujutsu sorcerers.
-Dialogue: 2,0:20:56.99,0:20:57.03,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby seve{\alpha&HFF&}ral non-jujutsu sorcerers.
-Dialogue: 2,0:20:57.03,0:20:57.07,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby sever{\alpha&HFF&}al non-jujutsu sorcerers.
-Dialogue: 2,0:20:57.07,0:20:57.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby severa{\alpha&HFF&}l non-jujutsu sorcerers.
-Dialogue: 2,0:20:57.11,0:20:57.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several{\alpha&HFF&} non-jujutsu sorcerers.
-Dialogue: 2,0:20:57.15,0:20:57.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several {\alpha&HFF&}non-jujutsu sorcerers.
-Dialogue: 2,0:20:57.19,0:20:57.24,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several n{\alpha&HFF&}on-jujutsu sorcerers.
-Dialogue: 2,0:20:57.24,0:20:57.28,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several n{\alpha&HFF&}on-jujutsu sorcerers.
-Dialogue: 2,0:20:57.28,0:20:57.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several no{\alpha&HFF&}n-jujutsu sorcerers.
-Dialogue: 2,0:20:57.32,0:20:57.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non{\alpha&HFF&}-jujutsu sorcerers.
-Dialogue: 2,0:20:57.36,0:20:57.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-{\alpha&HFF&}jujutsu sorcerers.
-Dialogue: 2,0:20:57.40,0:20:57.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-j{\alpha&HFF&}ujutsu sorcerers.
-Dialogue: 2,0:20:57.44,0:20:57.49,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-ju{\alpha&HFF&}jutsu sorcerers.
-Dialogue: 2,0:20:57.49,0:20:57.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-ju{\alpha&HFF&}jutsu sorcerers.
-Dialogue: 2,0:20:57.53,0:20:57.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-juj{\alpha&HFF&}utsu sorcerers.
-Dialogue: 2,0:20:57.57,0:20:57.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-juju{\alpha&HFF&}tsu sorcerers.
-Dialogue: 2,0:20:57.61,0:20:57.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujut{\alpha&HFF&}su sorcerers.
-Dialogue: 2,0:20:57.65,0:20:57.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujuts{\alpha&HFF&}u sorcerers.
-Dialogue: 2,0:20:57.69,0:20:57.74,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu{\alpha&HFF&} sorcerers.
-Dialogue: 2,0:20:57.74,0:20:57.78,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu {\alpha&HFF&}sorcerers.
-Dialogue: 2,0:20:57.78,0:20:57.82,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu {\alpha&HFF&}sorcerers.
-Dialogue: 2,0:20:57.82,0:20:57.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu s{\alpha&HFF&}orcerers.
-Dialogue: 2,0:20:57.86,0:20:57.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu so{\alpha&HFF&}rcerers.
-Dialogue: 2,0:20:57.90,0:20:57.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sor{\alpha&HFF&}cerers.
-Dialogue: 2,0:20:57.94,0:20:57.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorc{\alpha&HFF&}erers.
-Dialogue: 2,0:20:57.99,0:20:58.03,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorce{\alpha&HFF&}rers.
-Dialogue: 2,0:20:58.03,0:20:58.07,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorce{\alpha&HFF&}rers.
-Dialogue: 2,0:20:58.07,0:20:58.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcer{\alpha&HFF&}ers.
-Dialogue: 2,0:20:58.11,0:20:58.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcere{\alpha&HFF&}rs.
-Dialogue: 2,0:20:58.15,0:20:58.20,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcerer{\alpha&HFF&}s.
-Dialogue: 2,0:20:58.20,0:20:58.24,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcerers{\alpha&HFF&}.
-Dialogue: 2,0:20:58.24,0:20:58.28,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:58.28,0:20:58.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed \Nby several non-jujutsu sorcerers.
-Dialogue: 2,0:20:58.32,0:20:59.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Its curse womb was witnessed\N by several non-jujutsu sorcerers.
+Comment: 2,0:20:55.15,0:20:58.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.15,0:20:55.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}T{\alpha&HFF&}he cursed womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.19,0:20:55.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}Th{\alpha&HFF&}e cursed womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.23,0:20:55.28,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The{\alpha&HFF&} cursed womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.28,0:20:55.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The{\alpha&HFF&} cursed womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.32,0:20:55.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The {\alpha&HFF&}cursed womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.36,0:20:55.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The c{\alpha&HFF&}ursed womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.40,0:20:55.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cu{\alpha&HFF&}rsed womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.44,0:20:55.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cu{\alpha&HFF&}rsed womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.48,0:20:55.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cur{\alpha&HFF&}sed womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.53,0:20:55.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The curs{\alpha&HFF&}ed womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.57,0:20:55.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The curse{\alpha&HFF&}d womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.61,0:20:55.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The curse{\alpha&HFF&}d womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.65,0:20:55.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed{\alpha&HFF&} womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.69,0:20:55.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed {\alpha&HFF&}womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.73,0:20:55.78,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed w{\alpha&HFF&}omb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.78,0:20:55.82,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed w{\alpha&HFF&}omb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.82,0:20:55.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed wo{\alpha&HFF&}mb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.86,0:20:55.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed wom{\alpha&HFF&}b was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.90,0:20:55.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb{\alpha&HFF&} was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.94,0:20:55.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb{\alpha&HFF&} was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:55.98,0:20:56.03,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb {\alpha&HFF&}was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.03,0:20:56.07,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb w{\alpha&HFF&}as witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.07,0:20:56.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb wa{\alpha&HFF&}s witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.11,0:20:56.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb wa{\alpha&HFF&}s witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.15,0:20:56.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was{\alpha&HFF&} witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.19,0:20:56.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was {\alpha&HFF&}witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.23,0:20:56.28,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was w{\alpha&HFF&}itnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.28,0:20:56.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was w{\alpha&HFF&}itnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.32,0:20:56.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was wi{\alpha&HFF&}tnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.36,0:20:56.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was wit{\alpha&HFF&}nessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.40,0:20:56.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witn{\alpha&HFF&}essed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.44,0:20:56.49,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witn{\alpha&HFF&}essed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.49,0:20:56.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witne{\alpha&HFF&}ssed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.53,0:20:56.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnes{\alpha&HFF&}sed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.57,0:20:56.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witness{\alpha&HFF&}ed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.61,0:20:56.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witness{\alpha&HFF&}ed \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.65,0:20:56.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnesse{\alpha&HFF&}d \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.69,0:20:56.74,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed{\alpha&HFF&} \Nby several non-sorcerers.
+Dialogue: 2,0:20:56.74,0:20:56.78,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed {\alpha&HFF&}\Nby several non-sorcerers.
+Dialogue: 2,0:20:56.78,0:20:56.82,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed {\alpha&HFF&}\Nby several non-sorcerers.
+Dialogue: 2,0:20:56.82,0:20:56.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed {\alpha&HFF&}\Nby several non-sorcerers.
+Dialogue: 2,0:20:56.86,0:20:56.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \N{\alpha&HFF&}by several non-sorcerers.
+Dialogue: 2,0:20:56.90,0:20:56.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nb{\alpha&HFF&}y several non-sorcerers.
+Dialogue: 2,0:20:56.94,0:20:56.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nb{\alpha&HFF&}y several non-sorcerers.
+Dialogue: 2,0:20:56.99,0:20:57.03,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby{\alpha&HFF&} several non-sorcerers.
+Dialogue: 2,0:20:57.03,0:20:57.07,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby {\alpha&HFF&}several non-sorcerers.
+Dialogue: 2,0:20:57.07,0:20:57.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby s{\alpha&HFF&}everal non-sorcerers.
+Dialogue: 2,0:20:57.11,0:20:57.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby s{\alpha&HFF&}everal non-sorcerers.
+Dialogue: 2,0:20:57.15,0:20:57.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby se{\alpha&HFF&}veral non-sorcerers.
+Dialogue: 2,0:20:57.19,0:20:57.24,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby sev{\alpha&HFF&}eral non-sorcerers.
+Dialogue: 2,0:20:57.24,0:20:57.28,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby seve{\alpha&HFF&}ral non-sorcerers.
+Dialogue: 2,0:20:57.28,0:20:57.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby seve{\alpha&HFF&}ral non-sorcerers.
+Dialogue: 2,0:20:57.32,0:20:57.36,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby sever{\alpha&HFF&}al non-sorcerers.
+Dialogue: 2,0:20:57.36,0:20:57.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby severa{\alpha&HFF&}l non-sorcerers.
+Dialogue: 2,0:20:57.40,0:20:57.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several{\alpha&HFF&} non-sorcerers.
+Dialogue: 2,0:20:57.44,0:20:57.49,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several{\alpha&HFF&} non-sorcerers.
+Dialogue: 2,0:20:57.49,0:20:57.53,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several {\alpha&HFF&}non-sorcerers.
+Dialogue: 2,0:20:57.53,0:20:57.57,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several n{\alpha&HFF&}on-sorcerers.
+Dialogue: 2,0:20:57.57,0:20:57.61,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several no{\alpha&HFF&}n-sorcerers.
+Dialogue: 2,0:20:57.61,0:20:57.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several no{\alpha&HFF&}n-sorcerers.
+Dialogue: 2,0:20:57.65,0:20:57.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non{\alpha&HFF&}-sorcerers.
+Dialogue: 2,0:20:57.69,0:20:57.74,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-{\alpha&HFF&}sorcerers.
+Dialogue: 2,0:20:57.74,0:20:57.78,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-s{\alpha&HFF&}orcerers.
+Dialogue: 2,0:20:57.78,0:20:57.82,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-s{\alpha&HFF&}orcerers.
+Dialogue: 2,0:20:57.82,0:20:57.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-so{\alpha&HFF&}rcerers.
+Dialogue: 2,0:20:57.86,0:20:57.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-sor{\alpha&HFF&}cerers.
+Dialogue: 2,0:20:57.90,0:20:57.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-sorc{\alpha&HFF&}erers.
+Dialogue: 2,0:20:57.94,0:20:57.99,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-sorc{\alpha&HFF&}erers.
+Dialogue: 2,0:20:57.99,0:20:58.03,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-sorce{\alpha&HFF&}rers.
+Dialogue: 2,0:20:58.03,0:20:58.07,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-sorcer{\alpha&HFF&}ers.
+Dialogue: 2,0:20:58.07,0:20:58.11,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-sorcere{\alpha&HFF&}rs.
+Dialogue: 2,0:20:58.11,0:20:58.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-sorcere{\alpha&HFF&}rs.
+Dialogue: 2,0:20:58.15,0:20:58.20,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-sorcerer{\alpha&HFF&}s.
+Dialogue: 2,0:20:58.20,0:20:58.24,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-sorcerers{\alpha&HFF&}.
+Dialogue: 2,0:20:58.24,0:20:58.32,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed \Nby several non-sorcerers.
+Dialogue: 2,0:20:58.32,0:20:59.86,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,700)}The cursed womb was witnessed\N by several non-sorcerers.
 Dialogue: 0,0:21:04.87,0:21:14.88,Signs,Screen,0,0,0,,{\p1\c&H000000&}m 0 0 l 1800 -1 l 1800 800 l -1 800
 Dialogue: 0,0:21:05.24,0:21:05.29,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}D{\alpha&HFF&}ue to the emergency nature,
 Dialogue: 0,0:21:05.29,0:21:05.33,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\fs70\be1\pos(960,600)}Du{\alpha&HFF&}e to the emergency nature,

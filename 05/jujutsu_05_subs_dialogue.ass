@@ -21,10 +21,10 @@ Video File: jujutsu_05_premux.mkv
 Keyframes File: jujutsu_05_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 290
-Active Line: 303
-Video Position: 30354
+Video Zoom Percent: 0.750000
+Scroll Position: 119
+Active Line: 129
+Video Position: 18486
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,66 +40,66 @@ Dialogue: 0,0:00:11.41,0:00:13.17,Default,Sukuna,0,0,0,,What's the matter, brat?
 Dialogue: 0,0:00:35.68,0:00:37.43,Default,Fushiguro,0,0,0,,{\i1}The Innate Domain is gone! {Closed off? Doesn't that mean it got enclosed, while the reverse happened. Turned off*?}
 Dialogue: 0,0:00:37.43,0:00:39.06,Default,Fushiguro,0,0,0,,{\i1}The special-grade is dead!
 Dialogue: 0,0:00:40.94,0:00:43.37,Default,Fushiguro,0,0,0,,{\i1}Now we just need Itadori to return safely.
-Dialogue: 0,0:00:46.78,0:00:50.65,Default,Sukuna,0,0,0,,Sorry, but he's not coming back.
-Dialogue: 0,0:00:52.18,0:00:53.86,Default,Sukuna,0,0,0,,Don't be so scared.
-Dialogue: 0,0:00:53.86,0:00:57.40,Default,Sukuna,0,0,0,,I'm in a great mood right now. Let's chat for a bit.
-Dialogue: 0,0:01:00.33,0:01:04.60,Default,Sukuna,0,0,0,,This is what he gets for trying to use me without any kind of pact.
+Dialogue: 0,0:00:46.78,0:00:50.65,Default,Sukuna,0,0,0,,Hate to break it to you, but he's not coming back.
+Dialogue: 0,0:00:52.18,0:00:53.86,Default,Sukuna,0,0,0,,Come on, don't be so scared.
+Dialogue: 0,0:00:53.86,0:00:55.97,Default,Sukuna,0,0,0,,I'm in a great mood right now.
+Dialogue: 0,0:00:55.97,0:00:57.50,Default,Sukuna,0,0,0,,Let's chat for a bit.
+Dialogue: 0,0:01:00.33,0:01:04.60,Default,Sukuna,0,0,0,,He had it coming for trying to use me without a pact.
 Dialogue: 0,0:01:04.60,0:01:07.60,Default,Sukuna,0,0,0,,Feels like he's having some trouble switching back.
 Dialogue: 0,0:01:08.86,0:01:12.61,Default,Sukuna,0,0,0,,Still, it's only a matter of time.
-Dialogue: 0,0:01:16.38,0:01:17.34,Default,Sukuna,0,0,0,,Which is why,
-Dialogue: 0,0:01:17.96,0:01:20.68,Default,Sukuna,0,0,0,,I thought about what I can do right now.
+Dialogue: 0,0:01:16.38,0:01:20.68,Default,Sukuna,0,0,0,,So I've been thinking about what I can do right now.
 Dialogue: 0,0:01:28.48,0:01:30.82,Default,Fushiguro,0,0,0,,Wh-What are you—
 Dialogue: 0,0:01:37.84,0:01:40.33,Default,Sukuna,0,0,0,,I'm taking this brat hostage.
 Dialogue: 0,0:01:40.33,0:01:41.58,Default,Fushiguro,0,0,0,,What do you mean?
-Dialogue: 0,0:01:41.58,0:01:46.84,Default,Sukuna,0,0,0,,Yeah. I can live without this, \Nbut that ain't true for the brat.
-Dialogue: 0,0:01:48.33,0:01:51.02,Default,Sukuna,0,0,0,,Switching out with me means he dies.
-Dialogue: 0,0:01:51.58,0:01:53.28,Default,Sukuna,0,0,0,,Also...
-Dialogue: 0,0:01:54.55,0:01:56.12,Default,Sukuna,0,0,0,,Just for good measure.
-Dialogue: 0,0:01:59.22,0:02:01.06,Default,Fushiguro,0,0,0,,{\i1}Sukuna's finger!
+Dialogue: 0,0:01:41.58,0:01:45.08,Default,Sukuna,0,0,0,,Yeah, because I can live without this no problem
+Dialogue: 0,0:01:45.08,0:01:47.30,Default,Sukuna,0,0,0,,but the same ain't true for the brat.
+Dialogue: 0,0:01:48.33,0:01:51.58,Default,Sukuna,0,0,0,,Switching out with me means he dies.
+Dialogue: 0,0:01:51.58,0:01:53.76,Default,Sukuna,0,0,0,,Oh, I almost forgot.
+Dialogue: 0,0:01:54.55,0:01:56.22,Default,Sukuna,0,0,0,,Just for good measure.
+Dialogue: 0,0:01:58.93,0:02:01.06,Default,Fushiguro,0,0,0,,{\i1}Sukuna's finger!
 Dialogue: 0,0:02:01.06,0:02:04.44,Default,Fushiguro,0,0,0,,{\i1}That special-grade must have consumed it!
-Dialogue: 0,0:02:05.44,0:02:09.33,Default,sukuna,0,0,0,,With that, I'm free as a bird.
-Dialogue: 0,0:02:09.33,0:02:11.19,Default,sukuna,0,0,0,,{\i1}Now{\i0} you can be scared.
-Dialogue: 0,0:02:11.19,0:02:14.78,Default,sukuna,0,0,0,,Because I'm about to kill you, just for the hell of it.
-Dialogue: 0,0:02:17.08,0:02:20.66,Default,Fushiguro,0,0,0,,Just like last time, except now our roles are reversed.
+Dialogue: 0,0:02:05.48,0:02:09.33,Default,sukuna,0,0,0,,With that, I'm free as a bird. {oh no no no no not this again}
+Dialogue: 0,0:02:09.33,0:02:12.28,Default,sukuna,0,0,0,,I'm about to kill you just for the hell of it.
+Dialogue: 0,0:02:12.90,0:02:14.91,Default,sukuna,0,0,0,,Now you can be scared.
+Dialogue: 0,0:02:17.08,0:02:20.75,Default,Fushiguro,0,0,0,,Just like last time, except now our roles are reversed.
 Comment: 0,0:02:22.99,0:02:23.03,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:03:52.96,0:03:53.00,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:03:57.79,0:04:01.97,Default,Fushiguro,0,0,0,,{\an8}The only fair thing about life is how unfair it is to everyone.
-Dialogue: 0,0:04:14.57,0:04:16.33,Default,Fushiguro,0,0,0,,You just don't get it.
-Dialogue: 0,0:04:16.33,0:04:17.53,Default,Fushiguro,0,0,0,,That guy...
-Dialogue: 0,0:04:18.18,0:04:20.24,Default,Fushiguro,0,0,0,,Itadori is coming back.
-Dialogue: 0,0:04:20.24,0:04:22.52,Default,Fushiguro,0,0,0,,Even if it means he'll die.
-Dialogue: 0,0:04:23.24,0:04:24.74,Default,Fushiguro,0,0,0,,That's just how he is.
+Dialogue: 0,0:04:14.61,0:04:17.53,Default,Fushiguro,0,0,0,,You just don't get him, do you?
+Dialogue: 0,0:04:18.18,0:04:20.24,Default,Fushiguro,0,0,0,,Itadori will come back.
+Dialogue: 0,0:04:20.24,0:04:22.52,Default,Fushiguro,0,0,0,,Even if he ends up dead.
+Dialogue: 0,0:04:23.12,0:04:24.74,Default,Fushiguro,0,0,0,,That's just how he is.
 Dialogue: 0,0:04:24.74,0:04:26.45,Default,Sukuna,0,0,0,,You give him too much credit.
-Dialogue: 0,0:04:26.45,0:04:30.59,Default,Sukuna,0,0,0,,This guy's just a little tougher and denser than other humans.
-Dialogue: 0,0:04:31.46,0:04:36.17,Default,Sukuna,0,0,0,,Just a moment ago, he was scared \Nout of his mind, on the verge of death,
-Dialogue: 0,0:04:36.30,0:04:40.26,Default,Sukuna,0,0,0,,{\fade(300,500)}prattling on about his regrets and all that nonsense.
+Dialogue: 0,0:04:26.45,0:04:30.59,Default,Sukuna,0,0,0,,This guy is just a little tougher and \Ndenser than normal humans.
+Dialogue: 0,0:04:31.46,0:04:36.17,Default,Sukuna,0,0,0,,Just a moment ago he was scared \Nout of his mind, on the verge of death.
+Dialogue: 0,0:04:36.30,0:04:40.26,Default,Sukuna,0,0,0,,{\fade(300,500)}Should've seen him prattling on \Nabout his regrets and all that bullshit.
 Dialogue: 0,0:04:40.63,0:04:44.59,Default,Sukuna,0,0,0,,I know for a fact he doesn't have the guts to kill himself.
-Dialogue: 0,0:04:45.72,0:04:47.55,Default,Fushiguro,0,0,0,,{\i1}His arm is restored!
-Dialogue: 0,0:04:54.64,0:04:55.77,Default,Fushiguro,0,0,0,,{\i1}Healing.
-Dialogue: 0,0:04:55.77,0:04:57.99,Default,Fushiguro,0,0,0,,{\i1}He can use Reverse Cursed Techniques.
-Dialogue: 0,0:04:58.83,0:05:00.91,Default,Fushiguro,0,0,0,,{\i1}Sukuna is an incarnation.
-Dialogue: 0,0:05:00.91,0:05:04.45,Default,Fushiguro,0,0,0,,{\i1}Even if he can live without a heart, it should still be damaging to him.
+Dialogue: 0,0:04:45.77,0:04:47.55,Default,Fushiguro,0,0,0,,{\i1}His arm is restored.
+Dialogue: 0,0:04:54.64,0:04:55.82,Default,Fushiguro,0,0,0,,{\i1}Healing.
+Dialogue: 0,0:04:55.82,0:04:58.03,Default,Fushiguro,0,0,0,,{\i1}He can use Reverse Cursed Techniques.
+Dialogue: 0,0:04:58.57,0:05:00.91,Default,Fushiguro,0,0,0,,{\i1}Sukuna is an incarnation.
+Dialogue: 0,0:05:00.91,0:05:04.91,Default,Fushiguro,0,0,0,,{\i1}Even if he can survive without a heart, \Nit should still be damaging him.
 Dialogue: 0,0:05:05.53,0:05:08.73,Default,Fushiguro,0,0,0,,{\i1}I'll make him heal his heart before Itadori returns.
-Dialogue: 0,0:05:08.73,0:05:12.46,Default,Fushiguro,0,0,0,,{\i1}I just have to make him believe \Nhe can't beat me without a heart in his body!
+Dialogue: 0,0:05:08.73,0:05:12.46,Default,Fushiguro,0,0,0,,{\i1}I just have to push him to believe \Nhe can't beat me without a heart in his body!
 Dialogue: 0,0:05:13.83,0:05:15.96,Default,Fushiguro,0,0,0,,{\i1}Can I do that?
-Dialogue: 0,0:05:17.50,0:05:21.09,Default,Fushiguro,0,0,0,,{\fade(0,500)\i1}I couldn't even move \Nwith that special-grade in front of me.
+Dialogue: 0,0:05:17.50,0:05:21.09,Default,Fushiguro,0,0,0,,{\fade(0,500)\i1}When that special-grade was \Nin front of me, I couldn't even move.
 Dialogue: 0,0:05:24.95,0:05:26.89,Default,Fushiguro,0,0,0,,{\i1}It's not about whether I can.
 Dialogue: 0,0:05:27.30,0:05:28.76,Default,Fushiguro,0,0,0,,{\i1}I will!
 Dialogue: 0,0:05:34.14,0:05:38.15,Default,Sukuna,0,0,0,,Since I'm finally outside, let's use the open space.
 Dialogue: 0,0:05:46.19,0:05:47.72,Default,Sukuna,0,0,0,,Interesting.
 Dialogue: 0,0:05:47.72,0:05:52.25,Default,Sukuna,0,0,0,,You use cursed beasts, \Nbut you'll still come at me yourself? {How come this is untranslated?}{asking the real questions. i'd say its to preserve japanese folklore. since he is referencing the exact creatures from the myths, it's not something that needs to be translated.}{all right, i take that back}
-Dialogue: 0,0:05:59.13,0:06:00.46,Default,Sukuna,0,0,0,,More.
-Dialogue: 0,0:06:01.36,0:06:02.71,Default,Sukuna,0,0,0,,More.
-Dialogue: 0,0:06:04.27,0:06:06.34,Default,Sukuna,0,0,0,,More!
-Dialogue: 0,0:06:09.15,0:06:11.01,Default,Sukuna,0,0,0,,Put more curse behind it
-Dialogue: 0,0:06:12.70,0:06:14.18,Default,Sukuna,0,0,0,,when you strike me!
+Dialogue: 0,0:05:59.13,0:06:00.46,Default,Sukuna,0,0,0,,That's all you've got?
+Dialogue: 0,0:06:01.36,0:06:02.71,Default,Sukuna,0,0,0,,Are you even trying?
+Dialogue: 0,0:06:04.27,0:06:06.34,Default,Sukuna,0,0,0,,Try harder!
+Dialogue: 0,0:06:09.15,0:06:11.01,Default,Sukuna,0,0,0,,Put more curse into it
+Dialogue: 0,0:06:12.70,0:06:14.18,Default,Sukuna,0,0,0,,when you strike!
 Dialogue: 0,0:06:18.12,0:06:19.06,Default,Fushiguro,0,0,0,,{\i1}Orochi!
-Dialogue: 0,0:06:25.19,0:06:26.19,Default,Fushiguro,0,0,0,,Gang up on him!
-Dialogue: 0,0:06:38.29,0:06:40.83,Default,Sukuna,0,0,0,,Hey, what did I just say?
-Dialogue: 0,0:06:41.83,0:06:43.69,Default,Sukuna,0,0,0,,Let's use the open space!
+Dialogue: 0,0:06:25.19,0:06:26.19,Default,Fushiguro,0,0,0,,Attack! All at once!
+Dialogue: 0,0:06:38.29,0:06:40.83,Default,Sukuna,0,0,0,,Remember what I said earlier?
+Dialogue: 0,0:06:41.83,0:06:43.47,Default,Sukuna,0,0,0,,Let's use the open space!
 Dialogue: 0,0:07:08.04,0:07:10.32,Default,Fushiguro,0,0,0,,{\i1}It's not even a matter of jujutsu sorcery.
-Dialogue: 0,0:07:10.32,0:07:14.55,Default,Fushiguro,0,0,0,,{\i1}His power and agility are on a totally different level.
-Dialogue: 0,0:07:14.55,0:07:16.20,Default,Sukuna,0,0,0,,Nice technique there.
+Dialogue: 0,0:07:10.32,0:07:14.55,Default,Fushiguro,0,0,0,,{\i1}His power and agility alone far exceed mine.
+Dialogue: 0,0:07:14.55,0:07:16.20,Default,Sukuna,0,0,0,,Nice technique you've got.
 Dialogue: 0,0:07:28.11,0:07:29.40,Default,Fushiguro,0,0,0,,{\i1}What do I do?
 Dialogue: 0,0:07:29.85,0:07:34.03,Default,Fushiguro,0,0,0,,{\i1}I used up one of my cursed beasts to escape that Innate Domain.
 Dialogue: 0,0:07:35.36,0:07:38.36,Default,Fushiguro,0,0,0,,{\i1}Divine Dog White and Orochi are both destroyed.
@@ -160,40 +160,40 @@ Dialogue: 0,0:11:37.38,0:11:39.80,Default,Yuji,0,0,0,,...live a long life.
 Comment: 0,0:12:06.95,0:12:06.99,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:12:28.12,0:12:30.33,Default,Jogo,0,0,0,,Hey, answer me.
 Dialogue: 0,0:12:30.33,0:12:37.83,Default,Jogo,0,0,0,,Was there any real reason to use a precious finger to test Sukuna's strength?
-Dialogue: 0,0:12:38.45,0:12:42.62,Default,Geto,0,0,0,,Well, there wasn't much point to it with half measures.
-Dialogue: 0,0:12:43.03,0:12:45.13,Default,Geto,0,0,0,,We did learn a few things.
+Dialogue: 0,0:12:38.40,0:12:42.62,Default,Geto,0,0,0,,Well, there wasn't much point to it with half measures.
+Dialogue: 0,0:12:43.08,0:12:45.13,Default,Geto,0,0,0,,We did learn a few things.
 Dialogue: 0,0:12:45.13,0:12:47.98,Default,Jogo,0,0,0,,Hmph. I'll be praying that's not just an excuse.
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(508.8,1020)}H
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(550.88,1020)\fry180}e
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(585.74,1020)}i
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(608.16,949)\frx180}s
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(647.98,940)\frx180}t
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(676.19,1020)}h
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(710.77,949) \frx180}e
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(760.46,1020)}k
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(786.39,1020)}i
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(817.99,1020)\fry180}n
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(854.77,1020)\fry180}g
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(896.63,1020)}o
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(927.21,1020)}f
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(972.24,1020)}c
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1007.39,1020)}u
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1039.33,1020)}r
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1067.03,949)\frx180}s
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1106.94,1020)\fry180}e
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1131.85,949)\frx180}s
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1153.92,1020)},
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1203.92,1021)\fry180}a
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1226.17,1020)}f
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1250.57,940)\frx180}t
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1280.29,949)\frx180}e
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1313.16,1020)}r
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1366.79,1020)\fry180}a
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1387.52,1020)}l
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1403.91,1020)}l
-Dialogue: 0,0:12:48.83,0:12:50.62,Default,,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\pos(1420.55,1020)}.
-Dialogue: 0,0:12:50.83,0:12:54.62,Default,Jogo,0,0,0,,Stop talking! No one understands what you're saying!
-Dialogue: 0,0:12:57.46,0:13:01.79,Default,Jogo,0,0,0,,We don't understand, yet the meaning flows right into our minds. It's creepy!
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(507.8,1020)}H
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(543.88,1020)}e
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(584.73,1020)}i
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(607.15,1020)}s
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(646.96,1020)}t
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(675.17,1020)}h
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(709.74,1020)}e
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(759.77,1020)}K
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(786.05,1020)}i
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(810.65,1020)}n
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(845.43,1020)}g
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(896.29,1020)}o
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(926.87,1020)}f
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(972.29,1020)}C
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1007.84,1020)}u
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1039.78,1020)}r
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1068.48,1020)}s
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1100.39,1020)}e
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1132.3,1020)}s
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1154.36,1020)},
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1195.35,1020)}a
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1226.6,1020)}f
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1250.99,1020)}t
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1280.7,1020)}e
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1313.56,1020)}r
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1361.18,1020)}a
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1387.91,1020)}l
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1404.3,1020)}l
+Dialogue: 0,0:12:48.83,0:12:50.62,Default,Hanami,0,0,0,,{\fnKG HAPPY Solid\b0\fscx90\fry180\pos(1420.94,1020)}.
+Dialogue: 0,0:12:50.62,0:12:54.62,Default,Jogo,0,0,0,,Stop talking! No one understands what you're saying!
+Dialogue: 0,0:12:57.51,0:13:01.93,Default,Jogo,0,0,0,,We don't understand, yet the meaning flows right into our minds. It's creepy!
 Dialogue: 0,0:13:07.16,0:13:08.72,Default,Waitress,0,0,0,,Welcome!
 Dialogue: 0,0:13:09.10,0:13:11.58,Default,Waitress,0,0,0,,Would you like a table for one?
 Dialogue: 0,0:13:13.15,0:13:15.01,Default,Geto,0,0,0,,Yes, for one, please.
@@ -251,9 +251,9 @@ Dialogue: 0,0:16:37.50,0:16:39.94,Default,Panda,0,0,0,,One of the first-year boy
 Dialogue: 0,0:16:39.94,0:16:40.77,Default,Toge,0,0,0,,Bonito flakes.
 Dialogue: 0,0:16:41.82,0:16:43.77,Default,Maki,0,0,0,,Could've told me sooner!
 Dialogue: 0,0:16:43.77,0:16:47.04,Default,Maki,0,0,0,,Now I look like some heartless, cold-blooded demon!
-Dialogue: 0,0:16:47.04,0:16:48.51,Default,Panda,0,0,0,,Well, you pretty much are.
+Dialogue: 0,0:16:47.04,0:16:48.51,Default,Panda,0,0,0,,That's not far from the truth.
 Dialogue: 0,0:16:48.51,0:16:49.78,Default,Toge,0,0,0,,Tuna mayo.
-Dialogue: 0,0:16:49.78,0:16:52.25,Default,Kugisaki,0,0,0,,{\an8}You're supposed to try to make me feel better!
+Dialogue: 0,0:16:49.78,0:16:52.28,Default,Kugisaki,0,0,0,,{\an8}What the heck? I can be considerate, okay?
 Dialogue: 0,0:16:51.18,0:16:53.33,Default,Kugisaki,0,0,0,,Who are those guys?
 Dialogue: 0,0:16:53.33,0:16:55.29,Default,Fushiguro,0,0,0,,The second-years.
 Dialogue: 0,0:16:55.59,0:16:58.54,Default,Panda,0,0,0,,You have to be more kind to your underclassmen.
@@ -264,18 +264,20 @@ Dialogue: 0,0:17:06.79,0:17:09.15,Default,Fushiguro,0,0,0,,That's the Cursed Spe
 Dialogue: 0,0:17:09.15,0:17:11.42,Default,Fushiguro,0,0,0,,He can only speak in rice ball ingredients.
 Dialogue: 0,0:17:11.42,0:17:15.39,Default,Panda,0,0,0,,She's a bit softer when Yuta's around, though.
 Dialogue: 0,0:17:15.39,0:17:16.43,Default,Fushiguro,0,0,0,,That's Panda{**-senpai}.
-Dialogue: 0,0:17:17.27,0:17:26.28,Default,Fushiguro,0,0,0,,There's one more, Okkotsu{**-senpai}, who's the only one \NI can sincerely respect but he's overseas right now.
-Dialogue: 0,0:17:26.28,0:17:28.94,Default,Kugisaki,0,0,0,,You're not adding more \Nabout the panda named Panda?
+Dialogue: 0,0:17:17.27,0:17:20.23,Default,Fushiguro,0,0,0,,There is one more. His name is Okkotsu{**-senpai}.
+Dialogue: 0,0:17:20.23,0:17:24.98,Default,Fushiguro,0,0,0,,He's the only one I can \Nsincerely respect out of the bunch
+Dialogue: 0,0:17:24.98,0:17:26.19,Default,Fushiguro,0,0,0,,but he's overseas right now.
+Dialogue: 0,0:17:26.19,0:17:28.94,Default,Kugisaki,0,0,0,,You're not gonna add more \Nabout the panda named Panda?
 Dialogue: 0,0:17:29.93,0:17:32.24,Default,Panda,0,0,0,,Man, sorry about this.
 Dialogue: 0,0:17:32.24,0:17:34.32,Default,Panda,0,0,0,,Especially during this sad time.
 Dialogue: 0,0:17:34.32,0:17:36.25,Default,Panda,0,0,0,,Please forgive us for that!
 Dialogue: 0,0:17:37.07,0:17:42.25,Default,Panda,0,0,0,,The truth is, we'd like you to participate\N in the Kyoto Sister School Exchange Event.
 Dialogue: 0,0:17:42.58,0:17:46.00,Default,Kugisaki,0,0,0,,Kyoto Sister School Exchange Event?
-Dialogue: 0,0:17:46.34,0:17:47.50,Default,Kugisaki,0,0,0,,What's that?
-Dialogue: 0,0:17:47.50,0:17:51.01,Default,Fushiguro,0,0,0,,It's a get-together with the other Tech school in Kyoto.
+Dialogue: 0,0:17:46.00,0:17:47.34,Default,Kugisaki,0,0,0,,What's that?
+Dialogue: 0,0:17:47.34,0:17:51.01,Default,Fushiguro,0,0,0,,It's a get-together with the other Tech school in Kyoto.
 Dialogue: 0,0:17:51.72,0:17:54.97,Default,Fushiguro,0,0,0,,Isn't it mainly for second- and third-years, though?
-Dialogue: 0,0:17:55.39,0:17:58.52,Default,Maki,0,0,0,,And that idiot third-year is suspended right now.
-Dialogue: 0,0:17:58.52,0:18:00.43,Default,Maki,0,0,0,,That's why we need you to participate.
+Dialogue: 0,0:17:55.39,0:17:58.39,Default,Maki,0,0,0,,And those idiot third-years are suspended right now.
+Dialogue: 0,0:17:58.39,0:18:00.43,Default,Maki,0,0,0,,That's why we need you to participate.
 Dialogue: 0,0:18:00.77,0:18:03.14,Default,Kugisaki,0,0,0,,What do we do at this event?
 Dialogue: 0,0:18:03.14,0:18:04.35,Default,Kugisaki,0,0,0,,{\i1}Smash Bros.{\i0}?
 Dialogue: 0,0:18:04.35,0:18:06.12,Default,Kugisaki,0,0,0,,I won't lose if it's the Wii version.
@@ -297,12 +299,11 @@ Dialogue: 0,0:18:47.23,0:18:47.94,Default,Panda,0,0,0,,{\fade(100,0)}Yeah!
 Dialogue: 0,0:18:49.13,0:18:51.47,Default,Kugisaki,0,0,0,,Wait, do you have time for that?
 Dialogue: 0,0:18:51.47,0:18:53.94,Default,Kugisaki,0,0,0,,I thought we were short on jujutsu sorcerers.
 Dialogue: 0,0:18:53.94,0:18:57.45,Default,Panda,0,0,0,,That's a good question. For now, we do.
-Dialogue: 0,0:18:58.37,0:19:01.41,Default,Panda,0,0,0,,People's depression from winter through spring
-Dialogue: 0,0:19:01.41,0:19:04.08,Default,Panda,0,0,0,,causes an outburst of curses in summer.
-Dialogue: 0,0:19:04.08,0:19:06.17,Default,Panda,0,0,0,,That's our busy season.
-Dialogue: 0,0:19:06.45,0:19:08.69,Default,Maki,0,0,0,,Sometimes we're busy all year long,
+Dialogue: 0,0:18:58.37,0:19:01.33,Default,Panda,0,0,0,,People's depression often accumulates from winter to spring
+Dialogue: 0,0:19:01.33,0:19:06.17,Default,Panda,0,0,0,,and erupts in summer—transforming into curses—making it our busy season.
+Dialogue: 0,0:19:06.17,0:19:08.69,Default,Maki,0,0,0,,Sometimes we're busy all year long,
 Dialogue: 0,0:19:08.69,0:19:10.96,Default,Maki,0,0,0,,but things should be settling down soon.
-Dialogue: 0,0:19:10.96,0:19:12.29,Default,Kugisaki,0,0,0,,Huh...
+Dialogue: 0,0:19:10.96,0:19:12.29,Default,Kugisaki,0,0,0,,Okay...
 Dialogue: 0,0:19:12.29,0:19:14.17,Default,maki,0,0,0,,So, you're in, right?
 Dialogue: 0,0:19:14.17,0:19:16.13,Default,maki,0,0,0,,Do it for your fallen friend.
 Dialogue: 0,0:19:16.13,0:19:17.59,Default,Both,0,0,0,,We're in!
@@ -312,18 +313,18 @@ Dialogue: 0,0:19:20.59,0:19:22.32,Default,Both,0,0,0,,{\i1}become stronger.
 Dialogue: 0,0:19:22.32,0:19:24.52,Default,Both,0,0,0,,{\i1\fade(0,200)}I'll do whatever it takes!
 Dialogue: 0,0:19:25.52,0:19:29.80,Default,Kugisaki,0,0,0,,But if this training and exchange event start to feel pointless, I'm out.
 Dialogue: 0,0:19:29.80,0:19:30.90,Default,Fushiguro,0,0,0,,Same.
-Dialogue: 0,0:19:32.04,0:19:35.76,Default,Panda,0,0,0,,Well, people this cocky \Nare all the more worthwhile to train.
-Dialogue: 0,0:19:35.76,0:19:36.88,Default,Toge,0,0,0,,Bonito flakes.
-Dialogue: 0,0:19:39.30,0:19:46.12,Default,Geto,0,0,0,,So, you're saying your boss wants to reverse the roles of humans and curses in this world.
-Dialogue: 0,0:19:46.42,0:19:48.04,Default,Geto,0,0,0,,Is that it?
-Dialogue: 0,0:19:48.04,0:19:50.38,Default,Jogo,0,0,0,,Well, somewhat.
-Dialogue: 0,0:19:50.38,0:19:52.79,Default,Jogo,0,0,0,,It's slightly different, though.
+Dialogue: 0,0:19:32.04,0:19:35.76,Default,Panda,0,0,0,,Well, people this cocky are \Nall the more worthwhile to train.
+Dialogue: 0,0:19:35.76,0:19:36.91,Default,Toge,0,0,0,,Bonito flakes.
+Dialogue: 0,0:19:39.24,0:19:46.12,Default,Geto,0,0,0,,So, you're saying your boss wants to reverse the roles of humans and curses in this world.
+Dialogue: 0,0:19:46.12,0:19:47.87,Default,Geto,0,0,0,,Is that right?
+Dialogue: 0,0:19:47.87,0:19:50.34,Default,Jogo,0,0,0,,Well, yeah, kinda.
+Dialogue: 0,0:19:50.34,0:19:52.79,Default,Jogo,0,0,0,,There's more to it, though.
 Dialogue: 0,0:19:52.79,0:19:55.39,Default,Jogo,0,0,0,,Humans are full of lies.
-Dialogue: 0,0:19:55.39,0:20:00.39,Default,Jogo,0,0,0,,{\fade(0,200)}There's always a flip-side to every positive action and emotion they show.
-Dialogue: 0,0:20:01.18,0:20:08.03,Default,Jogo,0,0,0,,Negative emotions like\N hatred and hostility are pure truths.
+Dialogue: 0,0:19:55.39,0:20:00.39,Default,Jogo,0,0,0,,{\fade(0,200)}There's always an ulterior motive to\N their every action and emotion.
+Dialogue: 0,0:20:01.18,0:20:08.03,Default,Jogo,0,0,0,,But negative emotions like hatred and hostility are pure truths.
 Dialogue: 0,0:20:08.03,0:20:11.57,Default,Jogo,0,0,0,,Since we curses are born from such truths,
 Dialogue: 0,0:20:11.57,0:20:14.77,Default,Jogo,0,0,0,,that makes us true, pure beings!
-Dialogue: 0,0:20:14.77,0:20:17.19,Default,Jogo,0,0,0,,Imitations should be eliminated!
+Dialogue: 0,0:20:14.77,0:20:17.19,Default,Jogo,0,0,0,,Imitations shall be eliminated!
 Dialogue: 0,0:20:17.19,0:20:21.32,Default,Geto,0,0,0,,Yet, at present, you're the ones being eliminated.
 Dialogue: 0,0:20:21.32,0:20:24.10,Default,Jogo,0,0,0,,That's why we've come to ask you.
 Dialogue: 0,0:20:24.10,0:20:26.99,Default,Jogo,0,0,0,,What can we do to defeat the sorcerers?
