@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "VSP Current File",
+            "type": "python",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "preLaunchTask": "update_commom",
+            "module": "vspreview",
+            "args": ["${file}"],
+            "showReturnValue": true,
+            "subProcess": true,
+            "env": {
+                "PYDEVD_DISABLE_FILE_VALIDATION": "1"
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.vpy": "python"
+    },
+    "python.pythonPath": "C:/KaizokuEncoder/python.exe",
+    "python.languageServer": "Pylance"
+}
