@@ -1,9 +1,7 @@
 #!C:/KaizokuEncoder/python
-import sys
-sys.path.append('..')
-from encode import enc, flt
+from kaisen_common import src, flt, enc
 
-from BDMV.NC import ED1 as ED
+ED = src.ED1
 
 AA_RANGES = []
 DB_RANGES = []
@@ -14,7 +12,7 @@ def filter():
     aaa = flt.antialias(res, AA_RANGES)
     deh = flt.dehalo(aaa)
     den = flt.denoise(deh)
-    deb = flt.deband(den, deh, DB_RANGES)
+    deb = flt.deband(den, DB_RANGES)
     gra = flt.grain(deb)
     fin = flt.finalize(gra)
     return fin

@@ -1,11 +1,9 @@
 #!C:/KaizokuEncoder/python
-import sys
-sys.path.append('..')
-from encode import enc, flt
+from kaisen_common import src, flt, enc
 
-from BDMV.EP import E01 as EP
-from BDMV.NC import OP1 as NCOP
-from BDMV.NC import ED1 as NCED
+EP = src.E01
+NCOP = src.OP1
+NCED = src.ED1
 
 OP = 1318
 ED = None
@@ -19,9 +17,9 @@ def filter():
     aaa = flt.antialias(res, AA_RANGES)
     deh = flt.dehalo(aaa)
     den = flt.denoise(deh)
-    deb = flt.deband(den, deh, DB_RANGES)
-    mnc = flt.mask_nc(deb, src, NCOP, NCED, OP, ED)
-    gra = flt.grain(mnc)
+    deb = flt.deband(den, DB_RANGES)
+    rst = flt.restore(deb, src, NCOP, NCED, OP, ED)
+    gra = flt.grain(rst)
     fin = flt.finalize(gra)
     return fin
 
