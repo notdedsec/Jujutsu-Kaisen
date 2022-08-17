@@ -1,30 +1,28 @@
 #!C:/KaizokuEncoder/python
 from kaisen_common import src, flt, enc
 
-EP = src.E18
-NCOP = src.OP2
-NCED = src.ED2
+SRC = src.E18
 
 OP = 3789
 ED = 29849
 
 AA_RANGES = [(OP+1687, OP+1709), (OP+1052, OP+1067), (OP+1942, OP+2010)] + [(32211, 32405)]
-DB_RANGES = [(OP+219, OP+262), (OP+364, OP+377), (OP+439, OP+508), (OP+784, OP+825), (OP+1052, OP+1067), (OP+1135, OP+1165), (OP+1852, OP+1885)]
+DB_RANGES = [(OP+219, OP+262), (OP+364, OP+377), (OP+439, OP+508), (OP+784, OP+825), (OP+1052, OP+1067), (OP+1135, OP+1165)]
 
 def filter():
-    src = EP.clip_cut
+    src = SRC.clip_cut
     res = flt.rescale(src)
-    aaa = flt.antialias(res, AA_RANGES)
+    msk = flt.detailmask(res)
+    den = flt.denoise(res, msk)
+    aaa = flt.antialias(den, AA_RANGES)
     deh = flt.dehalo(aaa)
-    den = flt.denoise(deh)
-    deb = flt.deband(den, DB_RANGES)
-    rst = flt.restore(deb, src, NCOP, NCED, OP, ED)
-    gra = flt.grain(rst)
-    fin = flt.finalize(gra)
-    return fin
+    deb = flt.deband(deh, msk, DB_RANGES)
+    rst = flt.restore(deb, src)
+    grn = flt.grain(rst)
+    return grn
 
 if __name__ == '__main__':
-    brr = enc.Encoder(EP, filter())
+    brr = enc.Encoder(SRC, filter())
     brr.run()
     brr.clean()
     brr.compare()

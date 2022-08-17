@@ -1,24 +1,24 @@
 #!C:/KaizokuEncoder/python
 from kaisen_common import src, flt, enc
 
-OP = src.OP1D
+SRC = src.OP1D
 
 AA_RANGES = [(277, 441), (650, 686), (877, 931), (1373, 1399), (1515, 1535)]
-DB_RANGES = [(64, 144), (1094, 1117), (1138, 1178), (1293, 1306), (1408, 1441), (1572, 1589), (1699, 1756), (1928, 2020)]
+DB_RANGES = [(1293, 1306), (1572, 1589), (1699, 1756)]
 
 def filter():
-    src = OP.clip_cut
+    src = SRC.clip_cut
     res = flt.rescale(src)
-    aaa = flt.antialias(res, AA_RANGES)
+    msk = flt.detailmask(res)
+    den = flt.denoise(res, msk)
+    aaa = flt.antialias(den, AA_RANGES)
     deh = flt.dehalo(aaa)
-    den = flt.denoise(deh)
-    deb = flt.deband(den, DB_RANGES)
-    gra = flt.grain(deb)
-    fin = flt.finalize(gra)
-    return fin
+    deb = flt.deband(deh, msk, DB_RANGES)
+    grn = flt.grain(deb)
+    return grn
 
 if __name__ == '__main__':
-    brr = enc.Encoder(OP, filter())
+    brr = enc.Encoder(SRC, filter())
     brr.run()
     brr.clean()
 else:
