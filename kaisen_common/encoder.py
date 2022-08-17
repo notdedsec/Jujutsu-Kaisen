@@ -20,11 +20,11 @@ class Encoder:
                 (ED+2157, self.file.trims_or_dfs[-1])
             ]
 
-        self.v_encoder = X265Encoder('../encode/settings')
+        self.v_encoder = X265Encoder('../kaisen_common/settings')
         self.a_extracter = FFmpegAudioExtracter(self.file, track_in=1, track_out=1)
         self.a_cutters = EztrimCutter(self.file, track=1)
         self.a_encoders = QAACEncoder(self.file, track=1)
-    
+
     def run(self) -> None:
         assert self.file.a_enc_cut
 

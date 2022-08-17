@@ -1,8 +1,8 @@
 -o {clip_output:s} - --y4m
 --crf 15 --qcomp 0.8 --preset slower --ref 6
---psy-rd 2.5 --psy-rdoq 2.5 --aq-mode 3 --aq-strength 0.9
+--psy-rd 2.0 --psy-rdoq 2.0 --aq-mode 3 --aq-strength 0.95
 --bframes 16 --rc-lookahead 80 --sar 1 --keyint 250 --min-keyint 23
---subme 5 --rskip 0 --cbqpoffs -2 --crqpoffs -2 --no-cutree --no-open-gop
+--subme 5 --rskip 0 --cbqpoffs -3 --crqpoffs -3 --no-cutree --no-open-gop
 --deblock=-2:-2 --no-sao --no-sao-non-deblock --no-strong-intra-smoothing
 --frames {frames:d} --fps {fps_num:d}/{fps_den:d} --output-depth {bits:d}
 --min-luma {min_luma:d} --max-luma {max_luma:d} --range limited
