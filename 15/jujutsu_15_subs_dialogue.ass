@@ -36,17 +36,17 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:06.65,0:00:09.61,Default,Gojo,0,0,0,,{\an8}T-minus one minute until we begin.
-Dialogue: 0,0:00:09.61,0:00:16.91,Default,Gojo,0,0,0,,And now, a word of well-appreciated encouragement from {*}Ms. Iori Utahime{*Iori Utahime-sensei}.
+Dialogue: 0,0:00:09.61,0:00:16.91,Default,Gojo,0,0,0,,And now, a word of well-appreciated encouragement from {*}Miss Iori Utahime{*Iori Utahime-sensei}.
 Dialogue: 0,0:00:16.91,0:00:17.74,Default,Utahime,0,0,0,,Wha?!
 Dialogue: 0,0:00:17.74,0:00:20.62,Default,Utahime,0,0,0,,U-Uh...
-Dialogue: 0,0:00:20.62,0:00:25.46,Default,Utahime,0,0,0,,{\i1}Um, some degree of injury will be unavoidable,
-Dialogue: 0,0:00:25.46,0:00:28.80,Default,Utahime,0,0,0,,{\i1}but, um... let's help each other out...
-Dialogue: 0,0:00:28.80,0:00:31.13,Default,Utahime,0,0,0,,{\i1}whenever we can... or something...
-Dialogue: 0,0:00:31.39,0:00:32.63,Default,Gojo,0,0,0,,{\i1}Time's up.
-Dialogue: 0,0:00:32.63,0:00:35.63,Default,Utahime,0,0,0,,{\i1}Hey! Gojo, you little{\fscx180}—{\fscx}
-Dialogue: 0,0:00:35.63,0:00:39.30,Default,Gojo,0,0,0,,{\i1}Now, let the sister school exchange event...
-Dialogue: 0,0:00:39.30,0:00:42.60,Default,Gojo,0,0,0,,{\i1}begin!{could be all-caps >:D}
-Dialogue: 0,0:00:42.60,0:00:44.56,Default,Utahime,0,0,0,,{\i1}Respect your seniors!
+Dialogue: 0,0:00:20.62,0:00:25.46,Default,Utahime,0,0,0,,Um, some degree of injury will be unavoidable,
+Dialogue: 0,0:00:25.46,0:00:28.80,Default,Utahime,0,0,0,,but, um... let's help each other out...
+Dialogue: 0,0:00:28.80,0:00:31.13,Default,Utahime,0,0,0,,whenever we can... or something...
+Dialogue: 0,0:00:31.13,0:00:32.64,Default,Gojo,0,0,0,,All right, time's up.
+Dialogue: 0,0:00:32.64,0:00:35.63,Default,Utahime,0,0,0,,H-Hey! Gojo, you little{\fscx180}—{\fscx}
+Dialogue: 0,0:00:35.63,0:00:39.30,Default,Gojo,0,0,0,,Now, let the sister school exchange event...
+Dialogue: 0,0:00:39.30,0:00:42.60,Default,Gojo,0,0,0,,begin!{could be all-caps >:D}
+Dialogue: 0,0:00:42.60,0:00:44.56,Default,Utahime,0,0,0,,Respect your seniors!
 Dialogue: 0,0:00:45.27,0:00:46.28,Default,Yuji,0,0,0,,Ichiro reference?! {apparently he's some well known announcer for some famous torunament. heh.}
 Dialogue: 0,0:00:46.28,0:00:47.90,Default,Kugisaki,0,0,0,,How stupid.
 Dialogue: 0,0:00:48.31,0:00:49.98,Default,Kamo,0,0,0,,Where's Todo?
@@ -60,7 +60,7 @@ Dialogue: 0,0:01:13.88,0:01:17.59,Default,Maki,0,0,0,,we'll split into the Panda
 Dialogue: 0,0:01:17.59,0:01:19.97,Default,Maki,0,0,0,,The rest is up to you, Yuji.
 Dialogue: 0,0:01:19.97,0:01:20.80,Default,Yuji,0,0,0,,Got it!
 Dialogue: 0,0:01:25.39,0:01:28.90,Cursed,CursedSpirit15A,0,0,0,,Where are you going?
-Dialogue: 0,0:01:30.19,0:01:31.52,Default,Panda,0,0,0,,That's small fry.
+Dialogue: 0,0:01:30.19,0:01:31.52,Default,Panda,0,0,0,,That's a small fry.
 Dialogue: 0,0:01:36.08,0:01:37.70,Default,Fushiguro,0,0,0,,{*}Panda{*Senpai}, stop!
 Dialogue: 0,0:01:45.54,0:01:48.12,Default,Todo,0,0,0,,Great! The gang's all here!
 Dialogue: 0,0:01:48.71,0:01:51.38,Default,Todo,0,0,0,,Come at me all at once!
@@ -73,34 +73,31 @@ Dialogue: 0,0:02:13.40,0:02:15.15,Default,Panda,0,0,0,,So just ignore him.
 Dialogue: 0,0:02:15.15,0:02:16.40,Default,Toge,0,0,0,,Tuna.
 Comment: 0,0:02:27.00,0:02:27.04,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:03:57.01,0:03:57.05,Default,chptr,0,0,0,,{Part A}
-Dialogue: 0,0:03:59.92,0:04:04.05,Default,Maki,0,0,0,,{\an8}Todo will definitely come straight at us.
-Dialogue: 0,0:04:04.47,0:04:08.31,Default,Maki,0,0,0,,Mai might follow behind him and target me too.
+Dialogue: 0,0:03:59.92,0:04:04.05,Default,Maki,0,0,0,,{\an8}Todo will come straight at us.\NNo doubts about that.
+Dialogue: 0,0:04:04.47,0:04:08.31,Default,Maki,0,0,0,,Mai might follow suit and target me, too.
 Dialogue: 0,0:04:09.22,0:04:11.23,Default,Maki,0,0,0,,Todo is a monster.
-Dialogue: 0,0:04:11.77,0:04:16.15,Default,Maki,0,0,0,,Worst case scenario, \Nwe all face him and get wiped out.
+Dialogue: 0,0:04:11.77,0:04:16.15,Default,Maki,0,0,0,,Worst case scenario, \Nwe all face him and we all get wiped out.
 Dialogue: 0,0:04:18.53,0:04:24.53,Default,Maki,0,0,0,,So our plan was to leave one person behind, either Panda or Megumi, to keep him occupied.
 Dialogue: 0,0:04:26.04,0:04:28.45,Default,Maki,0,0,0,,But we'll leave it to you, Itadori.
 Dialogue: 0,0:04:30.20,0:04:33.29,Default,Maki,0,0,0,,We'd rather not lose anyone on the scouting teams.
-Dialogue: 0,0:04:34.17,0:04:35.54,Default,Maki,0,0,0,,You don't have to beat him.
-Dialogue: 0,0:04:35.54,0:04:38.38,Default,Maki,0,0,0,,Just buy us as much time as you can.
-Dialogue: 0,0:04:38.38,0:04:40.42,Default,Panda,0,0,0,,You'll still have to give it your all!
+Dialogue: 0,0:04:34.17,0:04:38.38,Default,Maki,0,0,0,,You don't have to beat him. \NJust buy us as much time as you can.
+Dialogue: 0,0:04:38.38,0:04:40.42,Default,Panda,0,0,0,,You'll still have to break a leg, though!
 Dialogue: 0,0:04:40.42,0:04:45.52,Default,Panda,0,0,0,,To be blunt, we weren't counting on your abilities anyway, so it's okay if you go down.
 Dialogue: 0,0:04:45.52,0:04:46.72,Default,Yuji,0,0,0,,Rude!
-Dialogue: 0,0:04:47.43,0:04:49.23,Default,Panda,0,0,0,,Sorry, Megumi.
-Dialogue: 0,0:04:49.23,0:04:51.60,Default,Panda,0,0,0,,You wanted to face Todo, didn't you?
+Dialogue: 0,0:04:47.43,0:04:49.23,Default,Panda,0,0,0,,I'm sorry, Megumi.
+Dialogue: 0,0:04:49.23,0:04:51.60,Default,Panda,0,0,0,,I bet you wanted your rematch with Todo.
 Dialogue: 0,0:04:52.48,0:04:54.44,Default,Fushiguro,0,0,0,,No, I'm good either way.
 Dialogue: 0,0:04:54.44,0:04:55.48,Default,Pandra,0,0,0,,Man, you're so dry.
-Dialogue: 0,0:04:57.86,0:05:00.44,Default,Yuji,0,0,0,,But {*}still{*Senpai}, if I'm doing this,
+Dialogue: 0,0:04:57.86,0:05:00.44,Default,Yuji,0,0,0,,But still, if I'm doing this,
 Dialogue: 0,0:05:02.62,0:05:04.62,Default,Yuji,0,0,0,,I'm gonna win.
 Dialogue: 0,0:05:08.41,0:05:10.20,Default,Todo,0,0,0,,Nice speed.
-Dialogue: 0,0:05:10.74,0:05:12.08,Default,Yuji,0,0,0,,{\i1}No way!
-Dialogue: 0,0:05:12.08,0:05:14.16,Default,Yuji,0,0,0,,{\i1}I thought I landed a good one.
-Dialogue: 0,0:05:20.34,0:05:22.22,Default,Todo,0,0,0,,Let me return the favor, first-year.
+Dialogue: 0,0:05:10.74,0:05:14.16,Default,Yuji,0,0,0,,{\i1}No way! I thought I landed a good one.
+Dialogue: 0,0:05:20.34,0:05:22.22,Default,Todo,0,0,0,,Let me return the favor, my junior.
 Dialogue: 0,0:05:22.22,0:05:23.96,Default,Todo,0,0,0,,Defend like your life depends on it!
-Dialogue: 0,0:05:26.09,0:05:28.76,Cursed,Cursedspirit15A,0,0,0,,Where?
+Dialogue: 0,0:05:26.09,0:05:28.76,Cursed,Cursedspirit15A,0,0,0,,Tell me, where?
 Dialogue: 0,0:05:41.70,0:05:43.57,Default,Yuji,0,0,0,,{\i1}My arm's still here, right?
 Dialogue: 0,0:05:44.53,0:05:46.74,Default,Yuji,0,0,0,,{\i1}I thought it got blown off.
-Dialogue: 0,0:05:46.74,0:05:48.78,Default,Yuji,0,0,0,,{\i1}If that curse didn't get in the way,
-Dialogue: 0,0:05:48.78,0:05:50.49,Default,Yuji,0,0,0,,{\i1}this could have turned out bad!
+Dialogue: 0,0:05:46.74,0:05:50.49,Default,Yuji,0,0,0,,{\i1}If that curse didn't get in the way, this could've turned out bad!
 Dialogue: 0,0:06:23.57,0:06:24.70,Default,Todo,0,0,0,,Done already?
 Dialogue: 0,0:06:32.37,0:06:34.91,Default,Todo,0,0,0,,Now then, who's next?
 Dialogue: 0,0:06:40.83,0:06:42.67,Default,Todo,0,0,0,,Are you for real?
@@ -109,10 +106,10 @@ Dialogue: 0,0:06:53.89,0:06:56.81,Default,Yuji,0,0,0,,What if you made me \Neven
 Dialogue: 0,0:06:57.68,0:06:59.52,Default,Todo,0,0,0,,Don't worry about it.
 Dialogue: 0,0:06:59.52,0:07:04.44,Default,Todo,0,0,0,,Takada{**-chan} says, \N"Men are perfect when they're a little dumb."
 Dialogue: 0,0:07:04.78,0:07:06.15,Default,Yuji,0,0,0,,Who's that?
-Dialogue: 0,0:07:06.15,0:07:08.40,Default,Yuji,0,0,0,,I don't care about idols.
+Dialogue: 0,0:07:06.15,0:07:08.40,Default,Yuji,0,0,0,,I'm not into idol bullshit. {mah man}
 Dialogue: 0,0:07:08.40,0:07:11.16,Default,Todo,0,0,0,,Then how do you know she's an idol?
-Dialogue: 0,0:07:11.16,0:07:13.07,Default,Todo,0,0,0,,You know who she is.
-Dialogue: 0,0:07:13.70,0:07:16.20,Default,Todo,0,0,0,,What's your name, first-year?
+Dialogue: 0,0:07:11.16,0:07:13.07,Default,Todo,0,0,0,,You know who she is, all right.
+Dialogue: 0,0:07:13.70,0:07:16.20,Default,Todo,0,0,0,,What's your name, junior?
 Dialogue: 0,0:07:16.20,0:07:17.70,Default,Yuji,0,0,0,,Itadori Yuji.
 Dialogue: 0,0:07:17.70,0:07:20.29,Default,Todo,0,0,0,,I see. Itadori Yuji.
 Dialogue: 0,0:07:20.29,0:07:22.71,Default,Todo,0,0,0,,I have one question for you.
@@ -142,31 +139,30 @@ Dialogue: 0,0:09:19.37,0:09:22.08,Default,Todo,0,0,0,,{\pos(960,920)}Any chance 
 Dialogue: 0,0:09:22.62,0:09:24.50,Default,Yuji,0,0,0,,{\pos(960,920)}No way, man.
 Dialogue: 0,0:09:27.67,0:09:29.04,Default,Yuji,0,0,0,,{\pos(960,920)}Come on, let's go.
 Dialogue: 0,0:09:31.93,0:09:33.96,Default,Yuji,0,0,0,,{\pos(960,920)}Ramen is on me.
-Dialogue: 0,0:09:49.98,0:09:53.23,Default,Todo,0,0,0,,You never lose to anyone in your hometown, huh?
+Dialogue: 0,0:09:49.98,0:09:53.23,Default,Todo,0,0,0,,"Back home, we were invincible…" {Apparently he's quoting lyrics from the song Seishun Amigo by Shuuji to Akira. It's about friendship and stuff.} {this show makes the weirdest references...} {"I'll be there for you" is always an option}
 Dialogue: 0,0:09:55.70,0:09:59.91,Default,Todo,0,0,0,,Seems like we're best friends!
-Dialogue: 0,0:09:59.91,0:10:01.91,Default,Yuji,0,0,0,,But we just met!
+Dialogue: 0,0:09:59.91,0:10:01.91,Default,Yuji,0,0,0,,We literally just met!
 Dialogue: 0,0:10:03.63,0:10:05.75,Default,Momo,0,0,0,,Yeah, keep going straight.
 Dialogue: 0,0:10:05.75,0:10:07.33,Default,Momo,0,0,0,,Todo{**-kun} is there, though.
 Dialogue: 0,0:10:07.67,0:10:08.96,Default,Kamo,0,0,0,,Not a problem.
 Dialogue: 0,0:10:08.96,0:10:11.29,Default,Kamo,0,0,0,,He's the one who told us to do as we pleased.
 Dialogue: 0,0:10:19.35,0:10:22.01,Default,Miwa,0,0,0,,New Shadow Style: Simple Domain.
 Dialogue: 0,0:10:24.39,0:10:25.56,Default,Miwa,0,0,0,,Quick Draw!
-Dialogue: 0,0:10:30.94,0:10:32.61,Default,Miwa,0,0,0,,{\i1}What quick reflexes!
-Dialogue: 0,0:10:32.61,0:10:34.07,Default,Miwa,0,0,0,,{\i1}I know I hesitated for a bit,
-Dialogue: 0,0:10:34.07,0:10:36.57,Default,Miwa,0,0,0,,{\i1}but my counter didn't even scratch him!
+Dialogue: 0,0:10:30.94,0:10:32.65,Default,Miwa,0,0,0,,{\i1}He's got quick reflexes!
+Dialogue: 0,0:10:32.65,0:10:36.57,Default,Miwa,0,0,0,,{\i1}I know I hesitated for a bit, \Nbut my counter didn't even scratch him!
 Dialogue: 0,0:10:42.24,0:10:43.87,Default,Yuji,0,0,0,,{\i1}I'm surrounded?
 Dialogue: 0,0:10:44.54,0:10:45.34,Default,Yuji,0,0,0,,{\i1}Wait.
 Dialogue: 0,0:10:46.70,0:10:49.37,Default,Yuji,0,0,0,,{\i1}Are these guys...
 Dialogue: 0,0:10:52.96,0:10:54.84,Default,Yuji,0,0,0,,{\i1}trying to kill me?
-Dialogue: 0,0:11:00.43,0:11:01.39,Default,Kamo,0,0,0,,What just...
+Dialogue: 0,0:11:00.43,0:11:01.39,Default,Kamo,0,0,0,,{\i1}What just...
 Dialogue: 0,0:11:02.80,0:11:05.26,Default,Kamo,0,0,0,,{\i1}Itadori and I switched places?!
 Dialogue: 0,0:11:06.89,0:11:07.93,Default,Todo,0,0,0,,Hey.
-Dialogue: 0,0:11:09.44,0:11:13.52,Default,Todo,0,0,0,,I told you that I'd kill anyone who got in my way.
+Dialogue: 0,0:11:09.44,0:11:13.52,Default,Todo,0,0,0,,I told you I'd kill anyone who got in my way.
 Dialogue: 0,0:11:14.15,0:11:15.57,Default,Kamo,0,0,0,,No, you didn't.
 Dialogue: 0,0:11:15.57,0:11:18.53,Default,Kamo,0,0,0,,You said you'd kill us if we ordered you around.
 Dialogue: 0,0:11:18.90,0:11:20.57,Default,Kamo,0,0,0,,{\i1}Was that Itadori's...
-Dialogue: 0,0:11:20.57,0:11:23.28,Default,Kamo,0,0,0,,{\i1}No, it was Todo's technique?
-Dialogue: 0,0:11:23.66,0:11:25.79,Default,Todo,0,0,0,,Whatever. Piss off!
+Dialogue: 0,0:11:20.57,0:11:23.28,Default,Kamo,0,0,0,,{\i1}No, was it Todo's technique?
+Dialogue: 0,0:11:23.66,0:11:25.79,Default,Todo,0,0,0,,Yeah, whatever. Piss off!
 Dialogue: 0,0:11:33.75,0:11:35.17,Default,Mechamaru,0,0,0,,Looks like we're retreating.
 Dialogue: 0,0:11:35.17,0:11:36.59,Default,Mai,0,0,0,,Lame.
 Dialogue: 0,0:11:36.59,0:11:38.08,Default,Miwa,0,0,0,,{\i1}Thank goodness!
@@ -184,9 +180,9 @@ Dialogue: 0,0:12:20.21,0:12:21.72,Default,Momo,0,0,0,,Hang in there, me.
 Dialogue: 0,0:12:21.72,0:12:23.13,Default,Momo,0,0,0,,You're as cute as ever today.
 Dialogue: 0,0:12:23.34,0:12:24.43,Default,Fushiguro,0,0,0,,Take her down.
 Dialogue: 0,0:12:26.56,0:12:27.26,Default,Momo,0,0,0,,Oh, no.
-Dialogue: 0,0:12:29.26,0:12:32.56,Default,Kamo,0,0,0,,Mai, Mechamaru, cover Nishimiya.
+Dialogue: 0,0:12:29.26,0:12:32.56,Default,Kamo,0,0,0,,Mai, Mechamaru. Cover Nishimiya.
 Dialogue: 0,0:12:32.56,0:12:33.39,Default,Mechamaru,0,0,0,,Copy that.
-Dialogue: 0,0:12:33.39,0:12:36.28,Default,Mai,0,0,0,,Well, we {\i1}are{\i0} in trouble without her.
+Dialogue: 0,0:12:33.39,0:12:36.28,Default,Mai,0,0,0,,I guess we {\i1}are{\i0} in trouble without her.
 Dialogue: 0,0:12:47.95,0:12:50.95,Default,Fushiguro,0,0,0,,Kamo{**-san}, are you guys
 Dialogue: 0,0:12:51.54,0:12:53.58,Default,Fushiguro,0,0,0,,planning to kill Itadori?
 Comment: 0,0:13:02.97,0:13:04.97,Default,chptr,0,0,0,,{Part B}
@@ -196,57 +192,55 @@ Dialogue: 0,0:13:14.39,0:13:16.90,Default,Panda,0,0,0,,All the Kyoto students ar
 Dialogue: 0,0:13:17.60,0:13:20.11,Default,Panda,0,0,0,,Toward the area we left Yuji in.
 Dialogue: 0,0:13:20.11,0:13:23.12,Default,Panda,0,0,0,,I think that puts everyone from Kyoto there?
 Dialogue: 0,0:13:23.58,0:13:26.32,Default,Maki,0,0,0,,You mean that's where the target is?
-Dialogue: 0,0:13:26.32,0:13:29.83,Default,Fushiguro,0,0,0,,No, unless the second-grade is especially cunning,
-Dialogue: 0,0:13:29.83,0:13:31.58,Default,Fushiguro,0,0,0,,my Divine Dog would've noticed it.
+Dialogue: 0,0:13:26.32,0:13:27.41,Default,Fushiguro,0,0,0,,I doubt it.
+Dialogue: 0,0:13:27.41,0:13:31.58,Default,Fushiguro,0,0,0,,Unless the second-grade is especially cunning,\N my Divine Dog would've noticed it.
 Dialogue: 0,0:13:33.42,0:13:37.38,Default,Fushiguro,0,0,0,,They're trying to kill Itadori, don't you think?
-Dialogue: 0,0:13:37.38,0:13:38.59,Default,Kugisaki,0,0,0,,What the hell?!
-Dialogue: 0,0:13:38.59,0:13:39.88,Default,Kugisaki,0,0,0,,That doesn't make sense!
-Dialogue: 0,0:13:44.30,0:13:45.89,Default,Maki,0,0,0,,It's possible.
+Dialogue: 0,0:13:37.38,0:13:39.88,Default,Kugisaki,0,0,0,,What the hell?! That makes no sense!
+Dialogue: 0,0:13:44.30,0:13:45.89,Default,Maki,0,0,0,,That is a possibility.
 Dialogue: 0,0:13:46.35,0:13:47.38,Default,Toge,0,0,0,,Kelp.
 Dialogue: 0,0:13:47.93,0:13:51.39,Default,Panda,0,0,0,,I didn't sense that much hostility from them,
-Dialogue: 0,0:13:51.85,0:13:54.81,Default,Panda,0,0,0,,but that was before Yuji's surprise survival.
-Dialogue: 0,0:13:57.35,0:14:01.42,Default,Panda,0,0,0,,I wouldn't put it past Principal Gakuganji to give that order.
-Dialogue: 0,0:14:01.42,0:14:07.40,Default,Kugisaki,0,0,0,,Are the Kyoto students the type of cowards who'd kill someone on command?
+Dialogue: 0,0:13:51.85,0:13:54.81,Default,Panda,0,0,0,,but that was before Yuji's survival surprise.
+Dialogue: 0,0:13:57.35,0:14:01.42,Default,Panda,0,0,0,,It's possible if it was on Principal Gakuganji's orders.
+Dialogue: 0,0:14:01.42,0:14:07.40,Default,Kugisaki,0,0,0,,Are the Kyoto students the type of cowards \Nwho'd kill someone on command?
 Dialogue: 0,0:14:07.40,0:14:09.78,Default,Panda,0,0,0,,They don't see it the same way.
 Dialogue: 0,0:14:09.78,0:14:13.41,Default,Panda,0,0,0,,You guys have spent time together with Yuji.
 Dialogue: 0,0:14:13.41,0:14:17.21,Default,Panda,0,0,0,,We know he's a good guy too \Nsince we got the chance to meet him.
-Dialogue: 0,0:14:17.21,0:14:20.22,Default,Panda,0,0,0,,He's a naturally happy sort you don't often see among sorcerers.
-Dialogue: 0,0:14:20.22,0:14:21.42,Default,Panda,0,0,0,,But the thing is...
-Dialogue: 0,0:14:22.04,0:14:24.92,Default,Panda,0,0,0,,To those who don't know anything about Yuji,
+Dialogue: 0,0:14:17.21,0:14:20.13,Default,Panda,0,0,0,,He's the naturally optimistic type you don't often see among sorcerers.
+Dialogue: 0,0:14:20.13,0:14:21.42,Default,Panda,0,0,0,,But the thing is,
+Dialogue: 0,0:14:22.04,0:14:24.92,Default,Panda,0,0,0,,to those who don't know anything about Yuji,
 Dialogue: 0,0:14:24.92,0:14:29.43,Default,Panda,0,0,0,,the vessel of Sukuna is just an object of fear.
 Dialogue: 0,0:14:30.01,0:14:33.43,Default,Panda,0,0,0,,Killing him is no different \Nfrom exorcising a curse to them.
 Dialogue: 0,0:14:34.39,0:14:39.44,Default,Panda,0,0,0,,Any normal sorcerer could easily blur that line.
 Dialogue: 0,0:14:42.77,0:14:44.69,Default,Maki,0,0,0,,We're turning back, Megumi.
 Dialogue: 0,0:14:45.45,0:14:46.78,Default,Fushiguro,0,0,0,,Sorry.
 Dialogue: 0,0:14:46.78,0:14:48.86,Default,Maki,0,0,0,,What are you apologizing for, dummy?
-Dialogue: 0,0:14:49.70,0:14:53.79,Default,Maki,0,0,0,,There's no point in winning or losing if your friend dies.
+Dialogue: 0,0:14:49.70,0:14:53.79,Default,Maki,0,0,0,,No point in winning or losing \Nif your friend ends up dead.
 Dialogue: 0,0:14:55.38,0:14:59.62,Default,Panda,0,0,0,,Nobara and I will go back to confirm that Yuji is safe.
 Dialogue: 0,0:15:00.04,0:15:01.83,Default,Panda,0,0,0,,He's not answering his phone.
 Dialogue: 0,0:15:02.17,0:15:05.34,Default,Panda,0,0,0,,Toge, you keep hunting curses, please.
 Dialogue: 0,0:15:05.88,0:15:07.17,Default,Toge,0,0,0,,Bonito flakes! {>editing toge's dialogues be like}
 Dialogue: 0,0:15:07.17,0:15:09.97,Default,Panda,0,0,0,,I know you're worried about Yuji too.
-Dialogue: 0,0:15:10.52,0:15:13.10,Default,Panda,0,0,0,,But if my prediction is correct,
+Dialogue: 0,0:15:10.43,0:15:13.10,Default,Panda,0,0,0,,But if my prediction is correct,
 Dialogue: 0,0:15:13.10,0:15:19.48,Default,Panda,0,0,0,,the Kyoto students are trying to use the chaos of team battle to assassinate Yuji.
 Dialogue: 0,0:15:19.88,0:15:23.15,Default,Panda,0,0,0,,I think they'll call it off once the team battle's over.
 Dialogue: 0,0:15:23.15,0:15:24.40,Default,Kugisaki,0,0,0,,Makes sense.
 Dialogue: 0,0:15:24.40,0:15:25.48,Default,Toge,0,0,0,,Salmon.
-Dialogue: 0,0:15:25.86,0:15:27.57,Default,Panda,0,0,0,,I'm worried about Maki too.
-Dialogue: 0,0:15:27.57,0:15:29.32,Default,Panda,0,0,0,,We won't let them kill Yuji,
-Dialogue: 0,0:15:29.32,0:15:31.11,Default,Panda,0,0,0,,and we'll win this team battle!
-Dialogue: 0,0:15:31.57,0:15:32.91,Default,Kugisaki,0,0,0,,Of course.
+Dialogue: 0,0:15:25.86,0:15:27.57,Default,Panda,0,0,0,,I'm worried about Maki as well.
+Dialogue: 0,0:15:27.57,0:15:31.20,Default,Panda,0,0,0,,We won't let them kill Yuji \Nand we'll win this team battle, too!
+Dialogue: 0,0:15:31.62,0:15:32.91,Default,Kugisaki,0,0,0,,Damn straight.
 Dialogue: 0,0:15:37.42,0:15:40.21,Default,Kugisaki,0,0,0,,Don't make me call again, Fushiguro!
 Dialogue: 0,0:15:40.88,0:15:45.84,Default,Kugisaki,0,0,0,,Also, why didn't they provide us with \Nwireless radios or Bluetooth earbuds anyway?!
 Dialogue: 0,0:15:46.76,0:15:51.01,Default,Panda,0,0,0,,No, thank you! They're distracting, \Nand they startle me when I get a call.{"No thanks!" or "No, thank you!"}
 Dialogue: 0,0:15:51.01,0:15:53.47,Default,Kugisaki,0,0,0,,Then turn it off during combat!
 Dialogue: 0,0:15:58.68,0:16:00.14,Default,Momo,0,0,0,,Ow...
-Dialogue: 0,0:16:01.94,0:16:04.52,Default,Momo,0,0,0,,{\i1}So that's Fushiguro{**-kun}'s Nue, huh?
+Dialogue: 0,0:16:01.94,0:16:04.52,Default,Momo,0,0,0,,{\i1}So that's Fushiguro{**-kun}'s Nue?
 Dialogue: 0,0:16:05.11,0:16:06.90,Default,Momo,0,0,0,,{\i1}Electrified wings.
 Dialogue: 0,0:16:06.90,0:16:09.57,Default,Momo,0,0,0,,{\i1}Looks like I won't be able to move for a while.
-Dialogue: 0,0:16:12.11,0:16:13.04,Default,Both,0,0,0,,Ni{\alpha&FF}shimiya{**-chan}!
-Dialogue: 0,0:16:13.04,0:16:13.87,Default,Both,0,0,0,,Nishi{\alpha&FF}miya{**-chan}!
-Dialogue: 0,0:16:13.87,0:16:14.54,Default,Both,0,0,0,,Nishimi{\alpha&FF}ya{**-chan}!
-Dialogue: 0,0:16:14.54,0:16:15.25,Default,Both,0,0,0,,Nishimiya{\alpha&FF}{**-chan}!
-Dialogue: 0,0:16:15.25,0:16:17.08,Default,Both,0,0,0,,Nishimiya{**-chan}!
+Dialogue: 0,0:16:12.11,0:16:13.04,Default,Both,0,0,0,,Ni{\alpha&FF}shimiya{*}, dear{*-chan}!
+Dialogue: 0,0:16:13.04,0:16:13.87,Default,Both,0,0,0,,Nishi{\alpha&FF}miya{*}, dear{*-chan}!
+Dialogue: 0,0:16:13.87,0:16:14.54,Default,Both,0,0,0,,Nishimi{\alpha&FF}ya{*}, dear{*-chan}!
+Dialogue: 0,0:16:14.54,0:16:15.25,Default,Both,0,0,0,,Nishimiya{\alpha&FF}{*}, dear{*-chan}!
+Dialogue: 0,0:16:15.25,0:16:17.08,Default,Both,0,0,0,,Nishimiya{*}, dear{*-chan}!
 Dialogue: 0,0:16:17.71,0:16:18.79,Default,Both,0,0,0,,Come out {\alpha&FF}and play!
 Dialogue: 0,0:16:18.79,0:16:19.83,Default,Both,0,0,0,,Come out and{\alpha&FF} play!
 Dialogue: 0,0:16:19.83,0:16:20.58,Default,Both,0,0,0,,Come out and play!
@@ -258,18 +252,18 @@ Dialogue: 0,0:16:32.56,0:16:34.28,Default,Fushiguro,0,0,0,,You failed, then.
 Dialogue: 0,0:16:34.68,0:16:37.81,Default,Fushiguro,0,0,0,,There's no way he'd get taken out so quickly.
 Dialogue: 0,0:16:42.14,0:16:43.73,Default,Kamo,0,0,0,,We have no reason to kill him.
 Dialogue: 0,0:16:44.31,0:16:45.90,Default,Fushiguro,0,0,0,,Yes, you do.
-Dialogue: 0,0:16:45.90,0:16:48.52,Default,Fushiguro,0,0,0,,The higher-ups and the three big clans have plenty.{"The Big Three clans" or "the three big clans"}
+Dialogue: 0,0:16:45.90,0:16:48.52,Default,Fushiguro,0,0,0,,The higher-ups and the Three Great Clans have plenty.
 Dialogue: 0,0:17:20.97,0:17:22.52,Default,Todo,0,0,0,,{\i1}What splendid toughness!
-Dialogue: 0,0:17:22.81,0:17:25.56,Default,Todo,0,0,0,,{\i1}He's actively using the \Nlandscape to his advantage too!
+Dialogue: 0,0:17:22.81,0:17:25.56,Default,Todo,0,0,0,,{\i1}He's actively using the \Nenvironment to his advantage!
 Dialogue: 0,0:17:27.29,0:17:28.11,Default,Todo,0,0,0,,{\i1}He's gone?
-Dialogue: 0,0:17:31.73,0:17:33.65,Default,Todo,0,0,0,,{\i1}He's quick{+enough} to think a step ahead!
+Dialogue: 0,0:17:31.73,0:17:33.65,Default,Todo,0,0,0,,{\i1}He's quick enough to think a step ahead!
 Dialogue: 0,0:17:41.44,0:17:43.67,Default,Todo,0,0,0,,{\i1}And to top it off...
 Dialogue: 0,0:17:46.05,0:17:48.13,Default,Todo,0,0,0,,{\i1}he has such tremendous power!
 Dialogue: 0,0:17:48.59,0:17:51.59,Default,Todo,0,0,0,,{\i1}His raw strength is greater than mine, \Ndespite his small body!
 Dialogue: 0,0:17:51.59,0:17:54.72,Default,Todo,0,0,0,,{\i1}Which is why his blows are effective with so little cursed energy!
-Dialogue: 0,0:17:55.39,0:17:59.64,Default,Todo,0,0,0,,{\i1}The fact that he lacks cursed energy \Nmakes it harder to read his movements!
-Dialogue: 0,0:17:59.89,0:18:03.22,Default,Todo,0,0,0,,{\i1}But the way his cursed energy hits after a time lag...
-Dialogue: 0,0:18:03.22,0:18:06.06,Default,Todo,0,0,0,,{\i1}that's just... that's just...
+Dialogue: 0,0:17:55.39,0:17:59.64,Default,Todo,0,0,0,,{\i1}The lack of cursed energy \Nmakes it harder to read his movements!
+Dialogue: 0,0:17:59.93,0:18:03.22,Default,Todo,0,0,0,,{\i1}But the way his cursed energy hits after a time lag...
+Dialogue: 0,0:18:03.22,0:18:06.06,Default,Todo,0,0,0,,{\i1}that's just... it's just...
 Dialogue: 0,0:18:07.73,0:18:10.86,Default,Todo,0,0,0,,{\fade(0,1000)}wrong! {hats off to cr for memeing this right}{heh}{well, almost}
 Dialogue: 0,0:18:10.86,0:18:14.07,Default,Todo,0,0,0,,{\fad(500,2500)}wrong!
 Dialogue: 0,0:18:12.52,0:18:15.65,Default,Todo,0,0,0,,{\fad(1,3000)\alpha&H33&}wrong!
@@ -280,7 +274,7 @@ Dialogue: 0,0:18:23.46,0:18:25.16,Default,Maki,0,0,0,,Was that Todo?
 Dialogue: 0,0:18:25.79,0:18:27.16,Default,Miwa,0,0,0,,Seems like it.
 Dialogue: 0,0:18:27.16,0:18:32.34,Default,Maki,0,0,0,,I think I understand why you failed to finish off Yuji.
 Dialogue: 0,0:18:33.30,0:18:36.80,Default,Maki,0,0,0,,So why did you distance yourself from Noritoshi? {who the fuck noritoshi?}
-Dialogue: 0,0:18:36.80,0:18:39.76,Default,Maki,0,0,0,,Are you hiding your technique from your allies too?
+Dialogue: 0,0:18:36.80,0:18:39.76,Default,Maki,0,0,0,,Hiding your technique from your allies?
 Dialogue: 0,0:18:44.39,0:18:47.39,Default,Miwa,0,0,0,,I'm sorry about what's happening with Itadori{**-kun}.
 Dialogue: 0,0:18:47.39,0:18:51.27,Default,Miwa,0,0,0,,It might sound like an excuse, but I'm not like them.
 Dialogue: 0,0:18:51.78,0:18:56.28,Default,Miwa,0,0,0,,That said, I don't plan on handing over victory to you.
@@ -302,40 +296,37 @@ Dialogue: 0,0:19:50.64,0:19:52.67,Default,Maki,0,0,0,,I won't hold back, y'know.
 Dialogue: 0,0:19:53.96,0:19:55.46,Default,Miwa,0,0,0,,Not a problem!
 Dialogue: 0,0:19:55.46,0:19:58.17,Default,Miwa,0,0,0,,That's not why I said all that, anyway!
 Dialogue: 0,0:20:00.63,0:20:02.01,Default,Todo,0,0,0,,My friend!
-Dialogue: 0,0:20:02.01,0:20:04.51,Default,Todo,0,0,0,,That cursed energy{ that} you blast with a time lag,
-Dialogue: 0,0:20:04.51,0:20:06.89,Default,Todo,0,0,0,,that's a bad habit of yours!
-Dialogue: 0,0:20:06.89,0:20:08.68,Default,Yuji,0,0,0,,You mean my Divergent Fist?
+Dialogue: 0,0:20:02.01,0:20:07.02,Default,Todo,0,0,0,,That cursed energy you blast with a time lag, that's a bad habit of yours!
+Dialogue: 0,0:20:07.02,0:20:08.68,Default,Yuji,0,0,0,,You mean my Divergent Fist?
 Dialogue: 0,0:20:09.77,0:20:11.85,Default,Yuji,0,0,0,,{\i1}What's he on about all of a sudden?
-Dialogue: 0,0:20:13.40,0:20:15.95,Default,Todo,0,0,0,,So long as you're satisfied with that,
-Dialogue: 0,0:20:15.95,0:20:17.44,Default,Todo,0,0,0,,you'll never beat me!
-Dialogue: 0,0:20:18.32,0:20:20.90,Default,Todo,0,0,0,,If you're okay with staying on that level,
-Dialogue: 0,0:20:20.90,0:20:24.07,Default,Todo,0,0,0,,our friendship won't last.
-Dialogue: 0,0:20:24.78,0:20:26.33,Default,Todo,0,0,0,,Are you okay with that?!
-Dialogue: 0,0:20:26.33,0:20:29.45,Default,Yuji,0,0,0,,I don't know. I don't really care.
-Dialogue: 0,0:20:29.45,0:20:31.79,Default,Todo,0,0,0,,Are you okay with being weak?
+Dialogue: 0,0:20:13.40,0:20:17.44,Default,Todo,0,0,0,,So long as you're satisfied with that,\Nyou'll never beat me!
+Dialogue: 0,0:20:18.32,0:20:24.07,Default,Todo,0,0,0,,If you're content with staying on that level, \Nour friendship won't last for long.
+Dialogue: 0,0:20:24.83,0:20:26.33,Default,Todo,0,0,0,,Are you okay with that?!
+Dialogue: 0,0:20:26.33,0:20:29.45,Default,Yuji,0,0,0,,I dunno. I don't care, really.
+Dialogue: 0,0:20:29.45,0:20:31.79,Default,Todo,0,0,0,,Are you okay with being weak?!
 Dialogue: 0,0:20:35.88,0:20:37.50,Default,Yuji,0,0,0,,Hell no!
 Dialogue: 0,0:20:39.34,0:20:40.88,Default,Todo,0,0,0,,That's the spirit!
 Dialogue: 0,0:20:41.59,0:20:44.55,Default,Todo,0,0,0,,My best friend!
 Comment: 0,0:20:44.97,0:20:45.02,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:22:14.98,0:22:15.02,Default,chptr,0,0,0,,{Juju Stroll}
 Dialogue: 0,0:22:15.73,0:22:17.48,Default,,0,0,0,,Juju Stroll.
-Dialogue: 1,0:22:22.44,0:22:25.99,Default,Maki,0,0,0,,Someone who's stronger than me, at the very least.
+Dialogue: 1,0:22:22.44,0:22:25.99,Default,Maki,0,0,0,,Someone who's stronger than me, \Nat the very least.
 Dialogue: 1,0:22:26.40,0:22:30.24,Default,Mai,0,0,0,,Huh? What makes you think I'll answer?
-Dialogue: 1,0:22:30.69,0:22:33.75,Default,Kugisaki,0,0,0,,I totally can't stand a UBSSD.
+Dialogue: 1,0:22:30.69,0:22:33.75,Default,Kugisaki,0,0,0,,I absolutely can not stand a UBSSD.
 Dialogue: 1,0:22:35.24,0:22:37.78,Default,Momo,0,0,0,,Do you know who Sebastian Stan is?
-Dialogue: 1,0:22:39.29,0:22:41.17,Default,Momo,0,0,0,,He has such a nice body.
-Dialogue: 1,0:22:41.53,0:22:47.57,Default,Miwa,0,0,0,,Well, you know, I like hot guys, like most girls.
-Dialogue: 1,0:22:47.57,0:22:50.84,Default,Miwa,0,0,0,,But I want someone who is fun to be around too.
-Dialogue: 1,0:22:50.84,0:22:57.56,Default,Miwa,0,0,0,,And he must make me feel like he's the only one for me!
+Dialogue: 1,0:22:39.29,0:22:41.17,Default,Momo,0,0,0,,He's totally hot!
+Dialogue: 1,0:22:41.55,0:22:47.57,Default,Miwa,0,0,0,,Well, you know, \NI like hot guys, like most girls.
+Dialogue: 1,0:22:47.57,0:22:50.84,Default,Miwa,0,0,0,,But I want someone \Nwho is fun to be around too.
+Dialogue: 1,0:22:50.84,0:22:57.56,Default,Miwa,0,0,0,,And he must make me feel like \Nhe's the only one for me!
 Dialogue: 1,0:23:00.05,0:23:02.72,Default,Miwa,0,0,0,,Oh, gosh, how embarrassing!
 Dialogue: 1,0:23:03.38,0:23:07.02,Default,Gojo,0,0,0,,Uh, you know, uh, um...
 Dialogue: 1,0:23:07.02,0:23:08.86,Default,Gojo,0,0,0,,Wh-Who was it?
 Dialogue: 1,0:23:09.51,0:23:10.69,Default,Gojo,0,0,0,,Um...
 Dialogue: 1,0:23:10.69,0:23:11.86,Default,Gojo,0,0,0,,Um, um, um...
 Dialogue: 1,0:23:11.86,0:23:13.38,Default,Gojo,0,0,0,,You know, that girl who seemed nice.
-Dialogue: 1,0:23:13.38,0:23:14.54,Default,Gojo,0,0,0,,The one who seemed nice.
-Dialogue: 1,0:23:14.54,0:23:16.34,Default,Gojo,0,0,0,,With the notable bangs.
-Dialogue: 1,0:23:16.34,0:23:18.58,Default,Gojo,0,0,0,,C'mon, you know! That one girl!
+Dialogue: 1,0:23:13.38,0:23:14.54,Default,Gojo,0,0,0,,The nice one.
+Dialogue: 1,0:23:14.54,0:23:16.34,Default,Gojo,0,0,0,,The one with the bangs.
+Dialogue: 1,0:23:16.34,0:23:18.58,Default,Gojo,0,0,0,,C'mon, you know which one!
 Dialogue: 1,0:23:19.96,0:23:21.25,Default,Utahime,0,0,0,,{\fade(200,300)}Nice girl...
 Dialogue: 1,0:23:21.25,0:23:22.51,Default,Utahime,0,0,0,,{\fade(200,300)}Nice girl...
 Dialogue: 1,0:23:22.51,0:23:23.72,Default,Utahime,0,0,0,,{\fade(250,200)}Nice girl...
