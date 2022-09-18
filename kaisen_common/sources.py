@@ -41,7 +41,9 @@ E24 = FileInfo(fr'{BDMV}/JUJUTSUKAISEN_8/BDMV/STREAM/00004.m2ts', (26, -25),  pr
 
 OP1E_MASK = FileInfo(fr'{BDMV}/masks/OP1E.png')
 E21A_MASK = FileInfo(fr'{BDMV}/masks/E21A.png')
-LETTERBOX_MASK = FileInfo(fr'{BDMV}/masks/LETTERBOX.png')
+
+LETTERBOX_MASK_A = FileInfo(fr'{BDMV}/masks/LETTERBOX_A.png')
+LETTERBOX_MASK_B = FileInfo(fr'{BDMV}/masks/LETTERBOX_B.png')
 
 # Bonus
 
