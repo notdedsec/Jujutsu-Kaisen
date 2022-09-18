@@ -13,6 +13,7 @@ class Encoder:
         assert self.file.a_src
 
         if ED:
+            ED += self.file.trims_or_dfs[0]
             self.file.trims_or_dfs = [
                 (self.file.trims_or_dfs[0], ED), 
                 (ED+2152, ED+2157), 
