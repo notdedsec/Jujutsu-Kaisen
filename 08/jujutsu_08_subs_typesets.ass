@@ -20,15 +20,13 @@ Audio File: jujutsu_08_premux.mkv
 Video File: jujutsu_08_premux.mkv
 Keyframes File: jujutsu_08_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 3
-Active Line: 7
-Video Position: 18881
+Video Zoom Percent: 0.625000
+Scroll Position: 11
+Active Line: 17
+Video Position: 26843
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
-Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -44,281 +42,281 @@ Dialogue: 0,0:13:07.47,0:13:07.73,Signs,Screen&Three,0,0,0,,{\fnChewy\fs100\fscx
 Dialogue: 1,0:13:07.73,0:13:09.85,Signs,Screen&Three,0,0,0,,{\fnChewy\fs100\fscx110\b1\c&H9D36EA&\4c&HFEFEFF&\bord3\pos(960,69)}Tall Idol Takada
 Dialogue: 0,0:13:07.73,0:13:09.85,Signs,Screen&Three,0,0,0,,{\fnChewy\fs100\fscx110\b1\c&H9D36EA&\bord7\pos(960,69)\3c&HEAE8ED&}Tall Idol Takada
 Dialogue: 0,0:18:18.32,0:18:21.33,Signs,Sign,0,0,0,,{\fnAver\fs38\c&H6A6B69&\3c&HEEF0EC&\fax-0.1\be1\pos(1233.01,697.37)\frz7.106}Takada's Personal Handshake Event
-Dialogue: 0,0:18:38.93,0:18:46.94,Default,,0,0,0,,{\p1\c&H000000&}m 0 0 l 1800 -1 l 1800 800 l -1 800
-Dialogue: 0,0:18:39.35,0:18:39.39,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}O{\alpha&HFF&}ne Month Later
-Dialogue: 0,0:18:39.39,0:18:39.43,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}On{\alpha&HFF&}e Month Later
-Dialogue: 0,0:18:39.43,0:18:39.47,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}On{\alpha&HFF&}e Month Later
-Dialogue: 0,0:18:39.47,0:18:39.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One{\alpha&HFF&} Month Later
-Dialogue: 0,0:18:39.51,0:18:39.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One{\alpha&HFF&} Month Later
-Dialogue: 0,0:18:39.56,0:18:39.60,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One {\alpha&HFF&}Month Later
-Dialogue: 0,0:18:39.60,0:18:39.64,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One {\alpha&HFF&}Month Later
-Dialogue: 0,0:18:39.64,0:18:39.68,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One M{\alpha&HFF&}onth Later
-Dialogue: 0,0:18:39.68,0:18:39.72,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One M{\alpha&HFF&}onth Later
-Dialogue: 0,0:18:39.72,0:18:39.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Mo{\alpha&HFF&}nth Later
-Dialogue: 0,0:18:39.77,0:18:39.81,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Mon{\alpha&HFF&}th Later
-Dialogue: 0,0:18:39.81,0:18:39.85,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Mon{\alpha&HFF&}th Later
-Dialogue: 0,0:18:39.85,0:18:39.89,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Mont{\alpha&HFF&}h Later
-Dialogue: 0,0:18:39.89,0:18:39.93,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Mont{\alpha&HFF&}h Later
-Dialogue: 0,0:18:39.93,0:18:39.97,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Month{\alpha&HFF&} Later
-Dialogue: 0,0:18:39.97,0:18:40.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Month{\alpha&HFF&} Later
-Dialogue: 0,0:18:40.02,0:18:40.06,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Month {\alpha&HFF&}Later
-Dialogue: 0,0:18:40.06,0:18:40.10,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Month {\alpha&HFF&}Later
-Dialogue: 0,0:18:40.10,0:18:40.14,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Month L{\alpha&HFF&}ater
-Dialogue: 0,0:18:40.14,0:18:40.18,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Month La{\alpha&HFF&}ter
-Dialogue: 0,0:18:40.18,0:18:40.22,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Month La{\alpha&HFF&}ter
-Dialogue: 0,0:18:40.22,0:18:40.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Month Lat{\alpha&HFF&}er
-Dialogue: 0,0:18:40.27,0:18:40.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Month Lat{\alpha&HFF&}er
-Dialogue: 0,0:18:40.31,0:18:40.35,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Month Late{\alpha&HFF&}r
-Dialogue: 0,0:18:40.35,0:18:40.39,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Month Late{\alpha&HFF&}r
-Dialogue: 0,0:18:40.39,0:18:40.43,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Month Later
-Dialogue: 0,0:18:40.43,0:18:40.47,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}One Month Later
-Dialogue: 0,0:18:40.47,0:18:43.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)\fade(0,2500)}One Month Later
-Dialogue: 0,0:18:43.35,0:18:43.39,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Re{\alpha&HFF&}cord of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.39,0:18:43.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Rec{\alpha&HFF&}ord of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.44,0:18:43.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Recor{\alpha&HFF&}d of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.48,0:18:43.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record{\alpha&HFF&} of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.52,0:18:43.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record {\alpha&HFF&}of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.56,0:18:43.60,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of{\alpha&HFF&} September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.60,0:18:43.64,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of {\alpha&HFF&}September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.64,0:18:43.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of S{\alpha&HFF&}eptember 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.69,0:18:43.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of Sep{\alpha&HFF&}tember 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.73,0:18:43.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of Sept{\alpha&HFF&}ember 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.77,0:18:43.81,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of Septe{\alpha&HFF&}mber 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.81,0:18:43.85,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of Septemb{\alpha&HFF&}er 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.85,0:18:43.89,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of Septembe{\alpha&HFF&}r 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.89,0:18:43.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September{\alpha&HFF&} 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.94,0:18:43.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2{\alpha&HFF&}018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:43.98,0:18:44.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 20{\alpha&HFF&}18\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.02,0:18:44.06,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 201{\alpha&HFF&}8\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.06,0:18:44.10,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018{\alpha&HFF&}\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.10,0:18:44.14,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N{\alpha&HFF&} Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.14,0:18:44.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N K{\alpha&HFF&}anagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.19,0:18:44.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Ka{\alpha&HFF&}nagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.23,0:18:44.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kan{\alpha&HFF&}agawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.27,0:18:44.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanag{\alpha&HFF&}awa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.31,0:18:44.35,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanaga{\alpha&HFF&}wa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.35,0:18:44.39,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagaw{\alpha&HFF&}a Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.39,0:18:44.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa {\alpha&HFF&}Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.44,0:18:44.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa P{\alpha&HFF&}refecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.48,0:18:44.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Pr{\alpha&HFF&}efecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.52,0:18:44.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Pref{\alpha&HFF&}ecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.56,0:18:44.60,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefe{\alpha&HFF&}cture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.60,0:18:44.64,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefec{\alpha&HFF&}ture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.64,0:18:44.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefectu{\alpha&HFF&}re, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.69,0:18:44.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefectur{\alpha&HFF&}e, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.73,0:18:44.77,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture{\alpha&HFF&}, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.77,0:18:44.81,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, {\alpha&HFF&}Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.81,0:18:44.85,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, K{\alpha&HFF&}awasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.85,0:18:44.90,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Ka{\alpha&HFF&}wasaki City \NKinema Cinema
-Dialogue: 0,0:18:44.90,0:18:44.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawa{\alpha&HFF&}saki City \NKinema Cinema
-Dialogue: 0,0:18:44.94,0:18:44.98,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawas{\alpha&HFF&}aki City \NKinema Cinema
-Dialogue: 0,0:18:44.98,0:18:45.02,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasak{\alpha&HFF&}i City \NKinema Cinema
-Dialogue: 0,0:18:45.02,0:18:45.06,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki{\alpha&HFF&} City \NKinema Cinema
-Dialogue: 0,0:18:45.06,0:18:45.10,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki {\alpha&HFF&}City \NKinema Cinema
-Dialogue: 0,0:18:45.10,0:18:45.15,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki Ci{\alpha&HFF&}ty \NKinema Cinema
-Dialogue: 0,0:18:45.15,0:18:45.19,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki Cit{\alpha&HFF&}y \NKinema Cinema
-Dialogue: 0,0:18:45.19,0:18:45.23,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City{\alpha&HFF&} \NKinema Cinema
-Dialogue: 0,0:18:45.23,0:18:45.27,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City {\alpha&HFF&}\NKinema Cinema
-Dialogue: 0,0:18:45.27,0:18:45.31,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \N{\alpha&HFF&}Kinema Cinema
-Dialogue: 0,0:18:45.31,0:18:45.35,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NK{\alpha&HFF&}inema Cinema
-Dialogue: 0,0:18:45.35,0:18:45.40,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKin{\alpha&HFF&}ema Cinema
-Dialogue: 0,0:18:45.40,0:18:45.44,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKine{\alpha&HFF&}ma Cinema
-Dialogue: 0,0:18:45.44,0:18:45.48,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinem{\alpha&HFF&}a Cinema
-Dialogue: 0,0:18:45.48,0:18:45.52,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema {\alpha&HFF&}Cinema
-Dialogue: 0,0:18:45.52,0:18:45.56,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema C{\alpha&HFF&}inema
-Dialogue: 0,0:18:45.56,0:18:45.60,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Ci{\alpha&HFF&}nema
-Dialogue: 0,0:18:45.60,0:18:45.65,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cine{\alpha&HFF&}ma
-Dialogue: 0,0:18:45.65,0:18:45.69,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinem{\alpha&HFF&}a
-Dialogue: 0,0:18:45.69,0:18:45.73,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
-Dialogue: 0,0:18:45.73,0:18:46.94,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs85\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:38.93,0:18:46.94,Signs,,0,0,0,,{\p1\c&H000000&}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
+Dialogue: 0,0:18:39.35,0:18:39.39,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}O{\alpha&HFF&}ne Month Later
+Dialogue: 0,0:18:39.39,0:18:39.43,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}On{\alpha&HFF&}e Month Later
+Dialogue: 0,0:18:39.43,0:18:39.47,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}On{\alpha&HFF&}e Month Later
+Dialogue: 0,0:18:39.47,0:18:39.51,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One{\alpha&HFF&} Month Later
+Dialogue: 0,0:18:39.51,0:18:39.56,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One{\alpha&HFF&} Month Later
+Dialogue: 0,0:18:39.56,0:18:39.60,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One {\alpha&HFF&}Month Later
+Dialogue: 0,0:18:39.60,0:18:39.64,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One {\alpha&HFF&}Month Later
+Dialogue: 0,0:18:39.64,0:18:39.68,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One M{\alpha&HFF&}onth Later
+Dialogue: 0,0:18:39.68,0:18:39.72,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One M{\alpha&HFF&}onth Later
+Dialogue: 0,0:18:39.72,0:18:39.77,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Mo{\alpha&HFF&}nth Later
+Dialogue: 0,0:18:39.77,0:18:39.81,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Mon{\alpha&HFF&}th Later
+Dialogue: 0,0:18:39.81,0:18:39.85,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Mon{\alpha&HFF&}th Later
+Dialogue: 0,0:18:39.85,0:18:39.89,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Mont{\alpha&HFF&}h Later
+Dialogue: 0,0:18:39.89,0:18:39.93,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Mont{\alpha&HFF&}h Later
+Dialogue: 0,0:18:39.93,0:18:39.97,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Month{\alpha&HFF&} Later
+Dialogue: 0,0:18:39.97,0:18:40.02,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Month{\alpha&HFF&} Later
+Dialogue: 0,0:18:40.02,0:18:40.06,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Month {\alpha&HFF&}Later
+Dialogue: 0,0:18:40.06,0:18:40.10,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Month {\alpha&HFF&}Later
+Dialogue: 0,0:18:40.10,0:18:40.14,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Month L{\alpha&HFF&}ater
+Dialogue: 0,0:18:40.14,0:18:40.18,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Month La{\alpha&HFF&}ter
+Dialogue: 0,0:18:40.18,0:18:40.22,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Month La{\alpha&HFF&}ter
+Dialogue: 0,0:18:40.22,0:18:40.27,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Month Lat{\alpha&HFF&}er
+Dialogue: 0,0:18:40.27,0:18:40.31,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Month Lat{\alpha&HFF&}er
+Dialogue: 0,0:18:40.31,0:18:40.35,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Month Late{\alpha&HFF&}r
+Dialogue: 0,0:18:40.35,0:18:40.39,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Month Late{\alpha&HFF&}r
+Dialogue: 0,0:18:40.39,0:18:40.43,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Month Later
+Dialogue: 0,0:18:40.43,0:18:40.47,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}One Month Later
+Dialogue: 0,0:18:40.47,0:18:43.23,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)\fade(0,2500)}One Month Later
+Dialogue: 0,0:18:43.35,0:18:43.39,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Re{\alpha&HFF&}cord of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.39,0:18:43.44,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Rec{\alpha&HFF&}ord of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.44,0:18:43.48,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Recor{\alpha&HFF&}d of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.48,0:18:43.52,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record{\alpha&HFF&} of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.52,0:18:43.56,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record {\alpha&HFF&}of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.56,0:18:43.60,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of{\alpha&HFF&} September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.60,0:18:43.64,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of {\alpha&HFF&}September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.64,0:18:43.69,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of S{\alpha&HFF&}eptember 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.69,0:18:43.73,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of Sep{\alpha&HFF&}tember 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.73,0:18:43.77,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of Sept{\alpha&HFF&}ember 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.77,0:18:43.81,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of Septe{\alpha&HFF&}mber 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.81,0:18:43.85,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of Septemb{\alpha&HFF&}er 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.85,0:18:43.89,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of Septembe{\alpha&HFF&}r 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.89,0:18:43.94,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September{\alpha&HFF&} 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.94,0:18:43.98,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2{\alpha&HFF&}018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:43.98,0:18:44.02,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 20{\alpha&HFF&}18\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.02,0:18:44.06,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 201{\alpha&HFF&}8\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.06,0:18:44.10,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018{\alpha&HFF&}\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.10,0:18:44.14,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N{\alpha&HFF&} Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.14,0:18:44.19,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N K{\alpha&HFF&}anagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.19,0:18:44.23,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Ka{\alpha&HFF&}nagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.23,0:18:44.27,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kan{\alpha&HFF&}agawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.27,0:18:44.31,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanag{\alpha&HFF&}awa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.31,0:18:44.35,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanaga{\alpha&HFF&}wa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.35,0:18:44.39,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagaw{\alpha&HFF&}a Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.39,0:18:44.44,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa {\alpha&HFF&}Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.44,0:18:44.48,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa P{\alpha&HFF&}refecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.48,0:18:44.52,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Pr{\alpha&HFF&}efecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.52,0:18:44.56,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Pref{\alpha&HFF&}ecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.56,0:18:44.60,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefe{\alpha&HFF&}cture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.60,0:18:44.64,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefec{\alpha&HFF&}ture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.64,0:18:44.69,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefectu{\alpha&HFF&}re, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.69,0:18:44.73,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefectur{\alpha&HFF&}e, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.73,0:18:44.77,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture{\alpha&HFF&}, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.77,0:18:44.81,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, {\alpha&HFF&}Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.81,0:18:44.85,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, K{\alpha&HFF&}awasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.85,0:18:44.90,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Ka{\alpha&HFF&}wasaki City \NKinema Cinema
+Dialogue: 0,0:18:44.90,0:18:44.94,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawa{\alpha&HFF&}saki City \NKinema Cinema
+Dialogue: 0,0:18:44.94,0:18:44.98,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawas{\alpha&HFF&}aki City \NKinema Cinema
+Dialogue: 0,0:18:44.98,0:18:45.02,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasak{\alpha&HFF&}i City \NKinema Cinema
+Dialogue: 0,0:18:45.02,0:18:45.06,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki{\alpha&HFF&} City \NKinema Cinema
+Dialogue: 0,0:18:45.06,0:18:45.10,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki {\alpha&HFF&}City \NKinema Cinema
+Dialogue: 0,0:18:45.10,0:18:45.15,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki Ci{\alpha&HFF&}ty \NKinema Cinema
+Dialogue: 0,0:18:45.15,0:18:45.19,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki Cit{\alpha&HFF&}y \NKinema Cinema
+Dialogue: 0,0:18:45.19,0:18:45.23,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City{\alpha&HFF&} \NKinema Cinema
+Dialogue: 0,0:18:45.23,0:18:45.27,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City {\alpha&HFF&}\NKinema Cinema
+Dialogue: 0,0:18:45.27,0:18:45.31,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \N{\alpha&HFF&}Kinema Cinema
+Dialogue: 0,0:18:45.31,0:18:45.35,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NK{\alpha&HFF&}inema Cinema
+Dialogue: 0,0:18:45.35,0:18:45.40,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKin{\alpha&HFF&}ema Cinema
+Dialogue: 0,0:18:45.40,0:18:45.44,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKine{\alpha&HFF&}ma Cinema
+Dialogue: 0,0:18:45.44,0:18:45.48,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinem{\alpha&HFF&}a Cinema
+Dialogue: 0,0:18:45.48,0:18:45.52,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema {\alpha&HFF&}Cinema
+Dialogue: 0,0:18:45.52,0:18:45.56,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema C{\alpha&HFF&}inema
+Dialogue: 0,0:18:45.56,0:18:45.60,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Ci{\alpha&HFF&}nema
+Dialogue: 0,0:18:45.60,0:18:45.65,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cine{\alpha&HFF&}ma
+Dialogue: 0,0:18:45.65,0:18:45.69,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinem{\alpha&HFF&}a
+Dialogue: 0,0:18:45.69,0:18:45.73,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
+Dialogue: 0,0:18:45.73,0:18:46.94,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Record of September 2018\N Kanagawa Prefecture, Kawasaki City \NKinema Cinema
 Comment: 0,0:18:46.94,0:18:50.94,Signs,SignBottom,0,0,0,,{\pos(153.333,292)\fs14\c&H20192C&\3c&H4E4A54&}Ticket Sales
 Comment: 0,0:18:46.94,0:18:50.94,Signs,SignDoor,0,0,0,,{\fs10\c&H3E4145&\bord0\shad0\pos(86,321.333)\frx2\fry6\fay.07}Now Showing
 Comment: 0,0:18:50.94,0:18:52.90,Signs,SignHallDoor,0,0,0,,{\fay.75\frz358.4\move(559,56,559,16)\frx28\fry336}Playing
-Dialogue: 0,0:19:10.05,0:19:20.06,Default,,0,0,0,,{\p1\c&H000000&}m 0 0 l 1800 -1 l 1800 800 l -1 800
-Comment: 0,0:19:10.37,0:19:14.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.38,0:19:10.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}A{\alpha&HFF&}fter the showing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.42,0:19:10.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Af{\alpha&HFF&}ter the showing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.46,0:19:10.50,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Aft{\alpha&HFF&}er the showing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.50,0:19:10.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Afte{\alpha&HFF&}r the showing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.55,0:19:10.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After{\alpha&HFF&} the showing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.59,0:19:10.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After {\alpha&HFF&}the showing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.63,0:19:10.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After t{\alpha&HFF&}he showing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.67,0:19:10.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After th{\alpha&HFF&}e showing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.71,0:19:10.75,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the{\alpha&HFF&} showing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.75,0:19:10.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the {\alpha&HFF&}showing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.80,0:19:10.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the s{\alpha&HFF&}howing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.84,0:19:10.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the sh{\alpha&HFF&}owing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.88,0:19:10.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the sho{\alpha&HFF&}wing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.92,0:19:10.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the sho{\alpha&HFF&}wing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:10.96,0:19:11.00,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the show{\alpha&HFF&}ing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.00,0:19:11.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showi{\alpha&HFF&}ng, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.05,0:19:11.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showin{\alpha&HFF&}g, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.09,0:19:11.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing{\alpha&HFF&}, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.13,0:19:11.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing,{\alpha&HFF&} three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.17,0:19:11.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, {\alpha&HFF&}three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.21,0:19:11.25,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, t{\alpha&HFF&}hree high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.25,0:19:11.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, th{\alpha&HFF&}ree high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.30,0:19:11.34,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, thr{\alpha&HFF&}ee high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.34,0:19:11.38,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, thre{\alpha&HFF&}e high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.38,0:19:11.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three{\alpha&HFF&} high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.42,0:19:11.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three {\alpha&HFF&}high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.46,0:19:11.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three {\alpha&HFF&}high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.51,0:19:11.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three h{\alpha&HFF&}igh school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.55,0:19:11.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three hi{\alpha&HFF&}gh school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.59,0:19:11.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three hig{\alpha&HFF&}h school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.63,0:19:11.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high{\alpha&HFF&} school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.67,0:19:11.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high {\alpha&HFF&}school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.71,0:19:11.76,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high s{\alpha&HFF&}chool boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.76,0:19:11.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high sc{\alpha&HFF&}hool boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.80,0:19:11.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high sch{\alpha&HFF&}ool boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.84,0:19:11.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high scho{\alpha&HFF&}ol boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.88,0:19:11.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high schoo{\alpha&HFF&}l boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.92,0:19:11.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school{\alpha&HFF&} boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:11.96,0:19:12.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school {\alpha&HFF&}boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:12.01,0:19:12.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school {\alpha&HFF&}boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:12.05,0:19:12.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school b{\alpha&HFF&}oys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:12.09,0:19:12.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school bo{\alpha&HFF&}ys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:12.13,0:19:12.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boy{\alpha&HFF&}s' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:12.17,0:19:12.21,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys{\alpha&HFF&}' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:12.21,0:19:12.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys'{\alpha&HFF&} disfigured corpses were found by the staff.
-Dialogue: 0,0:19:12.26,0:19:12.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' {\alpha&HFF&}disfigured corpses were found by the staff.
-Dialogue: 0,0:19:12.30,0:19:12.34,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' d{\alpha&HFF&}isfigured corpses were found by the staff.
-Dialogue: 0,0:19:12.34,0:19:12.38,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' di{\alpha&HFF&}sfigured corpses were found by the staff.
-Dialogue: 0,0:19:12.38,0:19:12.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' dis{\alpha&HFF&}figured corpses were found by the staff.
-Dialogue: 0,0:19:12.42,0:19:12.46,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disf{\alpha&HFF&}igured corpses were found by the staff.
-Dialogue: 0,0:19:12.46,0:19:12.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfi{\alpha&HFF&}gured corpses were found by the staff.
-Dialogue: 0,0:19:12.51,0:19:12.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfig{\alpha&HFF&}ured corpses were found by the staff.
-Dialogue: 0,0:19:12.55,0:19:12.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigu{\alpha&HFF&}red corpses were found by the staff.
-Dialogue: 0,0:19:12.59,0:19:12.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigu{\alpha&HFF&}red corpses were found by the staff.
-Dialogue: 0,0:19:12.63,0:19:12.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigur{\alpha&HFF&}ed corpses were found by the staff.
-Dialogue: 0,0:19:12.67,0:19:12.71,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigure{\alpha&HFF&}d corpses were found by the staff.
-Dialogue: 0,0:19:12.71,0:19:12.76,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured{\alpha&HFF&} corpses were found by the staff.
-Dialogue: 0,0:19:12.76,0:19:12.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured {\alpha&HFF&}corpses were found by the staff.
-Dialogue: 0,0:19:12.80,0:19:12.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured c{\alpha&HFF&}orpses were found by the staff.
-Dialogue: 0,0:19:12.84,0:19:12.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured co{\alpha&HFF&}rpses were found by the staff.
-Dialogue: 0,0:19:12.88,0:19:12.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured cor{\alpha&HFF&}pses were found by the staff.
-Dialogue: 0,0:19:12.92,0:19:12.96,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corp{\alpha&HFF&}ses were found by the staff.
-Dialogue: 0,0:19:12.96,0:19:13.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corps{\alpha&HFF&}es were found by the staff.
-Dialogue: 0,0:19:13.01,0:19:13.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpse{\alpha&HFF&}s were found by the staff.
-Dialogue: 0,0:19:13.05,0:19:13.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses{\alpha&HFF&} were found by the staff.
-Dialogue: 0,0:19:13.09,0:19:13.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses {\alpha&HFF&}were found by the staff.
-Dialogue: 0,0:19:13.13,0:19:13.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses {\alpha&HFF&}were found by the staff.
-Dialogue: 0,0:19:13.17,0:19:13.22,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses w{\alpha&HFF&}ere found by the staff.
-Dialogue: 0,0:19:13.22,0:19:13.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses we{\alpha&HFF&}re found by the staff.
-Dialogue: 0,0:19:13.26,0:19:13.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses wer{\alpha&HFF&}e found by the staff.
-Dialogue: 0,0:19:13.30,0:19:13.34,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were{\alpha&HFF&} found by the staff.
-Dialogue: 0,0:19:13.34,0:19:13.38,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were {\alpha&HFF&}found by the staff.
-Dialogue: 0,0:19:13.38,0:19:13.42,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were f{\alpha&HFF&}ound by the staff.
-Dialogue: 0,0:19:13.42,0:19:13.47,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were fo{\alpha&HFF&}und by the staff.
-Dialogue: 0,0:19:13.47,0:19:13.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were fou{\alpha&HFF&}nd by the staff.
-Dialogue: 0,0:19:13.51,0:19:13.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were foun{\alpha&HFF&}d by the staff.
-Dialogue: 0,0:19:13.55,0:19:13.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found{\alpha&HFF&} by the staff.
-Dialogue: 0,0:19:13.59,0:19:13.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found {\alpha&HFF&}by the staff.
-Dialogue: 0,0:19:13.63,0:19:13.67,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found b{\alpha&HFF&}y the staff.
-Dialogue: 0,0:19:13.67,0:19:13.72,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found b{\alpha&HFF&}y the staff.
-Dialogue: 0,0:19:13.72,0:19:13.76,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by{\alpha&HFF&} the staff.
-Dialogue: 0,0:19:13.76,0:19:13.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by {\alpha&HFF&}the staff.
-Dialogue: 0,0:19:13.80,0:19:13.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by t{\alpha&HFF&}he staff.
-Dialogue: 0,0:19:13.84,0:19:13.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by th{\alpha&HFF&}e staff.
-Dialogue: 0,0:19:13.88,0:19:13.92,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by the{\alpha&HFF&} staff.
-Dialogue: 0,0:19:13.92,0:19:13.97,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by the {\alpha&HFF&}staff.
-Dialogue: 0,0:19:13.97,0:19:14.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by the s{\alpha&HFF&}taff.
-Dialogue: 0,0:19:14.01,0:19:14.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by the st{\alpha&HFF&}aff.
-Dialogue: 0,0:19:14.05,0:19:14.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by the sta{\alpha&HFF&}ff.
-Dialogue: 0,0:19:14.09,0:19:14.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by the staf{\alpha&HFF&}f.
-Dialogue: 0,0:19:14.13,0:19:14.17,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by the staff{\alpha&HFF&}.
-Dialogue: 0,0:19:14.17,0:19:14.22,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:14.22,0:19:14.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by the staff.
-Dialogue: 0,0:19:14.26,0:19:15.44,Signs,Screen,0,0,0,,{\fade(0,1000)\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}After the showing, three high school boys' disfigured corpses were found by the staff.
-Comment: 0,0:19:15.44,0:19:19.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.43,0:19:15.47,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Ca{\alpha&HFF&}use of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.47,0:19:15.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cau{\alpha&HFF&}se of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.51,0:19:15.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Caus{\alpha&HFF&}e of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.55,0:19:15.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause{\alpha&HFF&} of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.59,0:19:15.63,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause {\alpha&HFF&}of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.63,0:19:15.68,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause o{\alpha&HFF&}f death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.68,0:19:15.72,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of{\alpha&HFF&} death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.72,0:19:15.76,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of d{\alpha&HFF&}eath: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.76,0:19:15.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of de{\alpha&HFF&}ath: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.80,0:19:15.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of dea{\alpha&HFF&}th: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.84,0:19:15.88,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of deat{\alpha&HFF&}h: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.88,0:19:15.93,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death{\alpha&HFF&}: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.93,0:19:15.97,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death:{\alpha&HFF&} \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:15.97,0:19:16.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: {\alpha&HFF&}\NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.01,0:19:16.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: {\alpha&HFF&}\NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.05,0:19:16.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NI{\alpha&HFF&}ncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.09,0:19:16.13,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIn{\alpha&HFF&}creased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.13,0:19:16.18,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NInc{\alpha&HFF&}reased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.18,0:19:16.22,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncr{\alpha&HFF&}eased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.22,0:19:16.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncre{\alpha&HFF&}ased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.26,0:19:16.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncrea{\alpha&HFF&}sed cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.30,0:19:16.34,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreas{\alpha&HFF&}ed cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.34,0:19:16.39,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncrease{\alpha&HFF&}d cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.39,0:19:16.43,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased {\alpha&HFF&}cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.43,0:19:16.47,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased c{\alpha&HFF&}ranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.47,0:19:16.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cr{\alpha&HFF&}anial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.51,0:19:16.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cra{\alpha&HFF&}nial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.55,0:19:16.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cran{\alpha&HFF&}ial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.59,0:19:16.64,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased crani{\alpha&HFF&}al pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.64,0:19:16.68,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased crania{\alpha&HFF&}l pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.68,0:19:16.72,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial{\alpha&HFF&} pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.72,0:19:16.76,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial p{\alpha&HFF&}ressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.76,0:19:16.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pr{\alpha&HFF&}essure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.80,0:19:16.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pre{\alpha&HFF&}ssure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.84,0:19:16.89,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pres{\alpha&HFF&}sure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.89,0:19:16.93,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial press{\alpha&HFF&}ure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.93,0:19:16.97,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressu{\alpha&HFF&}re and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:16.97,0:19:17.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressur{\alpha&HFF&}e and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.01,0:19:17.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure{\alpha&HFF&} and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.05,0:19:17.09,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure a{\alpha&HFF&}nd \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.09,0:19:17.14,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure an{\alpha&HFF&}d \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.14,0:19:17.18,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and{\alpha&HFF&} \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.18,0:19:17.22,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and {\alpha&HFF&}\Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.22,0:19:17.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and {\alpha&HFF&}\Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.26,0:19:17.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \N{\alpha&HFF&}respiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.30,0:19:17.34,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nr{\alpha&HFF&}espiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.34,0:19:17.39,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nre{\alpha&HFF&}spiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.39,0:19:17.43,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nresp{\alpha&HFF&}iratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.43,0:19:17.47,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespi{\alpha&HFF&}ratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.47,0:19:17.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespir{\alpha&HFF&}atory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.51,0:19:17.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespira{\alpha&HFF&}tory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.55,0:19:17.59,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespirat{\alpha&HFF&}ory paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.59,0:19:17.64,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespirato{\alpha&HFF&}ry paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.64,0:19:17.68,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespirator{\alpha&HFF&}y paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.68,0:19:17.72,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory{\alpha&HFF&} paralysis due to cranial deformity.
-Dialogue: 0,0:19:17.72,0:19:17.76,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory p{\alpha&HFF&}aralysis due to cranial deformity.
-Dialogue: 0,0:19:17.76,0:19:17.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory pa{\alpha&HFF&}ralysis due to cranial deformity.
-Dialogue: 0,0:19:17.80,0:19:17.84,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory par{\alpha&HFF&}alysis due to cranial deformity.
-Dialogue: 0,0:19:17.84,0:19:17.89,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory para{\alpha&HFF&}lysis due to cranial deformity.
-Dialogue: 0,0:19:17.89,0:19:17.93,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paral{\alpha&HFF&}ysis due to cranial deformity.
-Dialogue: 0,0:19:17.93,0:19:17.97,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paraly{\alpha&HFF&}sis due to cranial deformity.
-Dialogue: 0,0:19:17.97,0:19:18.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralys{\alpha&HFF&}is due to cranial deformity.
-Dialogue: 0,0:19:18.01,0:19:18.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysi{\alpha&HFF&}s due to cranial deformity.
-Dialogue: 0,0:19:18.05,0:19:18.10,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis {\alpha&HFF&}due to cranial deformity.
-Dialogue: 0,0:19:18.10,0:19:18.14,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis d{\alpha&HFF&}ue to cranial deformity.
-Dialogue: 0,0:19:18.14,0:19:18.18,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis du{\alpha&HFF&}e to cranial deformity.
-Dialogue: 0,0:19:18.18,0:19:18.22,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due{\alpha&HFF&} to cranial deformity.
-Dialogue: 0,0:19:18.22,0:19:18.26,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due {\alpha&HFF&}to cranial deformity.
-Dialogue: 0,0:19:18.26,0:19:18.30,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due t{\alpha&HFF&}o cranial deformity.
-Dialogue: 0,0:19:18.30,0:19:18.35,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to{\alpha&HFF&} cranial deformity.
-Dialogue: 0,0:19:18.35,0:19:18.39,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to {\alpha&HFF&}cranial deformity.
-Dialogue: 0,0:19:18.39,0:19:18.43,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cr{\alpha&HFF&}anial deformity.
-Dialogue: 0,0:19:18.43,0:19:18.47,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cra{\alpha&HFF&}nial deformity.
-Dialogue: 0,0:19:18.47,0:19:18.51,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cran{\alpha&HFF&}ial deformity.
-Dialogue: 0,0:19:18.51,0:19:18.55,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to crani{\alpha&HFF&}al deformity.
-Dialogue: 0,0:19:18.55,0:19:18.60,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to crania{\alpha&HFF&}l deformity.
-Dialogue: 0,0:19:18.60,0:19:18.64,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial{\alpha&HFF&} deformity.
-Dialogue: 0,0:19:18.64,0:19:18.68,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial {\alpha&HFF&}deformity.
-Dialogue: 0,0:19:18.68,0:19:18.72,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial d{\alpha&HFF&}eformity.
-Dialogue: 0,0:19:18.72,0:19:18.76,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial def{\alpha&HFF&}ormity.
-Dialogue: 0,0:19:18.76,0:19:18.80,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial defo{\alpha&HFF&}rmity.
-Dialogue: 0,0:19:18.80,0:19:18.85,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial defor{\alpha&HFF&}mity.
-Dialogue: 0,0:19:18.85,0:19:18.89,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deform{\alpha&HFF&}ity.
-Dialogue: 0,0:19:18.89,0:19:18.93,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformi{\alpha&HFF&}ty.
-Dialogue: 0,0:19:18.93,0:19:18.97,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformit{\alpha&HFF&}y.
-Dialogue: 0,0:19:18.97,0:19:19.01,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity{\alpha&HFF&}.
-Dialogue: 0,0:19:19.01,0:19:19.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
-Dialogue: 0,0:19:19.05,0:19:20.05,Signs,Screen,0,0,0,,{\fnFranklin Gothic Heavy\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:10.05,0:19:20.06,Signs,,0,0,0,,{\p1\c&H000000&}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
+Comment: 0,0:19:10.37,0:19:14.26,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs80\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.38,0:19:10.42,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}A{\alpha&HFF&}fter the showing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.42,0:19:10.46,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Af{\alpha&HFF&}ter the showing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.46,0:19:10.50,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Aft{\alpha&HFF&}er the showing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.50,0:19:10.55,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Afte{\alpha&HFF&}r the showing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.55,0:19:10.59,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After{\alpha&HFF&} the showing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.59,0:19:10.63,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After {\alpha&HFF&}the showing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.63,0:19:10.67,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After t{\alpha&HFF&}he showing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.67,0:19:10.71,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After th{\alpha&HFF&}e showing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.71,0:19:10.75,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the{\alpha&HFF&} showing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.75,0:19:10.80,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the {\alpha&HFF&}showing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.80,0:19:10.84,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the s{\alpha&HFF&}howing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.84,0:19:10.88,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the sh{\alpha&HFF&}owing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.88,0:19:10.92,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the sho{\alpha&HFF&}wing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.92,0:19:10.96,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the show{\alpha&HFF&}ing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:10.96,0:19:11.00,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showi{\alpha&HFF&}ng, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.00,0:19:11.05,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showin{\alpha&HFF&}g, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.05,0:19:11.09,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing{\alpha&HFF&}, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.09,0:19:11.13,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing,{\alpha&HFF&} disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.13,0:19:11.17,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, {\alpha&HFF&}disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.17,0:19:11.21,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, d{\alpha&HFF&}isfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.21,0:19:11.25,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, di{\alpha&HFF&}sfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.25,0:19:11.30,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, dis{\alpha&HFF&}figured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.30,0:19:11.34,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disf{\alpha&HFF&}igured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.34,0:19:11.38,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfi{\alpha&HFF&}gured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.38,0:19:11.42,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfig{\alpha&HFF&}ured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.42,0:19:11.46,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigu{\alpha&HFF&}red corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.46,0:19:11.51,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigur{\alpha&HFF&}ed corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.51,0:19:11.55,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigure{\alpha&HFF&}d corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.55,0:19:11.59,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured{\alpha&HFF&} corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.59,0:19:11.63,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured {\alpha&HFF&}corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.63,0:19:11.67,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured c{\alpha&HFF&}orpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.67,0:19:11.71,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured co{\alpha&HFF&}rpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.71,0:19:11.76,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured cor{\alpha&HFF&}pses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.76,0:19:11.80,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corp{\alpha&HFF&}ses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.80,0:19:11.84,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corps{\alpha&HFF&}es of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.84,0:19:11.88,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpse{\alpha&HFF&}s of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.88,0:19:11.92,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses{\alpha&HFF&} of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.92,0:19:11.96,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses {\alpha&HFF&}of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:11.96,0:19:12.01,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses o{\alpha&HFF&}f \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:12.01,0:19:12.05,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of{\alpha&HFF&} \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:12.05,0:19:12.09,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of {\alpha&HFF&}\Nthree high school students were found by the staff.
+Dialogue: 0,0:19:12.09,0:19:12.13,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \N{\alpha&HFF&}three high school students were found by the staff.
+Dialogue: 0,0:19:12.13,0:19:12.17,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nt{\alpha&HFF&}hree high school students were found by the staff.
+Dialogue: 0,0:19:12.17,0:19:12.21,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nth{\alpha&HFF&}ree high school students were found by the staff.
+Dialogue: 0,0:19:12.21,0:19:12.26,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthr{\alpha&HFF&}ee high school students were found by the staff.
+Dialogue: 0,0:19:12.26,0:19:12.30,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthre{\alpha&HFF&}e high school students were found by the staff.
+Dialogue: 0,0:19:12.30,0:19:12.34,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree{\alpha&HFF&} high school students were found by the staff.
+Dialogue: 0,0:19:12.34,0:19:12.38,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree {\alpha&HFF&}high school students were found by the staff.
+Dialogue: 0,0:19:12.38,0:19:12.42,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree h{\alpha&HFF&}igh school students were found by the staff.
+Dialogue: 0,0:19:12.42,0:19:12.46,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree hi{\alpha&HFF&}gh school students were found by the staff.
+Dialogue: 0,0:19:12.46,0:19:12.51,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree hig{\alpha&HFF&}h school students were found by the staff.
+Dialogue: 0,0:19:12.51,0:19:12.55,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high{\alpha&HFF&} school students were found by the staff.
+Dialogue: 0,0:19:12.55,0:19:12.59,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high {\alpha&HFF&}school students were found by the staff.
+Dialogue: 0,0:19:12.59,0:19:12.63,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high s{\alpha&HFF&}chool students were found by the staff.
+Dialogue: 0,0:19:12.63,0:19:12.67,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high sc{\alpha&HFF&}hool students were found by the staff.
+Dialogue: 0,0:19:12.67,0:19:12.71,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high sch{\alpha&HFF&}ool students were found by the staff.
+Dialogue: 0,0:19:12.71,0:19:12.76,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high scho{\alpha&HFF&}ol students were found by the staff.
+Dialogue: 0,0:19:12.76,0:19:12.80,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high schoo{\alpha&HFF&}l students were found by the staff.
+Dialogue: 0,0:19:12.80,0:19:12.84,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school{\alpha&HFF&} students were found by the staff.
+Dialogue: 0,0:19:12.84,0:19:12.88,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school {\alpha&HFF&}students were found by the staff.
+Dialogue: 0,0:19:12.88,0:19:12.92,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school s{\alpha&HFF&}tudents were found by the staff.
+Dialogue: 0,0:19:12.92,0:19:12.96,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school st{\alpha&HFF&}udents were found by the staff.
+Dialogue: 0,0:19:12.96,0:19:13.01,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school stu{\alpha&HFF&}dents were found by the staff.
+Dialogue: 0,0:19:13.01,0:19:13.05,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school stud{\alpha&HFF&}ents were found by the staff.
+Dialogue: 0,0:19:13.05,0:19:13.09,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school stude{\alpha&HFF&}nts were found by the staff.
+Dialogue: 0,0:19:13.09,0:19:13.13,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school studen{\alpha&HFF&}ts were found by the staff.
+Dialogue: 0,0:19:13.13,0:19:13.17,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school student{\alpha&HFF&}s were found by the staff.
+Dialogue: 0,0:19:13.17,0:19:13.22,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students{\alpha&HFF&} were found by the staff.
+Dialogue: 0,0:19:13.22,0:19:13.26,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students {\alpha&HFF&}were found by the staff.
+Dialogue: 0,0:19:13.26,0:19:13.30,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students w{\alpha&HFF&}ere found by the staff.
+Dialogue: 0,0:19:13.30,0:19:13.34,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students we{\alpha&HFF&}re found by the staff.
+Dialogue: 0,0:19:13.34,0:19:13.38,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students wer{\alpha&HFF&}e found by the staff.
+Dialogue: 0,0:19:13.38,0:19:13.42,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were{\alpha&HFF&} found by the staff.
+Dialogue: 0,0:19:13.42,0:19:13.47,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were {\alpha&HFF&}found by the staff.
+Dialogue: 0,0:19:13.47,0:19:13.51,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were f{\alpha&HFF&}ound by the staff.
+Dialogue: 0,0:19:13.51,0:19:13.55,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were fo{\alpha&HFF&}und by the staff.
+Dialogue: 0,0:19:13.55,0:19:13.59,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were fou{\alpha&HFF&}nd by the staff.
+Dialogue: 0,0:19:13.59,0:19:13.63,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were foun{\alpha&HFF&}d by the staff.
+Dialogue: 0,0:19:13.63,0:19:13.67,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found{\alpha&HFF&} by the staff.
+Dialogue: 0,0:19:13.67,0:19:13.72,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found {\alpha&HFF&}by the staff.
+Dialogue: 0,0:19:13.72,0:19:13.76,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found b{\alpha&HFF&}y the staff.
+Dialogue: 0,0:19:13.76,0:19:13.80,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by{\alpha&HFF&} the staff.
+Dialogue: 0,0:19:13.80,0:19:13.84,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by {\alpha&HFF&}the staff.
+Dialogue: 0,0:19:13.84,0:19:13.88,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by t{\alpha&HFF&}he staff.
+Dialogue: 0,0:19:13.88,0:19:13.92,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by th{\alpha&HFF&}e staff.
+Dialogue: 0,0:19:13.92,0:19:13.97,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by the{\alpha&HFF&} staff.
+Dialogue: 0,0:19:13.97,0:19:14.01,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by the {\alpha&HFF&}staff.
+Dialogue: 0,0:19:14.01,0:19:14.05,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by the s{\alpha&HFF&}taff.
+Dialogue: 0,0:19:14.05,0:19:14.09,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by the st{\alpha&HFF&}aff.
+Dialogue: 0,0:19:14.09,0:19:14.13,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by the sta{\alpha&HFF&}ff.
+Dialogue: 0,0:19:14.13,0:19:14.17,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by the staf{\alpha&HFF&}f.
+Dialogue: 0,0:19:14.17,0:19:14.22,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by the staff{\alpha&HFF&}.
+Dialogue: 0,0:19:14.22,0:19:14.26,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by the staff.
+Dialogue: 0,0:19:14.26,0:19:15.44,Signs,Screen,0,0,0,,{\fade(0,1000)\fnBahnschrift Condensed\be1\fs75\pos(960,540)}After the showing, disfigured corpses of \Nthree high school students were found by the staff.
+Comment: 0,0:19:15.44,0:19:19.05,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs80\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.43,0:19:15.47,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Ca{\alpha&HFF&}use of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.47,0:19:15.51,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cau{\alpha&HFF&}se of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.51,0:19:15.55,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Caus{\alpha&HFF&}e of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.55,0:19:15.59,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause{\alpha&HFF&} of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.59,0:19:15.63,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause {\alpha&HFF&}of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.63,0:19:15.68,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause o{\alpha&HFF&}f death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.68,0:19:15.72,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of{\alpha&HFF&} death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.72,0:19:15.76,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of d{\alpha&HFF&}eath: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.76,0:19:15.80,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of de{\alpha&HFF&}ath: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.80,0:19:15.84,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of dea{\alpha&HFF&}th: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.84,0:19:15.88,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of deat{\alpha&HFF&}h: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.88,0:19:15.93,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death{\alpha&HFF&}: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.93,0:19:15.97,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death:{\alpha&HFF&} \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:15.97,0:19:16.01,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: {\alpha&HFF&}\NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.01,0:19:16.05,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: {\alpha&HFF&}\NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.05,0:19:16.09,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NI{\alpha&HFF&}ncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.09,0:19:16.13,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIn{\alpha&HFF&}creased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.13,0:19:16.18,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NInc{\alpha&HFF&}reased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.18,0:19:16.22,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncr{\alpha&HFF&}eased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.22,0:19:16.26,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncre{\alpha&HFF&}ased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.26,0:19:16.30,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncrea{\alpha&HFF&}sed cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.30,0:19:16.34,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreas{\alpha&HFF&}ed cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.34,0:19:16.39,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncrease{\alpha&HFF&}d cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.39,0:19:16.43,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased {\alpha&HFF&}cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.43,0:19:16.47,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased c{\alpha&HFF&}ranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.47,0:19:16.51,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cr{\alpha&HFF&}anial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.51,0:19:16.55,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cra{\alpha&HFF&}nial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.55,0:19:16.59,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cran{\alpha&HFF&}ial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.59,0:19:16.64,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased crani{\alpha&HFF&}al pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.64,0:19:16.68,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased crania{\alpha&HFF&}l pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.68,0:19:16.72,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial{\alpha&HFF&} pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.72,0:19:16.76,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial p{\alpha&HFF&}ressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.76,0:19:16.80,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pr{\alpha&HFF&}essure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.80,0:19:16.84,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pre{\alpha&HFF&}ssure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.84,0:19:16.89,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pres{\alpha&HFF&}sure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.89,0:19:16.93,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial press{\alpha&HFF&}ure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.93,0:19:16.97,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressu{\alpha&HFF&}re and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:16.97,0:19:17.01,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressur{\alpha&HFF&}e and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.01,0:19:17.05,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure{\alpha&HFF&} and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.05,0:19:17.09,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure a{\alpha&HFF&}nd \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.09,0:19:17.14,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure an{\alpha&HFF&}d \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.14,0:19:17.18,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and{\alpha&HFF&} \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.18,0:19:17.22,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and {\alpha&HFF&}\Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.22,0:19:17.26,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and {\alpha&HFF&}\Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.26,0:19:17.30,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \N{\alpha&HFF&}respiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.30,0:19:17.34,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nr{\alpha&HFF&}espiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.34,0:19:17.39,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nre{\alpha&HFF&}spiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.39,0:19:17.43,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nresp{\alpha&HFF&}iratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.43,0:19:17.47,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespi{\alpha&HFF&}ratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.47,0:19:17.51,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespir{\alpha&HFF&}atory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.51,0:19:17.55,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespira{\alpha&HFF&}tory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.55,0:19:17.59,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespirat{\alpha&HFF&}ory paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.59,0:19:17.64,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespirato{\alpha&HFF&}ry paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.64,0:19:17.68,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespirator{\alpha&HFF&}y paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.68,0:19:17.72,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory{\alpha&HFF&} paralysis due to cranial deformity.
+Dialogue: 0,0:19:17.72,0:19:17.76,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory p{\alpha&HFF&}aralysis due to cranial deformity.
+Dialogue: 0,0:19:17.76,0:19:17.80,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory pa{\alpha&HFF&}ralysis due to cranial deformity.
+Dialogue: 0,0:19:17.80,0:19:17.84,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory par{\alpha&HFF&}alysis due to cranial deformity.
+Dialogue: 0,0:19:17.84,0:19:17.89,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory para{\alpha&HFF&}lysis due to cranial deformity.
+Dialogue: 0,0:19:17.89,0:19:17.93,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paral{\alpha&HFF&}ysis due to cranial deformity.
+Dialogue: 0,0:19:17.93,0:19:17.97,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paraly{\alpha&HFF&}sis due to cranial deformity.
+Dialogue: 0,0:19:17.97,0:19:18.01,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralys{\alpha&HFF&}is due to cranial deformity.
+Dialogue: 0,0:19:18.01,0:19:18.05,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysi{\alpha&HFF&}s due to cranial deformity.
+Dialogue: 0,0:19:18.05,0:19:18.10,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis {\alpha&HFF&}due to cranial deformity.
+Dialogue: 0,0:19:18.10,0:19:18.14,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis d{\alpha&HFF&}ue to cranial deformity.
+Dialogue: 0,0:19:18.14,0:19:18.18,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis du{\alpha&HFF&}e to cranial deformity.
+Dialogue: 0,0:19:18.18,0:19:18.22,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due{\alpha&HFF&} to cranial deformity.
+Dialogue: 0,0:19:18.22,0:19:18.26,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due {\alpha&HFF&}to cranial deformity.
+Dialogue: 0,0:19:18.26,0:19:18.30,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due t{\alpha&HFF&}o cranial deformity.
+Dialogue: 0,0:19:18.30,0:19:18.35,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to{\alpha&HFF&} cranial deformity.
+Dialogue: 0,0:19:18.35,0:19:18.39,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to {\alpha&HFF&}cranial deformity.
+Dialogue: 0,0:19:18.39,0:19:18.43,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cr{\alpha&HFF&}anial deformity.
+Dialogue: 0,0:19:18.43,0:19:18.47,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cra{\alpha&HFF&}nial deformity.
+Dialogue: 0,0:19:18.47,0:19:18.51,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cran{\alpha&HFF&}ial deformity.
+Dialogue: 0,0:19:18.51,0:19:18.55,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to crani{\alpha&HFF&}al deformity.
+Dialogue: 0,0:19:18.55,0:19:18.60,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to crania{\alpha&HFF&}l deformity.
+Dialogue: 0,0:19:18.60,0:19:18.64,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial{\alpha&HFF&} deformity.
+Dialogue: 0,0:19:18.64,0:19:18.68,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial {\alpha&HFF&}deformity.
+Dialogue: 0,0:19:18.68,0:19:18.72,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial d{\alpha&HFF&}eformity.
+Dialogue: 0,0:19:18.72,0:19:18.76,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial def{\alpha&HFF&}ormity.
+Dialogue: 0,0:19:18.76,0:19:18.80,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial defo{\alpha&HFF&}rmity.
+Dialogue: 0,0:19:18.80,0:19:18.85,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial defor{\alpha&HFF&}mity.
+Dialogue: 0,0:19:18.85,0:19:18.89,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deform{\alpha&HFF&}ity.
+Dialogue: 0,0:19:18.89,0:19:18.93,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformi{\alpha&HFF&}ty.
+Dialogue: 0,0:19:18.93,0:19:18.97,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformit{\alpha&HFF&}y.
+Dialogue: 0,0:19:18.97,0:19:19.01,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity{\alpha&HFF&}.
+Dialogue: 0,0:19:19.01,0:19:19.05,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
+Dialogue: 0,0:19:19.05,0:19:20.05,Signs,Screen,0,0,0,,{\fnBahnschrift Condensed\be1\fs75\pos(960,540)}Cause of death: \NIncreased cranial pressure and \Nrespiratory paralysis due to cranial deformity.
 Dialogue: 0,0:22:15.02,0:22:17.52,Signs,Screen&Three,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
 Dialogue: 0,0:22:17.52,0:22:19.02,Signs,Sign,0,0,0,,{\p1\c&HE8E3E6&\be2\pos(353.91,249.91)}m 748 231 l 1437 262 1428 725 742 702
 Dialogue: 0,0:22:17.52,0:22:19.02,Signs,Sign,0,0,0,,{\fnImpact\fs110\c&H333233&\be2\frz358.1\fax0.02\pos(1094.44,397.31)}Handshake Event
