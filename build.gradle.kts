@@ -67,11 +67,11 @@ subs {
                 lang("jpn")
 
                 if(track.type == TrackType.VIDEO){
-                    name("1080p BD x265 [dedsec]")
+                    name("BD 1080p HEVC [dedsec]")
                 }
 
                 if(track.type == TrackType.AUDIO){
-                    name("qAAC 2ch")
+                    name("Japanese 2.0 AAC")
                 }
             }
 

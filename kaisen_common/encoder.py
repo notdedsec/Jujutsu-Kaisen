@@ -32,8 +32,8 @@ class Encoder:
         muxer = Mux(
             self.file,
             streams=(
-                VideoStream(self.file.name_clip_output, '1080p BD x265 [dedsec]', JAPANESE),
-                AudioStream(self.file.a_enc_cut.format(track_number=1), 'AAC 2.0', JAPANESE),
+                VideoStream(self.file.name_clip_output, 'BD 1080p HEVC [dedsec]', JAPANESE),
+                AudioStream(self.file.a_enc_cut.format(track_number=1), 'Japanese 2.0 AAC', JAPANESE),
                 None
             )
         )
