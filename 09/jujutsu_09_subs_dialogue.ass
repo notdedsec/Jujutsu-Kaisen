@@ -20,17 +20,16 @@ Audio File: jujutsu_09_premux.mkv
 Video File: jujutsu_09_premux.mkv
 Keyframes File: jujutsu_09_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 334
-Active Line: 339
-Video Position: 33688
+Video Zoom Percent: 0.750000
+Scroll Position: 272
+Active Line: 280
+Video Position: 25913
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
-Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
-Style: Cursed,KG HAPPY Solid,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -240,7 +239,7 @@ Dialogue: 5,0:12:34.32,0:12:38.07,Default,Nanami,0,0,0,,There's also the strateg
 Dialogue: 5,0:12:35.28,0:12:37.16,Default,Yuji,0,0,0,,{\i1\an8}I want to focus on the curse,
 Dialogue: 5,0:12:37.16,0:12:39.67,Default,Yuji,0,0,0,,{\i1\an8}but it feels like I should be listening.
 Dialogue: 5,0:12:40.26,0:12:41.87,Default,Nanami,0,0,0,,It does have its advantages.
-Dialogue: 5,0:12:41.87,0:12:46.90,Default,Nanami,0,0,0,,Revealing one's hand is a pact that makes your technique more effective.
+Dialogue: 5,0:12:41.87,0:12:46.90,Default,Nanami,0,0,0,,Revealing one's hand is a Binding Vow that makes your technique more effective.
 Dialogue: 5,0:12:46.90,0:12:48.38,Default,Nanami,0,0,0,,Like so.{could use colon instead of period. "Like so:"}
 Dialogue: 5,0:13:14.74,0:13:16.83,Default,Nanami,0,0,0,,That's all from me.
 Dialogue: 5,0:13:17.85,0:13:19.18,Default,Yuji,0,0,0,,Wow.
@@ -302,45 +301,46 @@ Dialogue: 5,0:16:59.75,0:17:01.58,Default,Yuji,0,0,0,,This isn't right!
 Dialogue: 5,0:17:03.42,0:17:07.17,Default,Nanami,0,0,0,,{\i1}This kid genuinely gets upset over other people's deaths.
 Dialogue: 5,0:17:08.21,0:17:12.76,Default,Nanami,0,0,0,,Those residuals were a bluff, likely meant to lure us in.
 Dialogue: 5,0:17:12.76,0:17:14.68,Default,Nanami,0,0,0,,Our foe is quite skilled.
-Dialogue: 5,0:17:15.16,0:17:18.27,Default,Nanami,0,0,0,,Looks like this will take more than moderate effort.
-Dialogue: 5,0:17:18.56,0:17:19.88,Default,Nanami,0,0,0,,So let's go all-out.
+Dialogue: 5,0:17:15.16,0:17:18.27,Default,Nanami,0,0,0,,Looks like moderate effort won't cut it.
+Dialogue: 5,0:17:18.56,0:17:19.88,Default,Nanami,0,0,0,,Let's go all-out.
 Dialogue: 5,0:17:22.57,0:17:23.40,Default,Yuji,0,0,0,,Right!
-Dialogue: 5,0:17:25.53,0:17:29.99,Default,Mahito,0,0,0,,{\an8}There are spirits known as potential special-grade apparitions.
-Dialogue: 5,0:17:31.06,0:17:35.16,Default,Mahito,0,0,0,,Cursed spirits are a culmination of \Nthe cursed energy leaked from humans.
-Dialogue: 5,0:17:35.16,0:17:42.75,Default,Mahito,0,0,0,,An image of fear shared by the masses can manifest as a powerful curse, even if it's not real.
-Dialogue: 5,0:17:43.31,0:17:46.30,Default,Junpei,0,0,0,,An image of fear shared by the masses?
+Dialogue: 5,0:17:25.53,0:17:27.99,Default,Mahito,0,0,0,,{\an8}"Special-Grade Mythical Spirits."
+Dialogue: 5,0:17:27.99,0:17:30.53,Default,Mahito,0,0,0,,{\an8}Some curses are labeled as such.
+Dialogue: 5,0:17:31.06,0:17:35.16,Default,Mahito,0,0,0,,Curses are born from the build-up \Nof cursed energy leaked from humans.
+Dialogue: 5,0:17:35.16,0:17:42.75,Default,Mahito,0,0,0,,Real or not, if something is feared by the masses, \Nit can manifest as a powerful curse.
+Dialogue: 5,0:17:43.31,0:17:46.25,Default,Junpei,0,0,0,,Something that is feared by the masses...
 Dialogue: 5,0:17:46.82,0:17:49.81,Default,Junpei,0,0,0,,Like famous monsters and ghost?
 Dialogue: 5,0:17:49.81,0:17:50.79,Default,Mahito,0,0,0,,Yup.
-Dialogue: 5,0:17:51.18,0:17:54.80,Default,Mahito,0,0,0,,Like Toilet-bound Hanako{**-san}, \Nthe nine-tailed fox, and so on.
-Dialogue: 5,0:17:55.10,0:18:00.31,Default,Mahito,0,0,0,,Sorcerers brand them as potential special-grade apparitions and keep an eye out for them.
-Dialogue: 5,0:18:00.75,0:18:09.94,Default,Mahito,0,0,0,,The fact that they categorize powerful, unidentified curses as such really shows their shallowness.
-Dialogue: 5,0:18:10.62,0:18:15.20,Default,Mahito,0,0,0,,But what people fear most aren't fairy tales, right?
-Dialogue: 5,0:18:16.39,0:18:17.79,Default,Junpei,0,0,0,,So, natural disasters?
-Dialogue: 5,0:18:19.76,0:18:22.29,Default,Mahito,0,0,0,,Talking to you is so easy.
+Dialogue: 5,0:17:50.79,0:17:54.80,Default,Mahito,0,0,0,,Like Toilet-Bound Hanako{**-san}, \Nthe Nine-Tailed Fox, and so on.
+Dialogue: 5,0:17:54.80,0:18:00.31,Default,Mahito,0,0,0,,Sorcerers brand them as "Special-Grade Mythical Spirits" \Nand exercise caution against them.
+Dialogue: 5,0:18:00.77,0:18:06.57,Default,Mahito,0,0,0,,{\fade(0,600)}They put powerful and unidentified curses \Ninto the same category as well. {aaaaaaaaaaaaaaaaa __now__ it makes sense} {basically, the current classification system is wrong, and hence the confusion in ep3}
+Dialogue: 5,0:18:06.94,0:18:09.94,Default,Mahito,0,0,0,,I guess that's just the extent of their knowledge. {skill issue}
+Dialogue: 5,0:18:10.62,0:18:15.20,Default,Mahito,0,0,0,,What people fear most aren't fairy tales, after all.
+Dialogue: 5,0:18:16.33,0:18:17.79,Default,Junpei,0,0,0,,Things like natural disasters?
+Dialogue: 5,0:18:19.76,0:18:22.29,Default,Mahito,0,0,0,,Man, you're so easy to talk to.
 Dialogue: 5,0:18:23.87,0:18:25.53,Default,Junpei,0,0,0,,Oh, r-really?
 Dialogue: 5,0:18:33.68,0:18:35.39,Default,Mahito,0,0,0,,People have always feared...
 Dialogue: 5,0:18:36.85,0:18:41.34,Default,Mahito,0,0,0,,the earth, the forests, and the oceans.
-Dialogue: 5,0:18:42.60,0:18:46.56,Default,Mahito,0,0,0,,The cursed energy directed at them was so massive
+Dialogue: 5,0:18:42.52,0:18:46.56,Default,Mahito,0,0,0,,The cursed energy directed at them was so massive
 Dialogue: 5,0:18:47.12,0:18:52.06,Default,Mahito,0,0,0,,that before they took form, \Nthey gained consciousness and remained in hiding.
 Dialogue: 5,0:18:53.39,0:18:56.02,Default,Mahito,0,0,0,,I'm proud to call them my friends.
 Dialogue: 5,0:18:58.38,0:19:01.96,Default,Junpei,0,0,0,,What are you born from, Mahito{**-san}?
 Dialogue: 5,0:19:04.63,0:19:05.60,Default,Mahito,0,0,0,,People.
-Dialogue: 5,0:19:07.13,0:19:14.01,Default,Mahito,0,0,0,,{\fade(0,200)}I am a curse born from the hatred and fear people hold in their gut toward each other.
-Dialogue: 5,0:19:17.87,0:19:20.73,Default,Nanami,0,0,0,,{\an8}I've organized the reports from our windows
+Dialogue: 5,0:19:07.13,0:19:14.01,Default,Mahito,0,0,0,,{\fade(0,100)}I am a curse born from the hatred and fear people hold in their gut toward each other.
+Dialogue: 5,0:19:17.87,0:19:20.73,Default,Nanami,0,0,0,,{\an8}I've organized the reports from our windows {join?}
 Dialogue: 5,0:19:20.73,0:19:23.73,Default,Nanami,0,0,0,,{\an8}on recent unnatural deaths and disappearances.{This is overlapping with TS btw.}{rip lol. just subkt things.}
-Dialogue: 5,0:19:24.60,0:19:27.70,Default,Nanami,0,0,0,,This should help us narrow down the culprit's hideout.
+Dialogue: 5,0:19:24.35,0:19:27.70,Default,Nanami,0,0,0,,This should help us narrow down the culprit's hideout.
 Dialogue: 5,0:19:27.70,0:19:29.63,Default,Yuji,0,0,0,,Aw yeah! Are we storming in?{Does he really need all the "?!" Question mark alone may do. Just noticed it frequently.}
 Dialogue: 5,0:19:29.63,0:19:32.12,Default,Nanami,0,0,0,,No, this is just an approximation.
-Dialogue: 5,0:19:32.12,0:19:34.40,Default,Nanami,0,0,0,,I'll continue to investigate this matter,
-Dialogue: 5,0:19:34.40,0:19:36.60,Default,Nanami,0,0,0,,but I'd like you to handle a different task.
+Dialogue: 5,0:19:32.12,0:19:36.60,Default,Nanami,0,0,0,,I'll continue to investigate this matter, but I'd like you to handle a different task.
 Dialogue: 5,0:19:37.77,0:19:41.12,Default,Nanami,0,0,0,,This is the boy who was at the theater, Yoshino Junpei.
-Dialogue: 5,0:19:41.41,0:19:44.98,Default,Nanami,0,0,0,,Apparently, he goes to the same school as the victims.
-Dialogue: 5,0:19:46.32,0:19:49.50,Default,Nanami,0,0,0,,Based on the surveillance footage and how he carried himself,
+Dialogue: 5,0:19:41.12,0:19:44.98,Default,Nanami,0,0,0,,Apparently, he goes to the same school as the victims.
+Dialogue: 5,0:19:46.32,0:19:49.50,Default,Nanami,0,0,0,,Based on the surveillance footage \Nand how he carried himself,
 Dialogue: 5,0:19:49.50,0:19:53.43,Default,Nanami,0,0,0,,I believed it was unlikely he could be a curse user.
-Dialogue: 5,0:19:54.21,0:19:58.31,Default,Nanami,0,0,0,,However, if he's related to the victims,\N that changes things.
+Dialogue: 5,0:19:54.13,0:19:58.31,Default,Nanami,0,0,0,,However, if he's related to the victims,\N that changes things.
 Dialogue: 5,0:19:58.31,0:19:59.77,Default,Yuji,0,0,0,,Curse user?
-Dialogue: 5,0:19:59.77,0:20:02.39,Default,Nanami,0,0,0,,A jujutsu sorcerer with evil intent.
-Dialogue: 5,0:20:02.71,0:20:08.40,Default,Nanami,0,0,0,,I've entrusted the process to Ijichi{**-kun}, \Nso I'd like you two to investigate Yoshino Junpei.
+Dialogue: 5,0:19:59.77,0:20:02.39,Default,Nanami,0,0,0,,A jujutsu sorcerer with malicious intent.
+Dialogue: 5,0:20:02.39,0:20:08.40,Default,Nanami,0,0,0,,I've entrusted the protocols to Ijichi{**-kun}, \Nso I'd like you two to investigate Yoshino Junpei.
 Dialogue: 5,0:20:08.40,0:20:09.59,Default,Yuji,0,0,0,,Roger!
 Dialogue: 5,0:20:09.59,0:20:13.58,Default,Yuji,0,0,0,,Speaking of which, \NI don't know any assistants other than you.
 Dialogue: 5,0:20:13.58,0:20:19.41,Default,Ijichi,0,0,0,,Well, I'm the only one who knows you're still alive, so by necessity...
@@ -348,7 +348,7 @@ Dialogue: 5,0:20:19.73,0:20:21.37,Default,Yuji,0,0,0,,Makes sense.
 Dialogue: 5,0:20:21.37,0:20:22.91,Default,Yuji,0,0,0,,Let's go!
 Dialogue: 5,0:20:28.40,0:20:33.09,Default,Ijichi,0,0,0,,It's not just an approximation. \NYou already know the culprit's location, don't you?
 Dialogue: 5,0:20:33.75,0:20:34.72,Default,Nanami,0,0,0,,Of course.
-Dialogue: 5,0:20:34.73,0:20:39.45,Default,Nanami,0,0,0,,If they wanted to, they could have left the scene without leaving any residuals.
+Dialogue: 5,0:20:34.73,0:20:39.45,Default,Nanami,0,0,0,,If they wanted to, they could have \Nleft the scene without leaving any residuals.
 Dialogue: 5,0:20:40.30,0:20:42.84,Default,Nanami,0,0,0,,We're being lured in once again.
 Dialogue: 5,0:20:44.18,0:20:48.35,Default,Nanami,0,0,0,,Weighing the risks of storming in alone \Nversus{or "against"} taking Itadori{**-kun} with me,
 Dialogue: 5,0:20:48.35,0:20:50.30,Default,Nanami,0,0,0,,I simply chose the former.

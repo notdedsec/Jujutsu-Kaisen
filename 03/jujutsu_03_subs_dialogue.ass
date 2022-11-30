@@ -21,17 +21,16 @@ Video File: jujutsu_03_premux.mkv
 Keyframes File: jujutsu_03_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 303
-Active Line: 309
-Video Position: 29994
+Video Zoom Percent: 0.750000
+Scroll Position: 305
+Active Line: 308
+Video Position: 30074
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
-Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
-Style: Cursed,KG HAPPY Solid,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,90,100,0,0,1,4,1.6,2,128,128,60,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -106,7 +105,7 @@ Dialogue: 0,0:02:56.91,0:02:59.91,Default,Girl,0,0,0,,{\an8}Holy shit that blind
 Dialogue: 0,0:03:03.41,0:03:05.21,Default,Gojo,0,0,0,,Okay, once again.
 Dialogue: 0,0:03:06.04,0:03:07.71,Default,Kugisaki,0,0,0,,The name's Kugisaki Nobara.
 Dialogue: 0,0:03:07.71,0:03:09.42,Default,Kugisaki,0,0,0,,You should feel honored, boys.
-Dialogue: 0,0:03:09.42,0:03:11.30,Default,Kugisaki,0,0,0,,You finally have a lady in the team.
+Dialogue: 0,0:03:09.42,0:03:11.30,Default,Kugisaki,0,0,0,,You finally have a lady in the team. {fun fact: the word she uses here, "koitten" (紅一点) can mean "a flower among the grass" which is quite clever as her name "nobara" (のばら) literally means a wild flower} {sadly, stuff like this gets lost in translation}
 Comment: 0,0:03:11.88,0:03:11.92,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:04:41.93,0:04:41.97,Default,chptr,0,0,0,,{Part A}
 Dialogue: 1,0:04:42.14,0:04:48.89,Default,Kugisaki,0,0,0,,{\i1\an8\fade(0,2500)}Stare. {ah, whatever}
@@ -182,7 +181,7 @@ Dialogue: 0,0:07:35.77,0:07:36.64,Default,Yuji,0,0,0,,Yeah, yeah.
 Dialogue: 0,0:07:36.64,0:07:38.02,Default,Gojo,0,0,0,,Best of luck! {he did say it's a test}
 Dialogue: 0,0:07:50.45,0:07:52.03,Default,Fushiguro,0,0,0,,I think I should go too.
 Dialogue: 0,0:07:52.03,0:07:55.16,Default,Gojo,0,0,0,,Don't push yourself. You're still recovering.
-Dialogue: 0,0:07:55.16,0:07:58.12,Default,Fushiguro,0,0,0,,But someone needs to keep an eye on Itadori, right?
+Dialogue: 0,0:07:55.54,0:07:58.12,Default,Fushiguro,0,0,0,,Someone needs to keep an eye on Itadori, right?
 Dialogue: 0,0:07:58.12,0:07:59.13,Default,Gojo,0,0,0,,That's true.
 Dialogue: 0,0:07:59.63,0:08:03.55,Default,Gojo,0,0,0,,But the one we're testing this time is Nobara.
 Dialogue: 0,0:08:03.55,0:08:05.09,Default,Kugisaki,0,0,0,,Ah, what a pain!
@@ -193,36 +192,35 @@ Dialogue: 0,0:08:14.56,0:08:17.23,Default,Kugisaki,0,0,0,,I'll start from the to
 Dialogue: 0,0:08:17.23,0:08:18.52,Default,Kugisaki,0,0,0,,You start from the bottom.
 Dialogue: 0,0:08:18.89,0:08:21.56,Default,Kugisaki,0,0,0,,Let's wrap this up quickly\N and grab some sushi in Ginza!
 Dialogue: 0,0:08:21.56,0:08:22.77,Default,Yuji,0,0,0,,Hold on a minute.
-Dialogue: 0,0:08:22.77,0:08:24.57,Default,Yuji,0,0,0,,Let's take this a bit more seriously.
-Dialogue: 0,0:08:24.57,0:08:26.32,Default,Yuji,0,0,0,,Curses are dangerous, you know.
+Dialogue: 0,0:08:22.77,0:08:24.53,Default,Yuji,0,0,0,,Let's take this a bit more seriously.
+Dialogue: 0,0:08:24.53,0:08:26.32,Default,Yuji,0,0,0,,Curses are dangerous, you know.
 Dialogue: 0,0:08:30.07,0:08:32.87,Default,Kugisaki,0,0,0,,I don't wanna hear it from a newbie like you!
 Dialogue: 0,0:08:32.87,0:08:34.12,Default,Kugisaki,0,0,0,,Now get moving!
-Dialogue: 0,0:08:36.04,0:08:39.25,Default,Yuji,0,0,0,,You're a roller coaster of emotions today!
+Dialogue: 0,0:08:36.29,0:08:39.25,Default,Yuji,0,0,0,,What the heck? I can't read you at all!
 Dialogue: 0,0:08:39.25,0:08:41.04,Default,Kugisaki,0,0,0,,That's why you're not popular with girls!
 Dialogue: 0,0:08:41.42,0:08:44.00,Default,Yuji,0,0,0,,How do you know that anyway?!
-Dialogue: 0,0:08:44.38,0:08:47.51,Default,Yuji,0,0,0,,I bet you're not popular either, smartass.
+Dialogue: 0,0:08:44.00,0:08:47.51,Default,Yuji,0,0,0,,I bet you're not popular either, smartass.
 Dialogue: 0,0:08:57.93,0:09:03.48,Cursed,Curse,0,0,0,,Do... you need... a receipt?
 Dialogue: 0,0:09:03.81,0:09:05.07,Default,Yuji,0,0,0,,{\i1}It's a curse!
 Dialogue: 0,0:09:28.63,0:09:30.09,Default,Yuji,0,0,0,,I've got some moves!
-Dialogue: 0,0:09:31.55,0:09:32.93,Default,Gojo,0,0,0,,That Yuji guy,
+Dialogue: 0,0:09:31.55,0:09:32.80,Default,Gojo,0,0,0,,That Yuji guy,
 Dialogue: 0,0:09:33.97,0:09:35.30,Default,Gojo,0,0,0,,he's missing a few up here.
 Dialogue: 0,0:09:35.81,0:09:42.06,Default,Gojo,0,0,0,,These things that come after him, \Ntake the forms of bizarre-looking creatures.
 Dialogue: 0,0:09:42.06,0:09:44.77,Default,Gojo,0,0,0,,And he doesn't hesitate in killing them at all.
-Dialogue: 0,0:09:46.65,0:09:50.36,Default,Gojo,0,0,0,,It's not like he's been familiar \Nwith curses for a long time, like you.
+Dialogue: 0,0:09:46.65,0:09:50.36,Default,Gojo,0,0,0,,Unlike you, he's not even all that familiar with curses.
 Dialogue: 0,0:09:50.36,0:09:54.37,Default,Gojo,0,0,0,,This guy used to be a normal high schooler until recently.
 Dialogue: 0,0:09:55.24,0:09:59.20,Default,Gojo,0,0,0,,Plenty of jujutsu sorcerers, \Neven talented ones, give up in frustration
 Dialogue: 0,0:09:59.20,0:10:02.21,Default,Gojo,0,0,0,,because they can't conquer their fear or disgust.
-Dialogue: 0,0:10:02.21,0:10:04.21,Default,Gojo,0,0,0,,You've seen it before, haven't you?
+Dialogue: 0,0:10:02.21,0:10:04.21,Default,Gojo,0,0,0,,You've seen it all before.
 Dialogue: 0,0:10:06.38,0:10:09.67,Default,Gojo,0,0,0,,So today I wanna see how crazy she can get.
 Dialogue: 0,0:10:11.51,0:10:13.68,Default,Kugisaki,0,0,0,,Hey, you, curse.
 Dialogue: 0,0:10:19.68,0:10:21.77,Default,Kugisaki,0,0,0,,I mean you, mannequin in the center.
 Dialogue: 0,0:10:21.77,0:10:23.56,Default,Kugisaki,0,0,0,,Is that your idea of hiding?
 Dialogue: 0,0:10:26.86,0:10:29.78,Default,Kugisaki,0,0,0,,If you won't come out, \NI'll just exorcise you right there.
-Dialogue: 0,0:10:29.78,0:10:32.57,Default,Fushiguro,0,0,0,,But Kugisaki is experienced, right?
-Dialogue: 0,0:10:32.57,0:10:34.45,Default,Fushiguro,0,0,0,,Isn't it a bit too late for that?
+Dialogue: 0,0:10:29.78,0:10:34.45,Default,Fushiguro,0,0,0,,Kugisaki already has experience, though. \NIsn't it a bit too late for that?
 Dialogue: 0,0:10:34.45,0:10:37.28,Default,Gojo,0,0,0,,Curses are born from human minds.
 Dialogue: 0,0:10:37.66,0:10:41.79,Default,Gojo,0,0,0,,Their strength and numbers \Ngrow in proportion to the population.
-Dialogue: 0,0:10:59.97,0:11:02.22,Default,Gojo,0,0,0,,Do you think Nobara understands...
+Dialogue: 0,0:10:59.97,0:11:02.22,Default,Gojo,0,0,0,,Do you think Nobara understands
 Dialogue: 0,0:11:04.31,0:11:08.31,Default,Gojo,0,0,0,,that compared to the countryside, \Ncurses in Tokyo are on a whole other level?
 Comment: 0,0:11:14.90,0:11:14.95,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:11:27.00,0:11:29.79,Default,Gojo,0,0,0,,Curses are born from human minds.
@@ -308,7 +306,7 @@ Dialogue: 0,0:18:21.04,0:18:24.33,Default,Kugisaki,0,0,0,,If I had stayed in tha
 Dialogue: 0,0:18:34.09,0:18:38.14,Default,Kugisaki,0,0,0,,Saori{**-chan}, I made it to Tokyo.
 Dialogue: 0,0:18:43.10,0:18:48.90,Default,Kugisaki,0,0,0,,If we ever meet again, \Ntake me to that bakery you mentioned.
 Dialogue: 0,0:18:53.86,0:18:57.62,Default,Kugisaki,0,0,0,,So as far as that goes, I'm grateful to you too.
-Dialogue: 0,0:18:57.62,0:19:02.83,Default,Kugisaki,0,0,0,,This would not have ended well if I had \Neither died or been the only one to survive.
+Dialogue: 0,0:18:57.62,0:19:02.83,Default,Kugisaki,0,0,0,,The future would've been pretty bleak \Nif I had died or had been the only one to survive.
 Dialogue: 0,0:19:03.79,0:19:04.83,Default,Kugisaki,0,0,0,,Thanks.
 Dialogue: 0,0:19:05.58,0:19:09.96,Default,Yuji,0,0,0,,Well, having a more serious reason doesn't make anyone better than the rest.
 Dialogue: 0,0:19:10.38,0:19:12.84,Default,Kugisaki,0,0,0,,Okay! I've said thanks so we're even now!
@@ -344,8 +342,7 @@ Dialogue: 0,0:20:39.55,0:20:42.35,Default,Narrator,0,0,0,,In the sky, just above
 Dialogue: 0,0:20:44.64,0:20:45.56,Default,Boy,0,0,0,,Hey...
 Dialogue: 0,0:20:47.10,0:20:48.35,Default,Boy,0,0,0,,What's that?
 Dialogue: 0,0:20:49.73,0:20:50.44,Default,Okazaki,0,0,0,,What?
-Dialogue: 0,0:20:50.98,0:20:54.40,Default,Narrator,0,0,0,,An unidentified {apparition of a} potential special-grade was discovered.
-Dialogue: 0,0:20:54.98,0:20:58.99,Default,Narrator,0,0,0,,Several non-sorcerers witnessed the cursed womb.
+Dialogue: 0,0:20:50.98,0:20:59.15,Default,Narrator,0,0,0,,The cursed womb of potentially a special-grade mythical spirit \Nwas witnessed by several non-sorcerers. {okay, so he actually calls it a mythical/imaginary curse but this is also just a temporary working title. the problem with that is it creates a hella lot of confusion. heck, i even think this is a mistake. so i'm gonna drop the "mythical/imaginary" as well as the "working title" bits because of that and 'cause it just flows better.} {after checking out mahito's explainaton in ep9, this actually makes sense. the point is that they don't really have a classification for powerful unindetified curses so they just put it all under mythical/imaginary. based on all that, this is the least confusing line i could come up with.}
 Dialogue: 0,0:21:00.32,0:21:02.28,Default,Boy,0,0,0,,That up there! Looks like an egg.
 Dialogue: 0,0:21:02.28,0:21:04.03,Default,Okazaki,0,0,0,,What are you talking about?
 Dialogue: 0,0:21:05.54,0:21:10.00,Default,Narrator,0,0,0,,Due to the emergency nature, three first-years from Jujutsu Tech were dispatched to the scene.
@@ -363,8 +360,9 @@ Dialogue: 0,0:23:01.28,0:23:03.11,Default,Kugisaki,0,0,0,,Ugh! Itadori, you're s
 Dialogue: 0,0:23:03.11,0:23:04.78,Default,Kugisaki,0,0,0,,Ugh! Fushiguro, say something to him!
 Dialogue: 0,0:23:04.78,0:23:07.07,Default,Fushiguro,0,0,0,,I'd rather get something\N that tastes good if we're going.
 Dialogue: 0,0:23:07.07,0:23:08.28,Default,Fushiguro,0,0,0,,{*}Mr. Gojo{*Gojo-sensei} is paying, anyway.
-Dialogue: 0,0:23:08.28,0:23:12.62,Default,Itadori,0,0,0,,Revolving sushi is its own thing! Like how instant {*}noodles{*yakisoba} {*}are{*is} totally different from regular {*}noodles{*yakisoba}!
-Dialogue: 0,0:23:12.62,0:23:14.41,Default,Kugisaki,0,0,0,,And I wanna eat regular sushi.
+Dialogue: 0,0:23:08.28,0:23:09.70,Default,Itadori,0,0,0,,Revolving sushi is its own thing!
+Dialogue: 0,0:23:09.70,0:23:12.58,Default,Itadori,0,0,0,,Like how instant {*}noodles{*yakisoba} {*}are{*is} \Ntotally different from regular {*}noodles{*yakisoba}!
+Dialogue: 0,0:23:12.58,0:23:14.41,Default,Kugisaki,0,0,0,,And I want regular sushi.
 Dialogue: 0,0:23:14.41,0:23:17.38,Default,Itadori,0,0,0,,Sushi's just a meal, \Nbut revolving sushi's a leisure activity!
 Dialogue: 0,0:23:17.38,0:23:18.92,Default,Itadori,0,0,0,,Like a theme park! Or TDL!
 Dialogue: 0,0:23:18.92,0:23:21.59,Default,Itadori,0,0,0,,Also, Kugisaki, you said \Nyou were from the country too.
