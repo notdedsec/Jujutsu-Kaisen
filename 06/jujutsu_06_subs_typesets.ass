@@ -21,13 +21,12 @@ Video File: jujutsu_06_premux.mkv
 Keyframes File: jujutsu_06_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Active Line: 4
-Video Position: 16194
+Scroll Position: 390
+Active Line: 396
+Video Position: 33810
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
-Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
 Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -36,7 +35,7 @@ Dialogue: 0,0:02:06.73,0:02:12.73,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5
 Dialogue: 0,0:07:30.72,0:07:31.93,Signs,,0,0,0,,{\fnBaqa\fad(180,0)\fs33\fscx90\be1\c&HEFEEEA&\3c&HEFEEEA&\bord3.2\frz2.156\pos(252.847,53.872)}Meanwhile, put this on!
 Dialogue: 0,0:07:30.72,0:07:31.93,Signs,,0,0,0,,{\fnBaqa\fad(180,0)\fs33\blur0.7\fscx90\c&H2F312C&\3c&HDDDFDA&\frz2.156\pos(252.847,53.872)}Meanwhile, put this on!
 Dialogue: 0,0:11:24.37,0:11:27.87,Signs,,0,0,0,,{\fnRagnar\fs40\b1\be1\c&H524A40&\pos(782.01,596.29)\frz347.1}Okazaki {\frz349}Tadashi
-Dialogue: 0,0:11:14.61,0:11:15.53,Default,Tag,0,0,0,,{\blur2\fnRagnar\fs66\b1\bord0\shad0\be2\c&H0B0A07&\t(0,300,\c&H454032&)\t(650,940,\c&H0B0A07&)\pos(1073.2,828.56)\frz358.8}Okazaki Tadashi
+Dialogue: 0,0:11:14.61,0:11:15.53,Signs,,0,0,0,,{\an2\blur2\fnRagnar\fs66\b1\bord0\shad0\be2\c&H0B0A07&\t(0,300,\c&H454032&)\t(650,940,\c&H0B0A07&)\pos(1073.2,828.56)\frz358.8}Okazaki Tadashi
 Dialogue: 0,0:12:50.29,0:12:50.33,Signs,,0,0,0,,{=10}{\fscx100\fscy100\alpha&H00&\fnAdLib BT\c&HC26AFF&\3c&HE7DAEA&\shad0\fs36\frz357.8\pos(1100.6,736.2)\be1}Smile
 Dialogue: 0,0:12:50.33,0:12:50.37,Signs,,0,0,0,,{=10}{\fscx100\fscy100\alpha&H00&\fnAdLib BT\c&HC26AFF&\3c&HE7DAEA&\shad0\fs36\frz357.8\pos(1100.64,736.2)\be1}Smile
 Dialogue: 0,0:12:50.37,0:12:50.41,Signs,,0,0,0,,{=10}{\fscx100\fscy100\alpha&H00&\fnAdLib BT\c&HC26AFF&\3c&HE7DAEA&\shad0\fs36\frz357.8\pos(1100.69,736.2)\be1}Smile
@@ -425,15 +424,8 @@ Dialogue: 0,0:23:21.29,0:23:21.33,Signs,Child,0,0,0,,{=15}{\fscx99.37\fscy99.37\
 Dialogue: 0,0:23:21.33,0:23:21.37,Signs,Child,0,0,0,,{=15}{\fscx100.85\fscy100.85\alpha&H00&\fnCAC Moose\fs180\shad3.27\be2\c&H171F1C&\4c&H000000&\4a&H96&\frz0.7772\pos(683.22,921.1)}Gojo
 Dialogue: 0,0:23:21.37,0:23:21.42,Signs,Child,0,0,0,,{=15}{\fscx98.08\fscy98.08\alpha&H00&\fnCAC Moose\fs180\shad3.18\be2\c&H171F1C&\4c&H000000&\4a&H96&\frz0.7772\pos(764.05,897.62)}Gojo
 Dialogue: 0,0:23:21.42,0:23:22.13,Signs,Child,0,0,0,,{=15}{\fscx99.68\fscy99.68\alpha&H00&\fnCAC Moose\fs180\shad3.23\be2\c&H171F1C&\4c&H000000&\4a&H96&\frz0.7772\pos(798.54,890.62)}Gojo
-Dialogue: 0,0:23:24.63,0:23:26.74,Signs,Screen,0,0,0,,{\fnJasonSharpie\bord2\blur2\fs99\fad(550,250)\c&H3F3DF4&\3c&H1A115E&\pos(972,822)}Gojo Satoru
-Dialogue: 1,0:23:24.63,0:23:26.74,Signs,Screen,0,0,0,,{\fnJasonSharpie\be2\fs99\fad(550,250)\c&H3F3DF4&\3c&H1A115E&\pos(972,822)}Gojo Satoru
-Dialogue: 0,0:23:29.09,0:23:31.80,Default,Screen,0,0,0,,{\fnJasonSharpie\bord2\shad0\be2\fs120\fscx110\fad(550,210)\c&H7679FE&\3c&H523E3E&\pos(1119.6,1002.8)}Yuji
-Dialogue: 1,0:23:29.09,0:23:31.80,Default,Screen,0,0,0,,{\fnJasonSharpie\bord0\shad0\blur2\fs120\fscx110\fad(550,210)\c&H7679FE&\3c&H725655&\pos(1119.6,1002.8)}Yuji
+Dialogue: 0,0:23:24.63,0:23:26.74,Signs,Screen,0,0,0,,{\fnJasonSharpie\bord2\blur2\fs99\fad(650,280)\c&H3F3DF4&\3c&H1A115E&\pos(972,822)}Gojo Satoru
+Dialogue: 1,0:23:24.63,0:23:26.74,Signs,Screen,0,0,0,,{\fnJasonSharpie\be2\fs99\fad(650,280)\c&H3F3DF4&\3c&H1A115E&\pos(972,822)}Gojo Satoru
+Dialogue: 0,0:23:29.09,0:23:31.77,Signs,Screen,0,0,0,,{\an2\fnJasonSharpie\bord2\shad0\be2\fs148\fscx110\fad(250,500)\c&H7679FE&\3c&H523E3E&\pos(1144.6,1026.8)}Yuji
+Dialogue: 1,0:23:29.09,0:23:31.77,Signs,Screen,0,0,0,,{\an2\fnJasonSharpie\bord0\shad0\blur2\fs148\fscx110\fad(250,500)\c&H6062F9&\3c&H725655&\pos(1144.6,1026.8)}Yuji
 Dialogue: 0,0:23:51.57,0:23:55.11,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1200,\blur0.5)\fad(1068,0)\fscx112\fscy112\t(26,3650,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 7{\fs70}\NAssault
-
-[Aegisub Extradata]
-Data: 10,a-mo,e{"uuid"#3A"553e9956-625f-4b51-b4d7-1fd1aa076d8a"#2C"originalText"#3A"{\\fnAdLib BT\\c&HC26AFF&\\3c&HE7DAEA&\\shad0\\fs36\\frz357.8\\pos(1100.6#2C736.2)}Smile"}
-Data: 11,a-mo,e{"uuid"#3A"82bda677-c6a4-48c2-8408-3d7f7650b55a"#2C"originalText"#3A"{\\fnAdLib BT\\c&HB65CF7&\\3c&HE7DAEA&\\shad0\\fs36\\frz358.1\\pos(1552.933#2C564.533)}Smile"}
-Data: 12,a-mo,e{"uuid"#3A"78d5c9ad-c51a-4503-b7e9-038c7bf538a1"#2C"originalText"#3A"{\\fnFOT-Skip Std B-En\\fs70\\b1\\be1\\c&HBD65F8&\\frz13.98\\pos(222.476#2C534.324)}Tee hee"}
-Data: 13,a-mo,e{"uuid"#3A"a781ea7e-d9ff-4cf1-a4f0-5ac1b4c90366"#2C"originalText"#3A"{\\fnFOT-Skip Std B-En\\b1\\be1\\fs70\\c&HBD65F8&\\pos(1598.4#2C558.4)\\frz359.2}Tee hee"}
-Data: 15,a-mo,e{"uuid"#3A"e9da026c-613e-4742-9c5e-16ec1473c5e6"#2C"originalText"#3A"{\\fnCAC Moose\\fs128\\shad5\\be2\\c&H171F1C&\\4c&H000000&\\4a&H96&\\frz0.7772\\pos(953#2C2.667)}Gojo Satoru's"}

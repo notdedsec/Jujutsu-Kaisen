@@ -16,7 +16,6 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
 Audio File: jujutsu_01_premux.mkv
 Video File: jujutsu_01_premux.mkv
 Keyframes File: jujutsu_01_keyframes.txt
@@ -28,8 +27,6 @@ Video Position: 14069
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
-Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
 Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Sign2,Cocon® Next Arabic,65,&H01E8E8E8,&H00A0A0A0,&H00979797,&H00767676,0,0,0,0,100,100,0,0,1,0,1.5,6,11,11,11,1
 

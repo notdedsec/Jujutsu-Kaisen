@@ -28,8 +28,6 @@ Video Position: 29750
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Insert,Change Tomorrow Today,72,&H00DAF5FF,&H000000FF,&H00024A65,&HA5000000,-1,0,0,0,100,100,0,0,1,0,0,8,80,80,30,1
-Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

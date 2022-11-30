@@ -163,8 +163,3 @@ Dialogue: 1,0:22:57.43,0:22:59.06,Signs,Screen,0,0,0,,{\fnAquillia\fs124\be1\c&H
 Dialogue: 1,0:22:59.06,0:23:19.87,Signs,Screen,0,0,0,,{\fnBuxton Sketch\fs96\bord3\xshad3\pos(959,944)\be1\c&H83868A&\3c&H83868A&\4c&H83868A&}Question: Are you a rice person or a bread person?
 Dialogue: 2,0:22:59.06,0:23:19.87,Signs,Screen,0,0,0,,{\fnBuxton Sketch\fs96\pos(959,944)\be2\c&HEFF8FF&}Question: Are you a rice person or a bread person?
 Dialogue: 0,0:23:36.47,0:23:39.93,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1200,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 22{\fs70}\NThe Origin of Obedience
-
-[Aegisub Extradata]
-Data: 1,a-mo,e{"uuid"#3A"9b9b5039-6994-46aa-b0e4-2762c068b0aa"#2C"originalText"#3A"{\\fnBalloon Lettering\\fs56\\b1\\c&H000000&\\be1\\pos(1210.29#2C202.28)\\frz17.56}Intentional"}
-Data: 2,a-mo,e{"uuid"#3A"04ecf22d-91c2-45a2-b04e-a066ba092166"#2C"originalText"#3A"{\\fnHP-Chiller\\fs20\\b1\\be1\\c&H0B0E0F&\\pos(962.9#2C412.68)}Mechamaru"}
-Data: 3,a-mo,e{"uuid"#3A"e59777bb-0bab-4480-b3d4-76d77dca75c6"#2C"originalText"#3A"{\\fnHP-Chiller\\fs140\\b1\\be1\\c&H0B0E0F&\\pos(917.19#2C202.4)}Mechamaru"}

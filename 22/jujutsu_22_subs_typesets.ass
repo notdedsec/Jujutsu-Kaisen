@@ -16,7 +16,6 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
 Audio File: jujutsu_22_premux.mkv
 Video File: jujutsu_22_premux.mkv
 Keyframes File: jujutsu_22_keyframes.txt
@@ -992,9 +991,3 @@ Dialogue: 0,0:22:15.10,0:22:17.61,Signs,All&Screen,0,0,0,,{\fnBrush Strokes\b1\b
 Dialogue: 0,0:22:36.17,0:22:40.92,Signs,Signs,0,0,0,,{\fnDK Full Blast\fscx90\fs40\be2\frz1.267\c&HE2DFFF&\pos(664.98,353.67)}Chinese Restaurant Manpuku
 Dialogue: 0,0:23:03.40,0:23:06.28,Signs,Signs,0,0,0,,{\fnDK Full Blast\fscx90\fs40\be2\frz1.267\c&HE2DFFF&\pos(832.55,366.96)}Chinese Restaurant Manpuku
 Dialogue: 0,0:23:36.60,0:23:40.06,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1200,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,780)}Episode 23{\fs70}\NThe Origin of Obedience 2
-
-[Aegisub Extradata]
-Data: 0,a-mo,e{"uuid"#3A"820027ef-1935-430c-8780-7984c72b0598"#2C"originalText"#3A"{\\fs50\\be1\\fscx90\\fnFOT-HummingStd-Accel-B\\bord0\\shad0\\pos(1803.33#2C250.67)}Operating Procedure"}
-Data: 1,a-mo,e{"uuid"#3A"5725e488-57b8-41bd-b9b0-9883bd1cb619"#2C"originalText"#3A"{\\fnBerlin Sans FB Demi\\fs21\\be1\\b1\\fax-0.02\\c&H2F7E37&\\3c&H8B8D59&\\4c&H724842&\\frz3.1\\pos(1267.11#2C278.33)}Pounded Fish Cake is finally here!"}
-Data: 2,a-mo,e{"uuid"#3A"4f9eb64c-5b21-46ab-8aee-8a427618a611"#2C"originalText"#3A"{\\fnBerlin Sans FB Demi\\fs21\\xshad3\\fax-0.02\\b1\\c&H2F7E37&\\3c&H8B8D59&\\4c&H724842&\\frz3.1\\pos(1267.11#2C278.33)}Pounded Fish Cake is finally here!"}
-Data: 7,a-mo,e{"uuid"#3A"4302078d-10dc-4d25-8b21-bb8647340d3e"#2C"originalText"#3A"{\\fnIwata Mincho Pro En B\\an4\\fscx100\\fscy100\\frz0\\alpha&H00&\\blur8\\t(260#2C2600#2C\\blur0.8)\\fs72\\shad0\\c&H3B3D3F&\\3c&HDCDEE0&\\pos(1703.67#2C727.33)}Morishita\\NFamily\\NFuneral\\N\\N11#3A00"}
