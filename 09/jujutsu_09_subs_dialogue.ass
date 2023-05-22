@@ -20,10 +20,10 @@ Audio File: jujutsu_09_premux.mkv
 Video File: jujutsu_09_premux.mkv
 Keyframes File: jujutsu_09_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 272
-Active Line: 280
-Video Position: 25913
+Video Zoom Percent: 0.625000
+Scroll Position: 293
+Active Line: 300
+Video Position: 29246
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,10 +34,9 @@ Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 5,0:00:06.22,0:00:09.24,Default,Tsubasa,0,0,0,,He was totally ogling my boobs!
-Dialogue: 5,0:00:12.67,0:00:16.54,Default,Nishimura,0,0,0,,Well, you do have a huge rack, \Nand they bounce when you run.
-Dialogue: 5,0:00:16.54,0:00:19.33,Default,Honda,0,0,0,,I get why you'd do it, Yoshino{**-chan}.
-Dialogue: 5,0:00:20.22,0:00:23.38,Default,Junpei,0,0,0,,{\i1}If there was a button \Nfor killing the people I don't like,
-Dialogue: 5,0:00:23.38,0:00:25.02,Default,Junpei,0,0,0,,{\i1}I probably wouldn't be able to press it.
+Dialogue: 5,0:00:12.67,0:00:16.54,Default,Nishimura,0,0,0,,You do have a huge rack, Tsubasa.\NThey bounce when you run.
+Dialogue: 5,0:00:16.54,0:00:19.33,Default,Honda,0,0,0,,I totally get why you'd do it, Yoshino{**-chan}.
+Dialogue: 5,0:00:20.22,0:00:25.02,Default,Junpei,0,0,0,,{\i1}If I could kill everyone I don't like \Nwith the press of button, I probably wouldn't do it. {If I had a button for killing everyone I don't like, \NI probably wouldn't press it.}
 Dialogue: 5,0:00:25.02,0:00:26.45,Default,Tsubasa,0,0,0,,{\an8}Gross!
 Dialogue: 5,0:00:26.05,0:00:31.47,Default,Junpei,0,0,0,,{\i1}But if there was a button \Nfor killing everyone who didn't like me,
 Dialogue: 5,0:00:26.45,0:00:28.49,Default,Sayama,0,0,0,,{\an8}Pipe down, you guys.
@@ -45,99 +44,94 @@ Dialogue: 5,0:00:35.68,0:00:37.26,Default,Junpei,0,0,0,,{\i1}I wouldn't hesitate
 Dialogue: 5,0:00:39.99,0:00:41.24,Default,Junpei,0,0,0,,Excuse me.
 Dialogue: 5,0:00:42.76,0:00:44.27,Default,Junpei,0,0,0,,Excuse me.
 Dialogue: 5,0:00:46.32,0:00:47.40,Default,Junpei,0,0,0,,Excuse me!
-Dialogue: 5,0:00:49.66,0:00:52.78,Default,Junpei,0,0,0,,One adult for {\i1}Human Earthworm 3{\i0}.
-Dialogue: 5,0:00:53.12,0:00:54.90,Default,WorkerA,0,0,0,,That'll be 1,800 yen.
-Dialogue: 5,0:00:54.90,0:00:56.65,Default,Junpei,0,0,0,,Yeah, here.
-Dialogue: 5,0:01:01.57,0:01:03.63,Default,WorkerA,0,0,0,,The show will be starting soon.
+Dialogue: 5,0:00:49.66,0:00:52.78,Default,Junpei,0,0,0,,One ticket for {\i1}Human Earthworm 3{\i0}.
+Dialogue: 5,0:00:52.78,0:00:54.90,Default,WorkerA,0,0,0,,That'll be 1,800 yen.
+Dialogue: 5,0:00:54.90,0:00:56.73,Default,Junpei,0,0,0,,Yeah, here.
+Dialogue: 5,0:01:01.57,0:01:03.71,Default,WorkerA,0,0,0,,The show will be starting soon.
 Dialogue: 5,0:01:05.35,0:01:11.05,Default,Mad Doctor,0,0,0,,{\an8}During the years I served as a doctor, saving lives,
-Dialogue: 5,0:01:09.65,0:01:13.68,Alt,Sayama,0,0,0,,{\an8}And that brat had fifty-thousand on him!
 Dialogue: 5,0:01:11.05,0:01:15.81,Default,Mad Doctor,0,0,0,,{\an8}I found myself arriving at this question again and again.
+Dialogue: 5,0:01:17.05,0:01:23.31,Default,Mad Doctor,0,0,0,,{\an8}Where does a person's life, their soul, actually reside?
+Dialogue: 5,0:01:23.31,0:01:25.84,Default,Mad Doctor,0,0,0,,{\an8}That's when I realized it!
+Dialogue: 5,0:01:27.32,0:01:31.99,Default,Mad Doctor,0,0,0,,{\an8}The shape of one's soul creates the body!
+Dialogue: 5,0:01:31.99,0:01:35.20,Default,Mad Doctor,0,0,0,,{\an8}So I began conducting research on the soul.
+Dialogue: 5,0:01:35.20,0:01:37.95,Default,Mad Doctor,0,0,0,,{\an8}All alone, in this lab deep in the mountains.
+Dialogue: 5,0:01:09.65,0:01:13.68,Alt,Sayama,0,0,0,,{\an8}And the brat had fifty thousand on him!
 Dialogue: 5,0:01:13.68,0:01:14.89,Alt,Nishimura,0,0,0,,{\an8}For real?
-Dialogue: 5,0:01:14.03,0:01:15.41,Default,Junpei,0,0,0,,{\i1}They're so annoying.
 Dialogue: 5,0:01:14.89,0:01:15.81,Alt,Honda,0,0,0,,{\an8}That's awesome!
-Dialogue: 5,0:01:17.05,0:01:21.39,Default,Mad Doctor,0,0,0,,{\an8}Where does a person's life, their soul, actually reside?
 Dialogue: 5,0:01:17.06,0:01:19.47,Alt,Nishimura,0,0,0,,{\an8}So? What'd you do next?
-Dialogue: 5,0:01:17.77,0:01:20.79,Default,Junpei,0,0,0,,{\i1}High schoolers shouldn't skip school to watch movies.
 Dialogue: 5,0:01:19.47,0:01:21.39,Alt,Sayama,0,0,0,,{\an8}I took it all, obviously.
-Dialogue: 5,0:01:21.39,0:01:23.03,Alt,Nishimura,0,0,0,,{\an8}Man, so mean!
-Dialogue: 5,0:01:21.39,0:01:23.03,Default,Junpei,0,0,0,,{\i1}Not that I can talk.
-Dialogue: 5,0:01:23.36,0:01:25.76,Default,Mad Doctor,0,0,0,,{\an8}That's when I realized it!
-Dialogue: 5,0:01:26.37,0:01:29.55,Default,Junpei,0,0,0,,{\i1}Would it kill them to shut up?
-Dialogue: 5,0:01:27.52,0:01:32.49,Default,Mad Doctor,0,0,0,,{\an8}The shape of one's soul creates the body!
+Dialogue: 5,0:01:21.39,0:01:23.31,Alt,Nishimura,0,0,0,,{\an8}Man, that's so mean!
 Dialogue: 5,0:01:29.57,0:01:31.99,Alt,Honda,0,0,0,,{\an8}Then today's your treat!
-Dialogue: 5,0:01:30.45,0:01:32.83,Default,Junpei,0,0,0,,{\i1}I can't hear the movie at all.
-Dialogue: 5,0:01:31.99,0:01:33.71,Alt,Sayama,0,0,0,,{\an8}Fuck outta here.
-Dialogue: 5,0:01:32.47,0:01:35.20,Default,Mad Doctor,0,0,0,,{\an8}So I began conducting research on the soul.
-Dialogue: 5,0:01:33.71,0:01:36.09,Alt,Sayama,0,0,0,,{\an8}We're splitting it!
-Dialogue: 5,0:01:33.87,0:01:37.67,Default,Junpei,0,0,0,,{\i1}I guess people like them are everywhere.
-Dialogue: 5,0:01:35.20,0:01:37.67,Default,Mad Doctor,0,0,0,,{\an8}All alone, in this lab deep in the mountains...
+Dialogue: 5,0:01:31.99,0:01:36.17,Alt,Sayama,0,0,0,,{\an8}Fuck outta here! We're splitting it even.
+Dialogue: 5,0:01:14.03,0:01:15.43,Default,Junpei,0,0,0,,{\i1}They're so annoying.
+Dialogue: 5,0:01:17.77,0:01:20.87,Default,Junpei,0,0,0,,{\i1}Students shouldn't skip school to watch movies.
+Dialogue: 5,0:01:21.39,0:01:23.31,Default,Junpei,0,0,0,,{\i1}Not that I can talk.
+Dialogue: 5,0:01:26.37,0:01:29.57,Default,Junpei,0,0,0,,{\i1}Would it kill them to shut up?
+Dialogue: 5,0:01:30.19,0:01:32.91,Default,Junpei,0,0,0,,{\i1}I can't hear the movie at all.
+Dialogue: 5,0:01:33.70,0:01:37.95,Default,Junpei,0,0,0,,{\i1}I guess people like them are everywhere, just varying degrees of annoying.
 Dialogue: 5,0:01:38.42,0:01:39.70,Default,Sayama,0,0,0,,So, did you look?
 Dialogue: 5,0:01:40.29,0:01:41.54,Default,Junpei,0,0,0,,I didn't.
-Dialogue: 5,0:01:41.54,0:01:45.43,Default,Sayama,0,0,0,,Then are you saying Tsubasa's lying?
-Dialogue: 5,0:01:45.43,0:01:47.51,Default,Tsubasa,0,0,0,,He was totally looking!
+Dialogue: 5,0:01:41.54,0:01:45.43,Default,Sayama,0,0,0,,Are you saying Tsubasa's lying?
+Dialogue: 5,0:01:45.43,0:01:47.50,Default,Tsubasa,0,0,0,,He was {\i1}totally{\i0} looking!
 Dialogue: 5,0:01:48.50,0:01:49.89,Default,Nishimura,0,0,0,,You're nuts, man!
-Dialogue: 5,0:01:49.89,0:01:51.85,Default,Honda,0,0,0,,Oh, there's a fifty-percent discount.
-Dialogue: 5,0:01:51.85,0:01:52.98,Default,Nishimura,0,0,0,,Huh? Where?
-Dialogue: 5,0:01:52.98,0:01:56.04,Default,Tsubasa,0,0,0,,Hey! Teach him a lesson first!
-Dialogue: 5,0:01:56.04,0:01:56.97,Default,Junpei,0,0,0,,{\i1}Shit.
-Dialogue: 5,0:01:56.97,0:02:01.56,Default,Junpei,0,0,0,,{\i1}That girl is just using me to confirm her status.
-Dialogue: 5,0:02:01.93,0:02:03.92,Default,Sayama,0,0,0,,You {\i1}were{\i0} looking, then.
-Dialogue: 5,0:02:05.59,0:02:06.99,Default,Junpei,0,0,0,,{\i1}Damn it.
-Dialogue: 5,0:02:07.33,0:02:08.29,Default,Junpei,0,0,0,,{\fade(0,100)\i1}I'm gonna say it!{Actually would be really cool if you made them all end one frame before the cuts. Anything to make it seem like it's flashing the line instead of one line kept on screen.}{mmm, yes. the gjm meme.}
+Dialogue: 5,0:01:49.89,0:01:51.85,Default,Honda,0,0,0,,Oh, there's a fifty percent discount.
+Dialogue: 5,0:01:51.85,0:01:52.97,Default,Nishimura,0,0,0,,Really? Where?
+Dialogue: 5,0:01:52.97,0:01:56.04,Default,Tsubasa,0,0,0,,Hey! Teach him a lesson first!
+Dialogue: 5,0:01:56.04,0:02:01.56,Default,Junpei,0,0,0,,{\i1}This bitch... she's just using me to confirm her status.
+Dialogue: 5,0:02:01.93,0:02:03.92,Default,Sayama,0,0,0,,So you {\i1}were{\i0} looking, after all.
+Dialogue: 5,0:02:05.59,0:02:06.77,Default,Junpei,0,0,0,,{\i1}Fuck this.
+Dialogue: 5,0:02:07.19,0:02:08.29,Default,Junpei,0,0,0,,{\fade(0,100)\i1}I'm gonna say it!{Actually would be really cool if you made them all end one frame before the cuts. Anything to make it seem like it's flashing the line instead of one line kept on screen.}{mmm, yes. the gjm meme.}
 Dialogue: 5,0:02:08.29,0:02:09.21,Default,Junpei,0,0,0,,{\fade(100,100)\i1}I'm gonna say it!
-Dialogue: 5,0:02:09.21,0:02:10.40,Default,Junpei,0,0,0,,{\fade(100,120)\i1}I'm gonna say it!
-Dialogue: 5,0:02:10.40,0:02:11.57,Default,Junpei,0,0,0,,{\fade(120,150)\i1}I'm gonna say it!
-Dialogue: 5,0:02:12.87,0:02:16.67,Default,Junpei,0,0,0,,You're not as cute as you think you are, Tsubasa{**-san}.
+Dialogue: 5,0:02:09.21,0:02:10.19,Default,Junpei,0,0,0,,{\fade(100,100)\i1}I'm gonna say it!
+Dialogue: 5,0:02:10.44,0:02:11.57,Default,Junpei,0,0,0,,{\fade(100,150)\i1}I'm gonna say it!
+Dialogue: 5,0:02:12.87,0:02:16.67,Default,Junpei,0,0,0,,You're not as cute as you think, Tsubasa{**-san}.
 Dialogue: 5,0:02:18.16,0:02:20.72,Default,Junpei,0,0,0,,These three know that too.
-Dialogue: 5,0:02:20.72,0:02:23.50,Default,Junpei,0,0,0,,The only reason they're fawning over you is
+Dialogue: 5,0:02:20.72,0:02:22.87,Default,Junpei,0,0,0,,They're only fawning over you...
 Dialogue: 5,0:02:24.08,0:02:25.63,Default,Junpei,0,0,0,,because they think you'll let them bang{\fscx180}—{\fscx}
 Dialogue: 5,0:02:28.12,0:02:31.63,Default,Mad Doctor,0,0,0,,{\an8}Now to create the perfect human being!
-Dialogue: 5,0:02:30.48,0:02:31.64,Default,Sayama,0,0,0,,It ain't happening.
-Dialogue: 5,0:02:31.64,0:02:33.72,Default,Sayama,0,0,0,,She's not gonna let any of us bang her.
-Dialogue: 5,0:02:33.72,0:02:34.97,Default,Sayama,0,0,0,,No point chasing after her.
-Dialogue: 5,0:02:34.97,0:02:35.96,Default,Junpei,0,0,0,,{\i1}Stop talking.
-Dialogue: 5,0:02:36.03,0:02:38.47,Default,Victim,0,0,0,,{\an8}S-Stop it!
+Dialogue: 5,0:02:30.48,0:02:31.63,Default,Sayama,0,0,0,,Nah, it ain't happening.
+Dialogue: 5,0:02:31.63,0:02:34.97,Default,Sayama,0,0,0,,She won't let me in her pants at all. \NNo point chasing after her.
+Dialogue: 5,0:02:34.97,0:02:35.97,Default,Junpei,0,0,0,,{\i1}Stop talking.
+Dialogue: 5,0:02:35.97,0:02:38.47,Default,Victim,0,0,0,,{\an8}No! Stop it!
 Dialogue: 5,0:02:39.37,0:02:40.35,Default,Victim,0,0,0,,{\an8}No!
-Dialogue: 5,0:02:40.95,0:02:42.24,Default,Sayama,0,0,0,,It's Tsubasa.
-Dialogue: 5,0:02:42.24,0:02:44.24,Default,Junpei,0,0,0,,{\i1}Switch off your phone, damn it!
-Dialogue: 5,0:02:43.35,0:02:44.24,Alt,Sayama,0,0,0,,Hello?
-Dialogue: 5,0:02:44.24,0:02:45.61,Default,Sayama,0,0,0,,What's up?
-Dialogue: 5,0:02:55.07,0:02:57.26,Default,Sayama,0,0,0,,At this time? I'm free anytime.
+Dialogue: 5,0:02:40.95,0:02:42.24,Default,Sayama,0,0,0,,Tsubasa's calling.
+Dialogue: 5,0:02:42.24,0:02:43.56,Default,Junpei,0,0,0,,{\i1}Turn your phone off!
+Dialogue: 5,0:02:43.56,0:02:45.61,Default,Sayama,0,0,0,,Hey, what's up?
+Dialogue: 5,0:02:55.07,0:02:57.26,Default,Sayama,0,0,0,,Yeah, I'm free right now.
 Dialogue: 5,0:02:57.26,0:02:58.57,Default,Mahito,0,0,0,,Hey, guys.
-Dialogue: 5,0:02:58.57,0:02:59.66,Default,Sayama,0,0,0,,Well...
+Dialogue: 5,0:02:58.57,0:02:59.66,Default,Sayama,0,0,0,,Maybe...
 Dialogue: 5,0:02:59.66,0:03:01.28,Default,Mahito,0,0,0,,Let's mind our manners, okay?
-Dialogue: 5,0:03:05.58,0:03:09.48,Default,Mad Doctor,0,0,0,,{\an8}There's no need to worry. Everything went well.
+Dialogue: 5,0:03:05.33,0:03:09.48,Default,Mad Doctor,0,0,0,,{\an8}No need to worry. Everything is proceeding as planed.
 Dialogue: 5,0:03:09.48,0:03:12.76,Default,Mad Doctor,0,0,0,,{\an8}It's all for the creation of the perfect human being.
 Dialogue: 5,0:03:21.92,0:03:22.93,Default,Junpei,0,0,0,,Wha...
-Dialogue: 5,0:03:23.37,0:03:24.42,Default,Junpei,0,0,0,,What is this?
-Dialogue: 5,0:03:32.62,0:03:35.07,Default,Junpei,0,0,0,,{\i1}Was it that guy?
-Dialogue: 5,0:03:35.07,0:03:38.07,Default,Junpei,0,0,0,,{\i1}There's no way a human could do that!
-Dialogue: 5,0:03:40.20,0:03:44.79,Default,Junpei,0,0,0,,{\i1\fade(0,300)}And if he actually did it, is he even human?
-Dialogue: 5,0:03:50.32,0:03:53.16,Default,Mahito,0,0,0,,{\an8}If I am the one who did it, what're you gonna do?
-Dialogue: 5,0:03:53.16,0:03:54.00,Default,Mahito,0,0,0,,Judge me?
+Dialogue: 5,0:03:23.35,0:03:24.48,Default,Junpei,0,0,0,,What is this?
+Dialogue: 5,0:03:32.62,0:03:35.11,Default,Junpei,0,0,0,,{\i1}That guy... did he do it?
+Dialogue: 5,0:03:35.11,0:03:38.07,Default,Junpei,0,0,0,,{\i1}No, there's no way a human could do that!
+Dialogue: 5,0:03:40.20,0:03:44.58,Default,Junpei,0,0,0,,{\i1\fade(0,250)}And if he did, is he even human?
+Dialogue: 5,0:03:50.32,0:03:53.96,Default,Mahito,0,0,0,,{\an8}What are you gonna do if I said I did? Scold me?
 Dialogue: 5,0:03:56.29,0:03:59.92,Default,Mahito,0,0,0,,Were those guys important to you?
 Dialogue: 5,0:04:02.73,0:04:04.45,Default,Sayama,0,0,0,,Don't worry.
 Dialogue: 5,0:04:04.45,0:04:05.83,Default,Sayama,0,0,0,,You can eat it.
 Dialogue: 5,0:04:06.13,0:04:07.45,Default,Nishimura,0,0,0,,Harsh, man!
-Dialogue: 5,0:04:07.45,0:04:10.68,Default,Tsubasa,0,0,0,,Poor guy! He's crying now!
-Dialogue: 5,0:04:29.15,0:04:30.20,Default,Junpei,0,0,0,,Can I...
-Dialogue: 5,0:04:31.88,0:04:34.65,Default,Junpei,0,0,0,,do that too?
+Dialogue: 5,0:04:07.45,0:04:10.69,Default,Tsubasa,0,0,0,,Poor guy! He's crying now!
+Dialogue: 5,0:04:29.15,0:04:30.29,Default,Junpei,0,0,0,,Can I...
+Dialogue: 5,0:04:31.88,0:04:34.71,Default,Junpei,0,0,0,,do that too? {is it possible to learn this power?}
 Comment: 5,0:04:36.01,0:04:36.05,Default,chptr,0,0,0,,{Opening}
 Comment: 5,0:06:05.93,0:06:05.97,Default,chptr,0,0,0,,{Part A}
-Dialogue: 5,0:06:06.42,0:06:09.01,Default,Mob,0,0,0,,{\an8}Please stay back!
+Dialogue: 5,0:06:06.42,0:06:09.01,Default,Mob,0,0,0,,{\an8}Please stay back! This area is off limits!
 Dialogue: 5,0:06:10.11,0:06:13.30,Default,Cop,0,0,0,,{\an8}It seems like the victims were high school students.
-Dialogue: 5,0:06:21.05,0:06:22.88,Default,Junior Detective,0,0,0,,{\an8}Who were those guys?!
-Dialogue: 5,0:06:22.88,0:06:26.04,Default,Junior Detective,0,0,0,,Why were they on the scene before forensics?!
+Dialogue: 5,0:06:21.11,0:06:22.88,Default,Junior Detective,0,0,0,,{\an8}Who were those guys?!
+Dialogue: 5,0:06:22.88,0:06:26.04,Default,Junior Detective,0,0,0,,Why were {\i1}they{\i0} on the scene before forensics?!
 Dialogue: 5,0:06:26.04,0:06:28.36,Default,Junior Detective,0,0,0,,One of them was just a kid, too!
-Dialogue: 5,0:06:28.66,0:06:30.95,Default,Senior Detective,0,0,0,,I don't know the details either.
+Dialogue: 5,0:06:28.36,0:06:30.95,Default,Senior Detective,0,0,0,,I don't know the details either.
 Dialogue: 5,0:06:30.95,0:06:33.83,Default,Senior Detective,0,0,0,,But you saw those stiffs, didn't you?
-Dialogue: 5,0:06:36.17,0:06:38.38,Default,Senior Detective,0,0,0,,That's not natural.
+Dialogue: 5,0:06:36.13,0:06:38.38,Default,Senior Detective,0,0,0,,That's beyond human understanding.
 Dialogue: 5,0:06:42.27,0:06:44.22,Default,Senior Detective,0,0,0,,Just pretend you never saw it.
-Dialogue: 5,0:06:44.64,0:06:48.01,Default,Senior Detective,0,0,0,,{\fade(0,1000)}Otherwise, you're looking at an early retirement.
+Dialogue: 5,0:06:44.64,0:06:47.89,Default,Senior Detective,0,0,0,,{\fade(0,500)}Otherwise, you're looking at an early retirement.
 Dialogue: 5,0:06:49.86,0:06:51.11,Default,Nanami,0,0,0,,Can you see it?
-Dialogue: 5,0:06:51.11,0:06:53.52,Default,Nanami,0,0,0,,This is the residual taint of cursed energy.
-Dialogue: 5,0:06:54.69,0:06:55.90,Default,Yuji,0,0,0,,Nope, I can't see anything{\fscx180}—{\fscx}
-Dialogue: 5,0:06:55.90,0:06:57.92,Default,Nanami,0,0,0,,That's because you're not trying to see it.
+Dialogue: 5,0:06:51.11,0:06:53.52,Default,Nanami,0,0,0,,These are the residuals of cursed energy.
+Dialogue: 5,0:06:54.69,0:06:55.85,Default,Yuji,0,0,0,,Nope, I don't see{\fscx180}—{\fscx}
+Dialogue: 5,0:06:55.85,0:06:57.92,Default,Nanami,0,0,0,,That is because you're not trying.
 Dialogue: 5,0:06:57.92,0:07:02.11,Default,Nanami,0,0,0,,We typically see curses as if it's perfectly natural to.
 Dialogue: 5,0:07:02.40,0:07:06.83,Default,Nanami,0,0,0,,When a cursed technique is used, \Nit leaves traces behind. That's what residuals are.
 Dialogue: 5,0:07:06.83,0:07:09.92,Default,Nanami,0,0,0,,But residuals are much fainter than cursed spirits.
@@ -145,102 +139,98 @@ Dialogue: 5,0:07:09.92,0:07:12.58,Default,Nanami,0,0,0,,So please focus your vis
 Dialogue: 5,0:07:16.12,0:07:17.12,Default,Yuji,0,0,0,,Oh!
 Dialogue: 5,0:07:17.42,0:07:18.61,Default,Yuji,0,0,0,,I can see them!
 Dialogue: 5,0:07:18.61,0:07:19.89,Default,Nanami,0,0,0,,Of course you can.
-Dialogue: 5,0:07:19.89,0:07:23.59,Default,Nanami,0,0,0,,Sensing them before seeing \Nis standard for one who is capable.
+Dialogue: 5,0:07:19.89,0:07:23.59,Default,Nanami,0,0,0,,Sensing before seeing is standard \Nfor one who is capable.
 Dialogue: 5,0:07:26.66,0:07:29.87,Default,Yuji,0,0,0,,How about being little more encouraging?
 Dialogue: 5,0:07:29.87,0:07:32.03,Default,Nanami,0,0,0,,I won't praise or insult you.
-Dialogue: 5,0:07:32.03,0:07:34.72,Default,Nanami,0,0,0,,I adhere to facts and judge on that basis.
-Dialogue: 5,0:07:34.72,0:07:36.37,Default,Nanami,0,0,0,,That is my way of doing things.
+Dialogue: 5,0:07:32.03,0:07:36.37,Default,Nanami,0,0,0,,Adhere to the facts with a disciplined mind. {very annoying line. shows up again in s2/ch95 spoken by his student, ino, but in a different context} \NThat is my way of doing things.
 Dialogue: 5,0:07:36.37,0:07:40.34,Default,Nanami,0,0,0,,There was a time when I mistakenly believed that society operated the same way.
-Dialogue: 5,0:07:40.73,0:07:42.73,Default,Nanami,0,0,0,,But that's a story for another time.
-Dialogue: 5,0:07:43.12,0:07:44.22,Default,Yuji,0,0,0,,Let's follow the trace.
-Dialogue: 5,0:07:44.22,0:07:46.08,Default,Yuji,0,0,0,,Yeah! Let's go all-out!
-Dialogue: 5,0:07:46.08,0:07:48.96,Default,Nanami,0,0,0,,No, we'll use moderate effort if that is what's required.
-Dialogue: 5,0:07:50.03,0:07:51.08,Default,Nanami,0,0,0,,Let's go.
-Dialogue: 5,0:07:52.03,0:07:54.71,Default,Yuji,0,0,0,,{\i1}We're just not clicking.
-Dialogue: 5,0:07:54.71,0:07:56.64,Default,Yuji,0,0,0,,{\i1}I'm not getting anything from him.
-Dialogue: 5,0:07:57.83,0:08:00.54,Default,Gojo,0,0,0,,I won't be able to lead you this time.
-Dialogue: 5,0:08:00.54,0:08:04.33,Default,Gojo,0,0,0,,But I've brought a reliable protege to take my place.
+Dialogue: 5,0:07:40.34,0:07:42.73,Default,Nanami,0,0,0,,But that's a topic for another day.
+Dialogue: 5,0:07:43.12,0:07:44.22,Default,Yuji,0,0,0,,We're following the traces.
+Dialogue: 5,0:07:44.22,0:07:46.08,Default,Yuji,0,0,0,,Yeah! Let's go all out!
+Dialogue: 5,0:07:46.08,0:07:49.95,Default,Nanami,0,0,0,,No, if we can get by with moderate effort, \Nthen that's what we will do. {truly the best teacher of all time}
+Dialogue: 5,0:07:49.95,0:07:51.08,Default,Nanami,0,0,0,,Let's go.
+Dialogue: 5,0:07:51.74,0:07:54.71,Default,Yuji,0,0,0,,{\i1}Man, we're just not clicking.
+Dialogue: 5,0:07:54.71,0:07:56.71,Default,Yuji,0,0,0,,{\i1}It's like I'm talking to a wall.
+Dialogue: 5,0:07:57.79,0:08:00.58,Default,Gojo,0,0,0,,I won't be able to supervise this time.
+Dialogue: 5,0:08:00.58,0:08:04.34,Default,Gojo,0,0,0,,But I've brought a reliable protege to take my place.
 Dialogue: 5,0:08:06.22,0:08:09.48,Default,Gojo,0,0,0,,This is Nanami Kento,\N the ex-salaryman jujutsu sorcerer!
 Dialogue: 5,0:08:09.48,0:08:11.51,Default,Nanami,0,0,0,,Please don't.
 Dialogue: 5,0:08:11.84,0:08:14.10,Default,Gojo,0,0,0,,We've got a fair share of weirdos in sorcery,
 Dialogue: 5,0:08:14.10,0:08:17.94,Default,Gojo,0,0,0,,but since he is a former office worker, \Nhe's got a good head on his shoulders.
 Dialogue: 5,0:08:17.94,0:08:19.90,Default,Gojo,0,0,0,,He's a first-grade sorcerer, too!
 Dialogue: 5,0:08:19.90,0:08:22.57,Default,Nanami,0,0,0,,That's rich coming from you.
-Dialogue: 5,0:08:23.02,0:08:26.46,Default,Yuji,0,0,0,,{\i1}Many of them like to wear sunglasses\N and stuff to cover their eyes, huh?
+Dialogue: 5,0:08:22.98,0:08:26.46,Default,Yuji,0,0,0,,{\i1}A lot of them like to keep their eyes covered \Nwith sunglasses and stuff, huh?
 Dialogue: 5,0:08:27.07,0:08:28.24,Default,Yuji,0,0,0,,Ex-salaryman?
 Dialogue: 5,0:08:28.24,0:08:31.57,Default,Yuji,0,0,0,,Why didn't you become a sorcerer from the start?
 Dialogue: 5,0:08:31.57,0:08:33.60,Default,Nanami,0,0,0,,Why don't we introduce ourselves?
 Dialogue: 5,0:08:33.60,0:08:35.70,Default,Nanami,0,0,0,,Nice to meet you, Itadori{**-kun}.
 Dialogue: 5,0:08:35.70,0:08:38.04,Default,Yuji,0,0,0,,Oh, right. Nice to meet you, too.
-Dialogue: 5,0:08:38.04,0:08:41.60,Default,Nanami,0,0,0,,The one thing I learned at Jujutsu Tech
-Dialogue: 5,0:08:41.60,0:08:43.96,Default,Nanami,0,0,0,,is that jujutsu sorcerers are idiots!
-Dialogue: 5,0:08:43.96,0:08:44.80,Default,,0,0,0,,{\c&H272727&\3c&HF4F4F4&\4c&HAEAEAE&}Whu?
-Dialogue: 5,0:08:45.63,0:08:49.34,Default,Nanami,0,0,0,,Then I worked at your typical company, and I learned
-Dialogue: 5,0:08:49.34,0:08:51.68,Default,Nanami,0,0,0,,that working is idiotic!
-Dialogue: 5,0:08:51.68,0:08:52.86,Default,Yuji,0,0,0,,Really?!
-Dialogue: 5,0:08:52.86,0:08:56.31,Default,Nanami,0,0,0,,If they're both equally idiotic, \NI'll take the lesser of two evils.
-Dialogue: 5,0:08:56.31,0:08:58.84,Default,Nanami,0,0,0,,That's the only reason I came back.
+Dialogue: 5,0:08:38.04,0:08:41.60,Default,Nanami,0,0,0,,The one thing I learned at Jujutsu Tech is that
+Dialogue: 5,0:08:41.60,0:08:43.96,Default,Nanami,0,0,0,,jujutsu sorcerers are idiots!
+Dialogue: 5,0:08:43.96,0:08:45.00,Default,,0,0,0,,{\c&H272727&\3c&HF4F4F4&\4c&HAEAEAE&}Whu?
+Dialogue: 5,0:08:45.63,0:08:49.34,Default,Nanami,0,0,0,,Then I worked at your typical company, \Nand I learned that
+Dialogue: 5,0:08:49.34,0:08:51.68,Default,Nanami,0,0,0,,working is idiotic!
+Dialogue: 5,0:08:51.68,0:08:52.85,Default,Yuji,0,0,0,,Really?!
+Dialogue: 5,0:08:52.85,0:08:56.31,Default,Nanami,0,0,0,,If they are both idiotic, \NI'll take the one I'm more cut out for.
+Dialogue: 5,0:08:56.31,0:08:58.84,Default,Nanami,0,0,0,,That is the only reason I came back.
 Dialogue: 5,0:08:58.84,0:09:00.17,Default,Yuji,0,0,0,,He's so gloomy.
 Dialogue: 5,0:09:00.17,0:09:01.49,Default,Gojo,0,0,0,,Right?
-Dialogue: 5,0:09:01.49,0:09:06.74,Default,Nanami,0,0,0,,Itadori{**-kun}, please don't think that \NI'm of the same mindset as Gojo{**-san}.
-Dialogue: 5,0:09:06.74,0:09:09.99,Default,Nanami,0,0,0,,I do trust him and have faith in him.
-Dialogue: 5,0:09:12.49,0:09:14.53,Default,Nanami,0,0,0,,But I do not respect him!
-Dialogue: 5,0:09:14.53,0:09:15.33,Default,Gojo,0,0,0,,Say what?!
-Dialogue: 5,0:09:15.87,0:09:20.33,Default,Nanami,0,0,0,,I'm not a fan of the way things are run,\N but I follow the rules.
-Dialogue: 5,0:09:20.33,0:09:22.48,Default,Nanami,0,0,0,,This conversation is dragging on.
-Dialogue: 5,0:09:22.48,0:09:26.85,Default,Nanami,0,0,0,,In short, I don't acknowledge you as a sorcerer. {tldr}
+Dialogue: 5,0:09:01.49,0:09:06.74,Default,Nanami,0,0,0,,Itadori{**-kun}, please don't think \Nthat I'm of the same mindset as Gojo{**-san}.
+Dialogue: 5,0:09:06.74,0:09:09.99,Default,Nanami,0,0,0,,I do trust him and have faith in him,
+Dialogue: 5,0:09:12.49,0:09:14.53,Default,Nanami,0,0,0,,but I do not respect him!
+Dialogue: 5,0:09:14.53,0:09:15.62,Default,Gojo,0,0,0,,Say what?!
+Dialogue: 5,0:09:15.62,0:09:20.33,Default,Nanami,0,0,0,,I'm not a fan of the way things are run,\N but I follow the rules.
+Dialogue: 5,0:09:20.33,0:09:23.33,Default,Nanami,0,0,0,,This conversation has dragged on for too long.
+Dialogue: 5,0:09:23.33,0:09:26.85,Default,Nanami,0,0,0,,In short, I don't acknowledge you as a sorcerer. {tldr}
 Dialogue: 5,0:09:26.85,0:09:29.38,Default,Nanami,0,0,0,,You might be carrying the bomb we know as Sukuna,
-Dialogue: 5,0:09:29.38,0:09:33.73,Default,Nanami,0,0,0,,but please make an effort to prove that {\i1}you{\i0} are useful.
-Dialogue: 5,0:09:36.96,0:09:41.77,Default,Yuji,0,0,0,,I'm weak and useless. \NI've been getting that a lot these days.
+Dialogue: 5,0:09:29.38,0:09:33.73,Default,Nanami,0,0,0,,but please make an effort \Nto prove that {\i1}you{\i0} are a valuable asset.
+Dialogue: 5,0:09:36.96,0:09:41.77,Default,Yuji,0,0,0,,I'm weak and useless. \NI'm being reminded of that a lot lately.
 Dialogue: 5,0:09:44.45,0:09:46.24,Default,Yuji,0,0,0,,But I'll get stronger.
 Dialogue: 5,0:09:46.77,0:09:49.98,Default,Yuji,0,0,0,,I have to be strong, \Nor I won't be able to choose the way I die.
-Dialogue: 5,0:09:52.11,0:09:55.41,Default,Yuji,0,0,0,,Even without that advice, \NI'll make you acknowledge me.
+Dialogue: 5,0:09:52.11,0:09:55.41,Default,Yuji,0,0,0,,I'll make you acknowledge me\N even without that advice.
 Dialogue: 5,0:09:55.41,0:09:57.37,Default,Yuji,0,0,0,,Just give me a bit more time.
-Dialogue: 5,0:09:59.61,0:10:02.38,Default,Nanami,0,0,0,,Be sure to tell that to the authorities, not me.
-Dialogue: 5,0:10:02.38,0:10:03.37,Default,Yuji,0,0,0,,Oh, right.
+Dialogue: 5,0:09:59.61,0:10:02.04,Default,Nanami,0,0,0,,Be sure to tell that to the higher-ups, not me.
+Dialogue: 5,0:10:02.04,0:10:02.37,Default,Nanami,0,0,0,,{\frz355}Be sure to tell that to the higher-ups, not me.
+Dialogue: 5,0:10:02.37,0:10:02.75,Default,Nanami,0,0,0,,{\frz355\move(960,1020,960,1175)}Be sure to tell that to the higher-ups, not me.
+Dialogue: 5,0:10:02.75,0:10:03.37,Default,Yuji,0,0,0,,R-Right.
 Dialogue: 5,0:10:03.37,0:10:05.50,Default,Nanami,0,0,0,,Frankly, I couldn't care less!
 Dialogue: 5,0:10:05.50,0:10:06.83,Default,Yuji,0,0,0,,Okay, I get it!
-Dialogue: 5,0:10:09.45,0:10:12.72,Default,Yuji,0,0,0,,There wasn't anything on the surveillance cameras?
-Dialogue: 5,0:10:13.18,0:10:13.93,Default,Nanami,0,0,0,,Right.
-Dialogue: 5,0:10:13.93,0:10:16.84,Default,Nanami,0,0,0,,There was only one young man aside from the victims.
-Dialogue: 5,0:10:16.84,0:10:18.84,Default,Yuji,0,0,0,,Then a cursed spirit was behind it?
-Dialogue: 5,0:10:19.53,0:10:21.63,Default,Nanami,0,0,0,,Well, most likely.
+Dialogue: 5,0:10:09.45,0:10:12.72,Default,Yuji,0,0,0,,We didn't get anything on \Nthe surveillance cameras, did we?
+Dialogue: 5,0:10:13.09,0:10:16.84,Default,Nanami,0,0,0,,Yeah, just a young man aside from the victims.
+Dialogue: 5,0:10:16.84,0:10:18.97,Default,Yuji,0,0,0,,Do you think a cursed spirit was behind it?
+Dialogue: 5,0:10:19.53,0:10:21.63,Default,Nanami,0,0,0,,Most likely.
 Dialogue: 5,0:10:23.73,0:10:26.89,Default,Nanami,0,0,0,,There's a small chance \Nthe young man could have done it,
 Dialogue: 5,0:10:26.89,0:10:29.52,Default,Nanami,0,0,0,,but identifying him is the police's{\fscx180}—{\fscx}
 Dialogue: 5,0:10:32.81,0:10:37.12,Cursed,CurseA,0,0,0,,{*}Lunch... Lunch... Lunch... Lunchbox{*Bento... Bento... Bento... Box}!
-Dialogue: 5,0:10:37.85,0:10:38.53,Default,Nanami,0,0,0,,Stop.
-Dialogue: 5,0:10:38.88,0:10:41.14,Default,Nanami,0,0,0,,I'll take care of this one.
+Dialogue: 5,0:10:37.85,0:10:38.83,Default,Nanami,0,0,0,,Stop.
+Dialogue: 5,0:10:38.83,0:10:41.14,Default,Nanami,0,0,0,,I will take care of this one.
 Dialogue: 5,0:10:41.14,0:10:43.25,Default,Nanami,0,0,0,,You handle the one over there.
-Dialogue: 5,0:10:45.41,0:10:49.39,Cursed,CurseB,0,0,0,,Good... detergent!
+Dialogue: 5,0:10:47.50,0:10:49.39,Cursed,CurseB,0,0,0,,Good... detergent!
 Dialogue: 5,0:10:49.39,0:10:52.08,Default,Nanami,0,0,0,,If you feel you're in trouble, please let me know.
 Dialogue: 5,0:10:52.08,0:10:54.90,Default,Yuji,0,0,0,,Have some faith in me, will you?
 Dialogue: 5,0:10:54.90,0:10:57.54,Default,Nanami,0,0,0,,It's not a matter of faith.
-Dialogue: 5,0:10:57.93,0:11:00.64,Default,Nanami,0,0,0,,I am an adult and you are a child.
+Dialogue: 5,0:10:57.54,0:11:00.64,Default,Nanami,0,0,0,,I am an adult and you are a child.
 Dialogue: 5,0:11:01.43,0:11:05.94,Default,Nanami,0,0,0,,I have an obligation to \N prioritize your life over my own.
-Dialogue: 5,0:11:05.94,0:11:09.69,Default,Yuji,0,0,0,,I'd rather be underestimated \Nthan be treated like a child.
-Dialogue: 5,0:11:09.69,0:11:12.54,Default,Nanami,0,0,0,,You've faced multiple life-or-death situations.
-Dialogue: 5,0:11:12.54,0:11:15.66,Default,Nanami,0,0,0,,But that does not make you an adult.
-Dialogue: 5,0:11:15.66,0:11:18.41,Default,Nanami,0,0,0,,Finding more and more fallen-out hairs on your pillow.
-Dialogue: 5,0:11:18.41,0:11:22.84,Default,Nanami,0,0,0,,Your local store no longer having your favorite bread.
-Dialogue: 5,0:11:22.84,0:11:26.68,Default,Nanami,0,0,0,,Experiencing little losses like these
-Dialogue: 5,0:11:26.68,0:11:29.46,Default,Nanami,0,0,0,,is what makes people grow into adults.
+Dialogue: 5,0:11:05.94,0:11:09.69,Default,Yuji,0,0,0,,I'd rather be underestimated than be treated like a kid.
+Dialogue: 5,0:11:09.69,0:11:15.66,Default,Nanami,0,0,0,,You might have faced multiple life-or-death situations, \Nbut that does not make you an adult.
+Dialogue: 5,0:11:15.66,0:11:18.41,Default,Nanami,0,0,0,,Finding more fallen hairs on your pillow each day.
+Dialogue: 5,0:11:18.41,0:11:22.84,Default,Nanami,0,0,0,,Your local convenience store \Nno longer selling your favorite sandwich.
+Dialogue: 5,0:11:22.84,0:11:29.46,Default,Nanami,0,0,0,,Experiencing little losses like these \Nis what makes people grow into adults.
 Comment: 5,0:11:35.01,0:11:35.05,Default,chptr,0,0,0,,{Part B}
-Dialogue: 5,0:11:48.54,0:11:53.94,Default,Nanami,0,0,0,,My cursed technique forcibly creates a weak point on my opponent.
+Dialogue: 5,0:11:48.54,0:11:53.94,Default,Nanami,0,0,0,,My cursed technique allows me \Nto create a weak point on my opponent.
 Dialogue: 5,0:11:54.39,0:11:55.82,Default,Nanami,0,0,0,,Seven to three.
 Dialogue: 5,0:11:56.32,0:12:03.37,Default,Nanami,0,0,0,,When dividing the subject into tenths, \Nif I'm able to strike that point, it's a critical hit.
 Dialogue: 5,0:12:03.37,0:12:08.64,Default,Nanami,0,0,0,,That allows me to inflict significant damage, \Neven on stronger adversaries.
-Dialogue: 5,0:12:09.54,0:12:14.46,Default,Nanami,0,0,0,,If their cursed energy is weak, \NI can cut them in two, even with this dull blade.
+Dialogue: 5,0:12:09.54,0:12:14.46,Default,Nanami,0,0,0,,If the opponent is weak, \NI can cut them in two even with this dull blade.
 Dialogue: 5,0:12:15.76,0:12:17.44,Default,Nanami,0,0,0,,Are you listening, Itadori{**-kun}?
-Dialogue: 5,0:12:17.44,0:12:19.31,Default,Yuji,0,0,0,,Huh?! You were talking to me?!
+Dialogue: 5,0:12:17.44,0:12:19.31,Default,Yuji,0,0,0,,Wait, you were talking to me?!
 Dialogue: 5,0:12:25.37,0:12:26.85,Default,Yuji,0,0,0,,Ow...
-Dialogue: 5,0:12:26.85,0:12:29.90,Default,Yuji,0,0,0,,Is it okay to reveal something like that?
-Dialogue: 5,0:12:29.90,0:12:34.32,Default,Nanami,0,0,0,,It's not a problem to reveal that technique \Nto that particular opponent.
-Dialogue: 5,0:12:34.32,0:12:38.07,Default,Nanami,0,0,0,,There's also the strategy of misleading by revealing.
-Dialogue: 5,0:12:35.28,0:12:37.16,Default,Yuji,0,0,0,,{\i1\an8}I want to focus on the curse,
-Dialogue: 5,0:12:37.16,0:12:39.67,Default,Yuji,0,0,0,,{\i1\an8}but it feels like I should be listening.
-Dialogue: 5,0:12:40.26,0:12:41.87,Default,Nanami,0,0,0,,It does have its advantages.
-Dialogue: 5,0:12:41.87,0:12:46.90,Default,Nanami,0,0,0,,Revealing one's hand is a Binding Vow that makes your technique more effective.
-Dialogue: 5,0:12:46.90,0:12:48.38,Default,Nanami,0,0,0,,Like so.{could use colon instead of period. "Like so:"}
+Dialogue: 5,0:12:26.85,0:12:29.90,Default,Yuji,0,0,0,,Is it okay to reveal all that information?
+Dialogue: 5,0:12:29.90,0:12:38.07,Default,Nanami,0,0,0,,Depending on the opponent and the technique itself, \Nrevealing it might not be a problem at all.
+Dialogue: 5,0:12:35.28,0:12:39.67,Default,Yuji,0,0,0,,{\i1\an8}I wanna focus on the curse, \Nbut it feels like I should be listening.
+Dialogue: 5,0:12:40.20,0:12:41.87,Default,Nanami,0,0,0,,It has its advantages, even.
+Dialogue: 5,0:12:41.87,0:12:46.90,Default,Nanami,0,0,0,,Revealing one's hand is a Binding Vow\N which makes your technique more effective.
+Dialogue: 5,0:12:46.90,0:12:48.38,Default,Nanami,0,0,0,,Allow me to demonstrate.{could use colon instead of period. "Like so:"}
 Dialogue: 5,0:13:14.74,0:13:16.83,Default,Nanami,0,0,0,,That's all from me.
 Dialogue: 5,0:13:17.85,0:13:19.18,Default,Yuji,0,0,0,,Wow.
 Dialogue: 5,0:13:19.82,0:13:23.01,Default,Yuji,0,0,0,,{\i1}Not only is his blade all wrapped up,
@@ -253,63 +243,63 @@ Dialogue: 5,0:13:41.02,0:13:44.51,Cursed,CurseB,0,0,0,,Detergent!
 Dialogue: 5,0:13:55.48,0:13:58.54,Default,Gojo,0,0,0,,Your cursed energy has a lag, huh?
 Dialogue: 5,0:13:58.90,0:14:00.19,Default,Yuji,0,0,0,,Ow...
 Dialogue: 5,0:14:00.19,0:14:01.53,Default,Yuji,0,0,0,,Lag?
-Dialogue: 5,0:14:01.81,0:14:05.16,Default,Gojo,0,0,0,,Your cursed energy can't keep up with your explosive power.
-Dialogue: 5,0:14:05.50,0:14:09.77,Default,Gojo,0,0,0,,Since you can't control it well, the trajectory is linear.
-Dialogue: 5,0:14:09.77,0:14:13.30,Default,Gojo,0,0,0,,And that creates a unique flow of cursed energy.
-Dialogue: 5,0:14:13.92,0:14:18.15,Default,Gojo,0,0,0,,The energy slams in right after you make contact.
-Dialogue: 5,0:14:18.15,0:14:22.17,Default,Gojo,0,0,0,,In other words, one strike can equal two blows.
+Dialogue: 5,0:14:01.53,0:14:05.16,Default,Gojo,0,0,0,,Your cursed energy can't keep up \Nwith your explosive power.
+Dialogue: 5,0:14:05.16,0:14:09.77,Default,Gojo,0,0,0,,Since you can't control it well either, \Nit moves in a linear trajectory.
+Dialogue: 5,0:14:09.77,0:14:13.46,Default,Gojo,0,0,0,,And that creates an irregular flow of cursed energy.
+Dialogue: 5,0:14:13.92,0:14:18.30,Default,Gojo,0,0,0,,The energy slams in a bit after you make contact.
+Dialogue: 5,0:14:18.30,0:14:22.17,Default,Gojo,0,0,0,,In other words, one strike equals two blows.
 Dialogue: 5,0:14:38.14,0:14:39.75,Default,Gojo&Screen,0,0,0,,Divergent Fist!{heh try splitting into 3 parts for effect~}
 Dialogue: 5,0:14:40.67,0:14:42.36,Default,Yuji,0,0,0,,That's so cool!
 Dialogue: 5,0:14:42.84,0:14:45.31,Default,Gojo,0,0,0,,It doesn't come that easily for most.
-Dialogue: 5,0:14:45.81,0:14:47.83,Default,Gojo,0,0,0,,This'll be a great weapon for you.
-Dialogue: 5,0:14:50.56,0:14:53.66,Default,Nanami,0,0,0,,{\i1}His physical strength is superhuman.
-Dialogue: 5,0:14:53.66,0:14:55.85,Default,Nanami,0,0,0,,{\i1}The initial blow has little cursed energy,
-Dialogue: 5,0:14:55.85,0:15:00.09,Default,Nanami,0,0,0,,{\i1}but it reaches 120% of an average sorcerer's power.
+Dialogue: 5,0:14:45.86,0:14:47.83,Default,Gojo,0,0,0,,This will be a great weapon for you.
+Dialogue: 5,0:14:50.56,0:14:53.66,Default,Nanami,0,0,0,,{\i1}That superhuman strength, is it natural?
+Dialogue: 5,0:14:53.66,0:14:55.83,Default,Nanami,0,0,0,,{\i1}The initial blow has little cursed energy,
+Dialogue: 5,0:14:55.83,0:15:00.09,Default,Nanami,0,0,0,,{\i1}but it's still one-twenty percent stronger\N compared to an average sorcerer.
 Dialogue: 5,0:15:00.09,0:15:03.63,Default,Nanami,0,0,0,,{\i1}Then the real blow of cursed energy flows in.
 Dialogue: 5,0:15:03.63,0:15:06.72,Default,Nanami,0,0,0,,{\i1}It must be quite unpleasant to be on the receiving end.
-Dialogue: 5,0:15:07.68,0:15:09.47,Default,Nanami,0,0,0,,{\i1}He's got potential.
-Dialogue: 5,0:15:09.47,0:15:15.19,Default,Nanami,0,0,0,,{\i1}If he's able to go all out and combine \Nhis full physical strength with a cursed technique...
-Dialogue: 5,0:15:15.69,0:15:18.52,Default,Nanami,0,0,0,,{\i1}I can see why Gojo brought him to me.
+Dialogue: 5,0:15:07.34,0:15:09.51,Default,Nanami,0,0,0,,{\i1}He's got potential for growth, too.
+Dialogue: 5,0:15:09.51,0:15:15.14,Default,Nanami,0,0,0,,{\i1}If he manages to combine his full \Nphysical strength with all his cursed energy...
+Dialogue: 5,0:15:15.69,0:15:18.56,Default,Nanami,0,0,0,,{\i1}I can see why he brought him to me.
 Dialogue: 5,0:15:19.50,0:15:21.10,Cursed,CurseA,0,0,0,,Box...
-Dialogue: 5,0:15:21.10,0:15:22.98,Default,Nanami,0,0,0,,Apologies. Time to end this.
+Dialogue: 5,0:15:21.10,0:15:22.98,Default,Nanami,0,0,0,,Apologies. Allow me to end this.
 Dialogue: 5,0:15:27.46,0:15:30.40,Default,Nanami,0,0,0,,Itadori{**-kun}! Don't finish it off yet!
-Dialogue: 5,0:15:32.23,0:15:33.57,Default,Nanami,0,0,0,,Have a look a this.
-Dialogue: 5,0:15:35.21,0:15:37.44,Default,Nanami,0,0,0,,I took a photo of my opponent.
-Dialogue: 5,0:15:37.44,0:15:40.71,Default,Yuji,0,0,0,,Wait, I thought cursed spirits didn't show up in photos.
+Dialogue: 5,0:15:32.16,0:15:33.57,Default,Nanami,0,0,0,,Have a look a this.
+Dialogue: 5,0:15:34.96,0:15:37.44,Default,Nanami,0,0,0,,I took a photo of my opponent.
+Dialogue: 5,0:15:37.44,0:15:40.63,Default,Yuji,0,0,0,,Wait, I thought cursed spirits didn't show up in photos?
 Dialogue: 5,0:15:41.25,0:15:43.21,Default,Nanami,0,0,0,,Please stay calm and listen.
 Dialogue: 5,0:15:44.63,0:15:47.14,Default,Nanami,0,0,0,,What we've been fighting...
-Dialogue: 5,0:15:49.47,0:15:50.72,Default,Ieiri,0,0,0,,They are humans.
-Dialogue: 5,0:15:51.14,0:15:54.39,Default,Ieiri,0,0,0,,No, I guess I should say they {\i1}were{\i0} humans.
-Dialogue: 5,0:15:54.39,0:15:56.47,Default,Ieiri,0,0,0,,The same as the three from the theater.
+Dialogue: 5,0:15:49.22,0:15:50.72,Default,Ieiri,0,0,0,,They are humans.
+Dialogue: 5,0:15:51.05,0:15:54.27,Default,Ieiri,0,0,0,,No, I guess I should say they {\i1}were{\i0} humans.
+Dialogue: 5,0:15:54.27,0:15:56.47,Default,Ieiri,0,0,0,,Just like the three from the theater.
 Dialogue: 5,0:15:56.98,0:16:00.40,Default,Ieiri,0,0,0,,Their bodies were forcibly altered by a cursed technique.
 Dialogue: 5,0:16:00.40,0:16:03.05,Default,Nanami,0,0,0,,If that was all, I would have noticed at the start.
 Dialogue: 5,0:16:03.05,0:16:08.00,Default,Nanami,0,0,0,,The two we fought possessed cursed energy, like cursed spirits.
 Dialogue: 5,0:16:08.00,0:16:12.01,Default,Ieiri,0,0,0,,You'll have to ask the culprit \Nabout their technique to explain that.
-Dialogue: 5,0:16:12.47,0:16:15.76,Default,Ieiri,0,0,0,,Though there is evidence that \Ntheir brain stems were tampered with.
+Dialogue: 5,0:16:12.49,0:16:15.76,Default,Ieiri,0,0,0,,Though there is evidence that \Ntheir brain stems were tampered with.
 Dialogue: 5,0:16:15.76,0:16:19.85,Default,Ieiri,0,0,0,,Most likely to create a state of confusion and impaired consciousness.
-Dialogue: 5,0:16:19.85,0:16:25.42,Default,Ieiri,0,0,0,,If they can manipulate the brain, it might be possible for them to give cursed energy to humans.
+Dialogue: 5,0:16:19.85,0:16:25.77,Default,Ieiri,0,0,0,,If they can manipulate the brain, it might be possible for them to give cursed energy to humans.
 Dialogue: 5,0:16:25.77,0:16:29.97,Default,Ieiri,0,0,0,,The connection between the brain \Nand cursed energy is still a black box to us.
 Dialogue: 5,0:16:30.43,0:16:32.93,Default,Ieiri,0,0,0,,Oh, right, is Itadori listening?
 Dialogue: 5,0:16:32.93,0:16:34.36,Default,Yuji,0,0,0,,Oh, yeah.
-Dialogue: 5,0:16:35.52,0:16:41.02,Default,Ieiri,0,0,0,,To sum it up, these guys died of shock \Nfrom having their bodies modified.
-Dialogue: 5,0:16:41.61,0:16:43.25,Default,Ieiri,0,0,0,,You didn't kill them.
-Dialogue: 5,0:16:43.57,0:16:45.94,Default,Ieiri,0,0,0,,Don't you dare think otherwise.
-Dialogue: 5,0:16:46.56,0:16:47.41,Default,Yuji,0,0,0,,Right.
-Dialogue: 5,0:16:51.37,0:16:55.68,Default,Yuji,0,0,0,,Either way, the gravity of death is the same to me.
-Dialogue: 5,0:16:56.72,0:16:58.33,Default,Yuji,0,0,0,,But still, this...
-Dialogue: 5,0:16:59.75,0:17:01.58,Default,Yuji,0,0,0,,This isn't right!
+Dialogue: 5,0:16:35.35,0:16:41.02,Default,Ieiri,0,0,0,,To sum it up, these guys died of shock \Nfrom having their bodies modified.
+Dialogue: 5,0:16:41.56,0:16:43.25,Default,Ieiri,0,0,0,,You did not kill them.
+Dialogue: 5,0:16:43.25,0:16:45.94,Default,Ieiri,0,0,0,,Don't you dare think otherwise.
+Dialogue: 5,0:16:46.61,0:16:47.49,Default,Yuji,0,0,0,,Right.
+Dialogue: 5,0:16:51.28,0:16:55.68,Default,Yuji,0,0,0,,The gravity of death is the same to me either way.
+Dialogue: 5,0:16:56.50,0:16:58.46,Default,Yuji,0,0,0,,But still, this...
+Dialogue: 5,0:16:59.67,0:17:01.67,Default,Yuji,0,0,0,,This isn't right!
 Dialogue: 5,0:17:03.42,0:17:07.17,Default,Nanami,0,0,0,,{\i1}This kid genuinely gets upset over other people's deaths.
 Dialogue: 5,0:17:08.21,0:17:12.76,Default,Nanami,0,0,0,,Those residuals were a bluff, likely meant to lure us in.
-Dialogue: 5,0:17:12.76,0:17:14.68,Default,Nanami,0,0,0,,Our foe is quite skilled.
-Dialogue: 5,0:17:15.16,0:17:18.27,Default,Nanami,0,0,0,,Looks like moderate effort won't cut it.
-Dialogue: 5,0:17:18.56,0:17:19.88,Default,Nanami,0,0,0,,Let's go all-out.
-Dialogue: 5,0:17:22.57,0:17:23.40,Default,Yuji,0,0,0,,Right!
+Dialogue: 5,0:17:12.76,0:17:15.06,Default,Nanami,0,0,0,,Our foe is quite skilled.
+Dialogue: 5,0:17:15.06,0:17:18.27,Default,Nanami,0,0,0,,Looks like moderate effort won't cut it.
+Dialogue: 5,0:17:18.27,0:17:19.88,Default,Nanami,0,0,0,,Let's go all out.
+Dialogue: 5,0:17:22.60,0:17:23.48,Default,Yuji,0,0,0,,Right!
 Dialogue: 5,0:17:25.53,0:17:27.99,Default,Mahito,0,0,0,,{\an8}"Special-Grade Mythical Spirits."
 Dialogue: 5,0:17:27.99,0:17:30.53,Default,Mahito,0,0,0,,{\an8}Some curses are labeled as such.
 Dialogue: 5,0:17:31.06,0:17:35.16,Default,Mahito,0,0,0,,Curses are born from the build-up \Nof cursed energy leaked from humans.
 Dialogue: 5,0:17:35.16,0:17:42.75,Default,Mahito,0,0,0,,Real or not, if something is feared by the masses, \Nit can manifest as a powerful curse.
 Dialogue: 5,0:17:43.31,0:17:46.25,Default,Junpei,0,0,0,,Something that is feared by the masses...
-Dialogue: 5,0:17:46.82,0:17:49.81,Default,Junpei,0,0,0,,Like famous monsters and ghost?
+Dialogue: 5,0:17:46.82,0:17:49.81,Default,Junpei,0,0,0,,Like ghosts and monsters from the myths?
 Dialogue: 5,0:17:49.81,0:17:50.79,Default,Mahito,0,0,0,,Yup.
 Dialogue: 5,0:17:50.79,0:17:54.80,Default,Mahito,0,0,0,,Like Toilet-Bound Hanako{**-san}, \Nthe Nine-Tailed Fox, and so on.
 Dialogue: 5,0:17:54.80,0:18:00.31,Default,Mahito,0,0,0,,Sorcerers brand them as "Special-Grade Mythical Spirits" \Nand exercise caution against them.
@@ -319,7 +309,7 @@ Dialogue: 5,0:18:10.62,0:18:15.20,Default,Mahito,0,0,0,,What people fear most ar
 Dialogue: 5,0:18:16.33,0:18:17.79,Default,Junpei,0,0,0,,Things like natural disasters?
 Dialogue: 5,0:18:19.76,0:18:22.29,Default,Mahito,0,0,0,,Man, you're so easy to talk to.
 Dialogue: 5,0:18:23.87,0:18:25.53,Default,Junpei,0,0,0,,Oh, r-really?
-Dialogue: 5,0:18:33.68,0:18:35.39,Default,Mahito,0,0,0,,People have always feared...
+Dialogue: 5,0:18:33.68,0:18:35.34,Default,Mahito,0,0,0,,People have always feared...
 Dialogue: 5,0:18:36.85,0:18:41.34,Default,Mahito,0,0,0,,the earth, the forests, and the oceans.
 Dialogue: 5,0:18:42.52,0:18:46.56,Default,Mahito,0,0,0,,The cursed energy directed at them was so massive
 Dialogue: 5,0:18:47.12,0:18:52.06,Default,Mahito,0,0,0,,that before they took form, \Nthey gained consciousness and remained in hiding.
@@ -327,38 +317,37 @@ Dialogue: 5,0:18:53.39,0:18:56.02,Default,Mahito,0,0,0,,I'm proud to call them m
 Dialogue: 5,0:18:58.38,0:19:01.96,Default,Junpei,0,0,0,,What are you born from, Mahito{**-san}?
 Dialogue: 5,0:19:04.63,0:19:05.60,Default,Mahito,0,0,0,,People.
 Dialogue: 5,0:19:07.13,0:19:14.01,Default,Mahito,0,0,0,,{\fade(0,100)}I am a curse born from the hatred and fear people hold in their gut toward each other.
-Dialogue: 5,0:19:17.87,0:19:20.73,Default,Nanami,0,0,0,,{\an8}I've organized the reports from our windows {join?}
-Dialogue: 5,0:19:20.73,0:19:23.73,Default,Nanami,0,0,0,,{\an8}on recent unnatural deaths and disappearances.{This is overlapping with TS btw.}{rip lol. just subkt things.}
+Dialogue: 5,0:19:17.87,0:19:23.73,Default,Nanami,0,0,0,,{\an8}I have organized reports from our windows\N on recent unnatural deaths and disappearances.{This is overlapping with TS btw.}{rip lol. just subkt things.}
 Dialogue: 5,0:19:24.35,0:19:27.70,Default,Nanami,0,0,0,,This should help us narrow down the culprit's hideout.
 Dialogue: 5,0:19:27.70,0:19:29.63,Default,Yuji,0,0,0,,Aw yeah! Are we storming in?{Does he really need all the "?!" Question mark alone may do. Just noticed it frequently.}
 Dialogue: 5,0:19:29.63,0:19:32.12,Default,Nanami,0,0,0,,No, this is just an approximation.
-Dialogue: 5,0:19:32.12,0:19:36.60,Default,Nanami,0,0,0,,I'll continue to investigate this matter, but I'd like you to handle a different task.
+Dialogue: 5,0:19:32.12,0:19:36.60,Default,Nanami,0,0,0,,I will continue to investigate this matter,\N but I have a different task for you.
 Dialogue: 5,0:19:37.77,0:19:41.12,Default,Nanami,0,0,0,,This is the boy who was at the theater, Yoshino Junpei.
 Dialogue: 5,0:19:41.12,0:19:44.98,Default,Nanami,0,0,0,,Apparently, he goes to the same school as the victims.
 Dialogue: 5,0:19:46.32,0:19:49.50,Default,Nanami,0,0,0,,Based on the surveillance footage \Nand how he carried himself,
 Dialogue: 5,0:19:49.50,0:19:53.43,Default,Nanami,0,0,0,,I believed it was unlikely he could be a curse user.
-Dialogue: 5,0:19:54.13,0:19:58.31,Default,Nanami,0,0,0,,However, if he's related to the victims,\N that changes things.
+Dialogue: 5,0:19:54.13,0:19:58.31,Default,Nanami,0,0,0,,However, if he is related to the victims,\N that changes things.
 Dialogue: 5,0:19:58.31,0:19:59.77,Default,Yuji,0,0,0,,Curse user?
 Dialogue: 5,0:19:59.77,0:20:02.39,Default,Nanami,0,0,0,,A jujutsu sorcerer with malicious intent.
-Dialogue: 5,0:20:02.39,0:20:08.40,Default,Nanami,0,0,0,,I've entrusted the protocols to Ijichi{**-kun}, \Nso I'd like you two to investigate Yoshino Junpei.
+Dialogue: 5,0:20:02.39,0:20:08.40,Default,Nanami,0,0,0,,I have entrusted the protocols to Ijichi{**-kun}, \Nso I would like you two to investigate Yoshino Junpei.
 Dialogue: 5,0:20:08.40,0:20:09.59,Default,Yuji,0,0,0,,Roger!
 Dialogue: 5,0:20:09.59,0:20:13.58,Default,Yuji,0,0,0,,Speaking of which, \NI don't know any assistants other than you.
 Dialogue: 5,0:20:13.58,0:20:19.41,Default,Ijichi,0,0,0,,Well, I'm the only one who knows you're still alive, so by necessity...
-Dialogue: 5,0:20:19.73,0:20:21.37,Default,Yuji,0,0,0,,Makes sense.
+Dialogue: 5,0:20:19.78,0:20:21.37,Default,Yuji,0,0,0,,Makes sense.
 Dialogue: 5,0:20:21.37,0:20:22.91,Default,Yuji,0,0,0,,Let's go!
-Dialogue: 5,0:20:28.40,0:20:33.09,Default,Ijichi,0,0,0,,It's not just an approximation. \NYou already know the culprit's location, don't you?
+Dialogue: 5,0:20:28.40,0:20:33.09,Default,Ijichi,0,0,0,,It's not just an approximation, is it? \NYou already know the culprit's location.
 Dialogue: 5,0:20:33.75,0:20:34.72,Default,Nanami,0,0,0,,Of course.
 Dialogue: 5,0:20:34.73,0:20:39.45,Default,Nanami,0,0,0,,If they wanted to, they could have \Nleft the scene without leaving any residuals.
 Dialogue: 5,0:20:40.30,0:20:42.84,Default,Nanami,0,0,0,,We're being lured in once again.
-Dialogue: 5,0:20:44.18,0:20:48.35,Default,Nanami,0,0,0,,Weighing the risks of storming in alone \Nversus{or "against"} taking Itadori{**-kun} with me,
-Dialogue: 5,0:20:48.35,0:20:50.30,Default,Nanami,0,0,0,,I simply chose the former.
+Dialogue: 5,0:20:44.18,0:20:48.31,Default,Nanami,0,0,0,,Weighing the risks of storming in alone \Nversus{or "against"} taking Itadori{**-kun} with me,
+Dialogue: 5,0:20:48.31,0:20:50.70,Default,Nanami,0,0,0,,I simply chose the former.
 Dialogue: 5,0:20:50.70,0:20:52.82,Default,Nanami,0,0,0,,He's still a child, after all.
-Dialogue: 5,0:20:53.84,0:20:55.74,Default,Yuji,0,0,0,,{*}Nanami Sir{*Nanami sensei}!
+Dialogue: 5,0:20:53.82,0:20:55.74,Default,Yuji,0,0,0,,{*}Nanami Sir{*Nanami sensei}!
 Dialogue: 5,0:20:56.29,0:20:57.58,Default,Ijichi,0,0,0,,Itadori{**-kun}?
 Dialogue: 5,0:20:57.58,0:20:58.82,Default,Yuji,0,0,0,,I forgot to say something.
 Dialogue: 5,0:20:59.44,0:21:00.86,Default,Yuji,0,0,0,,Be careful, okay?
-Dialogue: 5,0:21:02.64,0:21:03.83,Default,Nanami,0,0,0,,Itadori{**-kun}.
-Dialogue: 5,0:21:04.74,0:21:07.68,Default,Nanami,0,0,0,,I'm not a teacher, so please drop the honorifics. {pls just drop the honorifics anyway}
+Dialogue: 5,0:21:02.64,0:21:03.91,Default,Nanami,0,0,0,,Itadori{**-kun}...
+Dialogue: 5,0:21:04.66,0:21:07.68,Default,Nanami,0,0,0,,I'm not a teacher, so please drop the honorifics. {pls just drop the honorifics anyway}
 Dialogue: 5,0:21:07.68,0:21:08.48,Default,Yuji,0,0,0,,How about Nanamin?!
 Dialogue: 5,0:21:08.48,0:21:09.83,Default,Nanami,0,0,0,,{\fade(0,200)}You want a smacking?
 Dialogue: 5,0:21:14.13,0:21:15.37,Default,Ijichi,0,0,0,,There he is.
