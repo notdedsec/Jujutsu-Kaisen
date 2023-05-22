@@ -32,8 +32,8 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:04:00.09,0:04:02.84,Signs,,0,0,0,,{\an5\pos(970.32,556.32)\1c&H000000&\p1}m 2061.2 1221.12 l 0 1221.12 0 0 2061.2 0 2061.2 1221.12
-Dialogue: 0,0:04:00.09,0:04:02.84,Signs,Screen,0,0,0,,{\fs80\blur12\fnImagination Station\an5\b1\c&H0303D2&\fscx555\fscy555\1a&H76&\pos(920,580)}Death
-Dialogue: 0,0:04:00.11,0:04:02.84,Signs,Screen,0,0,0,,{\fs80\blur1.2\fnImagination Station\an5\b1\c&H0303D2&\fscx555\fscy555\pos(920,580)}Death
+Dialogue: 1,0:04:00.11,0:04:02.84,Signs,Screen,0,0,0,,{\blur15\an5\b1\c&H0303D2&\1a&H76&\fnFOT-Greco Std DB\fs699\pos(960,480)}死{\fnTimes New Roman\fs55\b0\blur15}\ND    E    A    T    H
+Dialogue: 2,0:04:00.11,0:04:02.84,Signs,Screen,0,0,0,,{\blur1.25\an5\b1\c&H0303D2&\fnFOT-Greco Std DB\fs699\pos(960,480)}死{\fnTimes New Roman\fs55\b0\blur1.1}\ND    E    A    T    H
 Dialogue: 0,0:06:20.44,0:06:26.69,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,0)\pos(1572,885)\c&HE6E7E7&}Episode 13: {\fs70}Tomorrow
 Dialogue: 0,0:11:11.10,0:11:11.23,Signs,,0,0,0,,{\fscy100\frz0\fscx100\blur4\iclip(m 1014 534 b 1040 534 1097 532 1092 581 1091 588 1088 604 1068 632 l 1014 534)\an5\pos(1183.14,584.49)\1c&HFFFFFF&\p1}m 29.48 0 l 0 55.34 199.7 169.02 241.21 103.46 29.48 0
 Dialogue: 0,0:11:11.23,0:11:11.31,Signs,,0,0,0,,{\fscy99.96\frz0.01\fscx99.96\blur4\iclip(m 1017 529 b 1043 529 1100 527 1095 576 1094 583 1091 599 1071 627 l 1017 529)\an5\pos(1186.06,579.75)\1c&HFFFFFF&\p1}m 29.48 0 l 0 55.34 199.7 169.02 241.21 103.46 29.48 0
@@ -167,7 +167,7 @@ Dialogue: 0,0:22:48.13,0:22:54.06,Signs,Screen,0,0,0,,{\fnA-OTF Folk Pro-En B\fa
 Dialogue: 0,0:22:48.13,0:22:54.06,Signs,Screen,0,0,0,,{\an4\fs40\fnFOT-HummingStdEn-NatsuKise\be1\c&H222D34&\bord0\shad0\fad(1404,1)\pos(674.29,389.15)}Ground chicken
 Dialogue: 0,0:22:48.13,0:22:54.06,Signs,Screen,0,0,0,,{\an4\fs40\fnFOT-HummingStdEn-NatsuKise\be1\c&H222D34&\bord0\shad0\fad(1404,1)\pos(674.28,494.57)}Finely chopped green onions
 Dialogue: 0,0:22:48.13,0:22:54.06,Signs,Screen,0,0,0,,{\an4\fs40\fnFOT-HummingStdEn-NatsuKise\be1\c&H222D34&\bord0\shad0\fad(1404,1)\pos(676.57,605.14)}Ginger paste
-Dialogue: 0,0:22:48.13,0:22:54.06,Signs,Screen,0,0,0,,{\an4\fs40\fnFOT-HummingStdEn-NatsuKise\be1\q2\c&H222D34&\bord0\shad0\fad(1404,1)\pos(675.43,715.14)}Egg yolk {\fs30\fscx95}(you can use the whites too, if it's too much hassle)
+Dialogue: 0,0:22:48.13,0:22:54.06,Signs,Screen,0,0,0,,{\an4\fs40\fnFOT-HummingStdEn-NatsuKise\be1\q2\c&H222D34&\bord0\shad0\fad(1404,1)\pos(675.43,715.14)}Egg yolk {\fs30\fscx95}(You can use the whites if it's too much hassle)
 Dialogue: 0,0:22:48.13,0:22:54.06,Signs,Screen,0,0,0,,{\an4\fs40\fnFOT-HummingStdEn-NatsuKise\be1\c&H222D34&\bord0\shad0\fad(1404,1)\pos(677.71,824.51)}Salt and pepper
 Dialogue: 0,0:22:37.29,0:22:40.79,Signs,Screen,0,0,0,,{\an8\blur0.8\fnAero Matics Display\b0\3c&H4699EB&\shad0\bord4.5\fscx130\fscy136\c&HFDFDFD&\pos(960,40)}Put all the ingredients in and use twice as much ginger
 Dialogue: 0,0:22:40.79,0:22:44.30,Signs,Screen,0,0,0,,{\an8\b0\3c&H4699EB&\shad0\bord4.5\fnAero Matics Display\fscx130\fscy136\c&HFDFDFD&\blur0.8\pos(960,40)}Mix together well and knead it
