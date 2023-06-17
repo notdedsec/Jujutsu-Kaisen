@@ -6,7 +6,7 @@
             "type": "python",
             "request": "launch",
             "console": "integratedTerminal",
-            "preLaunchTask": "update_commom",
+            "preLaunchTask": "update_common",
             "module": "vspreview",
             "args": ["${file}"],
             "showReturnValue": true,

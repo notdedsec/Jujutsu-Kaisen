@@ -2,6 +2,7 @@
     "files.associations": {
         "*.vpy": "python"
     },
-    "python.pythonPath": "C:/KaizokuEncoder/python.exe",
-    "python.languageServer": "Pylance"
+    "python.pythonPath": "C:/KaizokuEncoderV2/python.exe",
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode": "basic"
 }

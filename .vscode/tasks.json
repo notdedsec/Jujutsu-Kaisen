@@ -8,7 +8,7 @@
             "args": ["-m", "vspreview", "\"'${file}'\""]
         },
         {
-            "label": "update_commom",
+            "label": "update_common",
             "type": "shell",
             "command": "${command:python.interpreterPath}",
             "args": ["-m", "pip", "install", "--upgrade", "-e", "."]
