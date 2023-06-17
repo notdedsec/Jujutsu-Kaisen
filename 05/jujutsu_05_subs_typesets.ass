@@ -30,7 +30,7 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:03:55.46,0:04:00.55,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\pos(508,885)\c&HE6E7E7&}Episode 5: {\fs70}Curse Womb Must Die II
+Dialogue: 0,0:03:55.46,0:04:00.55,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\pos(522,885)\c&HE6E7E7&}Episode 5: {\fs70}Cursed Womb Must Die II
 Dialogue: 0,0:13:04.09,0:13:06.39,Signs,Sign,0,0,0,,{\fnBell Gothic Std Black\b1\be1\fscx128\fs60\an4\fax0.45\c&H66CFFC&\3c&HFDFDFF&\frz333.3\frx356\fry2\pos(784.211,472.562)}Restaurant
 Dialogue: 0,0:13:04.09,0:13:06.39,Signs,Sign,0,0,0,,{\fnBell Gothic Std Black\b1\blur0.8\fscx100\fs50\an4\fax0.48\c&H55B274&\3c&HFCFFF9&\xshad-5\4c&HC4CCC7&\frz336\pos(792.494,538.276)}Rice
 Dialogue: 0,0:18:58.11,0:18:58.15,Signs,,0,0,0,,{\fscy100\fscx100\blur1.2\an5\pos(842.14,451.38)\1c&H727677&\p1}m 0 0 l 4.49 248.32 b 4.49 248.32 14.98 250.04 15.63 257.81 16.18 264.49 4.84 269.23 4.98 270.21 5.11 271.19 5.1 276.59 5.1 276.59 5.1 276.59 17.01 277.68 17.72 279.07 22.38 288.28 13.84 292.91 13.84 292.91 13.84 292.91 20.6 291.13 22.27 292.43 31.03 299.27 26.25 309.23 26.25 309.23 39.67 311.27 29.2 328.65 19.66 329.76 15.36 330.25 11.06 328.95 9.96 328.65 8.86 328.35 6.85 334.51 6.64 335.85 6.42 337.2 18.01 347.97 17.99 349.42 17.98 350.32 32.66 343.81 57.26 353.87 l 477.42 408.58 477.42 323.4 654.99 352.35 b 654.99 352.35 653.88 346.14 674.11 345.64 l 674.13 341.26 679.4 104.13 0 0
