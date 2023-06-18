@@ -1,66 +1,79 @@
-import vapoursynth as vs
+import os
+from typing import Any, Dict, Tuple, Optional
+
+from vapoursynth import VideoNode
 from vardautomation import (
-    X265Encoder, QAACEncoder, RunnerConfig, SelfRunner, FileInfo, Mux, make_comps,
-    VideoStream, AudioStream, EztrimCutter, FFmpegAudioExtracter, JAPANESE
+    X265, FFV1, QAACEncoder, RunnerConfig, SelfRunner, FileInfo, MatroskaFile, MediaTrack,
+    EztrimCutter, FFmpegAudioExtracter, SlowPicsConf, make_comps, patch, JAPANESE
 )
+
+from .utils import shift_ed
+
 
 class Encoder:
     runner: SelfRunner
+    settings = f'{os.path.dirname(__file__)}/settings'
 
-    def __init__(self, file: FileInfo, clip: vs.VideoNode, ED: int = None) -> None:
+
+    def __init__(self, file: FileInfo, clip: VideoNode, zones: Optional[Dict[Tuple[int, int], Dict[str, Any]]] = None, shift: Optional[int] = None):
         self.file = file
         self.clip = clip
-        assert self.file.a_src
+        self.zones = zones
 
-        if ED:
-            ED += self.file.trims_or_dfs[0]
-            self.file.trims_or_dfs = [
-                (self.file.trims_or_dfs[0], ED), 
-                (ED+2152, ED+2157), 
-                (ED, ED+2152), 
-                (ED+2157, self.file.trims_or_dfs[-1])
-            ]
+        if shift:
+            shift_ed(self.file, shift)
 
-        self.v_encoder = X265Encoder('../kaisen_common/settings')
-        self.a_extracter = FFmpegAudioExtracter(self.file, track_in=1, track_out=1)
-        self.a_cutters = EztrimCutter(self.file, track=1)
-        self.a_encoders = QAACEncoder(self.file, track=1)
 
-    def run(self) -> None:
+    def run(self):
         assert self.file.a_enc_cut
 
-        muxer = Mux(
-            self.file,
-            streams=(
-                VideoStream(self.file.name_clip_output, 'BD 1080p HEVC [dedsec]', JAPANESE),
-                AudioStream(self.file.a_enc_cut.format(track_number=1), 'Japanese 2.0 AAC', JAPANESE),
-                None
-            )
+        out_mkv = MatroskaFile(
+            self.file.name_file_final,
+            [
+                MediaTrack(self.file.name_clip_output, 'BD 1080p HEVC [dedsec]', JAPANESE),
+                MediaTrack(self.file.a_enc_cut.format(track_number=1), 'Japanese 2.0 AAC', JAPANESE)
+            ]
         )
 
         config = RunnerConfig(
-            self.v_encoder, None,
-            self.a_extracter, self.a_cutters, self.a_encoders,
-            muxer
+            v_encoder = X265(self.settings, zones=self.zones),
+            v_lossless_encoder = FFV1(),
+            a_extracters = FFmpegAudioExtracter(self.file, track_in=1, track_out=1),
+            a_cutters = EztrimCutter(self.file, track=1),
+            a_encoders = QAACEncoder(self.file, track=1),
+            mkv = out_mkv
         )
 
         self.runner = SelfRunner(self.clip, self.file, config)
         self.runner.run()
 
+
+    def run_patch(self, ranges):
+        patch(
+            encoder = X265(self.settings, zones=self.zones),
+            clip = self.clip,
+            file = self.file,
+            ranges = ranges
+        )
+
+
     def clean(self):
-        self.runner.do_cleanup()
+        # self.runner.work_files.clear()
+        self.runner.rename_final_file(f'{self.file.name}_premux.mkv')
+
 
     def compare(self):
+        return
         make_comps(
             clips = dict(
                 src = self.file.clip_cut,
                 flt = self.clip,
-                enc = vs.core.ffms2.Source(self.file.name_file_final.to_str())
+                enc = FileInfo(self.file.name_file_final).clip
             ),
-            num = 10,
-            path = f'../_comps/{self.file.name}',
-            collection_name = f'[Kaizoku] {self.file.name}',
-            force_bt709 = True,
-            slowpics = True,
-            public = False
+            slowpics_conf = SlowPicsConf(
+                collection_name = f'[Kaizoku] {self.file.name}',
+                public=False
+            ),
+            path = f'{os.path.dirname(__file__)}/../_comps/{self.file.name}',
+            num = 10
         )

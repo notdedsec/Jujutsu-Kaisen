@@ -1,33 +1,26 @@
-#!C:/KaizokuEncoder/python
-from kaisen_common import src, flt, enc
+#!C:/KaizokuEncoderV2/python
 
-SRC = src.E11
+from kaisen_common.filters import Filter
+from kaisen_common.encoder import Encoder
+from kaisen_common.sources import E11 as SRC
+
 
 OP = 3285
 ED = 31649
 
 AA_RANGES = [(OP+277, OP+441), (OP+650, OP+686), (OP+877, OP+931), (OP+1373, OP+1399), (OP+1515, OP+1535)]
-DB_RANGES = [(OP+1293, OP+1306), (OP+1572, OP+1589), (OP+1699, OP+1756)]
+CURSED_BANDING_RANGES = [(OP+1167, OP+1177), (OP+1293, OP+1306), (OP+1382, OP+1416), (OP+1572, OP+1589), (OP+1700, OP+1756)]
+NO_DENOISE_RANGES = [(16331, 16498)]
 
-MASK = src.LETTERBOX_MASK_A
-MASK_RANGES = [(8631, 9092)]
+LETTERBOX_RANGES = {
+    (8631, 9092): dict(height=156)
+}
 
-def filter():
-    src = SRC.clip_cut
-    res = flt.rescale(src)
-    msk = flt.detailmask(res)
-    den = flt.denoise(res, msk)
-    aaa = flt.antialias(den, AA_RANGES)
-    deh = flt.dehalo(aaa)
-    deb = flt.deband(deh, msk, DB_RANGES)
-    rst = flt.restore(deb, src, MASK, MASK_RANGES)
-    grn = flt.grain(rst)
-    return grn
+flt = Filter(SRC, AA_RANGES, CURSED_BANDING_RANGES, NO_DENOISE_RANGES, {}, LETTERBOX_RANGES)
+enc = Encoder(SRC, flt.process(), shift=ED)
+
 
 if __name__ == '__main__':
-    brr = enc.Encoder(SRC, filter(), ED)
-    brr.run()
-    brr.clean()
-    brr.compare()
-else:
-    filter().set_output()
+    enc.run()
+    enc.clean()
+    enc.compare()

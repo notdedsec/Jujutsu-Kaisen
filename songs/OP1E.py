@@ -1,25 +1,18 @@
-#!C:/KaizokuEncoder/python
-from kaisen_common import src, flt, enc
+#!C:/KaizokuEncoderV2/python
 
-SRC = src.OP1E
+from kaisen_common.filters import Filter
+from kaisen_common.encoder import Encoder
+from kaisen_common.sources import OP1E as SRC
+
 
 AA_RANGES = [(277, 441), (650, 686), (877, 931), (1373, 1399), (1515, 1535)]
-DB_RANGES = [(1293, 1306), (1572, 1589), (1699, 1756)]
+CURSED_BANDING_RANGES = [(1167, 1177), (1293, 1306), (1382, 1416), (1572, 1589), (1700, 1756)]
 
-def filter():
-    src = SRC.clip_cut
-    res = flt.rescale(src)
-    msk = flt.detailmask(res)
-    den = flt.denoise(res, msk)
-    aaa = flt.antialias(den, AA_RANGES)
-    deh = flt.dehalo(aaa)
-    deb = flt.deband(deh, msk, DB_RANGES)
-    grn = flt.grain(deb)
-    return grn
+flt = Filter(SRC, AA_RANGES, CURSED_BANDING_RANGES)
+enc = Encoder(SRC, flt.process())
+
 
 if __name__ == '__main__':
-    brr = enc.Encoder(SRC, filter())
-    brr.run()
-    brr.clean()
-else:
-    filter().set_output()
+    enc.run()
+    enc.clean()
+    enc.compare()

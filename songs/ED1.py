@@ -1,25 +1,15 @@
-#!C:/KaizokuEncoder/python
-from kaisen_common import src, flt, enc
+#!C:/KaizokuEncoderV2/python
 
-SRC = src.ED1
+from kaisen_common.filters import Filter
+from kaisen_common.encoder import Encoder
+from kaisen_common.sources import ED1 as SRC
 
-AA_RANGES = []
-DB_RANGES = []
 
-def filter():
-    src = SRC.clip_cut
-    res = flt.rescale(src)
-    msk = flt.detailmask(res)
-    den = flt.denoise(res, msk)
-    aaa = flt.antialias(den, AA_RANGES)
-    deh = flt.dehalo(aaa)
-    deb = flt.deband(deh, msk, DB_RANGES)
-    grn = flt.grain(deb)
-    return grn
+flt = Filter(SRC)
+enc = Encoder(SRC, flt.process(), shift=1)
+
 
 if __name__ == '__main__':
-    brr = enc.Encoder(SRC, filter(), 1)
-    brr.run()
-    brr.clean()
-else:
-    filter().set_output()
+    enc.run()
+    enc.clean()
+    enc.compare()
