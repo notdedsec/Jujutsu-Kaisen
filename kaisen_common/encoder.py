@@ -1,17 +1,17 @@
 import os
-from typing import Any, Dict, Tuple, Optional
+from typing import Any, Dict, List, Tuple, Optional, Union
 
 from vapoursynth import VideoNode
 from vardautomation import (
     X265, FFV1, QAACEncoder, RunnerConfig, SelfRunner, FileInfo, MatroskaFile, MediaTrack,
-    EztrimCutter, FFmpegAudioExtracter, SlowPicsConf, make_comps, patch, JAPANESE
+    EztrimCutter, FFmpegAudioExtracter, SlowPicsConf, VPath, make_comps, patch, JAPANESE
 )
 
 from .utils import shift_ed
 
 
 class Encoder:
-    runner: SelfRunner
+
     settings = f'{os.path.dirname(__file__)}/settings'
 
 
@@ -19,12 +19,11 @@ class Encoder:
         self.file = file
         self.clip = clip
         self.zones = zones
+        self.file.name_file_final = VPath(f'{file.name}_premux.mkv')
 
         if shift:
             shift_ed(self.file, shift)
 
-
-    def run(self):
         assert self.file.a_enc_cut
 
         out_mkv = MatroskaFile(
@@ -35,7 +34,7 @@ class Encoder:
             ]
         )
 
-        config = RunnerConfig(
+        self.config = RunnerConfig(
             v_encoder = X265(self.settings, zones=self.zones),
             v_lossless_encoder = FFV1(),
             a_extracters = FFmpegAudioExtracter(self.file, track_in=1, track_out=1),
@@ -44,11 +43,14 @@ class Encoder:
             mkv = out_mkv
         )
 
-        self.runner = SelfRunner(self.clip, self.file, config)
+        self.runner = SelfRunner(self.clip, self.file, self.config)
+
+
+    def run(self):
         self.runner.run()
 
 
-    def run_patch(self, ranges):
+    def run_patch(self, ranges: List[Union[int, Tuple[Optional[int], Optional[int]]]]):
         patch(
             encoder = X265(self.settings, zones=self.zones),
             clip = self.clip,
@@ -58,12 +60,10 @@ class Encoder:
 
 
     def clean(self):
-        # self.runner.work_files.clear()
-        self.runner.rename_final_file(f'{self.file.name}_premux.mkv')
+        self.runner.work_files.clear()
 
 
     def compare(self):
-        return
         make_comps(
             clips = dict(
                 src = self.file.clip_cut,

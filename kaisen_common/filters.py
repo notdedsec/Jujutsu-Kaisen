@@ -1,93 +1,103 @@
-import lvsfunc as lvf
-import kagefunc as kgf
-import havsfunc as haf
-import vardefunc as vdf
-from typing import Tuple, Optional
+#!C:/KaizokuEncoderV2/python
+
+from typing import List, Dict, Any, Tuple
 from vardautomation import FileInfo
-from vsutil import depth, plane, iterate
+from vapoursynth import VideoNode
+
+from vsaa import Nnedi3
+from vsaa.antialiasers.eedi3 import Eedi3SR
+from vskernels import Bicubic, BicubicDidee
+from vsscale import SSIM, descale_detail_mask
+from vsdenoise import MVTools, SADMode, Prefilter, ccd
+from vstools import replace_ranges, join, core, Matrix
+from vsutil import get_w, get_y, get_depth, depth
+from havsfunc import FineDehalo, EdgeCleaner
+from jvsfunc import retinex_edgemask
 from adptvgrnMod import adptvgrnMod
-from xvs import WarpFixChromaBlend
 from debandshit import dumb3kdb
+from stgfunc import set_output
 
-import vapoursynth as vs
-core = vs.core
-
-descale_args = dict(
-    height = 844,
-    kernel = lvf.kernels.Bicubic()
-)
+from .utils import letterbox_fix
 
 
-def rescale(clip: vs.VideoNode) -> vs.VideoNode:
-    scale = lvf.scale.descale(clip, **descale_args)
-    resample = depth(scale, 16)
-    return resample
+class Filter:
+
+    native_res = 844
 
 
-def detailmask(clip: vs.VideoNode, strength: int = 8500) -> vs.VideoNode:
-    mask = kgf.retinex_edgemask(clip, 2)
-    mask = mask.std.Binarize(strength)
-    mask = mask.std.Inflate()
-    return mask
+    def __init__(
+        self,
+        SRC: FileInfo,
+        AA_RANGES: List[Tuple[int, int]] = [],
+        CURSED_BANDING_RANGES: List[Tuple[int, int]] = [],
+        NO_DENOISE_RANGES: List[Tuple[int, int]] = [],
+        RESTORE_MASKS: Dict[Tuple[int, int], VideoNode] = {},
+        LETTERBOX_RANGES: Dict[Tuple[int, int], Dict[str, Any]] = {},
+    ):
+
+        self.SRC = SRC
+        self.AA_RANGES = AA_RANGES
+        self.CURSED_BANDING_RANGES = CURSED_BANDING_RANGES
+        self.NO_DENOISE_RANGES = NO_DENOISE_RANGES
+        self.RESTORE_MASKS = RESTORE_MASKS
+        self.LETTERBOX_RANGES = LETTERBOX_RANGES
 
 
-def denoise(clip: vs.VideoNode, mask: vs.VideoNode, skip: Optional[Tuple[int, int]] = None) -> vs.VideoNode:
-    denoise = haf.SMDegrain(clip, tr=3, thSAD=64, thSADC=48, RefineMotion=True)
-    merge = core.std.MaskedMerge(denoise, clip, mask)
-    merge = vdf.misc.merge_chroma(plane(merge, 0), denoise)
-    replace = lvf.rfs(merge, clip, ranges=skip)
-    decsiz = vdf.noise.decsiz(replace, min_in=45000, max_in=55000)
-    return decsiz
+    def process(self):
+        src = depth(self.SRC.clip_cut, 16)
+        src_y = get_y(src)
 
+        descaled = Bicubic().descale(src_y, get_w(self.native_res), self.native_res)
+        upscaled = Nnedi3(pscrn=1).scale(descaled, descaled.width*2, descaled.height*2)
 
-def antialias(clip: vs.VideoNode, strong: Optional[Tuple[int, int]] = None) -> vs.VideoNode:
-    nnee = lvf.aa.nneedi3_clamp(clip, 2)
-    sraa = lvf.aa.upscaled_sraa(clip, 2)
-    replace = lvf.rfs(nnee, sraa, ranges=strong)
-    return replace
+        eedi3 = Eedi3SR(alpha=0.125, beta=0.25, gamma=80, vthresh0=12, vthresh1=24, vthresh2=4, sclip_aa=True)
+        aa = eedi3.aa(upscaled.std.Transpose())
+        aa = eedi3.aa(aa.std.Transpose())
 
+        fine_dehalo = FineDehalo(aa, darkstr=0, thlimi=16, thmi=64)
+        edge_clean = EdgeCleaner(fine_dehalo, strength=8, smode=1, hot=True)
+        dehalo = core.std.Expr([fine_dehalo, edge_clean], 'x y min')
 
-def dehalo(clip: vs.VideoNode) -> vs.VideoNode:
-    dehalo = haf.FineDehalo(clip, rx=2, darkstr=0, thlimi=16, thmi=64)
-    clean = haf.EdgeCleaner(dehalo, strength=8, smode=1, hot=True)
-    cwarp = WarpFixChromaBlend(clean, thresh=96)
-    restore = core.std.Expr([dehalo, cwarp], 'x y min')
-    return restore
+        ssim_downscale = SSIM(sigmoid=True, kernel=BicubicDidee()).scale(dehalo, src.width, src.height)
+        retinex_mask = retinex_edgemask(src_y).std.Inflate().std.Maximum().std.Inflate()
+        downscaled = core.std.MaskedMerge(src_y, ssim_downscale, retinex_mask)
 
+        bicubic_upscale = Bicubic().scale(descaled, src.width, src.height)
+        restore_mask = descale_detail_mask(src_y, bicubic_upscale, thr=0.04, inflate=4, xxpand=(4, 4))
+        for mask_range, mask_clip in self.RESTORE_MASKS.items():
+            mask_clip = get_y(depth(mask_clip, get_depth(restore_mask)))
+            restore_mask = replace_ranges(restore_mask, mask_clip, mask_range)
+        restored = core.std.MaskedMerge(downscaled, src_y, restore_mask)
 
-def deband(clip: vs.VideoNode, mask: vs.VideoNode, strong: Optional[Tuple[int, int]] = None) -> vs.VideoNode:
-    deband_lo = dumb3kdb(clip, radius=16, threshold=28)
-    deband_hi = dumb3kdb(clip, radius=16, threshold=64)
-    replace = lvf.rfs(deband_lo, deband_hi, ranges=strong)
-    merge = core.std.MaskedMerge(replace, clip, mask)
-    return merge
+        denoise_y = MVTools.denoise(restored, thSAD=48, block_size=32, overlap=16, prefilter=Prefilter.MINBLUR2, sad_mode=SADMode.SPATIAL.same_recalc)
+        denoise_y = denoise_y.ttmpsm.TTempSmooth(maxr=1, thresh=1, mdiff=0, strength=1)
+        denoise_y = replace_ranges(denoise_y, restored, self.NO_DENOISE_RANGES)
+        denoise_c = ccd(src, thr=4, planes=[1, 2], matrix=Matrix.BT709)
+        denoise = join(denoise_y, denoise_c)
 
+        dumb_deband_normal = dumb3kdb(denoise, radius=16, threshold=24, use_neo=True)
+        dumb_deband_strong = dumb3kdb(denoise, radius=16, threshold=48, use_neo=True)
+        dumb_deband = replace_ranges(dumb_deband_normal, dumb_deband_strong, self.CURSED_BANDING_RANGES)
+        deband = core.std.MaskedMerge(dumb_deband, denoise, retinex_mask)
 
-def restore(clip: vs.VideoNode, src: vs.VideoNode, ext: FileInfo = None, EXT: Optional[Tuple[int, int]] = None) -> vs.VideoNode:
-    src = depth(src, 32)
-    descale = lvf.scale.descale(src, **descale_args, upscaler=None).resize.Bicubic(1920, 1080)
-    mask = lvf.scale.descale_detail_mask(plane(src, 0), descale)
-    src, mask = depth(src, 16), depth(mask, 16)
-    mask = iterate(mask, core.std.Deflate, 2)
-    mask = iterate(mask, core.std.Inflate, 8)
+        grain = adptvgrnMod(deband, strength=0.24, luma_scaling=8, sharp=64, grain_chroma=False, static=True)
+        final = depth(grain, 10).std.Limiter(16 << 2, [235 << 2, 240 << 2], [0, 1, 2])
 
-    if EXT != None:
-        mask_ext = core.imwri.Read(ext.path).resize.Point(format=mask.format.id, matrix=1)
-        mask_ext = core.std.AssumeFPS(mask_ext*len(mask), mask)
-        mask = lvf.rfs(mask, mask_ext, ranges=EXT)
+        for ranges, params in self.LETTERBOX_RANGES.items():
+            params['ranges'] = ranges
+            final = letterbox_fix(final, src, **params)
 
-    restored = core.std.MaskedMerge(clip, src, mask)
-    return restored
+        set_output(src)
+        # set_output(upscaled)
+        # set_output(aa)
+        # set_output(dehalo)
+        # set_output(retinex_mask)
+        # set_output(downscaled)
+        # set_output(restore_mask)
+        # set_output(restored)
+        # set_output(denoise)
+        # set_output(deband)
+        set_output(final)
 
-
-def grain(clip: vs.VideoNode) -> vs.VideoNode:
-    grain = adptvgrnMod(clip, strength=0.2, sharp=60, static=True)
-    final = depth(grain, 10)
-    return final
-
-
-def comp(src, fin, mod = None):
-    frames = [x for x in range(1, min(len(src), len(fin))) if x % mod == 0] if mod else None
-    comp = lvf.comp(src , fin, frames)
-    return comp
+        return final
 

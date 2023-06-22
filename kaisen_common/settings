@@ -1,9 +1,11 @@
 -o {clip_output:s} - --y4m
---crf 15 --qcomp 0.8 --preset slower --ref 6
---psy-rd 2.0 --psy-rdoq 2.0 --aq-mode 3 --aq-strength 0.95
---bframes 16 --rc-lookahead 80 --sar 1 --keyint 250 --min-keyint 23
---subme 5 --rskip 0 --cbqpoffs -3 --crqpoffs -3 --no-cutree --no-open-gop
---deblock=-2:-2 --no-sao --no-sao-non-deblock --no-strong-intra-smoothing
+--crf 14 --qcomp 0.75 --preset veryslow --ref 5
+--psy-rd 2.0 --psy-rdoq 2.0 --aq-mode 3 --aq-strength 0.85
+--bframes 16 --rc-lookahead 80 --sar 1 --keyint 240 --min-keyint 23
+--rd 4 --subme 5 --rskip 0 --cbqpoffs -2 --crqpoffs -2 --no-cutree --no-open-gop
+--limit-refs 1 --no-limit-modes --tu-intra-depth 2 --tu-inter-depth 2 --no-fast-intra
+--weightb --b-intra --no-early-skip --no-tskip --no-tskip-fast --no-rect --no-amp
+--no-sao --no-sao-non-deblock --no-strong-intra-smoothing --deblock=-2:-2
 --frames {frames:d} --fps {fps_num:d}/{fps_den:d} --output-depth {bits:d}
 --min-luma {min_luma:d} --max-luma {max_luma:d} --range limited
 --colormatrix bt709 --colorprim bt709 --transfer bt709
