@@ -22,21 +22,20 @@ Keyframes File: jujutsu_04_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 256
-Active Line: 261
-Video Position: 26902
+Scroll Position: 239
+Active Line: 251
+Video Position: 26282
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
-Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.28,0:00:09.19,Default,Ijichi,0,0,0,,Our window verified the curse womb three hours ago.
-Dialogue: 0,0:00:09.95,0:00:15.18,Default,Ijichi,0,0,0,,Once ninety-percent were successfully evacuated, they made the call to seal off the center.
-Dialogue: 0,0:00:15.91,0:00:20.00,Default,Ijichi,0,0,0,,Citizens within a five hundred meter radius \Nhave been evacuated as well.
+Dialogue: 0,0:00:04.28,0:00:09.19,Default,Ijichi,0,0,0,,Our window verified the cursed womb three hours ago.
+Dialogue: 0,0:00:09.95,0:00:15.18,Default,Ijichi,0,0,0,,Once ninety percent were successfully evacuated, they made the call to seal off the center.
+Dialogue: 0,0:00:15.91,0:00:20.00,Default,Ijichi,0,0,0,,Citizens within a 500 meter radius \Nhave been evacuated as well.
 Dialogue: 0,0:00:21.33,0:00:22.71,Default,Yuji,0,0,0,,{*}Mr. Ijichi{*Ijichi-san}, question.
 Dialogue: 0,0:00:23.09,0:00:24.67,Default,Yuji,0,0,0,,What's a window here?
 Dialogue: 0,0:00:24.67,0:00:29.91,Default,Ijichi,0,0,0,,A window is a member of \NJujutsu Tech who can see curses.
@@ -44,8 +43,8 @@ Dialogue: 0,0:00:29.91,0:00:31.85,Default,Ijichi,0,0,0,,They aren't sorcerers, t
 Dialogue: 0,0:00:31.85,0:00:33.62,Default,Yuji,0,0,0,,Oh, okay.
 Dialogue: 0,0:00:33.62,0:00:34.84,Default,Ijichi,0,0,0,,Let's continue.
 Dialogue: 0,0:00:35.64,0:00:37.74,Default,Ijichi,0,0,0,,Detainee Block 2.
-Dialogue: 0,0:00:38.35,0:00:43.31,Default,Ijichi,0,0,0,,At present, five of them\N remain there with the curse womb.
-Dialogue: 0,0:00:43.31,0:00:50.48,Default,Ijichi,0,0,0,,If this curse womb is the type that metamorphoses, we predict it will become a special-grade curse.
+Dialogue: 0,0:00:38.35,0:00:43.31,Default,Ijichi,0,0,0,,At present, five of them\N remain inside with the cursed womb.
+Dialogue: 0,0:00:43.31,0:00:50.48,Default,Ijichi,0,0,0,,If this cursed womb is the type that metamorphoses, we predict it will become a special-grade curse.
 Dialogue: 0,0:00:50.95,0:00:52.25,Default,Both,0,0,0,,{\i1}Special grade.
 Dialogue: 0,0:00:52.25,0:00:56.94,Default,Yuji,0,0,0,,Hey, so, I still don't really understand what "special grade" means.
 Dialogue: 0,0:00:57.95,0:01:01.46,Default,Ijichi,0,0,0,,Then allow me to explain it on idiot level. {I would love to change this to "Then allow me to explain <i>Curses For Dummies.</i>"}
@@ -66,7 +65,7 @@ Dialogue: 0,0:01:33.61,0:01:34.46,Default,Yuji,0,0,0,,Oh?
 Dialogue: 0,0:01:34.46,0:01:38.78,Default,Fushiguro,0,0,0,,He's not someone who should be \Nloafing around at school in the first place.
 Dialogue: 0,0:01:39.16,0:01:41.03,Default,Gojo,0,0,0,,Don't expect any souvenirs!
 Dialogue: 0,0:01:41.03,0:01:45.15,Default,Ijichi,0,0,0,,Our line of work is always lacking in manpower.
-Dialogue: 0,0:01:45.79,0:01:49.00,Default,Ijichi,0,0,0,,You will often have to undertake missions that are beyond your power.
+Dialogue: 0,0:01:45.79,0:01:49.00,Default,Ijichi,0,0,0,,You will often have to undertake missions that are beyond your level.
 Dialogue: 0,0:01:50.19,0:01:54.48,Default,Ijichi,0,0,0,,This particular case, however, \Nis an abnormal one and most urgent.
 Dialogue: 0,0:01:54.48,0:01:56.55,Default,Ijichi,0,0,0,,Do not fight under any circumstances.
 Dialogue: 0,0:01:56.55,0:02:01.10,Default,Ijichi,0,0,0,,When confronted by a special-grade, \Nyou either run or you die.
@@ -91,7 +90,7 @@ Dialogue: 0,0:02:39.43,0:02:41.64,Default,Mother,0,0,0,,Why?
 Dialogue: 0,0:02:42.09,0:02:44.64,Default,Mother,0,0,0,,Why is this happening?!
 Dialogue: 0,0:02:47.25,0:02:49.31,Default,Yuji,0,0,0,,Fushiguro, Kugisaki.
 Dialogue: 0,0:02:49.99,0:02:51.10,Default,Yuji,0,0,0,,We're gonna save them!
-Dialogue: 0,0:02:51.59,0:02:53.02,Default,Kugisaki,0,0,0,,Damn right we are.
+Dialogue: 0,0:02:51.65,0:02:53.02,Default,Kugisaki,0,0,0,,Damn right.
 Comment: 0,0:02:54.94,0:02:54.98,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:04:24.99,0:04:25.04,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:04:29.54,0:04:30.73,Default,Ijichi,0,0,0,,Be careful.
@@ -144,36 +143,35 @@ Dialogue: 0,0:07:20.48,0:07:22.08,Default,Fushiguro,0,0,0,,Leave that body behin
 Dialogue: 0,0:07:22.08,0:07:23.56,Default,Yuji,0,0,0,,Quit messing around!
 Dialogue: 0,0:07:23.56,0:07:25.97,Default,Yuji,0,0,0,,We turned around and \Nthe way we got in here was gone!
 Dialogue: 0,0:07:25.97,0:07:27.80,Default,Yuji,0,0,0,,We won't be able to come back for it later!
-Dialogue: 0,0:07:27.80,0:07:29.51,Default,Fushiguro,0,0,0,,I never said we'll come back!
-Dialogue: 0,0:07:29.51,0:07:30.84,Default,Fushiguro,0,0,0,,I said leave it behind!
+Dialogue: 0,0:07:27.80,0:07:29.55,Default,Fushiguro,0,0,0,,I never said we'd come back!
+Dialogue: 0,0:07:29.55,0:07:30.84,Default,Fushiguro,0,0,0,,I said leave it behind!
 Dialogue: 0,0:07:31.84,0:07:34.35,Default,Fushiguro,0,0,0,,He's not even worth saving alive.
 Dialogue: 0,0:07:34.35,0:07:37.50,Default,Fushiguro,0,0,0,,Why the hell would I save his dead body?
-Dialogue: 0,0:07:38.19,0:07:41.85,Default,Yuji,0,0,0,,Not worth saving? What are you talking about?!
+Dialogue: 0,0:07:38.19,0:07:41.85,Default,Yuji,0,0,0,,Not worth saving? Care to explain?!
 Dialogue: 0,0:07:41.85,0:07:43.86,Default,Fushiguro,0,0,0,,This is a juvenile detention center.
 Dialogue: 0,0:07:43.86,0:07:47.74,Default,Fushiguro,0,0,0,,Sorcerers are granted access to all information about the scene beforehand.
 Dialogue: 0,0:07:48.85,0:07:55.12,Default,Fushiguro,0,0,0,,This Okazaki Tadashi hit a little girl on her way home from school while driving without a license.
 Dialogue: 0,0:07:55.12,0:07:57.96,Default,Fushiguro,0,0,0,,And that was his second offense \Nof driving without license.
 Dialogue: 0,0:07:59.27,0:08:04.84,Default,Fushiguro,0,0,0,,I know you're stuck on saving lots of people and guiding them to proper deaths.
-Dialogue: 0,0:08:04.84,0:08:09.80,Default,Fushiguro,0,0,0,,But what will you do when someone you saved kills someone else in the future?
+Dialogue: 0,0:08:04.84,0:08:09.80,Default,Fushiguro,0,0,0,,But what will you do when someone you saved today kills someone else in the future?
 Dialogue: 0,0:08:11.30,0:08:14.06,Default,Yuji,0,0,0,,Then why did you save me?!
 Dialogue: 0,0:08:15.93,0:08:17.06,Default,Kugisaki,0,0,0,,Cut it out!
-Dialogue: 0,0:08:17.48,0:08:20.80,Default,Kugisaki,0,0,0,,Christ, what are you two doing?!
+Dialogue: 0,0:08:17.48,0:08:20.80,Default,Kugisaki,0,0,0,,Jeez, what are you two doing?!
 Dialogue: 0,0:08:20.80,0:08:22.23,Default,Kugisaki,0,0,0,,Have you both totally lost it?
 Dialogue: 0,0:08:22.23,0:08:25.23,Default,Kugisaki,0,0,0,,This isn't the time or the place{\fscx180}—{\fscx}
 Dialogue: 0,0:08:26.94,0:08:28.69,Default,Yuji,0,0,0,,Kugisaki?
-Dialogue: 0,0:08:28.69,0:08:31.95,Default,Fushiguro,0,0,0,,{\i1}No way! My Divine Dog should've sensed the curse!
+Dialogue: 0,0:08:28.69,0:08:31.95,Default,Fushiguro,0,0,0,,{\i1}No way! My Divine Dog should've sensed it!
 Dialogue: 0,0:08:35.47,0:08:36.41,Default,Fushiguro,0,0,0,,Itadori!
 Dialogue: 0,0:08:37.24,0:08:38.46,Default,Fushiguro,0,0,0,,We're running!
 Dialogue: 0,0:08:38.46,0:08:41.33,Default,Fushiguro,0,0,0,,We'll search for Kugisaki la{\fscx180}—{\fscx}
-Dialogue: 0,0:08:46.59,0:08:49.76,Default,Fushiguro,0,0,0,,{\i1}It's a special grade. No doubt about it.
+Dialogue: 0,0:08:46.59,0:08:49.76,Default,Fushiguro,0,0,0,,{\i1}It's a special-grade. No doubt about it.
 Dialogue: 0,0:08:49.76,0:08:50.80,Default,Fushiguro,0,0,0,,{\i1}I can't move.
 Dialogue: 0,0:08:51.39,0:08:52.62,Default,Yuji,0,0,0,,{\i1}Move it.
 Dialogue: 0,0:08:52.62,0:08:55.80,Default,Yuji,0,0,0,,{\i1}Move! Move! Move! Move!
 Dialogue: 0,0:08:56.59,0:08:58.39,Default,Grandfather,0,0,0,,Help people.
 Dialogue: 0,0:09:09.63,0:09:11.15,Default,Fushiguro,0,0,0,,Itadori?
-Dialogue: 0,0:09:13.58,0:09:14.24,Default,Itadori,0,0,0,,Huh?
 Dialogue: 0,0:09:18.75,0:09:21.90,Default,Kugisaki,0,0,0,,Come on, where {\i1}am{\i0} I?
-Dialogue: 0,0:09:21.90,0:09:23.95,Default,Kugisaki,0,0,0,,It's so dark, I can't see a thing.
+Dialogue: 0,0:09:21.90,0:09:23.95,Default,Kugisaki,0,0,0,,It's so dark, I can't see a damn thing.
 Dialogue: 0,0:09:26.46,0:09:27.71,Default,Kugisaki,0,0,0,,{\i1}I sense a curse!
 Dialogue: 0,0:09:29.22,0:09:31.31,Default,Kugisaki,0,0,0,,{\i1}How can there be so many?!
 Dialogue: 0,0:09:36.37,0:09:37.39,Default,Fushiguro,0,0,0,,Nue!
@@ -181,10 +179,9 @@ Dialogue: 0,0:09:47.68,0:09:50.90,Default,Fushiguro,0,0,0,,{\i1\fade(0,300)}Don'
 Dialogue: 0,0:09:52.12,0:09:55.00,Default,Yuji,0,0,0,,It has already closed the distance.\NNo running away now.
 Dialogue: 0,0:09:56.11,0:09:59.80,Default,Yuji,0,0,0,,Hey, Sukuna! If I die, you die too, right?
 Dialogue: 0,0:09:59.80,0:10:01.99,Default,Yuji,0,0,0,,If you don't want that, then help me out!
-Dialogue: 0,0:10:01.99,0:10:03.45,Default,Sukuna,0,0,0,,Nope!
-Dialogue: 0,0:10:03.45,0:10:05.96,Default,Sukuna,0,0,0,,Even if the parts of me inside you die,
-Dialogue: 0,0:10:05.96,0:10:09.46,Default,Sukuna,0,0,0,,I still have eighteen other fragments of my soul.
-Dialogue: 0,0:10:09.94,0:10:15.35,Default,Sukuna,0,0,0,,That said, I'm not in control of this body.
+Dialogue: 0,0:10:01.99,0:10:03.45,Default,Sukuna,0,0,0,,No way. {this could be a jojo's reference} {absolutely not}
+Dialogue: 0,0:10:03.45,0:10:09.46,Default,Sukuna,0,0,0,,Even if the parts of me inside you die, \NI still have eighteen other fragments of my soul.
+Dialogue: 0,0:10:09.92,0:10:15.35,Default,Sukuna,0,0,0,,That said, I'm not in control of this body.
 Dialogue: 0,0:10:15.35,0:10:17.65,Default,Sukuna,0,0,0,,If you want to switch, go ahead and switch.
 Dialogue: 0,0:10:17.65,0:10:19.51,Default,Sukuna,0,0,0,,But as soon as you do,
 Dialogue: 0,0:10:20.13,0:10:23.39,Default,Sukuna,0,0,0,,I'll kill that brat before the cursed spirit can.
@@ -225,7 +222,7 @@ Dialogue: 0,0:13:02.92,0:13:05.39,Default,Yuji,0,0,0,,{\i1}It hurts, it hurts, i
 Dialogue: 0,0:13:05.39,0:13:06.43,Default,Yuji,0,0,0,,{\i1}Why am I even...
 Dialogue: 0,0:13:06.80,0:13:10.87,Default,Yuji,0,0,0,,{\i1}If only I hadn't picked up that finger back then.
 Dialogue: 0,0:13:12.02,0:13:13.24,Default,Yuji,0,0,0,,{\i1}If I hadn't eaten it.
-Dialogue: 0,0:13:13.73,0:13:14.81,Default,Yuji,0,0,0,,{\i1}If only.
+Dialogue: 0,0:13:13.73,0:13:14.81,Default,Yuji,0,0,0,,{\i1}If only...
 Dialogue: 0,0:13:15.40,0:13:16.44,Default,Yuji,0,0,0,,{\fade(0,500)\i1}If only.
 Dialogue: 0,0:13:16.81,0:13:18.13,Default,Yuji,0,0,0,,{\i1}Stop!
 Dialogue: 0,0:13:18.13,0:13:19.42,Default,Yuji,0,0,0,,{\i1}Don't think about it!
@@ -269,16 +266,16 @@ Comment: 0,0:16:15.95,0:16:15.99,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:16:23.46,0:16:26.50,Default,Sukuna,0,0,0,,What a thoroughly annoying brat.
 Dialogue: 0,0:16:26.83,0:16:29.51,Default,Sukuna,0,0,0,,He's obviously screwing around with me.
 Dialogue: 0,0:16:32.34,0:16:34.93,Default,Sukuna,0,0,0,,Hold on a moment. I'm thinking right now.
-Dialogue: 0,0:16:34.93,0:16:38.85,Default,Sukuna,0,0,0,,What can I do to make that brat regret this?
+Dialogue: 0,0:16:34.93,0:16:38.85,Default,Sukuna,0,0,0,,What can I do to make him regret this?
 Dialogue: 0,0:16:41.16,0:16:46.09,Default,Sukuna,0,0,0,,{\i1}If I went after him, the brat would just switch back.
 Dialogue: 0,0:16:46.09,0:16:49.71,Default,Sukuna,0,0,0,,{\i1}So the most troublesome situation for him would be...
 Dialogue: 0,0:16:49.71,0:16:51.67,Default,Sukuna,0,0,0,,{\i1}this, of course.
 Dialogue: 0,0:16:51.67,0:16:53.86,Default,Sukuna,0,0,0,,{\i1}I'll put things back the way they were.
-Dialogue: 0,0:16:54.31,0:16:56.81,Default,Sukuna,0,0,0,,Hey, let's go kill the brats.
+Dialogue: 0,0:16:54.31,0:16:56.81,Default,Sukuna,0,0,0,,Come, let's go kill the brats.
 Dialogue: 0,0:16:57.71,0:16:58.91,Default,Sukuna,0,0,0,,Follow me.
 Dialogue: 0,0:17:06.96,0:17:07.59,Default,Sukuna,0,0,0,,Retard. {Oof}{k}
 Dialogue: 0,0:17:14.72,0:17:18.10,Default,Sukuna,0,0,0,,Ah, shit. I healed this one too.
-Dialogue: 0,0:17:20.23,0:17:22.39,Default,Sukuna,0,0,0,,You don't like going out for a stroll?
+Dialogue: 0,0:17:20.23,0:17:22.39,Default,Sukuna,0,0,0,,You don't like going out for strolls?
 Dialogue: 0,0:17:22.39,0:17:26.51,Default,Sukuna,0,0,0,,Well, I guess curses are\N supposed to linger at their point of origin.
 Dialogue: 0,0:17:26.51,0:17:28.82,Default,Sukuna,0,0,0,,Fine, fine. In that case,
 Dialogue: 0,0:17:29.71,0:17:31.61,Default,Sukuna,0,0,0,,you can die here!
@@ -287,7 +284,7 @@ Dialogue: 0,0:17:37.15,0:17:39.37,Default,Sukuna,0,0,0,,You're not finished alre
 Dialogue: 0,0:17:41.83,0:17:45.90,Default,Sukuna,0,0,0,,That's it. Come on, you can do better.
 Dialogue: 0,0:17:54.45,0:17:55.93,Default,Sukuna,0,0,0,,Even a cursed spirit...
 Dialogue: 0,0:17:56.82,0:17:58.96,Default,Sukuna,0,0,0,,would miss losing an arm, right?
-Dialogue: 0,0:18:16.16,0:18:18.83,Default,Fushiguro,0,0,0,,Please expand the evacuation area to ten kilometers.
+Dialogue: 0,0:18:16.16,0:18:18.83,Default,Fushiguro,0,0,0,,Please expand the evacuation area to 10 kilometers.
 Dialogue: 0,0:18:18.83,0:18:20.07,Default,Ijichi,0,0,0,,What about you?
 Dialogue: 0,0:18:20.54,0:18:23.50,Default,Fushiguro,0,0,0,,I'm waiting here for Itadori to return.
 Dialogue: 0,0:18:23.50,0:18:24.88,Default,Ijichi,0,0,0,,I see.
@@ -297,23 +294,21 @@ Dialogue: 0,0:18:34.68,0:18:39.51,Default,Fushiguro,0,0,0,,If you want to help, 
 Dialogue: 0,0:18:40.02,0:18:42.01,Default,Fushiguro,0,0,0,,Not that I imagine any are around.
 Dialogue: 0,0:18:42.01,0:18:43.77,Default,Ijichi,0,0,0,,I'll do what I can.
 Dialogue: 0,0:18:43.77,0:18:44.64,Default,Ijichi,0,0,0,,Later.
-Dialogue: 0,0:18:52.78,0:18:56.03,Default,Fushiguro,0,0,0,,{\i1}In the worst case scenario...
-Dialogue: 0,0:18:57.07,0:18:58.78,Default,Fushiguro,0,0,0,,I don't want to let him die.
+Dialogue: 0,0:18:52.78,0:18:56.03,Default,Fushiguro,0,0,0,,{\i1}In the worst-case scenario...
+Dialogue: 0,0:18:57.07,0:18:58.78,Default,Fushiguro,0,0,0,,I don't want him to die.
 Dialogue: 0,0:18:58.78,0:19:01.75,Default,Fushiguro,0,0,0,,{\fade(0,250)}Yes, it's personal. Please do something about it.
 Dialogue: 0,0:19:03.08,0:19:06.13,Default,Fushiguro,0,0,0,,{\i1}...it'll be my responsibility to end him.
 Dialogue: 0,0:19:08.70,0:19:11.21,Default,Sukuna,0,0,0,,Hey, did you know?
-Dialogue: 0,0:19:11.21,0:19:16.21,Default,Sukuna,0,0,0,,We're both classified as special grade, apparently.
+Dialogue: 0,0:19:11.21,0:19:16.21,Default,Sukuna,0,0,0,,We're both classified as "special grade," apparently.
 Dialogue: 0,0:19:16.21,0:19:19.26,Default,Sukuna,0,0,0,,Both you and me, man.
 Dialogue: 0,0:19:32.15,0:19:33.92,Default,Sukuna,0,0,0,,Good job, special-grade!
 Dialogue: 0,0:19:33.92,0:19:35.40,Default,Sukuna,0,0,0,,Keep at it. You can do it.
-Dialogue: 0,0:19:40.03,0:19:43.43,Default,Sukuna,0,0,0,,You look pleased. Want a compliment?
+Dialogue: 0,0:19:40.03,0:19:43.43,Default,Sukuna,0,0,0,,You look pleased. Want me to praise you?
 Dialogue: 0,0:19:44.02,0:19:50.79,Default,Sukuna,0,0,0,,Healing yourself with cursed energy isn't that hard for curses, unlike humans.
-Dialogue: 0,0:19:52.17,0:19:55.38,Default,Sukuna,0,0,0,,Neither you nor this brat
-Dialogue: 0,0:19:56.32,0:20:01.55,Default,Sukuna,0,0,0,,have the slightest idea of what a curse can do.
-Dialogue: 0,0:20:02.06,0:20:04.72,Default,Sukuna,0,0,0,,This is a good opportunity, so I'll show you
-Dialogue: 0,0:20:05.25,0:20:07.97,Default,Sukuna,0,0,0,,what true jujutsu sorcery is.
+Dialogue: 0,0:19:52.17,0:20:01.55,Default,Sukuna,0,0,0,,Neither you nor this brat \Nhas the slightest idea of what a curse can do.
+Dialogue: 0,0:20:02.06,0:20:07.97,Default,Sukuna,0,0,0,,This is a good opportunity, so allow me to give you \Na taste of true jujutsu sorcery. {now we know that sukuna loves to cook so imma sprinkle some cooking references here and there}
 Dialogue: 0,0:20:10.25,0:20:11.90,Default,Sukuna,0,0,0,,Domain Expansion:
-Dialogue: 0,0:20:20.53,0:20:22.62,Default,Sukuna,0,0,0,,Malevolent Shrine!
+Dialogue: 0,0:20:20.53,0:20:22.33,Default,Sukuna,0,0,0,,{\fade(0,80)}Malevolent Shrine!
 Dialogue: 0,0:20:29.02,0:20:31.94,Default,Sukuna,0,0,0,,I was only going for three slices,
 Dialogue: 0,0:20:31.94,0:20:34.04,Default,Sukuna,0,0,0,,but jeez, man, you're weak.
 Dialogue: 0,0:20:34.80,0:20:38.25,Default,Sukuna,0,0,0,,Oh, yeah, and then there's this.
@@ -336,8 +331,8 @@ Dialogue: 0,0:23:07.03,0:23:08.24,Default,Kugisaki,0,0,0,,I know what you mean.
 Dialogue: 0,0:23:08.24,0:23:13.23,Default,Kugisaki,0,0,0,,I've hurt my neck several times\N dealing with ingrown hairs while depilating.
 Dialogue: 0,0:23:13.23,0:23:15.29,Default,Kugisaki,0,0,0,,Of course, I've hurt my pores, too.
 Dialogue: 0,0:23:15.29,0:23:17.04,Default,Itadori,0,0,0,,How are they related?
-Dialogue: 0,0:23:17.04,0:23:20.57,Default,Itadori,0,0,0,,I've noticed you often sound irritated while on calls.
-Dialogue: 0,0:23:20.57,0:23:23.70,Default,Fushiguro,0,0,0,,You can blame {*}Mr. Gojo{*Gojo-sensei} for that.
+Dialogue: 0,0:23:17.04,0:23:20.57,Default,Itadori,0,0,0,,I've noticed you often sound irritated on calls.
+Dialogue: 0,0:23:20.57,0:23:23.70,Default,Fushiguro,0,0,0,,You can thank {*}Mr. Gojo{*Gojo-sensei} for that.
 Dialogue: 0,0:23:23.70,0:23:27.30,Default,Kugisaki,0,0,0,,And you usually wander around when you're on call.
 Dialogue: 0,0:23:27.30,0:23:28.68,Default,Ijichi,0,0,0,,Speaking of phones,
 Dialogue: 0,0:23:28.68,0:23:32.80,Default,Ijichi,0,0,0,,can you stay on a call while \Nholding the phone against your shoulder?

@@ -22,9 +22,9 @@ Keyframes File: jujutsu_03_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 305
-Active Line: 308
-Video Position: 30074
+Scroll Position: 326
+Active Line: 338
+Video Position: 33872
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.52,0:00:01.86,Default,Yaga,0,0,0,,Satoru.
 Dialogue: 0,0:00:01.86,0:00:03.69,Default,Yaga,0,0,0,,Show him to the dorm.
-Dialogue: 0,0:00:03.69,0:00:06.86,Default,Yaga,0,0,0,,Explain about the security and rules to him too.
+Dialogue: 0,0:00:03.69,0:00:06.86,Default,Yaga,0,0,0,,Explain the security and rules to him too.
 Dialogue: 0,0:00:09.61,0:00:10.91,Default,Yaga,0,0,0,,You're in.
 Dialogue: 0,0:00:10.91,0:00:12.58,Default,Yaga,0,0,0,,Welcome to Jujutsu Tech.
 Dialogue: 0,0:00:14.37,0:00:17.62,Default,Yuji,0,0,0,,Fushiguro!\NYou're looking good for real this time.
@@ -47,8 +47,8 @@ Dialogue: 0,0:00:23.46,0:00:25.46,Default,Fushiguro,0,0,0,,Classes and missions 
 Dialogue: 0,0:00:25.46,0:00:27.76,Default,Fushiguro,0,0,0,,I never asked for this.
 Dialogue: 0,0:00:26.55,0:00:27.76,Alt,Yuji,0,0,0,,Oh, wow!
 Dialogue: 0,0:00:27.76,0:00:29.30,Default,Yuji,0,0,0,,It's so organized in here!
-Dialogue: 0,0:00:29.30,0:00:32.14,Default,Fushiguro,0,0,0,,Back off. I never said you're welcome!
-Dialogue: 0,0:00:32.97,0:00:35.18,Default,Gojo,0,0,0,,Wow, you two get along so well!
+Dialogue: 0,0:00:29.30,0:00:32.14,Default,Fushiguro,0,0,0,,Back off. You're not welcome!
+Dialogue: 0,0:00:32.97,0:00:35.18,Default,Gojo,0,0,0,,Getting along already!
 Dialogue: 0,0:00:35.18,0:00:37.43,Default,Gojo,0,0,0,,By the way, we're heading out tomorrow!
 Dialogue: 0,0:00:37.43,0:00:41.44,Default,Gojo,0,0,0,,We're gonna go pick up the third newcomer.
 Dialogue: 0,0:00:44.48,0:00:48.11,Default,Station,0,0,0,,{\an8}The train bound for Shibuya and Shinagawa
@@ -67,7 +67,7 @@ Dialogue: 0,0:01:30.24,0:01:32.45,Default,Fushiguro,0,0,0,,You know what our sch
 Dialogue: 0,0:01:32.45,0:01:34.45,Default,Fushiguro,0,0,0,,Everyone has unique circumstances.
 Dialogue: 0,0:01:35.87,0:01:37.70,Default,Gojo,0,0,0,,Sorry for the wait.
 Dialogue: 0,0:01:37.70,0:01:38.20,Default,Gojo,0,0,0,,Oh?
-Dialogue: 0,0:01:39.00,0:01:40.62,Default,Gojo,0,0,0,,I see, your uniform made it in time.
+Dialogue: 0,0:01:39.00,0:01:40.62,Default,Gojo,0,0,0,,I see your uniform made it in time.
 Dialogue: 0,0:01:40.62,0:01:42.54,Default,Yuji,0,0,0,,Yep, it's a perfect fit.
 Dialogue: 0,0:01:42.54,0:01:45.34,Default,Yuji,0,0,0,,Though it's slightly different from Fushiguro's.
 Dialogue: 0,0:01:45.34,0:01:46.63,Default,Yuji,0,0,0,,It's got a hood, for one.
@@ -76,7 +76,7 @@ Dialogue: 0,0:01:50.26,0:01:50.97,Default,Yuji,0,0,0,,Oh?
 Dialogue: 0,0:01:51.42,0:01:53.68,Default,Yuji,0,0,0,,But I never put in any requests.
 Dialogue: 0,0:01:53.68,0:01:56.72,Default,Gojo,0,0,0,,I took the liberty of putting in \Na custom order for you.
 Dialogue: 0,0:01:58.64,0:02:00.10,Default,Yuji,0,0,0,,Well, whatever, I guess.
-Dialogue: 0,0:02:00.10,0:02:03.85,Default,Fushiguro,0,0,0,,Be careful. He has a habit of doing stuff like that.
+Dialogue: 0,0:02:00.10,0:02:03.85,Default,Fushiguro,0,0,0,,Be careful. He has a habit of doing things like that.
 Dialogue: 0,0:02:04.35,0:02:06.98,Default,Fushiguro,0,0,0,,More importantly, \Nwhy are we meeting up in Harajuku?
 Dialogue: 0,0:02:06.98,0:02:09.03,Default,Gojo,0,0,0,,Because it's what she asked for.
 Dialogue: 0,0:02:09.03,0:02:11.49,Default,Yuji,0,0,0,,Hey, look, it's popcorn! I want some!
@@ -99,13 +99,12 @@ Dialogue: 0,0:02:44.56,0:02:46.69,Default,Kugisaki,0,0,0,,Don't run from me! Com
 Dialogue: 0,0:02:46.69,0:02:49.48,Default,Yuji,0,0,0,,We're about to go talk to {\i1}her{\i0}?
 Dialogue: 0,0:02:48.56,0:02:50.69,Default,Scout,0,0,0,,{\an8}I'm sorry! Please let me go!
 Dialogue: 0,0:02:50.69,0:02:52.82,Default,Yuji,0,0,0,,This is kinda embarrassing.
-Dialogue: 0,0:02:52.82,0:02:54.57,Default,,0,0,0,,Tch! Look who's talking.
+Dialogue: 0,0:02:52.82,0:02:54.57,Default,,0,0,0,,Tch. Look who's talking.
 Dialogue: 0,0:02:54.57,0:02:56.91,Default,Gojo,0,0,0,,Hey! We're over here!
 Dialogue: 0,0:02:56.91,0:02:59.91,Default,Girl,0,0,0,,{\an8}Holy shit that blindfold looks hot!
 Dialogue: 0,0:03:03.41,0:03:05.21,Default,Gojo,0,0,0,,Okay, once again.
 Dialogue: 0,0:03:06.04,0:03:07.71,Default,Kugisaki,0,0,0,,The name's Kugisaki Nobara.
-Dialogue: 0,0:03:07.71,0:03:09.42,Default,Kugisaki,0,0,0,,You should feel honored, boys.
-Dialogue: 0,0:03:09.42,0:03:11.30,Default,Kugisaki,0,0,0,,You finally have a lady in the team. {fun fact: the word she uses here, "koitten" (紅一点) can mean "a flower among the grass" which is quite clever as her name "nobara" (のばら) literally means a wild flower} {sadly, stuff like this gets lost in translation}
+Dialogue: 0,0:03:07.71,0:03:11.30,Default,Kugisaki,0,0,0,,You should feel honored, boys.\NYou finally have a lady on the team. {fun fact: the word she uses here, "koitten" (紅一点) can mean "a flower among the grass" which is quite clever as her name "nobara" (のばら) literally means a wild flower} {sadly, stuff like this gets lost in translation}
 Comment: 0,0:03:11.88,0:03:11.92,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:04:41.93,0:04:41.97,Default,chptr,0,0,0,,{Part A}
 Dialogue: 1,0:04:42.14,0:04:48.89,Default,Kugisaki,0,0,0,,{\i1\an8\fade(0,2500)}Stare. {ah, whatever}
@@ -116,20 +115,20 @@ Dialogue: 0,0:04:53.23,0:04:55.23,Default,Kugisaki,0,0,0,,{\i1}He looks like a p
 Dialogue: 0,0:04:55.23,0:04:58.24,Default,Kugisaki,0,0,0,,{\i1}He's definitely the type\N that ate his own boogers as a kid.
 Dialogue: 0,0:04:58.99,0:05:00.40,Default,Kugisaki,0,0,0,,{\i1}And just his name?
 Dialogue: 0,0:05:00.40,0:05:03.07,Default,Kugisaki,0,0,0,,{\i1}I can't stand high-and-mighty dudes.
-Dialogue: 0,0:05:03.53,0:05:07.33,Default,Kugisaki,0,0,0,,{\i1}I bet he's into stuff like setting seagulls on fire. {LMAO I think it's better this way. Why explain a simple joke or prepare the viewer for a chaotic line. I love her the more chaotic she becomes.}
+Dialogue: 0,0:05:03.53,0:05:07.33,Default,Kugisaki,0,0,0,,{\i1}If he saw some oil-drenched seagulls,\N I bet he'd set them on fire. {LMAO I think it's better this way. Why explain a simple joke or prepare the viewer for a chaotic line. I love her the more chaotic she becomes.}
 Dialogue: 0,0:05:08.75,0:05:11.58,Default,Kugisaki,0,0,0,,Why does it always have to be me?
 Dialogue: 0,0:05:11.58,0:05:14.38,Default,Yuji,0,0,0,,She took one look and sighed.
-Dialogue: 0,0:05:14.38,0:05:16.09,Default,Fushiguro,0,0,0,,Are we going somewhere from here?
+Dialogue: 0,0:05:14.38,0:05:16.09,Default,Fushiguro,0,0,0,,Are we gonna go somewhere from here?
 Dialogue: 0,0:05:17.42,0:05:20.05,Default,Gojo,0,0,0,,We do have all three of you together.
 Dialogue: 0,0:05:20.05,0:05:23.09,Default,Gojo,0,0,0,,Not to mention,\N two of you are from the countryside.
-Dialogue: 0,0:05:23.43,0:05:24.60,Default,Gojo,0,0,0,,'Course we're going.
+Dialogue: 0,0:05:23.43,0:05:24.60,Default,Gojo,0,0,0,,'Course we gotta go.
 Dialogue: 0,0:05:24.60,0:05:25.85,Default,Gojo,0,0,0,,On a tour of Tokyo!
 Dialogue: 0,0:05:26.06,0:05:29.06,Default,Both,0,0,0,,Tokyo! Tokyo! Tokyo!
 Dialogue: 0,0:05:29.06,0:05:31.35,Default,Both,0,0,0,,We love Tokyo!
 Dialogue: 0,0:05:30.77,0:05:31.35,Alt,Fushiguro,0,0,0,,What?
 Dialogue: 0,0:05:31.35,0:05:33.27,Default,Kugisaki,0,0,0,,TDL! I wanna go to TDL!
 Dialogue: 0,0:05:33.27,0:05:35.48,Default,Yuji,0,0,0,,Idiot! TDL's in Chiba!
-Dialogue: 0,0:05:35.48,0:05:36.86,Default,Yuji,0,0,0,,{*}Teach{*Sensei}, let's go to Chinatown!
+Dialogue: 0,0:05:35.48,0:05:36.86,Default,Yuji,0,0,0,,Let's go to Chinatown, {*}Teach{*Sensei}!
 Dialogue: 0,0:05:36.86,0:05:39.28,Default,Kugisaki,0,0,0,,Chinatown's in Yokohama!
 Dialogue: 0,0:05:39.28,0:05:40.86,Default,Yuji,0,0,0,,Yokohama's part of Tokyo!
 Dialogue: 0,0:05:40.86,0:05:42.95,Default,Yuji,0,0,0,,Don't you know that? Look at a map!
@@ -173,9 +172,9 @@ Dialogue: 0,0:07:11.45,0:07:13.04,Default,Gojo,0,0,0,,It'll work on curses too.
 Dialogue: 0,0:07:14.50,0:07:15.62,Default,Kugisaki,0,0,0,,Pathetic.
 Dialogue: 0,0:07:18.33,0:07:19.88,Default,Gojo,0,0,0,,Oh, one more thing.
 Dialogue: 0,0:07:21.05,0:07:23.09,Default,Gojo,0,0,0,,Don't let Sukuna out.
-Dialogue: 0,0:07:24.13,0:07:27.72,Default,Gojo,0,0,0,,If you use him, you'll get rid of all the curses nearby in a flash,
+Dialogue: 0,0:07:24.13,0:07:27.72,Default,Gojo,0,0,0,,If you use him, you'll get rid of \Nall the curses nearby in a flash,
 Dialogue: 0,0:07:27.72,0:07:30.22,Default,Gojo,0,0,0,,but you'll also drag everyone around into it.
-Dialogue: 0,0:07:30.22,0:07:32.68,Default,Yuji,0,0,0,,Got it. I won't let him out.
+Dialogue: 0,0:07:30.22,0:07:32.68,Default,Yuji,0,0,0,,Got it. Won't let him out.
 Dialogue: 0,0:07:34.39,0:07:35.77,Default,Kugisaki,0,0,0,,Hurry it up.
 Dialogue: 0,0:07:35.77,0:07:36.64,Default,Yuji,0,0,0,,Yeah, yeah.
 Dialogue: 0,0:07:36.64,0:07:38.02,Default,Gojo,0,0,0,,Best of luck! {he did say it's a test}
@@ -184,7 +183,7 @@ Dialogue: 0,0:07:52.03,0:07:55.16,Default,Gojo,0,0,0,,Don't push yourself. You'r
 Dialogue: 0,0:07:55.54,0:07:58.12,Default,Fushiguro,0,0,0,,Someone needs to keep an eye on Itadori, right?
 Dialogue: 0,0:07:58.12,0:07:59.13,Default,Gojo,0,0,0,,That's true.
 Dialogue: 0,0:07:59.63,0:08:03.55,Default,Gojo,0,0,0,,But the one we're testing this time is Nobara.
-Dialogue: 0,0:08:03.55,0:08:05.09,Default,Kugisaki,0,0,0,,Ah, what a pain!
+Dialogue: 0,0:08:03.55,0:08:05.09,Default,Kugisaki,0,0,0,,Ah, what a royal pain!
 Dialogue: 0,0:08:05.09,0:08:08.55,Default,Kugisaki,0,0,0,,Why do I have to deal with curses \Nafter coming all the way to Tokyo?
 Dialogue: 0,0:08:08.55,0:08:11.51,Default,Yuji,0,0,0,,Wait, didn't you come here to exorcise curses?
 Dialogue: 0,0:08:11.51,0:08:14.56,Default,Kugisaki,0,0,0,,Let's save some time and split up.
@@ -194,7 +193,7 @@ Dialogue: 0,0:08:18.89,0:08:21.56,Default,Kugisaki,0,0,0,,Let's wrap this up qui
 Dialogue: 0,0:08:21.56,0:08:22.77,Default,Yuji,0,0,0,,Hold on a minute.
 Dialogue: 0,0:08:22.77,0:08:24.53,Default,Yuji,0,0,0,,Let's take this a bit more seriously.
 Dialogue: 0,0:08:24.53,0:08:26.32,Default,Yuji,0,0,0,,Curses are dangerous, you know.
-Dialogue: 0,0:08:30.07,0:08:32.87,Default,Kugisaki,0,0,0,,I don't wanna hear it from a newbie like you!
+Dialogue: 0,0:08:30.07,0:08:32.87,Default,Kugisaki,0,0,0,,I don't wanna hear it from a noob like you!
 Dialogue: 0,0:08:32.87,0:08:34.12,Default,Kugisaki,0,0,0,,Now get moving!
 Dialogue: 0,0:08:36.29,0:08:39.25,Default,Yuji,0,0,0,,What the heck? I can't read you at all!
 Dialogue: 0,0:08:39.25,0:08:41.04,Default,Kugisaki,0,0,0,,That's why you're not popular with girls!
@@ -203,15 +202,14 @@ Dialogue: 0,0:08:44.00,0:08:47.51,Default,Yuji,0,0,0,,I bet you're not popular e
 Dialogue: 0,0:08:57.93,0:09:03.48,Cursed,Curse,0,0,0,,Do... you need... a receipt?
 Dialogue: 0,0:09:03.81,0:09:05.07,Default,Yuji,0,0,0,,{\i1}It's a curse!
 Dialogue: 0,0:09:28.63,0:09:30.09,Default,Yuji,0,0,0,,I've got some moves!
-Dialogue: 0,0:09:31.55,0:09:32.80,Default,Gojo,0,0,0,,That Yuji guy,
+Dialogue: 0,0:09:31.55,0:09:32.59,Default,Gojo,0,0,0,,That Yuji guy,
 Dialogue: 0,0:09:33.97,0:09:35.30,Default,Gojo,0,0,0,,he's missing a few up here.
-Dialogue: 0,0:09:35.81,0:09:42.06,Default,Gojo,0,0,0,,These things that come after him, \Ntake the forms of bizarre-looking creatures.
-Dialogue: 0,0:09:42.06,0:09:44.77,Default,Gojo,0,0,0,,And he doesn't hesitate in killing them at all.
+Dialogue: 0,0:09:35.81,0:09:42.06,Default,Gojo,0,0,0,,These things that come after him \Ntake the form of bizarre-looking creatures,
+Dialogue: 0,0:09:42.06,0:09:44.77,Default,Gojo,0,0,0,,and he kills them without hesitation.
 Dialogue: 0,0:09:46.65,0:09:50.36,Default,Gojo,0,0,0,,Unlike you, he's not even all that familiar with curses.
 Dialogue: 0,0:09:50.36,0:09:54.37,Default,Gojo,0,0,0,,This guy used to be a normal high schooler until recently.
-Dialogue: 0,0:09:55.24,0:09:59.20,Default,Gojo,0,0,0,,Plenty of jujutsu sorcerers, \Neven talented ones, give up in frustration
-Dialogue: 0,0:09:59.20,0:10:02.21,Default,Gojo,0,0,0,,because they can't conquer their fear or disgust.
-Dialogue: 0,0:10:02.21,0:10:04.21,Default,Gojo,0,0,0,,You've seen it all before.
+Dialogue: 0,0:09:55.24,0:10:02.25,Default,Gojo,0,0,0,,Plenty of sorcerers, even talented ones, give up in frustration \Nbecause they can't conquer their fear and disgust.
+Dialogue: 0,0:10:02.25,0:10:04.21,Default,Gojo,0,0,0,,You've seen it all before.
 Dialogue: 0,0:10:06.38,0:10:09.67,Default,Gojo,0,0,0,,So today I wanna see how crazy she can get.
 Dialogue: 0,0:10:11.51,0:10:13.68,Default,Kugisaki,0,0,0,,Hey, you, curse.
 Dialogue: 0,0:10:19.68,0:10:21.77,Default,Kugisaki,0,0,0,,I mean you, mannequin in the center.
@@ -220,17 +218,17 @@ Dialogue: 0,0:10:26.86,0:10:29.78,Default,Kugisaki,0,0,0,,If you won't come out,
 Dialogue: 0,0:10:29.78,0:10:34.45,Default,Fushiguro,0,0,0,,Kugisaki already has experience, though. \NIsn't it a bit too late for that?
 Dialogue: 0,0:10:34.45,0:10:37.28,Default,Gojo,0,0,0,,Curses are born from human minds.
 Dialogue: 0,0:10:37.66,0:10:41.79,Default,Gojo,0,0,0,,Their strength and numbers \Ngrow in proportion to the population.
-Dialogue: 0,0:10:59.97,0:11:02.22,Default,Gojo,0,0,0,,Do you think Nobara understands
-Dialogue: 0,0:11:04.31,0:11:08.31,Default,Gojo,0,0,0,,that compared to the countryside, \Ncurses in Tokyo are on a whole other level?
+Dialogue: 0,0:10:59.97,0:11:02.22,Default,Gojo,0,0,0,,I wonder if Nobara understands
+Dialogue: 0,0:11:04.31,0:11:08.31,Default,Gojo,0,0,0,,that compared to the countryside, \Ncurses in Tokyo are on an entirely different level.
 Comment: 0,0:11:14.90,0:11:14.95,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:11:27.00,0:11:29.79,Default,Gojo,0,0,0,,Curses are born from human minds.
-Dialogue: 0,0:11:30.46,0:11:33.92,Default,Gojo,0,0,0,,Their strength and numbers \Ngrow in proportion to the population.
-Dialogue: 0,0:11:35.13,0:11:39.47,Default,Gojo,0,0,0,,Compared to the countryside, \Ncurses in Tokyo are on a whole other level.
+Dialogue: 0,0:11:30.42,0:11:33.92,Default,Gojo,0,0,0,,Their strength and numbers \Ngrow in proportion to the population.
+Dialogue: 0,0:11:35.13,0:11:39.47,Default,Gojo,0,0,0,,Compared to the countryside, \Ncurses in Tokyo are on an entirely different level.
 Dialogue: 0,0:11:47.10,0:11:49.44,Default,Kugisaki,0,0,0,,You might wanna pull those out.
 Dialogue: 0,0:11:54.86,0:11:56.95,Default,Kugisaki,0,0,0,,My cursed energy \Nwill flow into you otherwise.
 Dialogue: 0,0:12:05.08,0:12:06.50,Default,Kugisaki,0,0,0,,{\i1}Nailed it.{Bruh. XD}
 Dialogue: 0,0:12:18.72,0:12:20.22,Default,Kugisaki,0,0,0,,{\i1}A child?
-Dialogue: 0,0:12:20.72,0:12:24.22,Default,Kugisaki,0,0,0,,{\i1}Must have sneaked in here to play\N and ran into the curse.
+Dialogue: 0,0:12:20.72,0:12:24.22,Default,Kugisaki,0,0,0,,{\i1}Must've sneaked in here to play\N and ran into the curse.
 Dialogue: 0,0:12:27.69,0:12:31.94,Default,Kugisaki,0,0,0,,Hey, it's all right now. Come on out.
 Dialogue: 0,0:12:33.52,0:12:34.90,Default,Kugisaki,0,0,0,,{\fade(250,0)\c&H1E1E1E&\3c&HFFFFFF&\shad2.8}Whu?!
 Dialogue: 0,0:12:38.74,0:12:43.03,Default,Kugisaki,0,0,0,,I guess it's true that kids \Ndon't warm up to beautiful women.
@@ -238,16 +236,16 @@ Dialogue: 0,0:12:43.03,0:12:44.24,Default,Kugisaki,0,0,0,,Guess I'll call Itador
 Dialogue: 0,0:12:44.24,0:12:44.99,Default,Child,0,0,0,,Wait!
 Dialogue: 0,0:12:46.75,0:12:48.25,Default,Child,0,0,0,,Don't leave me here!
 Dialogue: 0,0:13:07.56,0:13:08.98,Default,Kugisaki,0,0,0,,{\i1}It's taking him hostage?
-Dialogue: 0,0:13:10.77,0:13:13.19,Default,Kugisaki,0,0,0,,{\i1}This curse has intelligence?!
-Dialogue: 0,0:13:13.19,0:13:17.44,Default,Gojo,0,0,0,,When I say "level," I don't just mean \Nthe amount of cursed energy they have.
-Dialogue: 0,0:13:18.15,0:13:19.61,Default,Gojo,0,0,0,,It's their cunning.
+Dialogue: 0,0:13:10.77,0:13:13.19,Default,Kugisaki,0,0,0,,{\i1}This curse has intelligence!
+Dialogue: 0,0:13:13.19,0:13:17.44,Default,Gojo,0,0,0,,When I say "level," I don't just mean \Nthe amount of cursed energy.
+Dialogue: 0,0:13:18.15,0:13:19.61,Default,Gojo,0,0,0,,It's their cunning. {T_T}
 Dialogue: 0,0:13:19.61,0:13:23.49,Default,Gojo,0,0,0,,Monsters that have intelligence often force cruel choices upon you,
 Dialogue: 0,0:13:24.78,0:13:28.20,Default,Gojo,0,0,0,,{\fade(200,0)}where the weight of human lives hang in the balance.
 Dialogue: 0,0:13:28.62,0:13:30.16,Default,Kugisaki,0,0,0,,Damn it, damn it, damn it!
 Dialogue: 0,0:13:30.16,0:13:32.17,Default,Kugisaki,0,0,0,,Damn it all!
 Dialogue: 0,0:13:32.58,0:13:35.42,Default,Kugisaki,0,0,0,,{\i1}This curse isn't even all that strong!
-Dialogue: 0,0:13:35.71,0:13:36.92,Default,Kugisaki,0,0,0,,{\i1}Fourth-grade?
-Dialogue: 0,0:13:36.92,0:13:39.38,Default,Kugisaki,0,0,0,,{\i1}Maybe a lower third-grade at best!
+Dialogue: 0,0:13:35.71,0:13:36.92,Default,Kugisaki,0,0,0,,{\i1}Fourth grade?
+Dialogue: 0,0:13:36.92,0:13:39.38,Default,Kugisaki,0,0,0,,{\i1}Maybe a lower third grade at best!
 Dialogue: 0,0:13:40.55,0:13:42.72,Default,Kugisaki,0,0,0,,{\i1}But it's aware of that!
 Dialogue: 0,0:13:42.72,0:13:45.89,Default,Kugisaki,0,0,0,,{\i1}That's why it chose to take a hostage!
 Dialogue: 0,0:13:47.81,0:13:49.39,Default,Kugisaki,0,0,0,,{\i1}Calm yourself down.
@@ -258,7 +256,7 @@ Dialogue: 0,0:14:04.41,0:14:06.33,Default,Kugisaki,0,0,0,,{\i1}I have to survive
 Dialogue: 0,0:14:12.04,0:14:13.21,Default,Kugisaki,0,0,0,,I'm unarmed.
 Dialogue: 0,0:14:13.79,0:14:15.42,Default,Kugisaki,0,0,0,,Let the kid go.
 Dialogue: 0,0:14:21.80,0:14:23.47,Default,Kugisaki,0,0,0,,{\i1}I'm such an idiot!
-Dialogue: 0,0:14:23.97,0:14:26.68,Default,Kugisaki,0,0,0,,{\i1}See? It has no intention letting him go!
+Dialogue: 0,0:14:23.97,0:14:26.68,Default,Kugisaki,0,0,0,,{\i1}See? It has no intention of letting him go!
 Dialogue: 0,0:14:31.06,0:14:34.65,Default,Kugisaki,0,0,0,,I wish I could've seen Saori{**-chan} one last time.
 Dialogue: 0,0:14:38.65,0:14:40.78,Default,Yuji,0,0,0,,Crap, did I miss?
 Dialogue: 0,0:14:54.08,0:14:55.21,Default,Yuji,0,0,0,,You okay?
@@ -280,13 +278,14 @@ Dialogue: 0,0:16:00.15,0:16:02.90,Default,Kugisaki,0,0,0,,Saori{**-chan} moved t
 Dialogue: 0,0:16:15.50,0:16:22.46,Default,Kugisaki,0,0,0,,She was as cute as a doll and as kind as a nun.
 Dialogue: 0,0:16:30.84,0:16:35.77,Default,Kugisaki,0,0,0,,Yet she was ostracized by the villagers.
 Dialogue: 0,0:16:39.69,0:16:42.40,Default,Kugisaki,0,0,0,,They said she looked down on the country folk.
-Dialogue: 0,0:16:42.69,0:16:47.40,Default,Kugisaki,0,0,0,,They made her out to be a bad person, and in the end
-Dialogue: 0,0:16:51.41,0:16:52.74,Default,Kugisaki,0,0,0,,drove her out of the village.
+Dialogue: 0,0:16:42.40,0:16:45.40,Default,Kugisaki,0,0,0,,They made her out to be a bad person.
+Dialogue: 0,0:16:46.24,0:16:47.40,Default,Kugisaki,0,0,0,,And in the end,
+Dialogue: 0,0:16:51.41,0:16:52.91,Default,Kugisaki,0,0,0,,drove her out of the village.
 Dialogue: 0,0:16:56.75,0:16:59.41,Default,Kugisaki,0,0,0,,Calling it sickening would be an understatement.
-Dialogue: 0,0:17:03.67,0:17:07.17,Default,Kugisaki,0,0,0,,She'd treat me to all these \Nhomemade sweets I'd never tried before.{questionable, you can revert my changes here if they dont feel like they fit.}
-Dialogue: 0,0:17:07.17,0:17:11.72,Default,Kugisaki,0,0,0,,And give them to me with a smile, saying,\N "The ones from the bakery are even better."
+Dialogue: 0,0:17:03.67,0:17:07.13,Default,Kugisaki,0,0,0,,She would treat me to all these \Nhomemade sweets I'd never heard of, {questionable, you can revert my changes here if they dont feel like they fit.}
+Dialogue: 0,0:17:07.13,0:17:11.72,Default,Kugisaki,0,0,0,,always accompanied by a smile as she said,\N "The ones from the bakery are even better."
 Dialogue: 0,0:17:16.06,0:17:19.89,Default,Kugisaki,0,0,0,,If I had stayed in that village...
-Dialogue: 0,0:17:22.31,0:17:26.40,Default,Yuji,0,0,0,,This is why I told you it's dangerous\Nto go alone and you need to take it seriously!
+Dialogue: 0,0:17:22.31,0:17:26.40,Default,Yuji,0,0,0,,This is why I told you it's dangerous to go alone, \Nand to take this seriously! {zelda reference?}
 Dialogue: 0,0:17:26.40,0:17:29.24,Default,Kugisaki,0,0,0,,You never said it was dangerous to go alone!
 Dialogue: 0,0:17:29.24,0:17:30.82,Default,Yuji,0,0,0,,Wait, I didn't?!
 Dialogue: 0,0:17:30.82,0:17:34.87,Default,Kugisaki,0,0,0,,Besides, what the heck are ya eating that lets ya punch through walls with yer bare hands?!
@@ -297,7 +296,7 @@ Dialogue: 0,0:17:43.58,0:17:47.21,Default,Yuji,0,0,0,,You know, you've been aski
 Dialogue: 0,0:17:47.21,0:17:49.34,Default,Yuji,0,0,0,,Why did you come to Jujutsu Tech?
 Dialogue: 0,0:17:49.34,0:17:50.63,Default,Kugisaki,0,0,0,,Why?
 Dialogue: 0,0:17:51.72,0:17:53.68,Default,Kugisaki,0,0,0,,Because I hate the countryside.
-Dialogue: 0,0:17:53.68,0:17:55.85,Default,Kugisaki,0,0,0,,I wanted to live in Tokyo!
+Dialogue: 0,0:17:53.68,0:17:55.85,Default,Kugisaki,0,0,0,,I wanna live in Tokyo!
 Dialogue: 0,0:17:59.31,0:18:03.77,Default,Kugisaki,0,0,0,,This was the only way for me to move to the city without having to worry about the expenses!
 Dialogue: 0,0:18:03.77,0:18:06.15,Default,Yuji,0,0,0,,You would risk your life for that? {This should be "You would risk your life over that?" But then you will have to change the next line to "I would." but that doesn't seem to fit there ._. Could be made just "yes" XD}{sure}
 Dialogue: 0,0:18:09.53,0:18:11.07,Default,Kugisaki,0,0,0,,Sure I would.
@@ -308,7 +307,7 @@ Dialogue: 0,0:18:43.10,0:18:48.90,Default,Kugisaki,0,0,0,,If we ever meet again,
 Dialogue: 0,0:18:53.86,0:18:57.62,Default,Kugisaki,0,0,0,,So as far as that goes, I'm grateful to you too.
 Dialogue: 0,0:18:57.62,0:19:02.83,Default,Kugisaki,0,0,0,,The future would've been pretty bleak \Nif I had died or had been the only one to survive.
 Dialogue: 0,0:19:03.79,0:19:04.83,Default,Kugisaki,0,0,0,,Thanks.
-Dialogue: 0,0:19:05.58,0:19:09.96,Default,Yuji,0,0,0,,Well, having a more serious reason doesn't make anyone better than the rest.
+Dialogue: 0,0:19:05.58,0:19:09.96,Default,Yuji,0,0,0,,Well, it's not like having a more serious reason \Nmakes anyone better than others.
 Dialogue: 0,0:19:10.38,0:19:12.84,Default,Kugisaki,0,0,0,,Okay! I've said thanks so we're even now!
 Dialogue: 0,0:19:12.84,0:19:14.63,Default,Kugisaki,0,0,0,,No more of that talk!
 Dialogue: 0,0:19:14.63,0:19:16.05,Default,Yuji,0,0,0,,What is wrong with her?
@@ -335,21 +334,23 @@ Dialogue: 0,0:20:13.48,0:20:14.69,Default,Yuji,0,0,0,,Right, Fushiguro?
 Dialogue: 0,0:20:15.82,0:20:17.99,Default,Yuji,0,0,0,,Huh? What's the matter, Fushiguro?
 Dialogue: 0,0:20:17.99,0:20:18.74,Default,Fushiguro,0,0,0,,Nothing.
 Dialogue: 0,0:20:18.74,0:20:20.62,Default,Gojo,0,0,0,,He's pouting because he was left out.
-Dialogue: 0,0:20:21.70,0:20:22.99,Default,Kugisaki,0,0,0,,Pool little baby!
+Dialogue: 0,0:20:21.70,0:20:22.99,Default,Kugisaki,0,0,0,,Poor little baby!
 Dialogue: 0,0:20:30.79,0:20:33.75,Default,Narrator,0,0,0,,Record of July 2018.
 Dialogue: 0,0:20:33.75,0:20:36.84,Default,Narrator,0,0,0,,West Tokyo City, Eishu Juvenile Detention Center.
 Dialogue: 0,0:20:39.55,0:20:42.35,Default,Narrator,0,0,0,,In the sky, just above the exercise yard.
 Dialogue: 0,0:20:44.64,0:20:45.56,Default,Boy,0,0,0,,Hey...
 Dialogue: 0,0:20:47.10,0:20:48.35,Default,Boy,0,0,0,,What's that?
 Dialogue: 0,0:20:49.73,0:20:50.44,Default,Okazaki,0,0,0,,What?
-Dialogue: 0,0:20:50.98,0:20:59.15,Default,Narrator,0,0,0,,The cursed womb of potentially a special-grade mythical spirit \Nwas witnessed by several non-sorcerers. {okay, so he actually calls it a mythical/imaginary curse but this is also just a temporary working title. the problem with that is it creates a hella lot of confusion. heck, i even think this is a mistake. so i'm gonna drop the "mythical/imaginary" as well as the "working title" bits because of that and 'cause it just flows better.} {after checking out mahito's explainaton in ep9, this actually makes sense. the point is that they don't really have a classification for powerful unindetified curses so they just put it all under mythical/imaginary. based on all that, this is the least confusing line i could come up with.}
+Dialogue: 0,0:20:50.98,0:20:54.94,Default,Narrator,0,0,0,,The cursed womb of a \Npotential special-grade mythical spirit
+Dialogue: 0,0:20:54.94,0:20:59.03,Default,Narrator,0,0,0,,was witnessed by several non-sorcerers. {okay, so he actually calls it a mythical/imaginary curse but this is also just a temporary working title. the problem with that is it creates a hella lot of confusion. heck, i even think this is a mistake. so i'm gonna drop the "mythical/imaginary" as well as the "working title" bits because of that and 'cause it just flows better.} {after checking out mahito's explainaton in ep9, this actually makes sense. the point is that they don't really have a classification for powerful unindetified curses so they just put it all under mythical/imaginary. based on all that, this is the least confusing line i could come up with.}
 Dialogue: 0,0:21:00.32,0:21:02.28,Default,Boy,0,0,0,,That up there! Looks like an egg.
 Dialogue: 0,0:21:02.28,0:21:04.03,Default,Okazaki,0,0,0,,What are you talking about?
-Dialogue: 0,0:21:05.54,0:21:10.00,Default,Narrator,0,0,0,,Due to the emergency nature, three first-years from Jujutsu Tech were dispatched to the scene.
+Dialogue: 0,0:21:05.54,0:21:07.16,Default,Narrator,0,0,0,,Due to the emergency nature,
+Dialogue: 0,0:21:07.16,0:21:10.08,Default,Narrator,0,0,0,,three Jujutsu Tech first-years\N were dispatched to the scene.
 Dialogue: 0,0:21:10.87,0:21:13.13,Default,Narrator,0,0,0,,{\fade500}One of them died.
 Comment: 0,0:21:14.88,0:21:14.92,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:22:44.84,0:22:44.88,Default,chptr,0,0,0,,{Juju Stroll}
-Dialogue: 0,0:22:45.34,0:22:47.14,Default,Screen&Voice,0,0,0,,Juju Stroll.
+Dialogue: 0,0:22:45.34,0:22:47.14,Default,,0,0,0,,Juju Stroll.
 Dialogue: 0,0:22:47.51,0:22:49.64,Default,Kugisaki,0,0,0,,Itadori. I'm gonna go with paper.
 Dialogue: 0,0:22:50.64,0:22:52.64,Default,Both,0,0,0,,Rock! Paper! Scissors!
 Dialogue: 0,0:22:52.64,0:22:53.77,Default,Kugisaki,0,0,0,,Hell yeah!
@@ -371,7 +372,7 @@ Dialogue: 0,0:23:23.80,0:23:27.68,Default,Gojo,0,0,0,,My favorite is Sushi Go, b
 Dialogue: 0,0:23:27.68,0:23:29.10,Default,Itadori,0,0,0,,You get it, {*}my man{*Sensei}! {lenny}
 Dialogue: 0,0:23:29.10,0:23:30.43,Default,Kugisaki,0,0,0,,Hey, don't act like it's decided.
 Dialogue: 0,0:23:30.81,0:23:32.72,Default,Itadori,0,0,0,,Kugisaki, listen closely.
-Dialogue: 0,0:23:32.72,0:23:33.93,Default,Itadori,0,0,0,,At Splendid Sushi
+Dialogue: 0,0:23:32.72,0:23:33.93,Default,Itadori,0,0,0,,At Splendid Sushi,
 Dialogue: 0,0:23:34.39,0:23:36.69,Default,Itadori,0,0,0,,the sushi comes to you on a bullet train!
 Dialogue: 0,0:23:36.90,0:23:38.19,Default,Kugisaki,0,0,0,,Wha?!
 Dialogue: 0,0:23:38.44,0:23:41.40,Default,Itadori,0,0,0,,{\an8}Driver, this girl's never had revolving sushi before.

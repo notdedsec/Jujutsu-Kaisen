@@ -162,6 +162,8 @@ Dialogue: 0,0:11:16.57,0:11:16.61,Signs,Phone,0,0,0,,{\fscy104.4\fscx104.4\blur0
 Dialogue: 0,0:11:16.61,0:11:16.65,Signs,Phone,0,0,0,,{\fscy104.38\fscx104.38\blur0.8\fnCabin\fs50\shad0\c&HE9E8E8&\an5\frz334.04\frx14\fry4\be1\\pos(1086.56,139.09)}Gojo Satoru
 Dialogue: 0,0:11:16.65,0:11:16.73,Signs,Phone,0,0,0,,{\fscy123.47\fscx123.47\blur0.8\fnCabin\fs50\shad0\c&HE9E8E8&\an5\frz338.07\frx14\fry4\be1\\pos(944.19,15.74)}Gojo Satoru
 Dialogue: 0,0:19:01.57,0:19:03.28,Signs,Heading,0,0,0,,{\be1\fnIwata Mincho Old Pro-Fate B\fs50\c&H5F5B5C&\b0\fscx91\fscy91\fax-0.24\frz350.6\pos(1364.93,299.47)}Survey on Bullying
+Dialogue: 0,0:19:58.93,0:20:00.18,Signs,Heading,0,0,0,,{\be1\fnIwata Mincho Old Pro-Fate B\fs30\c&H332C26&\b0\fscx91\fscy91\fax-0.33\frz327.3\pos(892.81,769.47)}Surve           ullying
+Dialogue: 0,0:20:00.18,0:20:01.43,Signs,Heading,0,0,0,,{\be1\fnIwata Mincho Old Pro-Fate B\fs88\c&H3D3632&\b0\fscy91\fax-0.3\frz343\pos(1357.07,539.85)}vey on             g
 Dialogue: 0,0:22:15.02,0:22:17.52,Signs,Screen&Voice,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
 Dialogue: 0,0:22:48.13,0:22:54.06,Signs,Screen,0,0,0,,{\fnA-OTF Folk Pro-En B\fad(1404,1)\an5\bord0\c&HF9FAFD&\be1\fs80\xshad6\4c&H1B3057&\pos(998.47,202.04)}Ingredients
 Dialogue: 0,0:22:48.13,0:22:54.06,Signs,Screen,0,0,0,,{\an4\fs40\fnFOT-HummingStdEn-NatsuKise\be1\c&H222D34&\bord0\shad0\fad(1404,1)\pos(674.29,389.15)}Ground chicken

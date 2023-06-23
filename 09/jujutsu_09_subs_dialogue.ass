@@ -20,10 +20,10 @@ Audio File: jujutsu_09_premux.mkv
 Video File: jujutsu_09_premux.mkv
 Keyframes File: jujutsu_09_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 293
-Active Line: 300
-Video Position: 29246
+Video Zoom Percent: 0.750000
+Scroll Position: 235
+Active Line: 247
+Video Position: 23747
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,9 +36,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 5,0:00:06.22,0:00:09.24,Default,Tsubasa,0,0,0,,He was totally ogling my boobs!
 Dialogue: 5,0:00:12.67,0:00:16.54,Default,Nishimura,0,0,0,,You do have a huge rack, Tsubasa.\NThey bounce when you run.
 Dialogue: 5,0:00:16.54,0:00:19.33,Default,Honda,0,0,0,,I totally get why you'd do it, Yoshino{**-chan}.
-Dialogue: 5,0:00:20.22,0:00:25.02,Default,Junpei,0,0,0,,{\i1}If I could kill everyone I don't like \Nwith the press of button, I probably wouldn't do it. {If I had a button for killing everyone I don't like, \NI probably wouldn't press it.}
+Dialogue: 5,0:00:20.22,0:00:23.38,Default,Junpei,0,0,0,,{\i1}If I could kill everyone I don't like \Nwith the press of a button,
+Dialogue: 5,0:00:23.38,0:00:25.02,Default,Junpei,0,0,0,,{\i1}I probably wouldn't do it. {If I had a button for killing everyone I don't like, \NI probably wouldn't press it.}
 Dialogue: 5,0:00:25.02,0:00:26.45,Default,Tsubasa,0,0,0,,{\an8}Gross!
-Dialogue: 5,0:00:26.05,0:00:31.47,Default,Junpei,0,0,0,,{\i1}But if there was a button \Nfor killing everyone who didn't like me,
+Dialogue: 5,0:00:26.05,0:00:31.55,Default,Junpei,0,0,0,,{\i1\fade(0,120)}But if there was a button for \Nkilling everyone who didn't like me,
 Dialogue: 5,0:00:26.45,0:00:28.49,Default,Sayama,0,0,0,,{\an8}Pipe down, you guys.
 Dialogue: 5,0:00:35.68,0:00:37.26,Default,Junpei,0,0,0,,{\i1}I wouldn't hesitate.
 Dialogue: 5,0:00:39.99,0:00:41.24,Default,Junpei,0,0,0,,Excuse me.
@@ -47,14 +48,14 @@ Dialogue: 5,0:00:46.32,0:00:47.40,Default,Junpei,0,0,0,,Excuse me!
 Dialogue: 5,0:00:49.66,0:00:52.78,Default,Junpei,0,0,0,,One ticket for {\i1}Human Earthworm 3{\i0}.
 Dialogue: 5,0:00:52.78,0:00:54.90,Default,WorkerA,0,0,0,,That'll be 1,800 yen.
 Dialogue: 5,0:00:54.90,0:00:56.73,Default,Junpei,0,0,0,,Yeah, here.
-Dialogue: 5,0:01:01.57,0:01:03.71,Default,WorkerA,0,0,0,,The show will be starting soon.
-Dialogue: 5,0:01:05.35,0:01:11.05,Default,Mad Doctor,0,0,0,,{\an8}During the years I served as a doctor, saving lives,
+Dialogue: 5,0:01:01.57,0:01:03.67,Default,WorkerA,0,0,0,,The show will be starting soon.
+Dialogue: 5,0:01:05.35,0:01:11.05,Default,Mad Doctor,0,0,0,,{\an8}During the years I spent saving lives as a doctor,
 Dialogue: 5,0:01:11.05,0:01:15.81,Default,Mad Doctor,0,0,0,,{\an8}I found myself arriving at this question again and again.
 Dialogue: 5,0:01:17.05,0:01:23.31,Default,Mad Doctor,0,0,0,,{\an8}Where does a person's life, their soul, actually reside?
 Dialogue: 5,0:01:23.31,0:01:25.84,Default,Mad Doctor,0,0,0,,{\an8}That's when I realized it!
 Dialogue: 5,0:01:27.32,0:01:31.99,Default,Mad Doctor,0,0,0,,{\an8}The shape of one's soul creates the body!
 Dialogue: 5,0:01:31.99,0:01:35.20,Default,Mad Doctor,0,0,0,,{\an8}So I began conducting research on the soul.
-Dialogue: 5,0:01:35.20,0:01:37.95,Default,Mad Doctor,0,0,0,,{\an8}All alone, in this lab deep in the mountains.
+Dialogue: 5,0:01:35.20,0:01:37.95,Default,Mad Doctor,0,0,0,,{\an8}All alone in this lab deep in the mountains.
 Dialogue: 5,0:01:09.65,0:01:13.68,Alt,Sayama,0,0,0,,{\an8}And the brat had fifty thousand on him!
 Dialogue: 5,0:01:13.68,0:01:14.89,Alt,Nishimura,0,0,0,,{\an8}For real?
 Dialogue: 5,0:01:14.89,0:01:15.81,Alt,Honda,0,0,0,,{\an8}That's awesome!
@@ -68,13 +69,13 @@ Dialogue: 5,0:01:17.77,0:01:20.87,Default,Junpei,0,0,0,,{\i1}Students shouldn't 
 Dialogue: 5,0:01:21.39,0:01:23.31,Default,Junpei,0,0,0,,{\i1}Not that I can talk.
 Dialogue: 5,0:01:26.37,0:01:29.57,Default,Junpei,0,0,0,,{\i1}Would it kill them to shut up?
 Dialogue: 5,0:01:30.19,0:01:32.91,Default,Junpei,0,0,0,,{\i1}I can't hear the movie at all.
-Dialogue: 5,0:01:33.70,0:01:37.95,Default,Junpei,0,0,0,,{\i1}I guess people like them are everywhere, just varying degrees of annoying.
+Dialogue: 5,0:01:33.70,0:01:37.95,Default,Junpei,0,0,0,,{\i1}Delinquents like them still manage to get by, huh?
 Dialogue: 5,0:01:38.42,0:01:39.70,Default,Sayama,0,0,0,,So, did you look?
 Dialogue: 5,0:01:40.29,0:01:41.54,Default,Junpei,0,0,0,,I didn't.
 Dialogue: 5,0:01:41.54,0:01:45.43,Default,Sayama,0,0,0,,Are you saying Tsubasa's lying?
 Dialogue: 5,0:01:45.43,0:01:47.50,Default,Tsubasa,0,0,0,,He was {\i1}totally{\i0} looking!
 Dialogue: 5,0:01:48.50,0:01:49.89,Default,Nishimura,0,0,0,,You're nuts, man!
-Dialogue: 5,0:01:49.89,0:01:51.85,Default,Honda,0,0,0,,Oh, there's a fifty percent discount.
+Dialogue: 5,0:01:49.89,0:01:51.85,Default,Honda,0,0,0,,Oh, there's a half-off discount.
 Dialogue: 5,0:01:51.85,0:01:52.97,Default,Nishimura,0,0,0,,Really? Where?
 Dialogue: 5,0:01:52.97,0:01:56.04,Default,Tsubasa,0,0,0,,Hey! Teach him a lesson first!
 Dialogue: 5,0:01:56.04,0:02:01.56,Default,Junpei,0,0,0,,{\i1}This bitch... she's just using me to confirm her status.
@@ -88,7 +89,7 @@ Dialogue: 5,0:02:12.87,0:02:16.67,Default,Junpei,0,0,0,,You're not as cute as yo
 Dialogue: 5,0:02:18.16,0:02:20.72,Default,Junpei,0,0,0,,These three know that too.
 Dialogue: 5,0:02:20.72,0:02:22.87,Default,Junpei,0,0,0,,They're only fawning over you...
 Dialogue: 5,0:02:24.08,0:02:25.63,Default,Junpei,0,0,0,,because they think you'll let them bang{\fscx180}—{\fscx}
-Dialogue: 5,0:02:28.12,0:02:31.63,Default,Mad Doctor,0,0,0,,{\an8}Now to create the perfect human being!
+Dialogue: 5,0:02:28.12,0:02:31.63,Default,Mad Doctor,0,0,0,,{\an8}Now, to create the perfect human being!
 Dialogue: 5,0:02:30.48,0:02:31.63,Default,Sayama,0,0,0,,Nah, it ain't happening.
 Dialogue: 5,0:02:31.63,0:02:34.97,Default,Sayama,0,0,0,,She won't let me in her pants at all. \NNo point chasing after her.
 Dialogue: 5,0:02:34.97,0:02:35.97,Default,Junpei,0,0,0,,{\i1}Stop talking.
@@ -101,7 +102,7 @@ Dialogue: 5,0:02:55.07,0:02:57.26,Default,Sayama,0,0,0,,Yeah, I'm free right now
 Dialogue: 5,0:02:57.26,0:02:58.57,Default,Mahito,0,0,0,,Hey, guys.
 Dialogue: 5,0:02:58.57,0:02:59.66,Default,Sayama,0,0,0,,Maybe...
 Dialogue: 5,0:02:59.66,0:03:01.28,Default,Mahito,0,0,0,,Let's mind our manners, okay?
-Dialogue: 5,0:03:05.33,0:03:09.48,Default,Mad Doctor,0,0,0,,{\an8}No need to worry. Everything is proceeding as planed.
+Dialogue: 5,0:03:05.33,0:03:09.48,Default,Mad Doctor,0,0,0,,{\an8}No need to worry. Everything is proceeding as planned.
 Dialogue: 5,0:03:09.48,0:03:12.76,Default,Mad Doctor,0,0,0,,{\an8}It's all for the creation of the perfect human being.
 Dialogue: 5,0:03:21.92,0:03:22.93,Default,Junpei,0,0,0,,Wha...
 Dialogue: 5,0:03:23.35,0:03:24.48,Default,Junpei,0,0,0,,What is this?
@@ -118,14 +119,14 @@ Dialogue: 5,0:04:29.15,0:04:30.29,Default,Junpei,0,0,0,,Can I...
 Dialogue: 5,0:04:31.88,0:04:34.71,Default,Junpei,0,0,0,,do that too? {is it possible to learn this power?}
 Comment: 5,0:04:36.01,0:04:36.05,Default,chptr,0,0,0,,{Opening}
 Comment: 5,0:06:05.93,0:06:05.97,Default,chptr,0,0,0,,{Part A}
-Dialogue: 5,0:06:06.42,0:06:09.01,Default,Mob,0,0,0,,{\an8}Please stay back! This area is off limits!
+Dialogue: 5,0:06:06.42,0:06:09.01,Default,Mob,0,0,0,,{\an8}Please stay back! This area is off-limits!
 Dialogue: 5,0:06:10.11,0:06:13.30,Default,Cop,0,0,0,,{\an8}It seems like the victims were high school students.
 Dialogue: 5,0:06:21.11,0:06:22.88,Default,Junior Detective,0,0,0,,{\an8}Who were those guys?!
 Dialogue: 5,0:06:22.88,0:06:26.04,Default,Junior Detective,0,0,0,,Why were {\i1}they{\i0} on the scene before forensics?!
 Dialogue: 5,0:06:26.04,0:06:28.36,Default,Junior Detective,0,0,0,,One of them was just a kid, too!
 Dialogue: 5,0:06:28.36,0:06:30.95,Default,Senior Detective,0,0,0,,I don't know the details either.
 Dialogue: 5,0:06:30.95,0:06:33.83,Default,Senior Detective,0,0,0,,But you saw those stiffs, didn't you?
-Dialogue: 5,0:06:36.13,0:06:38.38,Default,Senior Detective,0,0,0,,That's beyond human understanding.
+Dialogue: 5,0:06:36.13,0:06:38.38,Default,Senior Detective,0,0,0,,That was outside the realm of humanity.
 Dialogue: 5,0:06:42.27,0:06:44.22,Default,Senior Detective,0,0,0,,Just pretend you never saw it.
 Dialogue: 5,0:06:44.64,0:06:47.89,Default,Senior Detective,0,0,0,,{\fade(0,500)}Otherwise, you're looking at an early retirement.
 Dialogue: 5,0:06:49.86,0:06:51.11,Default,Nanami,0,0,0,,Can you see it?
@@ -140,7 +141,7 @@ Dialogue: 5,0:07:16.12,0:07:17.12,Default,Yuji,0,0,0,,Oh!
 Dialogue: 5,0:07:17.42,0:07:18.61,Default,Yuji,0,0,0,,I can see them!
 Dialogue: 5,0:07:18.61,0:07:19.89,Default,Nanami,0,0,0,,Of course you can.
 Dialogue: 5,0:07:19.89,0:07:23.59,Default,Nanami,0,0,0,,Sensing before seeing is standard \Nfor one who is capable.
-Dialogue: 5,0:07:26.66,0:07:29.87,Default,Yuji,0,0,0,,How about being little more encouraging?
+Dialogue: 5,0:07:26.66,0:07:29.87,Default,Yuji,0,0,0,,How about being a little more encouraging?
 Dialogue: 5,0:07:29.87,0:07:32.03,Default,Nanami,0,0,0,,I won't praise or insult you.
 Dialogue: 5,0:07:32.03,0:07:36.37,Default,Nanami,0,0,0,,Adhere to the facts with a disciplined mind. {very annoying line. shows up again in s2/ch95 spoken by his student, ino, but in a different context} \NThat is my way of doing things.
 Dialogue: 5,0:07:36.37,0:07:40.34,Default,Nanami,0,0,0,,There was a time when I mistakenly believed that society operated the same way.
@@ -162,7 +163,7 @@ Dialogue: 5,0:08:19.90,0:08:22.57,Default,Nanami,0,0,0,,That's rich coming from 
 Dialogue: 5,0:08:22.98,0:08:26.46,Default,Yuji,0,0,0,,{\i1}A lot of them like to keep their eyes covered \Nwith sunglasses and stuff, huh?
 Dialogue: 5,0:08:27.07,0:08:28.24,Default,Yuji,0,0,0,,Ex-salaryman?
 Dialogue: 5,0:08:28.24,0:08:31.57,Default,Yuji,0,0,0,,Why didn't you become a sorcerer from the start?
-Dialogue: 5,0:08:31.57,0:08:33.60,Default,Nanami,0,0,0,,Why don't we introduce ourselves?
+Dialogue: 5,0:08:31.57,0:08:33.60,Default,Nanami,0,0,0,,Why don't we start with introductions?
 Dialogue: 5,0:08:33.60,0:08:35.70,Default,Nanami,0,0,0,,Nice to meet you, Itadori{**-kun}.
 Dialogue: 5,0:08:35.70,0:08:38.04,Default,Yuji,0,0,0,,Oh, right. Nice to meet you, too.
 Dialogue: 5,0:08:38.04,0:08:41.60,Default,Nanami,0,0,0,,The one thing I learned at Jujutsu Tech is that
@@ -271,15 +272,15 @@ Dialogue: 5,0:15:44.63,0:15:47.14,Default,Nanami,0,0,0,,What we've been fighting
 Dialogue: 5,0:15:49.22,0:15:50.72,Default,Ieiri,0,0,0,,They are humans.
 Dialogue: 5,0:15:51.05,0:15:54.27,Default,Ieiri,0,0,0,,No, I guess I should say they {\i1}were{\i0} humans.
 Dialogue: 5,0:15:54.27,0:15:56.47,Default,Ieiri,0,0,0,,Just like the three from the theater.
-Dialogue: 5,0:15:56.98,0:16:00.40,Default,Ieiri,0,0,0,,Their bodies were forcibly altered by a cursed technique.
+Dialogue: 5,0:15:56.94,0:16:00.40,Default,Ieiri,0,0,0,,Their bodies were forcibly altered\N by a cursed technique.
 Dialogue: 5,0:16:00.40,0:16:03.05,Default,Nanami,0,0,0,,If that was all, I would have noticed at the start.
-Dialogue: 5,0:16:03.05,0:16:08.00,Default,Nanami,0,0,0,,The two we fought possessed cursed energy, like cursed spirits.
+Dialogue: 5,0:16:03.05,0:16:08.00,Default,Nanami,0,0,0,,The two we fought possessed cursed energy,\Njust like cursed spirits.
 Dialogue: 5,0:16:08.00,0:16:12.01,Default,Ieiri,0,0,0,,You'll have to ask the culprit \Nabout their technique to explain that.
 Dialogue: 5,0:16:12.49,0:16:15.76,Default,Ieiri,0,0,0,,Though there is evidence that \Ntheir brain stems were tampered with.
 Dialogue: 5,0:16:15.76,0:16:19.85,Default,Ieiri,0,0,0,,Most likely to create a state of confusion and impaired consciousness.
 Dialogue: 5,0:16:19.85,0:16:25.77,Default,Ieiri,0,0,0,,If they can manipulate the brain, it might be possible for them to give cursed energy to humans.
-Dialogue: 5,0:16:25.77,0:16:29.97,Default,Ieiri,0,0,0,,The connection between the brain \Nand cursed energy is still a black box to us.
-Dialogue: 5,0:16:30.43,0:16:32.93,Default,Ieiri,0,0,0,,Oh, right, is Itadori listening?
+Dialogue: 5,0:16:25.77,0:16:29.97,Default,Ieiri,0,0,0,,The connection between the brain \Nand cursed energy is still a mystery to us.
+Dialogue: 5,0:16:30.43,0:16:32.93,Default,Ieiri,0,0,0,,Oh, right. Is Itadori listening?
 Dialogue: 5,0:16:32.93,0:16:34.36,Default,Yuji,0,0,0,,Oh, yeah.
 Dialogue: 5,0:16:35.35,0:16:41.02,Default,Ieiri,0,0,0,,To sum it up, these guys died of shock \Nfrom having their bodies modified.
 Dialogue: 5,0:16:41.56,0:16:43.25,Default,Ieiri,0,0,0,,You did not kill them.
@@ -288,7 +289,7 @@ Dialogue: 5,0:16:46.61,0:16:47.49,Default,Yuji,0,0,0,,Right.
 Dialogue: 5,0:16:51.28,0:16:55.68,Default,Yuji,0,0,0,,The gravity of death is the same to me either way.
 Dialogue: 5,0:16:56.50,0:16:58.46,Default,Yuji,0,0,0,,But still, this...
 Dialogue: 5,0:16:59.67,0:17:01.67,Default,Yuji,0,0,0,,This isn't right!
-Dialogue: 5,0:17:03.42,0:17:07.17,Default,Nanami,0,0,0,,{\i1}This kid genuinely gets upset over other people's deaths.
+Dialogue: 5,0:17:03.42,0:17:07.17,Default,Nanami,0,0,0,,{\i1}This kid genuinely gets upset for others.
 Dialogue: 5,0:17:08.21,0:17:12.76,Default,Nanami,0,0,0,,Those residuals were a bluff, likely meant to lure us in.
 Dialogue: 5,0:17:12.76,0:17:15.06,Default,Nanami,0,0,0,,Our foe is quite skilled.
 Dialogue: 5,0:17:15.06,0:17:18.27,Default,Nanami,0,0,0,,Looks like moderate effort won't cut it.
@@ -312,7 +313,7 @@ Dialogue: 5,0:18:23.87,0:18:25.53,Default,Junpei,0,0,0,,Oh, r-really?
 Dialogue: 5,0:18:33.68,0:18:35.34,Default,Mahito,0,0,0,,People have always feared...
 Dialogue: 5,0:18:36.85,0:18:41.34,Default,Mahito,0,0,0,,the earth, the forests, and the oceans.
 Dialogue: 5,0:18:42.52,0:18:46.56,Default,Mahito,0,0,0,,The cursed energy directed at them was so massive
-Dialogue: 5,0:18:47.12,0:18:52.06,Default,Mahito,0,0,0,,that before they took form, \Nthey gained consciousness and remained in hiding.
+Dialogue: 5,0:18:47.12,0:18:52.06,Default,Mahito,0,0,0,,that they gained consciousness \Nbefore they took form and remained in hiding.
 Dialogue: 5,0:18:53.39,0:18:56.02,Default,Mahito,0,0,0,,I'm proud to call them my friends.
 Dialogue: 5,0:18:58.38,0:19:01.96,Default,Junpei,0,0,0,,What are you born from, Mahito{**-san}?
 Dialogue: 5,0:19:04.63,0:19:05.60,Default,Mahito,0,0,0,,People.
@@ -361,7 +362,7 @@ Dialogue: 5,0:23:15.54,0:23:17.58,Default,,0,0,0,,Juju Stroll.
 Dialogue: 5,0:23:18.01,0:23:20.10,Default,Gojo,0,0,0,,Nanami! Let's go out together!
 Dialogue: 5,0:23:20.10,0:23:21.84,Default,Nanami,0,0,0,,No, thank you.
 Dialogue: 5,0:23:22.05,0:23:23.20,Default,Gojo,0,0,0,,I mean, s-seriously!
-Dialogue: 5,0:23:23.20,0:23:25.05,Default,Gojo,0,0,0,,I have something important to discuss.
+Dialogue: 5,0:23:23.20,0:23:25.05,Default,Gojo,0,0,0,,I have something important to discuss!
 Dialogue: 5,0:23:25.05,0:23:26.05,Default,Nanami,0,0,0,,Oh, how awful.
 Dialogue: 5,0:23:26.05,0:23:27.35,Default,Gojo,0,0,0,,I haven't even said anything yet!
 Comment: 5,0:23:45.03,0:23:45.07,Default,chptr,0,0,0,,{Preview}

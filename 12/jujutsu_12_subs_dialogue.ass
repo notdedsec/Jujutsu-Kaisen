@@ -21,9 +21,9 @@ Video File: jujutsu_12_premux.mkv
 Keyframes File: jujutsu_12_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 127
-Active Line: 131
-Video Position: 16899
+Scroll Position: 170
+Active Line: 174
+Video Position: 23537
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,13 +68,12 @@ Dialogue: 5,0:03:54.48,0:03:56.18,Default,Junpei,0,0,0,,It's none of your busine
 Dialogue: 5,0:03:56.71,0:03:59.19,Default,Yuji,0,0,0,,That's not something you get to decide!
 Dialogue: 5,0:03:59.76,0:04:03.85,Default,Junpei,0,0,0,,What's the point of blindly saving everyone?
 Dialogue: 5,0:04:05.60,0:04:09.10,Default,Junpei,0,0,0,,Don't overestimate the value of life!
-Dialogue: 5,0:04:13.25,0:04:16.15,Default,Junpei,0,0,0,,People pretend their emotions are everything,
-Dialogue: 5,0:04:16.15,0:04:19.86,Default,Junpei,0,0,0,,but the heart is just the metabolism of the soul.
-Dialogue: 5,0:04:19.86,0:04:21.07,Default,Junpei,0,0,0,,It's just a facade!
+Dialogue: 5,0:04:13.25,0:04:19.86,Default,Junpei,0,0,0,,People act like their hearts and emotions are everything,\Nbut it's all just the metabolism of the soul.
+Dialogue: 5,0:04:19.86,0:04:21.07,Default,Junpei,0,0,0,,It's a facade!
 Dialogue: 5,0:04:21.67,0:04:24.80,Default,Junpei,0,0,0,,I will not be restricted by such delusional rules.
 Dialogue: 5,0:04:25.75,0:04:29.93,Default,Junpei,0,0,0,,Those who deserve to die should not be spared.
-Dialogue: 5,0:04:31.13,0:04:33.17,Default,Junpei,0,0,0,,Go ahead and take a nap.
-Dialogue: 5,0:04:33.17,0:04:35.42,Default,Junpei,0,0,0,,There's something I need to take care of.
+Dialogue: 5,0:04:31.13,0:04:33.17,Default,Junpei,0,0,0,,Just stay in there and take a nap.
+Dialogue: 5,0:04:33.17,0:04:35.42,Default,Junpei,0,0,0,,I have some unfinished business.
 Dialogue: 5,0:04:38.72,0:04:42.14,Default,Mahito,0,0,0,,Your cursed technique is poison.
 Dialogue: 5,0:04:43.70,0:04:48.63,Default,Mahito,0,0,0,,Your cursed beast can secrete poison \Ncreated by cursed energy from its tentacles.
 Dialogue: 5,0:04:48.63,0:04:54.57,Default,Mahito,0,0,0,,In time you'll learn to control its size, strength, \Nand potency of the poison.
@@ -90,8 +89,8 @@ Dialogue: 5,0:05:48.99,0:05:49.95,Default,Junpei,0,0,0,,Why?!
 Dialogue: 5,0:05:51.52,0:05:52.58,Default,Junpei,0,0,0,,Why?!
 Dialogue: 5,0:05:59.21,0:06:01.86,Default,Junpei,0,0,0,,{\i1}He won't be able to dodge midair!
 Dialogue: 5,0:06:01.86,0:06:04.93,Default,Junpei,0,0,0,,{\i1}I'll take him out right before he lands!
-Dialogue: 5,0:06:14.99,0:06:17.53,Default,Yuji,0,0,0,,Junpei, I don't understand...
-Dialogue: 5,0:06:19.27,0:06:21.53,Default,Yuji,0,0,0,,a damn thing you're saying!
+Dialogue: 5,0:06:14.99,0:06:17.53,Default,Yuji,0,0,0,,What are you getting at, Junpei?
+Dialogue: 5,0:06:19.27,0:06:21.53,Default,Yuji,0,0,0,,I don't understand a damn thing!
 Dialogue: 5,0:06:22.84,0:06:25.78,Default,Yuji,0,0,0,,You can't string together whatever logic you want.
 Dialogue: 5,0:06:26.49,0:06:30.16,Default,Gojo,0,0,0,,{\fade(0,500)}When facing cursed beast users, \Ngo straight for the sorcerer.
 Dialogue: 5,0:06:31.20,0:06:33.25,Default,Yuji,0,0,0,,{\fade(150,0)}What you're doing is wrong.
@@ -194,11 +193,11 @@ Dialogue: 5,0:14:20.17,0:14:22.26,Default,Yuji,0,0,0,,I'm gonna kill you!
 Comment: 5,0:14:27.97,0:14:28.01,Default,chptr,0,0,0,,{Part B}
 Dialogue: 5,0:14:42.47,0:14:46.79,Default,Mahito,0,0,0,,Don't you mean "exorcise," jujutsu sorcerer?{why quotes? Maybe use italics to highlight the difference from "kill"?}
 Dialogue: 5,0:14:49.79,0:14:54.00,Default,Mahito,0,0,0,,{\i1}Itadori Yuji has no regard for his own life.
-Dialogue: 5,0:14:54.00,0:14:58.42,Default,Mahito,0,0,0,,{\i1\fade(0,300)}Geto advised against using a hostage to force him into a Binding Vow.
+Dialogue: 5,0:14:54.00,0:14:58.50,Default,Mahito,0,0,0,,{\i1\fade(0,300)}That's why Geto advised against using a hostage to force him into a Binding Vow.
 Dialogue: 5,0:14:59.80,0:15:04.63,Default,Mahito,0,0,0,,{\i1\fade(300,0)}But what if he encounters someone \Nhe desperately wants to kill but is unable to?
 Dialogue: 5,0:15:04.63,0:15:06.79,Default,Mahito,0,0,0,,{\i1}Will he turn to Sukuna?
 Dialogue: 5,0:15:07.82,0:15:13.31,Default,Mahito,0,0,0,,{\i1\fade(200,280)}If Junpei's death isn't enough, I'll make him watch \Nas I mutilate every student, one by one.
-Dialogue: 5,0:15:13.85,0:15:21.28,Default,Mahito,0,0,0,,{\i1\fade(300,0)}If we force him into a Binding Vow with hatred surpassing mutual interest, it will no doubt favor Sukuna.
+Dialogue: 5,0:15:13.85,0:15:21.73,Default,Mahito,0,0,0,,{\i1\fade(300,0)}If he's forced to enter a Binding Vow with hatred \Nrather than mutual interest, it will no doubt favor Sukuna. {the actual idea here is "if his hatred > mutual interest" but that doesn't exactly roll off the tongue}
 Dialogue: 5,0:15:21.73,0:15:26.19,Default,Mahito,0,0,0,,{\i1}And if that helps us win Sukuna over, \Nit'd just be icing on the cake!
 Dialogue: 5,0:15:29.74,0:15:34.91,Default,Mahito,0,0,0,,{\i1}All of this presumes that I'm stronger than him.
 Dialogue: 5,0:15:34.91,0:15:39.00,Default,Mahito,0,0,0,,{\i1}Why did he have to be my natural enemy.
@@ -206,15 +205,15 @@ Dialogue: 5,0:15:58.54,0:16:04.36,Default,Yuji,0,0,0,,{\i1}He keeps distorting h
 Dialogue: 5,0:16:05.32,0:16:11.32,Default,Mahito,0,0,0,,{\i1}Now that I know his attacks work on me, transforming into a bigger target is not a good idea.
 Dialogue: 5,0:16:12.83,0:16:14.09,Default,Both,0,0,0,,{\i1\pos(480,1020)}In that case...
 Dialogue: 5,0:16:12.83,0:16:14.09,Default,Both,0,0,0,,{\i1\pos(1440,1020)}In that case...
-Dialogue: 5,0:16:14.37,0:16:17.37,Default,Yuji,0,0,0,,{\i1}I don't care if it takes a hundred times or a thousand,
+Dialogue: 5,0:16:14.37,0:16:17.37,Default,Yuji,0,0,0,,{\i1}I don't care if it takes a hundred times or a thousand.
 Dialogue: 5,0:16:18.49,0:16:20.83,Default,Yuji,0,0,0,,{\i1}I will keep punching.
-Dialogue: 5,0:16:21.65,0:16:23.47,Default,Yuji,0,0,0,,{\i1}I'll beat him to a bloody pulp!
+Dialogue: 5,0:16:21.65,0:16:23.59,Default,Yuji,0,0,0,,{\i1}I'll beat him to a bloody pulp!
 Dialogue: 5,0:16:24.69,0:16:28.56,Default,Mahito,0,0,0,,{\i1}I need a form more honed toward murder.
 Dialogue: 5,0:16:28.56,0:16:30.80,Default,Mahito,0,0,0,,{\i1}A form inspired to kill! {he uses the word "inspiration" later too, as if he needs it to power-up, sort of. it's cringe but i'm gonna leave it as it is so people can make that connection}
 Dialogue: 5,0:16:32.49,0:16:33.93,Default,Mahito,0,0,0,,{\i1}I'll embody it!
 Dialogue: 5,0:16:59.96,0:17:03.04,Default,Yuji,0,0,0,,You can't stretch out forever!
 Dialogue: 5,0:17:20.69,0:17:23.02,Default,Mahito,0,0,0,,Most people would've let go.
-Dialogue: 5,0:17:24.57,0:17:29.28,Default,Mahito,0,0,0,,{\i1}Overextending myself makes me \Nlose control and weakens my durability.
+Dialogue: 5,0:17:24.52,0:17:29.28,Default,Mahito,0,0,0,,{\i1}Overextending myself makes me \Nlose control and weakens my defense.
 Dialogue: 5,0:17:53.80,0:17:55.97,Default,Mahito,0,0,0,,You can't beat me.
 Dialogue: 5,0:17:56.59,0:17:58.57,Default,Mahito,0,0,0,,Just swap out already.
 Dialogue: 5,0:18:00.22,0:18:01.94,Default,Mahito,0,0,0,,Let Sukuna out.
@@ -258,4 +257,5 @@ Dialogue: 5,0:21:06.87,0:21:09.53,Default,Nanami,0,0,0,,We must exorcise him rig
 Dialogue: 5,0:21:12.00,0:21:12.92,Default,Yuji,0,0,0,,Got it!
 Comment: 5,0:21:14.96,0:21:15.00,Default,chptr,0,0,0,,{Ending}
 Comment: 5,0:22:45.01,0:22:45.05,Default,chptr,0,0,0,,{Juju Stroll}
+Dialogue: 5,0:22:45.76,0:22:47.55,Cursed,,0,0,0,,Juju Shtroll.
 Comment: 5,0:23:45.03,0:23:45.07,Default,chptr,0,0,0,,{Preview}
