@@ -21,15 +21,15 @@ Video File: jujutsu_24_premux.mkv
 Keyframes File: jujutsu_24_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 349
-Active Line: 357
-Video Position: 33623
+Scroll Position: 312
+Active Line: 318
+Video Position: 31133
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,128,128,60,1
-Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -55,7 +55,7 @@ Dialogue: 0,0:01:40.06,0:01:41.44,Default,Yuji,0,0,0,,Kugisaki!
 Dialogue: 0,0:01:41.44,0:01:43.46,Default,Eso,0,0,0,,There's no need to worry.
 Dialogue: 0,0:01:43.46,0:01:47.84,Default,Eso,0,0,0,,My younger brother's blood \Ndoesn't have the same quality as mine.
 Dialogue: 0,0:01:47.84,0:01:53.84,Default,Eso,0,0,0,,And even mine won't kill you\N unless you were drowned in it.
-Dialogue: 0,0:01:53.84,0:01:57.59,Default,Eso,0,0,0,,Though it will hurt like hell.
+Dialogue: 0,0:01:53.84,0:01:57.59,Default,Eso,0,0,0,,Though it {\i1}will{\i0} hurt like hell.
 Dialogue: 0,0:01:57.59,0:02:01.39,Default,Eso,0,0,0,,This is where our technique starts.
 Dialogue: 0,0:02:01.39,0:02:05.10,Default,,0,0,0,,{\i1}Rot Technique: Decay.
 Dialogue: 0,0:02:11.44,0:02:12.53,Default,Kugisaki,0,0,0,,What?
@@ -70,19 +70,18 @@ Dialogue: 0,0:04:08.82,0:04:11.02,Default,Yuji,0,0,0,,{\i1}If it's a technique,
 Dialogue: 0,0:04:11.02,0:04:13.18,Default,Yuji,0,0,0,,{\i1}we just need to make them release it!
 Dialogue: 0,0:04:13.79,0:04:15.18,Default,Yuji,0,0,0,,So it{\i1} is{\i0} poisonous.
 Dialogue: 0,0:04:15.18,0:04:22.19,Default,Eso,0,0,0,,The result is essentially a poison, \Nbut our technique is actually decomposition.
-Dialogue: 0,0:04:22.19,0:04:27.70,Default,Eso,0,0,0,,{\i1}Now that I've revealed our technique, \Nthey'll actually die even faster.
+Dialogue: 0,0:04:22.19,0:04:27.70,Default,Eso,0,0,0,,{\i1}Now that I've revealed our technique, \Nthey'll die even faster.
 Dialogue: 0,0:04:28.12,0:04:31.20,Default,Eso,0,0,0,,So, what will you do now?
 Dialogue: 0,0:04:31.82,0:04:35.38,Default,Eso,0,0,0,,Brother, these sorcerers aren't anything special.
 Dialogue: 0,0:04:36.42,0:04:37.91,Default,Geto,0,0,0,,{\fade(200,0)}In the beginning of the Meiji Era,
-Dialogue: 0,0:04:37.91,0:04:41.64,Default,Geto,0,0,0,,there was a girl with an idiosyncrasy \Nthat allowed her to bear a cursed spirit's child. 
-Dialogue: 0,0:04:41.64,0:04:43.89,Default,Geto,0,0,0,,Starting from a pregnancy she had no recollection of,
-Dialogue: 0,0:04:43.89,0:04:46.81,Default,Geto,0,0,0,,and then being ostracized \Nby her family{\fscx180}—{\fscx}it made her go insane.
-Dialogue: 0,0:04:46.81,0:04:49.14,Default,Geto,0,0,0,,She would escape with\N the baby's corpse in her arms,
-Dialogue: 0,0:04:49.14,0:04:52.61,Default,Geto,0,0,0,,to a temple in the mountains \Nrun by a certain sorcerer.
+Dialogue: 0,0:04:37.91,0:04:41.64,Default,Geto,0,0,0,,there was a girl with an idiosyncrasy \Nthat allowed her to bear a cursed spirit's child.
+Dialogue: 0,0:04:41.64,0:04:46.81,Default,Geto,0,0,0,,Due to a pregnancy she had no recollection of,\N she was ostracized by her family.
+Dialogue: 0,0:04:46.81,0:04:49.10,Default,Geto,0,0,0,,With the baby's corpse in her arms,
+Dialogue: 0,0:04:49.10,0:04:52.61,Default,Geto,0,0,0,,she escaped to a temple in the mountains\N run by a certain sorcerer.
 Dialogue: 0,0:04:52.61,0:04:56.73,Default,Geto,0,0,0,,However, that was when her luck ran out.
 Dialogue: 0,0:04:57.33,0:04:58.90,Default,Geto,0,0,0,,Kamo Noritoshi.
-Dialogue: 0,0:04:58.90,0:05:03.45,Default,Geto,0,0,0,,Among all of sorcery's cultural legacy,\N he's remembered as the most vile of sorcerers.
-Dialogue: 0,0:05:03.45,0:05:05.33,Default,Geto,0,0,0,,A disgrace to the three major clans.
+Dialogue: 0,0:04:58.90,0:05:03.45,Default,Geto,0,0,0,,Among all of sorcery's cultural legacy,\N he is remembered as the vilest of sorcerers.
+Dialogue: 0,0:05:03.45,0:05:05.33,Default,Geto,0,0,0,,A disgrace to the Three Great Clans.
 Dialogue: 0,0:05:05.33,0:05:10.83,Default,Geto,0,0,0,,{\fade(0,200)}His curiosity was captivated by the possibility of \Na child born of a human and a cursed spirit.
 Dialogue: 0,0:05:11.08,0:05:12.54,Default,Geto,0,0,0,,{\fade(150,0)}Nine times, he impregnated her.
 Dialogue: 0,0:05:12.54,0:05:13.92,Default,Geto,0,0,0,,Nine times, he aborted her.
@@ -92,22 +91,22 @@ Dialogue: 0,0:05:27.52,0:05:31.31,Default,,0,0,0,,Was the origin of that power t
 Dialogue: 0,0:05:31.31,0:05:32.26,Default,,0,0,0,,Or perhaps...
 Dialogue: 0,0:05:32.72,0:05:34.76,Default,Eso,0,0,0,,{\i1}I have no memories of a mother.
 Dialogue: 0,0:05:35.48,0:05:41.39,Default,Eso,0,0,0,,{\i1}And we don't hold any sort of grudge\Nagainst humans or sorcerers.
-Dialogue: 0,0:05:41.74,0:05:43.91,Default,Eso,0,0,0,,{\i1}For a hundred-and-fifty years,
-Dialogue: 0,0:05:43.91,0:05:48.16,Default,Eso,0,0,0,,{\i1}we remained sealed away with only the faintest notion of each others' existence.
+Dialogue: 0,0:05:41.74,0:05:43.91,Default,Eso,0,0,0,,{\i1}For a hundred and fifty years,
+Dialogue: 0,0:05:43.91,0:05:48.16,Default,Eso,0,0,0,,{\i1}we remained sealed with only the\N faintest notion of each others' existence.
 Dialogue: 0,0:05:48.16,0:05:50.40,Default,Choso,0,0,0,,We'll side with the cursed spirits.
 Dialogue: 0,0:05:50.40,0:05:52.44,Default,Eso,0,0,0,,Are you sure about that?
-Dialogue: 0,0:05:52.44,0:05:54.92,Default,Eso,0,0,0,,They seemed shady, Brother.
+Dialogue: 0,0:05:52.44,0:05:54.92,Default,Eso,0,0,0,,They're quite shady, Brother.
 Dialogue: 0,0:05:55.38,0:06:00.42,Default,Choso,0,0,0,,The future those cursed spirits painted\N is more convenient for us.
-Dialogue: 0,0:06:00.42,0:06:03.05,Default,Choso,0,0,0,,That's all there is to it.
-Dialogue: 0,0:06:03.05,0:06:05.58,Default,Choso,0,0,0,,We don't owe them anything for our manifestation.
+Dialogue: 0,0:06:00.84,0:06:03.05,Default,Choso,0,0,0,,That's all there is to it.
+Dialogue: 0,0:06:03.05,0:06:05.58,Default,Choso,0,0,0,,We don't owe them anything \Nfor our manifestation.
 Dialogue: 0,0:06:05.58,0:06:07.42,Default,Choso,0,0,0,,Now listen, brothers.
 Dialogue: 0,0:06:07.85,0:06:09.92,Default,Choso,0,0,0,,Eso, you live for Kechizu.
-Dialogue: 0,0:06:10.27,0:06:12.43,Default,Choso,0,0,0,,Kechizu, you live for me.
-Dialogue: 0,0:06:12.86,0:06:14.93,Default,Choso,0,0,0,,And I'll live for you, Eso.
+Dialogue: 0,0:06:10.22,0:06:12.43,Default,Choso,0,0,0,,Kechizu, you live for me.
+Dialogue: 0,0:06:12.81,0:06:14.93,Default,Choso,0,0,0,,And I will live for you, Eso.
 Dialogue: 0,0:06:15.89,0:06:19.44,Default,Choso,0,0,0,,The three of us are one.
 Dialogue: 0,0:06:19.44,0:06:21.36,Default,Eso,0,0,0,,{\i1}I live for my brothers.
-Dialogue: 0,0:06:21.36,0:06:26.19,Default,Eso,0,0,0,,{\i1}If it's what my brothers desire, \NI'll give my life to grant it for them.
-Dialogue: 0,0:06:26.19,0:06:31.40,Default,Eso,0,0,0,,If it's too painful, would you \Nlike me to end you right away?
+Dialogue: 0,0:06:21.36,0:06:26.19,Default,Eso,0,0,0,,{\i1}If it's what my brothers desire, \Nthen I will give my life to grant it for them.
+Dialogue: 0,0:06:26.19,0:06:31.37,Default,Eso,0,0,0,,If it's too painful, would you like me\N to end you right away?
 Dialogue: 0,0:06:33.12,0:06:35.67,Default,Kugisaki,0,0,0,,A technique that guarantees victory once it hits?
 Dialogue: 0,0:06:35.67,0:06:37.20,Default,Kugisaki,0,0,0,,You guys are strong.
 Dialogue: 0,0:06:37.20,0:06:38.96,Default,Kugisaki,0,0,0,,Too bad for you, though.
@@ -120,27 +119,27 @@ Dialogue: 0,0:07:00.82,0:07:03.36,Default,Eso,0,0,0,,{\i1}A technique that flips
 Dialogue: 0,0:07:03.36,0:07:05.07,Default,Eso,0,0,0,,{\i1}It's a battle of attrition.
 Dialogue: 0,0:07:05.07,0:07:09.44,Default,Eso,0,0,0,,{\i1}So this will continue unless I release our technique?
 Dialogue: 0,0:07:10.11,0:07:12.24,Default,Kugisaki,0,0,0,,{\i1}Straw Doll Technique: Resonance.
-Dialogue: 0,0:07:12.57,0:07:17.79,Default,Kugisaki,0,0,0,,{\i1}By driving cursed energy into a humanoid medium that contains a part of the target,
-Dialogue: 0,0:07:17.79,0:07:21.00,Default,Kugisaki,0,0,0,,{\i1}I can damage it's actual body.
+Dialogue: 0,0:07:12.57,0:07:17.79,Default,Kugisaki,0,0,0,,{\i1}By driving cursed energy into a humanoid medium connected to a part of the target,
+Dialogue: 0,0:07:17.79,0:07:21.00,Default,Kugisaki,0,0,0,,{\i1}I can damage its actual body.
 Dialogue: 0,0:07:21.75,0:07:24.26,Default,Kugisaki,0,0,0,,{\i1}The range is fairly broad,
 Dialogue: 0,0:07:24.26,0:07:29.05,Default,Kugisaki,0,0,0,,{\i1}and its effect varies with the difference in strength and the value of the lost part.
 Dialogue: 0,0:07:29.84,0:07:33.93,Default,Kugisaki,0,0,0,,{\i1}Blood isn't very valuable for Straw Doll Technique.
 Dialogue: 0,0:07:34.74,0:07:38.48,Default,Kugisaki,0,0,0,,{\i1}Resonance, however, only requires a link to the target.
 Dialogue: 0,0:07:39.46,0:07:43.07,Default,Kugisaki,0,0,0,,{\i1}And their blood that's inside me right now
 Dialogue: 0,0:07:43.07,0:07:47.06,Default,,0,0,0,,{\i1}is strongly linking us through the Rot Technique! {want to capitalize Rot?} {alright}
-Dialogue: 0,0:07:47.70,0:07:50.91,Default,Kugisaki,0,0,0,,{\i1}It's a pleasant surprise \Nthat it worked on the younger one too.
+Dialogue: 0,0:07:47.70,0:07:50.91,Default,Kugisaki,0,0,0,,{\i1}It's a pleasant surprise that\N it worked on the younger one too.
 Dialogue: 0,0:07:50.91,0:07:53.03,Default,Kugisaki,0,0,0,,{\i1}If I'm gonna die here anyway,
 Dialogue: 0,0:07:53.74,0:07:57.00,Default,Kugisaki,0,0,0,,{\i1}then I'll keep hammering them with Resonance!
-Dialogue: 0,0:07:57.00,0:08:03.21,Default,Eso,0,0,0,,{\i1}That's quite intense but it won't be fatal no matter how many times she does it.
+Dialogue: 0,0:07:57.00,0:08:03.21,Default,Eso,0,0,0,,{\i1}That's quite intense, but it won't be \Nfatal no matter how many times she does it.
 Dialogue: 0,0:08:03.21,0:08:07.01,Default,Eso,0,0,0,,{\i1}As long as we hold out, you'll be the ones to die!
 Dialogue: 0,0:08:07.01,0:08:12.35,Default,Eso,0,0,0,,{\i1}Not to mention, while Decay is active, \Nthe pain and poison will keep you from mov{\fscx180}—{\fscx}
 Dialogue: 0,0:08:17.47,0:08:19.65,Default,Eso,0,0,0,,{\i1}How is he able to move that well?
 Dialogue: 0,0:08:22.64,0:08:23.89,Default,Kugisaki,0,0,0,,Resonance!
 Dialogue: 0,0:08:29.24,0:08:33.78,Default,Kugisaki,0,0,0,,{\fade(150,0)\i1}As the vessel for the King of Curses,\NItadori has resistance to all forms of poison.
 Dialogue: 0,0:08:33.78,0:08:37.82,Default,Kugisaki,0,0,0,,{\i1}This is because Ryomen Sukuna himself is a deadly poison. {smh smh this was an obvious one}
-Dialogue: 0,0:08:37.82,0:08:44.88,Default,Eso,0,0,0,,{\i1}The result is essentially a poison, \Nbut our technique is actually decomposition.
-Dialogue: 0,0:08:44.88,0:08:47.25,Default,Kugisaki,0,0,0,,{\i1}He's probably in pain from the decomposition,
-Dialogue: 0,0:08:47.25,0:08:49.88,Default,Kugisaki,0,0,0,,{\i1}but the resulting poison doesn't affect him.
+Dialogue: 0,0:08:37.82,0:08:44.88,Default,Eso,0,0,0,,The result is essentially a poison, \Nbut our technique is actually decomposition.
+Dialogue: 0,0:08:44.88,0:08:47.25,Default,Kugisaki,0,0,0,,{\i1}He must be in pain from the decomposition,
+Dialogue: 0,0:08:47.25,0:08:49.88,Default,Kugisaki,0,0,0,,{\i1}but the poison doesn't affect him.
 Dialogue: 0,0:08:50.29,0:08:52.33,Default,Kugisaki,0,0,0,,{\i1}And if it's just pain
 Dialogue: 0,0:08:56.34,0:08:58.09,Default,Kugisaki,0,0,0,,{\i1}then Itadori Yuji
 Dialogue: 0,0:09:00.59,0:09:02.15,Default,Kugisaki,0,0,0,,{\i1}will not stop!
@@ -159,7 +158,7 @@ Dialogue: 0,0:09:36.97,0:09:41.82,Default,Eso,0,0,0,,{\i1}But does she even have
 Dialogue: 0,0:09:42.94,0:09:44.81,Default,Eso,0,0,0,,{\i1}Even with her interference,
 Dialogue: 0,0:09:44.81,0:09:49.44,Default,Eso,0,0,0,,{\i1}there's no way I'll be killed by this guy before she dies.
 Dialogue: 0,0:09:49.99,0:09:52.98,Default,Eso,0,0,0,,{\i1}I will not release the technique!
-Dialogue: 0,0:09:53.42,0:09:55.90,Default,Kechizu,0,0,0,,B-Brother!
+Dialogue: 0,0:09:53.42,0:09:55.90,Cursed,Kechizu,0,0,0,,B-Brother!
 Dialogue: 0,0:09:57.52,0:10:00.40,Default,Choso,0,0,0,,{\i1}The three of us are one.
 Dialogue: 0,0:10:11.29,0:10:14.29,Default,Eso,0,0,0,,{\i1}I released it without even realizing.
 Dialogue: 0,0:10:18.22,0:10:19.31,Default,Eso,0,0,0,,Wing King!
@@ -168,7 +167,7 @@ Dialogue: 0,0:11:05.26,0:11:10.48,Default,Eso,0,0,0,,{\i1}I know I reinforced my
 Dialogue: 0,0:11:11.16,0:11:14.77,Default,Eso,0,0,0,,{\i1}But the next thing I knew, \Nmy whole arm was blown away.
 Dialogue: 0,0:11:15.10,0:11:17.03,Default,Eso,0,0,0,,Oh, my dear...
 Dialogue: 0,0:11:17.03,0:11:19.53,Default,Eso,0,0,0,,Don't die on me, brother!
-Dialogue: 0,0:11:21.74,0:11:23.37,Default,Kechizu,0,0,0,,Big brother!
+Dialogue: 0,0:11:21.74,0:11:23.37,Cursed,Kechizu,0,0,0,,Big brother!
 Dialogue: 0,0:11:27.45,0:11:30.96,Default,Kugisaki,0,0,0,,I haven't shown you this one yet, have I?
 Dialogue: 0,0:11:36.08,0:11:37.37,Default,Kugisaki,0,0,0,,Hairpin.
 Dialogue: 0,0:11:42.43,0:11:44.22,Default,Kugisaki,0,0,0,,Don't worry.
@@ -195,21 +194,20 @@ Dialogue: 0,0:12:54.55,0:12:57.08,Default,Eso,0,0,0,,What is she up to?
 Dialogue: 0,0:12:57.51,0:12:58.55,Default,Yuji,0,0,0,,Kugisaki!
 Dialogue: 0,0:13:00.93,0:13:04.43,Default,Kugisaki,0,0,0,,Don't rush me!
 Dialogue: 0,0:13:04.43,0:13:09.69,Default,Kugisaki,0,0,0,,Straw Doll Technique: Resonance!
-Dialogue: 0,0:13:19.93,0:13:21.56,Default,Nanami,0,0,0,,Once they land a Black Flash,
-Dialogue: 0,0:13:21.56,0:13:26.57,Default,,0,0,0,,sorcerers temporarily enter a state athletes call "the zone."
+Dialogue: 0,0:13:19.93,0:13:26.57,Default,Nanami,0,0,0,,Sorcerers enter the zone once they land a Black Flash,\Nsimilar to what athletes experience.
 Dialogue: 0,0:13:28.57,0:13:30.01,Default,Eso,0,0,0,,Damn it!
 Dialogue: 0,0:13:31.91,0:13:35.08,Default,Eso,0,0,0,,{\i1}So it wasn't just a technique to flip the curse?!
 Dialogue: 0,0:13:38.86,0:13:39.76,Default,Yuji,0,0,0,,Sorry.
 Dialogue: 0,0:14:00.07,0:14:01.74,Default,Yuji,0,0,0,,That hurt.
 Comment: 0,0:14:03.16,0:14:03.60,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:14:06.48,0:14:08.07,Default,Mahito,0,0,0,,Geto, give me the stocks card.
+Dialogue: 0,0:14:06.48,0:14:08.07,Default,Mahito,0,0,0,,Geto, gimme the stocks card.
 Dialogue: 0,0:14:08.49,0:14:10.33,Default,Geto,0,0,0,,What's the matter, Choso?
 Dialogue: 0,0:14:09.61,0:14:10.32,Alt,Mahito,0,0,0,,Hurry up.
 Dialogue: 0,0:14:12.18,0:14:14.84,Default,Mahito,0,0,0,,Hey! Don't break the pieces!
-Dialogue: 0,0:14:14.84,0:14:17.06,Default,Choso,0,0,0,,My younger brothers are dead.
-Dialogue: 0,0:14:17.06,0:14:19.21,Default,Geto,0,0,0,,You can tell?
-Dialogue: 0,0:14:19.21,0:14:21.26,Default,Choso,0,0,0,,What's going on?
-Dialogue: 0,0:14:21.26,0:14:23.26,Default,Choso,0,0,0,,It's one thing if he was fully manifested,
+Dialogue: 0,0:14:14.84,0:14:17.04,Default,Choso,0,0,0,,My younger brothers are dead.
+Dialogue: 0,0:14:17.04,0:14:19.21,Default,Geto,0,0,0,,You can tell?
+Dialogue: 0,0:14:19.21,0:14:21.17,Default,Choso,0,0,0,,What's going on?
+Dialogue: 0,0:14:21.17,0:14:23.26,Default,Choso,0,0,0,,It would be one thing if he was fully manifested,
 Dialogue: 0,0:14:23.26,0:14:27.17,Default,Choso,0,0,0,,but those two won't be killed by a single finger of a curse.
 Dialogue: 0,0:14:23.25,0:14:27.17,Default,Mahito,0,0,0,,{\an8}Jeez, do we have any more pieces?
 Dialogue: 0,0:14:27.17,0:14:28.04,Default,Geto,0,0,0,,Hold on.
@@ -217,16 +215,15 @@ Dialogue: 0,0:14:27.17,0:14:29.73,Default,Mahito,0,0,0,,{\an8}Why aren't there a
 Dialogue: 0,0:14:29.73,0:14:32.14,Default,Mahito,0,0,0,,{\an8}And why did you break it, anyway?
 Dialogue: 0,0:14:32.97,0:14:34.96,Default,Geto,0,0,0,,We just received a report.
 Dialogue: 0,0:14:36.67,0:14:37.86,Default,Mahito,0,0,0,,{\an8}Jeez.
-Dialogue: 0,0:14:34.96,0:14:37.41,Default,Geto,0,0,0,,Eso and Kechizu were killed
-Dialogue: 0,0:14:37.41,0:14:39.31,Default,Geto,0,0,0,,by the first-years of Jujutsu Tech.
-Dialogue: 0,0:14:39.73,0:14:42.56,Default,Geto,0,0,0,,Itadori Yuji and his group.
+Dialogue: 0,0:14:34.96,0:14:39.31,Default,Geto,0,0,0,,Eso and Kechizu were killed by the first-years of Jujutsu Tech.
+Dialogue: 0,0:14:39.69,0:14:42.56,Default,Geto,0,0,0,,Itadori Yuji and his group.
 Dialogue: 0,0:14:52.90,0:14:57.53,Default,Phone,0,0,0,,{\an8}The person you are calling is not answering.
-Dialogue: 0,0:14:56.21,0:14:57.53,Default,Nitta,0,0,0,,They're ignoring me!
-Dialogue: 0,0:14:58.10,0:15:00.49,Default,Nitta,0,0,0,,Where did those brats go?!
+Dialogue: 0,0:14:56.21,0:14:57.53,Default,Akari,0,0,0,,I bet they're ignoring me!
+Dialogue: 0,0:14:58.10,0:15:00.49,Default,Akari,0,0,0,,Where'd those rascals run off to?!
 Dialogue: 0,0:15:03.50,0:15:05.50,Default,Yuji,0,0,0,,Kugisaki, you all right?
-Dialogue: 0,0:15:05.89,0:15:07.86,Default,Kugisaki,0,0,0,,Oh, yeah.
-Dialogue: 0,0:15:07.86,0:15:10.18,Default,Kugisaki,0,0,0,,Though this might leave a scar.
-Dialogue: 0,0:15:10.18,0:15:13.41,Default,Kugisaki,0,0,0,,I wonder if those guys are okay. Their truck just went speeding off.
+Dialogue: 0,0:15:05.89,0:15:07.86,Default,Kugisaki,0,0,0,,Oh, yeah. I'm fine.
+Dialogue: 0,0:15:07.86,0:15:10.18,Default,Kugisaki,0,0,0,,This might leave a scar, though.
+Dialogue: 0,0:15:10.18,0:15:13.41,Default,Kugisaki,0,0,0,,That truck just went speeding off. I hope they're okay.
 Dialogue: 0,0:15:13.41,0:15:15.14,Default,Kugisaki,0,0,0,,About the poison...
 Dialogue: 0,0:15:15.14,0:15:18.65,Default,Kugisaki,0,0,0,,I wonder if {*}Miss Shoko{*Shoko-san} will be up this late.
 Dialogue: 0,0:15:18.65,0:15:20.21,Default,Kugisaki,0,0,0,,And will she be sober?
@@ -241,8 +238,8 @@ Dialogue: 0,0:15:41.84,0:15:44.13,Default,Kugisaki,0,0,0,,To be blunt, I don't r
 Dialogue: 0,0:15:44.13,0:15:46.59,Default,Kugisaki,0,0,0,,These things happen when you're a sorcerer.
 Dialogue: 0,0:15:47.51,0:15:52.93,Default,Kugisaki,0,0,0,,I'm no Fushiguro, but the point is, \Nthere's only so many people we can save.
 Dialogue: 0,0:15:53.73,0:15:57.06,Default,Kugisaki,0,0,0,,It's like, there are only so many seats in my life,
-Dialogue: 0,0:15:57.06,0:16:02.06,Default,Kugisaki,0,0,0,,and I can't let myself be swayed \Nby anyone who's not in one of them.
-Dialogue: 0,0:16:02.61,0:16:03.94,Default,Kugisaki,0,0,0,,Was that too mean?
+Dialogue: 0,0:15:57.06,0:16:02.06,Default,Kugisaki,0,0,0,,and I can't let myself be swayed \Nby anyone who is not in one of them.
+Dialogue: 0,0:16:02.61,0:16:03.94,Default,Kugisaki,0,0,0,,Is that too mean?
 Dialogue: 0,0:16:04.54,0:16:10.07,Default,Kugisaki,0,0,0,,Oh, well, I guess there {\i1}are{\i0} people like you \Nwho just crash their way into my life.
 Dialogue: 0,0:16:11.07,0:16:13.04,Default,Kugisaki,0,0,0,,It might not mean much,
 Dialogue: 0,0:16:13.04,0:16:16.64,Default,Kugisaki,0,0,0,,but we didn't have time to worry \Nif they were cursed spirits or curse users.
@@ -255,7 +252,7 @@ Dialogue: 0,0:16:31.35,0:16:35.68,Default,Yuji,0,0,0,,I'm happy that you and I m
 Dialogue: 0,0:16:35.68,0:16:37.35,Default,Yuji,0,0,0,,It's a big relief, honestly.
 Dialogue: 0,0:16:37.35,0:16:42.79,Default,Yuji,0,0,0,,But still, tears were shed among the lives I ended tonight.
 Dialogue: 0,0:16:44.29,0:16:45.87,Default,Yuji,0,0,0,,That's all.
-Dialogue: 0,0:16:46.69,0:16:47.95,Default,Kugisaki,0,0,0,,I see.
+Dialogue: 0,0:16:46.69,0:16:48.40,Default,Kugisaki,0,0,0,,I see.
 Dialogue: 0,0:16:48.40,0:16:52.37,Default,Kugisaki,0,0,0,,Then I guess that makes us accomplices.
 Dialogue: 0,0:16:54.37,0:16:56.36,Default,Both,0,0,0,,{\pos(480,1020)}F-Fushiguro?!
 Dialogue: 0,0:16:54.37,0:16:56.36,Default,Both,0,0,0,,{\pos(1440,1020)}F-Fushiguro?!
@@ -265,7 +262,7 @@ Dialogue: 0,0:17:01.75,0:17:03.49,Default,Both,0,0,0,,{\pos(480,1020)}I-I was so
 Dialogue: 0,0:17:01.75,0:17:03.49,Default,Both,0,0,0,,{\pos(1440,1020)}I-I was so scared!
 Dialogue: 0,0:17:03.49,0:17:04.88,Default,Both,0,0,0,,{\pos(480,1020)}I thought you were dead!
 Dialogue: 0,0:17:03.49,0:17:04.88,Default,Both,0,0,0,,{\pos(1440,1020)}I thought you were dead!
-Dialogue: 0,0:17:05.09,0:17:06.88,Default,Both,0,0,0,,{\pos(1020,1020)}Thank goodness!
+Dialogue: 0,0:17:05.09,0:17:06.88,Default,Both,0,0,0,,{\pos(1000,1020)}Thank goodness!
 Dialogue: 0,0:17:05.09,0:17:06.88,Default,Both,0,0,0,,{\pos(1500,1020)}Thank goodness!
 Dialogue: 0,0:17:07.30,0:17:09.64,Default,Fushiguro,0,0,0,,Could you keep it down?
 Dialogue: 0,0:17:09.64,0:17:10.88,Default,Fushiguro,0,0,0,,My head hurts.
@@ -288,17 +285,17 @@ Dialogue: 0,0:17:57.84,0:18:00.84,Default,Yuji,0,0,0,,He didn't even help{ out} 
 Dialogue: 0,0:18:01.56,0:18:06.98,Default,Gojo,0,0,0,,To regain his power, the Sukuna within you \Nwill direct you to all the other fingers. {I know we've been consistently using "it" for all curses, but really feels like it should say "his power" lol}{gotta make an exception for the king of curses}
 Dialogue: 0,0:18:07.35,0:18:09.78,Default,Yuji,0,0,0,,Is {*}Mr. Gojo{*Gojo-sensei} just winging it?
 Dialogue: 0,0:18:09.78,0:18:11.16,Default,Fushiguro,0,0,0,,{\i1}You just realized?
-Dialogue: 0,0:18:11.16,0:18:13.98,Default,Nitta,0,0,0,,Hey! You three!
-Dialogue: 0,0:18:13.99,0:18:15.95,Default,Nitta,0,0,0,,{\an8}What have you three been doing?!
+Dialogue: 0,0:18:11.16,0:18:13.98,Default,Akari,0,0,0,,Hey! You guys!
+Dialogue: 0,0:18:13.99,0:18:15.95,Default,Akari,0,0,0,,{\an8}What've you three been up to?!
+Dialogue: 0,0:18:16.78,0:18:18.79,Default,Akari,0,0,0,,{\an8}You wouldn't answer my calls!
+Dialogue: 0,0:18:18.79,0:18:20.43,Default,Akari,0,0,0,,{\an8}What's the big idea?!
 Dialogue: 0,0:18:14.48,0:18:15.94,Default,Yuji,0,0,0,,Oh, {*}Miss Nitta{*Nitta-san}.
-Dialogue: 0,0:18:16.66,0:18:18.79,Default,Nitta,0,0,0,,{\an8}You wouldn't answer my calls!
-Dialogue: 0,0:18:16.66,0:18:18.80,Default,Kugisaki,0,0,0,,She's lost it.
-Dialogue: 0,0:18:18.79,0:18:20.43,Default,Nitta,0,0,0,,{\an8}What's the big idea?!
+Dialogue: 0,0:18:16.53,0:18:17.95,Default,Kugisaki,0,0,0,,She's triggered.
 Dialogue: 0,0:18:20.43,0:18:22.87,Default,Yuji,0,0,0,,Well, shall we go home?
-Dialogue: 0,0:18:21.00,0:18:22.87,Default,Nitta,0,0,0,,{\an8}Communication, consulting, and reporting!
-Dialogue: 0,0:18:22.87,0:18:25.67,Default,Nitta,0,0,0,,{\an8}Didn't you learn how important they are?!
+Dialogue: 0,0:18:21.00,0:18:22.87,Default,Akari,0,0,0,,{\an8}Communication, consulting, and reporting!
+Dialogue: 0,0:18:22.87,0:18:25.67,Default,Akari,0,0,0,,{\an8}Didn't ya learn how important they are?!
 Dialogue: 0,0:18:24.17,0:18:25.65,Default,Kugisaki,0,0,0,,I'm hungry.
-Dialogue: 0,0:18:25.67,0:18:30.37,Default,Nitta,0,0,0,,{\fade(0,280)\an8}Are you listening to me?! Hey, you!
+Dialogue: 0,0:18:25.67,0:18:30.37,Default,Akari,0,0,0,,{\fade(0,280)\an8}Are you listenin' to me?! Hey, you!
 Dialogue: 0,0:18:25.65,0:18:27.96,Default,Kugisaki,0,0,0,,I wonder if there's a Splendid Sushi around here.
 Dialogue: 0,0:18:27.96,0:18:30.33,Default,Yuji,0,0,0,,Splendid Sushi's bullet train was epic, right?
 Dialogue: 0,0:18:30.33,0:18:31.38,Default,Kugisaki,0,0,0,,{\fade(0,220)}Shut it.
@@ -308,54 +305,53 @@ Dialogue: 0,0:18:37.93,0:18:41.26,Default,Gojo,0,0,0,,Turns out they were incarn
 Dialogue: 0,0:18:42.30,0:18:44.98,Default,Gojo,0,0,0,,They each took out a special-grade.
 Dialogue: 0,0:18:44.98,0:18:47.29,Default,Gojo,0,0,0,,These first-years are the cream of the crop!
 Dialogue: 0,0:18:47.29,0:18:50.27,Default,Gojo,0,0,0,,It must be thanks to my awesome teaching.
-Dialogue: 0,0:18:50.95,0:18:54.62,Default,Utahime,0,0,0,,The last thing I want is to \Nhear you rambling on my day off.
+Dialogue: 0,0:18:50.95,0:18:54.62,Default,Utahime,0,0,0,,The last thing I want is to hear you\N rambling on my day off.
 Dialogue: 0,0:18:54.62,0:18:56.65,Default,Utahime,0,0,0,,You wanted to talk about the party?
 Dialogue: 0,0:18:56.65,0:18:58.27,Default,Gojo,0,0,0,,Well, find any candidates? {wtf they're talking in code}
 Dialogue: 0,0:18:58.27,0:19:02.03,Default,Utahime,0,0,0,,Not even close. Everyone is so busy.
 Dialogue: 0,0:19:02.03,0:19:04.65,Default,Utahime,0,0,0,,What now? Should I try asking the students?
 Dialogue: 0,0:19:04.65,0:19:08.29,Default,Gojo,0,0,0,,I'm a lightweight, so non-alcoholic drinks are fine.
-Dialogue: 0,0:19:08.29,0:19:11.14,Default,Gojo,0,0,0,,I'll leave the inviting to you, then.
-Dialogue: 0,0:19:15.84,0:19:20.22,Default,Gojo,0,0,0,,{\i1}We never know what might be \Nlistening around Utahime.
-Dialogue: 0,0:19:20.22,0:19:24.32,Default,Gojo,0,0,0,,{\i1}I don't want to assume \None of the students is the traitor.
+Dialogue: 0,0:19:08.29,0:19:11.14,Default,Gojo,0,0,0,,I'll leave the search to you, then.
+Dialogue: 0,0:19:15.84,0:19:20.22,Default,Gojo,0,0,0,,{\i1}We never know what might be listening around Utahime.
+Dialogue: 0,0:19:20.22,0:19:24.32,Default,Gojo,0,0,0,,{\i1}I don't want to assume one of the students is the traitor.
 Dialogue: 0,0:19:24.32,0:19:26.22,Default,Gojo,0,0,0,,This is such a pain.
 Dialogue: 0,0:19:27.11,0:19:30.22,Default,Gojo,0,0,0,,I'll be counting on you, Mei{**-san}.
-Dialogue: 0,0:19:39.99,0:19:42.79,Default,Fushiguro,0,0,0,,Don't tell Itadori about the fingers resonating.
-Dialogue: 0,0:19:42.79,0:19:44.90,Default,Kugisaki,0,0,0,,Are you sure that's what's happening?
+Dialogue: 0,0:19:39.99,0:19:42.83,Default,Fushiguro,0,0,0,,Don't tell Itadori about the fingers resonating.
+Dialogue: 0,0:19:42.83,0:19:44.90,Default,Kugisaki,0,0,0,,Are you sure that's what's happening?
 Dialogue: 0,0:19:44.90,0:19:47.21,Default,Fushiguro,0,0,0,,I'm pretty sure. It's over for now, though.
 Dialogue: 0,0:19:47.99,0:19:52.80,Default,Fushiguro,0,0,0,,The only ones who could put two and two \Ntogether are us and maybe {*}Miss Nitta{*Nitta-san}.
 Dialogue: 0,0:19:53.73,0:19:57.70,Default,Fushiguro,0,0,0,,Sukuna's manifestation in Itadori was just a trigger.
-Dialogue: 0,0:19:57.70,0:20:01.26,Default,Fushiguro,0,0,0,,The Yasohachi Bridge deaths \Nwere gonna happen sooner or later.
+Dialogue: 0,0:19:57.70,0:20:01.26,Default,Fushiguro,0,0,0,,The Yasohachi Bridge deaths \Nwere bound to happen sooner or later.
 Dialogue: 0,0:20:02.18,0:20:06.22,Default,Fushiguro,0,0,0,,Besides, the whole reason he swallowed that finger was to save me.
-Dialogue: 0,0:20:06.98,0:20:09.72,Default,Fushiguro,0,0,0,,But there's no way he'd be \Nsatisfied with that explanation.
+Dialogue: 0,0:20:07.06,0:20:09.72,Default,Fushiguro,0,0,0,,But he won't be satisfied with that explanation.
 Dialogue: 0,0:20:10.55,0:20:11.72,Default,Fushiguro,0,0,0,,So don't tell him.
 Dialogue: 0,0:20:12.34,0:20:13.69,Default,Kugisaki,0,0,0,,I won't say anything.
 Dialogue: 0,0:20:13.69,0:20:15.72,Default,Kugisaki,0,0,0,,Don't underestimate a lady's consideration.
 Dialogue: 0,0:20:15.72,0:20:17.73,Default,Sukuna,0,0,0,,It's all your fault!
-Dialogue: 0,0:20:17.73,0:20:20.13,Default,Sukuna,0,0,0,,You took me in.
-Dialogue: 0,0:20:20.13,0:20:24.04,Default,Sukuna,0,0,0,,And now the severed parts of my soul have awakened.
+Dialogue: 0,0:20:17.73,0:20:24.04,Default,Sukuna,0,0,0,,Because you took me in, \Nthe severed parts of my soul have awakened.
 Dialogue: 0,0:20:25.47,0:20:27.76,Default,Sukuna,0,0,0,,To help lots of people, was it?
 Dialogue: 0,0:20:27.76,0:20:31.92,Default,Sukuna,0,0,0,,Brat, people will die because you live!
 Dialogue: 0,0:20:31.92,0:20:33.05,Default,Yuji,0,0,0,,Hey!
 Dialogue: 0,0:20:33.05,0:20:34.49,Default,Yuji,0,0,0,,Don't say that to Fushiguro.
-Dialogue: 0,0:20:35.19,0:20:39.29,Default,Fushiguro,0,0,0,,But what will you do when someone you saved kills someone else in the future?
+Dialogue: 0,0:20:35.19,0:20:39.29,Default,Fushiguro,0,0,0,,But what will you do when someone you saved today kills someone else in the future?
 Dialogue: 0,0:20:41.29,0:20:42.80,Default,Yuji,0,0,0,,Don't you dare tell him.
 Dialogue: 0,0:20:54.85,0:20:55.89,Default,Toge,0,0,0,,Mustard leaf.
-Dialogue: 0,0:20:56.78,0:21:00.15,Default,Panda,0,0,0,,What's wrong? Your movements\N aren't as sharp today. Getting weaker?
+Dialogue: 0,0:20:56.78,0:20:59.11,Default,Panda,0,0,0,,What's wrong? Your movements aren't as sharp.
+Dialogue: 0,0:20:59.11,0:21:00.15,Default,Panda,0,0,0,,Getting weaker?
 Dialogue: 0,0:21:00.15,0:21:01.81,Default,Maki,0,0,0,,Can it!
-Dialogue: 0,0:21:01.81,0:21:04.16,Default,Maki,0,0,0,,I lost my edge after all that bed rest!
+Dialogue: 0,0:21:01.81,0:21:04.16,Default,Maki,0,0,0,,I lost my edge after all that bed rest.
 Dialogue: 0,0:21:04.16,0:21:08.43,Default,Panda,0,0,0,,Did you hear about the juniors, by the way?
 Dialogue: 0,0:21:08.43,0:21:09.15,Default,Maki,0,0,0,,Yeah.
 Dialogue: 0,0:21:09.15,0:21:12.67,Default,Maki,0,0,0,,They each took out a special-grade, right?
 Dialogue: 0,0:21:12.67,0:21:13.91,Default,Toge,0,0,0,,Salmon.
-Dialogue: 0,0:21:16.07,0:21:16.87,Default,Maki,0,0,0,,Then,
-Dialogue: 0,0:21:17.32,0:21:20.54,Default,Maki,0,0,0,,we can't fall behind, either.
+Dialogue: 0,0:21:16.07,0:21:20.54,Default,Maki,0,0,0,,Then we can't fall behind either, right?
 Dialogue: 0,0:21:20.78,0:21:21.55,Default,Toge,0,0,0,,Roe.
 Dialogue: 0,0:21:22.05,0:21:23.05,Default,Panda,0,0,0,,Yeah!
-Dialogue: 0,0:21:27.12,0:21:28.73,Default,Panda,0,0,0,,Hey! You were serious this time!
+Dialogue: 0,0:21:27.12,0:21:28.73,Default,Panda,0,0,0,,Hey! You were serious this time! {Hey! Now you're at full strength!}
 Dialogue: 0,0:21:28.73,0:21:31.23,Default,Maki,0,0,0,,It wouldn't be good training if I wasn't.
 Dialogue: 0,0:21:31.23,0:21:31.98,Default,Toge,0,0,0,,Kelp.
-Dialogue: 0,0:21:32.40,0:21:38.49,Default,Gakuganji,0,0,0,,I feel the rank of special-grade is \Nsomewhat misrepresented among sorcerers. {because I don't understand what's going on with this dialog at all.} {dw cr didn't get it right either. point is that first grade rank is underrated.}
-Dialogue: 0,0:21:38.49,0:21:47.51,Default,Gakuganji,0,0,0,,In reality, it's the first-grades who\N uphold the standards and lead the jujutsu world.
+Dialogue: 0,0:21:32.40,0:21:38.49,Default,Gakuganji,0,0,0,,The rank of special grade is\N somewhat misrepresented among sorcerers. {because I don't understand what's going on with this dialog at all.} {dw cr didn't get it right either. point is that first grade rank is underrated.}
+Dialogue: 0,0:21:38.49,0:21:47.51,Default,Gakuganji,0,0,0,,I believe it's the first-grades who uphold\N the standards and lead the world of sorcery.
 Dialogue: 0,0:21:47.51,0:21:53.50,Default,Gakuganji,0,0,0,,The danger, confidentiality, and compensation \Nthat come with it are unlike anything below that grade.
 Dialogue: 0,0:21:53.50,0:21:56.51,Default,Gakuganji,0,0,0,,With that in mind, can you repeat yourself?
 Dialogue: 0,0:21:56.51,0:21:58.18,Default,Meimei,0,0,0,,Zenin Maki,
@@ -365,16 +361,15 @@ Dialogue: 0,0:22:00.61,0:22:01.99,Default,Todo,0,0,0,,Kugisaki Nobara,
 Dialogue: 0,0:22:01.99,0:22:06.16,Default,Todo,0,0,0,,and my brother, Itadori Yuji.
 Dialogue: 0,0:22:06.16,0:22:08.51,Default,Todo,0,0,0,,These are the five that I, by my name as Todo Aoi
 Dialogue: 0,0:22:08.51,0:22:11.02,Default,Meimei,0,0,0,,{\pos(960,1045)}and I, by my name as Mei Mei
-Dialogue: 0,0:22:11.02,0:22:14.23,Default,Both,0,0,0,,{\fade(0,220)\pos(960,1045)}recommend for first-grade.
+Dialogue: 0,0:22:11.02,0:22:14.23,Default,Both,0,0,0,,{\fade(0,220)\pos(960,1045)}recommend for first grade.
 Dialogue: 0,0:22:21.55,0:22:24.09,Default,Yuji,0,0,0,,Aren't you buying way too much?
 Dialogue: 0,0:22:24.09,0:22:25.98,Default,Kugisaki,0,0,0,,Half of that is yours, y'know.
 Dialogue: 0,0:22:25.98,0:22:28.07,Default,Yuji,0,0,0,,This bag is all I've got!
 Dialogue: 0,0:22:32.54,0:22:36.54,Default,Kugisaki,0,0,0,,Drop even one and you're dead!
-Dialogue: 0,0:22:36.91,0:22:38.29,Default,Yuji,0,0,0,,R-Right.
-Dialogue: 0,0:22:46.67,0:22:49.35,Default,Kugisaki,0,0,0,,I just said you're dead if you drop even one!
-Dialogue: 0,0:22:49.35,0:22:51.77,Default,Yuji,0,0,0,,I'm sorry! It wasn't on purpose!
-Dialogue: 0,0:22:51.77,0:22:54.91,Default,Yuji,0,0,0,,You just have too many!{can you send this line to the top too?}
-Dialogue: 0,0:22:51.77,0:22:57.48,Default,Kugisaki,0,0,0,,{\an8}What're you gonna do if they're damaged?!
+Dialogue: 0,0:22:36.91,0:22:38.29,Default,Yuji,0,0,0,,Y-Yes, ma'am.
+Dialogue: 0,0:22:46.67,0:22:49.35,Default,Kugisaki,0,0,0,,I {\i1}just{\i0} said you're dead if you dropped one!
+Dialogue: 0,0:22:49.35,0:22:54.91,Default,Yuji,0,0,0,,I'm sorry! It wasn't on purpose! You just have too many!{can you send this line to the top too?}
+Dialogue: 0,0:22:51.77,0:22:57.48,Default,Kugisaki,0,0,0,,{\an8}What're ya gonna do if they get damaged, huh?!
 Dialogue: 0,0:22:57.48,0:22:59.36,Default,Yuji,0,0,0,,{\an8}Just go back and get another!
 Dialogue: 0,0:22:55.35,0:22:57.22,Default,Fushiguro,0,0,0,,This is Fushiguro.
 Dialogue: 0,0:22:57.22,0:22:58.48,Default,Fushiguro,0,0,0,,Yes.
@@ -388,7 +383,7 @@ Dialogue: 0,0:23:10.97,0:23:12.58,Default,Fushiguro,0,0,0,,A top secret one.
 Dialogue: 0,0:23:12.58,0:23:13.61,Default,Kugisaki,0,0,0,,Again?
 Dialogue: 0,0:23:13.61,0:23:16.03,Default,,0,0,0,,Didn't we just finish taking care of one?
 Dialogue: 0,0:23:16.03,0:23:17.08,Default,Yuji,0,0,0,,Why not?
-Dialogue: 0,0:23:17.42,0:23:20.00,Default,Yuji,0,0,0,,{*}Mr. Gojo{*Gojo-sensei} said it's top secret.
+Dialogue: 0,0:23:17.42,0:23:20.00,Default,Yuji,0,0,0,,He said it's top secret.
 Dialogue: 0,0:23:20.65,0:23:21.95,Default,Yuji,0,0,0,,It's gotta be big.
 Dialogue: 0,0:23:22.34,0:23:23.96,Default,Kugisaki,0,0,0,,He says it pretty often, though.
 Dialogue: 0,0:23:23.96,0:23:25.96,Default,Fushiguro,0,0,0,,He says it all the time.

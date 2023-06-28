@@ -22,22 +22,20 @@ Keyframes File: jujutsu_16_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 75
-Active Line: 78
-Video Position: 9093
+Scroll Position: 215
+Active Line: 220
+Video Position: 26380
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,120,120,60,1
-Style: Alt,Cabin,80,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,180,180,60,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:05.07,0:00:08.46,Default,Todo,0,0,0,,{\i1}It is impossible for the hand to evolve faster than the eye.
-Dialogue: 0,0:00:08.90,0:00:11.70,Default,Todo,0,0,0,,{\i1}If you don't first develop the eye for quality,
-Dialogue: 0,0:00:11.70,0:00:14.70,Default,Todo,0,0,0,,{\i1}you can't expect the hand to create something of value.
-Dialogue: 0,0:00:15.20,0:00:18.83,Default,Todo,0,0,0,,{\i1}This is a commonly used phrase among creators,
+Dialogue: 0,0:00:08.90,0:00:14.70,Default,Todo,0,0,0,,{\i1}If you don't develop the eye for quality, \Nyou can't expect the hand to create something of value.
+Dialogue: 0,0:00:15.20,0:00:18.50,Default,Todo,0,0,0,,{\i1\fade(0,1000)}This is a popular saying among artists,
 Dialogue: 0,0:00:18.83,0:00:21.50,Default,Todo,0,0,0,,{\i1}but it applies to any field in general.
 Dialogue: 0,0:00:21.50,0:00:27.26,Default,Todo,0,0,0,,{\i1}Someone who has a good eye\N will improve far more rapidly than those without!
 Dialogue: 0,0:00:41.93,0:00:44.57,Default,Todo,0,0,0,,{\i1}When I throw my right hook,
@@ -52,31 +50,29 @@ Dialogue: 0,0:01:05.54,0:01:06.55,Default,Todo,0,0,0,,{\i1}However!
 Dialogue: 0,0:01:10.88,0:01:14.51,Default,Yuji,0,0,0,,{\i1}He stopped my fist with his forehead before it could reach full speed?!
 Dialogue: 0,0:01:16.05,0:01:19.05,Default,Todo,0,0,0,,That's not what I want you to devour right now.
 Dialogue: 0,0:01:19.72,0:01:23.94,Default,Todo,0,0,0,,Your Divergent Fist stems from \Nthe lagging cursed energy
-Dialogue: 0,0:01:23.94,0:01:29.32,Default,Todo,0,0,0,,which can't keep up with \Nyour superhuman speed, right?
+Dialogue: 0,0:01:23.94,0:01:29.32,Default,Todo,0,0,0,,which can't keep up with \Nyour superhuman speed, correct?
 Dialogue: 0,0:01:29.69,0:01:31.11,Default,Todo,0,0,0,,That's quite the technique.
-Dialogue: 0,0:01:31.11,0:01:35.32,Default,Todo,0,0,0,,Your average sorcerer \Nwouldn't understand what's going on.
-Dialogue: 0,0:01:35.62,0:01:39.78,Default,Todo,0,0,0,,It carries plenty of force{\fscx180}—{\fscx}\N for opponents on that level, that is!
+Dialogue: 0,0:01:31.11,0:01:35.32,Default,Todo,0,0,0,,Your average sorcerer \Nwould have no idea what hit 'em.
+Dialogue: 0,0:01:35.32,0:01:37.16,Default,Todo,0,0,0,,It carries plenty of force, too!
+Dialogue: 0,0:01:37.16,0:01:39.78,Default,Todo,0,0,0,,At least for opponents on lower levels.
 Dialogue: 0,0:01:40.87,0:01:43.33,Default,Todo,0,0,0,,It won't work against special-grades, though.
 Dialogue: 0,0:01:44.41,0:01:46.33,Default,Todo,0,0,0,,What will you do now, friend?
 Dialogue: 0,0:01:48.25,0:01:52.13,Default,Yuji,0,0,0,,I'll apply all my cursed energy \Nat the exact moment my strike hits.
 Dialogue: 0,0:01:52.13,0:01:53.09,Default,Todo,0,0,0,,Good!
 Dialogue: 0,0:01:53.09,0:01:56.42,Default,Todo,0,0,0,,Then why is your cursed energy lagging?
-Dialogue: 0,0:01:56.42,0:01:59.85,Default,Todo,0,0,0,,It's because of how you're channeling it!
+Dialogue: 0,0:01:56.42,0:01:59.85,Default,Todo,0,0,0,,It's because you're channeling it!
 Dialogue: 0,0:02:01.93,0:02:02.64,Default,Yuji,0,0,0,,What?
 Dialogue: 0,0:02:03.43,0:02:07.10,Default,Yuji,0,0,0,,Wait, weren't we talking about channeling it faster?
-Dialogue: 0,0:02:07.10,0:02:08.94,Default,Todo,0,0,0,,We all channel cursed energy.
-Dialogue: 0,0:02:08.94,0:02:12.61,Default,Todo,0,0,0,,Many sorcerers have to do this consciously.
-Dialogue: 0,0:02:13.02,0:02:16.53,Default,Todo,0,0,0,,Like when you feel anger \Nin your belly or a bad gut feeling.
-Dialogue: 0,0:02:16.53,0:02:19.41,Default,Todo,0,0,0,,The theory is that cursed energy \Nnurtured on negativity
-Dialogue: 0,0:02:19.41,0:02:23.24,Default,Todo,0,0,0,,starts from the navel \Nand flows throughout the body.
-Dialogue: 0,0:02:23.87,0:02:26.12,Default,Todo,0,0,0,,Starting from the navel to the chest,
-Dialogue: 0,0:02:26.12,0:02:30.13,Default,Todo,0,0,0,,then the shoulders, arms, and finally the fists.
-Dialogue: 0,0:02:30.42,0:02:35.63,Default,Todo,0,0,0,,Thinking of your own body as individual parts\N is what delays cursed energy.
+Dialogue: 0,0:02:07.10,0:02:12.61,Default,Todo,0,0,0,,Channeling cursed energy is something\N many sorcerers do consciously.
+Dialogue: 0,0:02:13.02,0:02:16.53,Default,Todo,0,0,0,,It is said that whenever you're mad \Nor boiling with anger,
+Dialogue: 0,0:02:16.53,0:02:23.62,Default,Todo,0,0,0,,the cursed energy nurtured on negativity \N starts from the navel and flows throughout the body.
+Dialogue: 0,0:02:23.92,0:02:30.13,Default,Todo,0,0,0,,Starting from the navel to the chest, \Nthen the shoulders, arms, and finally the fists.
+Dialogue: 0,0:02:30.42,0:02:35.63,Default,Todo,0,0,0,,Thinking of your body as individual parts\N is what delays cursed energy.
 Dialogue: 0,0:02:36.14,0:02:39.63,Default,Todo,0,0,0,,The idea of channeling \Ncursed energy like that isn't wrong.
 Dialogue: 0,0:02:39.63,0:02:41.27,Default,Todo,0,0,0,,But that's just the first step!
-Dialogue: 0,0:02:41.27,0:02:44.05,Default,Todo,0,0,0,,You don't have to limit yourself by that concept.
-Dialogue: 0,0:02:44.05,0:02:48.14,Default,Todo,0,0,0,,The flow of energy of an \Nelite sorcerer is difficult to read.
-Dialogue: 0,0:02:48.60,0:02:50.94,Default,Todo,0,0,0,,But for different reasons than yours.
+Dialogue: 0,0:02:41.27,0:02:44.05,Default,Todo,0,0,0,,Don't limit yourself to just that concept.
+Dialogue: 0,0:02:44.05,0:02:48.14,Default,Todo,0,0,0,,The flow of energy of an \Nelite sorcerer is difficult to read,
+Dialogue: 0,0:02:48.60,0:02:50.94,Default,Todo,0,0,0,,but for different reasons than yours.
 Dialogue: 0,0:02:51.73,0:02:54.32,Default,Todo,0,0,0,,Do we think with our guts?
 Dialogue: 0,0:02:54.74,0:02:57.32,Default,Todo,0,0,0,,Do we use our minds to express anger?
 Dialogue: 0,0:02:58.24,0:02:59.90,Default,Todo,0,0,0,,Listen up, Itadori.
@@ -97,12 +93,12 @@ Dialogue: 0,0:05:33.73,0:05:35.86,Default,Momo,0,0,0,,{\i1}This girl has good in
 Dialogue: 0,0:05:35.86,0:05:39.10,Default,Momo,0,0,0,,{\i1}No, that was probably Panda{**-chan}.
 Dialogue: 0,0:05:39.53,0:05:41.32,Default,Momo,0,0,0,,Huh? What are you talking about?
 Dialogue: 0,0:05:41.32,0:05:43.57,Default,Kugisaki,0,0,0,,Oh, you can drop the act.
-Dialogue: 0,0:05:43.57,0:05:45.74,Default,Kugisaki,0,0,0,,I'm out to kill someone too.
+Dialogue: 0,0:05:43.57,0:05:45.74,Default,Kugisaki,0,0,0,,I'm out to kill someone, too.
 Dialogue: 0,0:05:45.74,0:05:50.20,Default,Kugisaki,0,0,0,,Specifically that bitch Mai, \Nthe watered-down version of Maki.
 Dialogue: 0,0:05:50.54,0:05:51.45,Default,Momo,0,0,0,,Excuse me?
 Dialogue: 0,0:05:51.83,0:05:53.70,Default,Kugisaki,0,0,0,,What's so hard to understand?
 Dialogue: 0,0:05:53.70,0:05:57.16,Default,Kugisaki,0,0,0,,Even Pepper{**-kun} would give a better response. {pepper is actually a robot}
-Dialogue: 0,0:05:57.16,0:05:59.21,Default,Kugisaki,0,0,0,,{\i1}So you {\i0}do{\i1} get angry.
+Dialogue: 0,0:05:57.16,0:05:59.21,Default,Kugisaki,0,0,0,,{\i1}So you {\i0}do{\i1} get angry{\i0}.
 Dialogue: 0,0:05:59.67,0:06:02.21,Default,Kugisaki,0,0,0,,{\i1}I'm crazy mad too right now!
 Dialogue: 0,0:06:02.21,0:06:06.59,Default,Kugisaki,0,0,0,,Oh, come to think of it, \Nyou guys have your own Pepper{**-kun}, don't you?
 Dialogue: 0,0:06:06.59,0:06:10.09,Default,Kugisaki,0,0,0,,Maybe I'll scrap it and dump the parts somewhere.
@@ -113,10 +109,10 @@ Dialogue: 0,0:06:25.48,0:06:27.44,Default,Mechamaru,0,0,0,,He won't be moving fo
 Dialogue: 0,0:06:29.03,0:06:31.91,Default,Mechamaru,0,0,0,,Now, who were you calling Pepper{**-kun}?
 Dialogue: 0,0:06:32.33,0:06:34.03,Default,Momo,0,0,0,,Hold on, Mechamaru.
 Dialogue: 0,0:06:36.70,0:06:40.29,Default,Momo,0,0,0,,I'll personally beat this rookie into cute shape.
-Dialogue: 0,0:06:40.71,0:06:46.80,Default,Momo,0,0,0,,I'll teach her about Mai{**-chan}'s hardships \Nand what it means for a woman to be a sorcerer.
+Dialogue: 0,0:06:40.71,0:06:46.80,Default,Momo,0,0,0,,I'll teach her about Mai{**-chan}'s hardships and\N what it means for a woman to be a sorcerer.
 Dialogue: 0,0:06:47.34,0:06:48.72,Default,Panda,0,0,0,,Got 'em. {:ok_hand:}
 Dialogue: 0,0:06:54.14,0:06:55.61,Default,Panda,0,0,0,,Wanna take the spotlight?
-Dialogue: 0,0:06:55.61,0:06:58.39,Default,Panda,0,0,0,,You should've stayed in the shadows as support.
+Dialogue: 0,0:06:55.61,0:06:58.39,Default,Panda,0,0,0,,You should've stayed \Nin the shadows as support.
 Dialogue: 0,0:06:58.64,0:07:02.61,Default,Panda,0,0,0,,Well, let's just get along since we're so similar.
 Dialogue: 0,0:07:03.36,0:07:05.32,Default,Mechamaru,0,0,0,,Damn puppet.
 Dialogue: 0,0:07:11.32,0:07:12.99,Default,Mechamaru,0,0,0,,What do you know?!
@@ -126,23 +122,23 @@ Dialogue: 0,0:07:20.29,0:07:22.00,Default,Mechamaru,0,0,0,,Sword Option:
 Dialogue: 0,0:07:24.92,0:07:26.38,Default,Mechamaru,0,0,0,,Boost On!
 Dialogue: 0,0:07:34.01,0:07:35.43,Default,Mechamaru,0,0,0,,Ultra Spin!
 Dialogue: 0,0:07:46.15,0:07:47.94,Default,Mechamaru,0,0,0,,Can't you keep still?
-Dialogue: 0,0:07:47.94,0:07:50.20,Default,Panda,0,0,0,,{\i1}I need to finish this quickly.
-Dialogue: 0,0:07:50.20,0:07:55.20,Default,Panda,0,0,0,,{\i1}I'd rather leave him be and go help Nobara \Nbut this guy can attack long range.
+Dialogue: 0,0:07:48.20,0:07:50.20,Default,Panda,0,0,0,,{\i1}I need to finish this quickly.
+Dialogue: 0,0:07:50.20,0:07:52.74,Default,Panda,0,0,0,,{\i1}I'd rather leave him be and go help Nobara,
+Dialogue: 0,0:07:52.74,0:07:55.20,Default,Panda,0,0,0,,{\i1}but this guy can attack long-range.
 Dialogue: 0,0:07:55.20,0:07:59.08,Default,Panda,0,0,0,,{\i1}And we don't know much about\N Mechamaru, Nishimiya, or Miwa, anyway.
 Dialogue: 0,0:07:59.41,0:08:00.91,Default,Panda,0,0,0,,You're strong.
-Dialogue: 0,0:08:01.25,0:08:02.46,Default,Panda,0,0,0,,What grade are you?
+Dialogue: 0,0:08:00.91,0:08:02.46,Default,Panda,0,0,0,,What grade are you?
 Dialogue: 0,0:08:05.21,0:08:07.54,Default,Panda,0,0,0,,{\i1}I'm guessing this is where everyone stands.
 Dialogue: 0,0:08:07.54,0:08:09.94,Default,Panda,0,0,0,,{\i1}It's a little too much for Nobara to handle.
 Dialogue: 0,0:08:09.94,0:08:14.97,Default,Mechamaru,0,0,0,,I doubt my rating against curses matters right now, but since you asked,
-Dialogue: 0,0:08:17.18,0:08:18.72,Default,Mechamaru,0,0,0,,I'm a semi-first-grade.
+Dialogue: 0,0:08:17.18,0:08:18.72,Default,Mechamaru,0,0,0,,I'm a semi-first grade.
 Dialogue: 0,0:08:19.73,0:08:19.77,Default,Panda,0,0,0,,{\pos(960,1120)}Yikes!
 Dialogue: 0,0:08:19.77,0:08:19.81,Default,Panda,0,0,0,,{\pos(960,1050)}Yikes!
 Dialogue: 0,0:08:19.81,0:08:20.22,Default,Panda,0,0,0,,Yikes!
 Dialogue: 0,0:08:20.52,0:08:21.98,Default,Mechamaru,0,0,0,,Ultra Cannon!
-Dialogue: 0,0:08:23.48,0:08:25.15,Default,Panda,0,0,0,,{\i1}His attack range is huge!
-Dialogue: 0,0:08:33.74,0:08:34.83,Default,Panda,0,0,0,,{\i1}He's emitting heat.
-Dialogue: 0,0:08:34.83,0:08:36.95,Default,Panda,0,0,0,,{\i1}His big move needs time to charge and recover!
-Dialogue: 0,0:08:37.49,0:08:42.12,Default,Mechamaru,0,0,0,,{\i1}This level of power is pointless \Nunless I hit his core dead-on.
+Dialogue: 0,0:08:23.48,0:08:25.15,Default,Panda,0,0,0,,{\i1}The attack range is huge!
+Dialogue: 0,0:08:33.74,0:08:36.95,Default,Panda,0,0,0,,{\i1}He's emitting heat. \NHe needs time to recover from his big move!
+Dialogue: 0,0:08:37.54,0:08:42.12,Default,Mechamaru,0,0,0,,{\i1}This level of attack power is pointless \Nunless I hit his core dead-on.
 Dialogue: 0,0:08:42.96,0:08:44.37,Default,Yaga,0,0,0,,Cursed corpses.
 Dialogue: 0,0:08:44.92,0:08:50.68,Default,Yaga,0,0,0,,An inanimate object that is \Nendowed with a curse and gains autonomy.{or gains sentience/autonomy. Self control is quite something else.}
 Dialogue: 0,0:08:51.26,0:08:56.34,Default,Yaga,0,0,0,,{\fade(500,0)}Man-made cursed corpses always have a core that serves as their heart.
@@ -155,29 +151,27 @@ Dialogue: 0,0:09:37.93,0:09:39.85,Default,Mechamaru,0,0,0,,{\i1}I can't keep up 
 Dialogue: 0,0:09:57.49,0:10:01.49,Default,Panda,0,0,0,,I guess if there was another like me, I would've at least heard rumors.
 Dialogue: 0,0:10:01.49,0:10:05.33,Default,Panda,0,0,0,,The fact that I haven't \Nmeans you're not a cursed corpse.
 Dialogue: 0,0:10:05.33,0:10:09.25,Default,Panda,0,0,0,,You're a sorcerer who's \Ncontrolling this thing remotely.
-Dialogue: 0,0:10:09.25,0:10:13.00,Default,Panda,0,0,0,,Still, that's no reason to snap over being treated like a cursed corpse.
-Dialogue: 0,0:10:13.00,0:10:14.71,Default,Panda,0,0,0,,You hate me that much?
-Dialogue: 0,0:10:15.51,0:10:17.80,Default,Panda,0,0,0,,That hurts.
-Dialogue: 0,0:10:17.80,0:10:20.22,Default,Panda,0,0,0,,I might actually start crying!
+Dialogue: 0,0:10:09.25,0:10:13.01,Default,Panda,0,0,0,,Still, that's no reason to snap over being treated like a cursed corpse.
+Dialogue: 0,0:10:13.01,0:10:14.71,Default,Panda,0,0,0,,You hate me that much?
+Dialogue: 0,0:10:15.51,0:10:17.22,Default,Panda,0,0,0,,That hurts.
+Dialogue: 0,0:10:17.81,0:10:20.22,Default,Panda,0,0,0,,I might actually start crying!
 Dialogue: 0,0:10:21.10,0:10:26.43,Default,Panda,0,0,0,,Judging from your cursed energy output, your main body shouldn't be that far away.
 Dialogue: 0,0:10:26.43,0:10:28.44,Default,Panda,0,0,0,,I bet you're just outside the arena.
-Dialogue: 0,0:10:28.90,0:10:31.24,Default,Panda,0,0,0,,Guess there's no point in hunting you down, then.
-Dialogue: 0,0:10:31.24,0:10:33.32,Default,Panda,0,0,0,,You'd just be free to act in the meantime.
-Dialogue: 0,0:10:33.32,0:10:35.44,Default,Panda,0,0,0,,I'll just have to bust you up right here.
+Dialogue: 0,0:10:28.86,0:10:33.28,Default,Panda,0,0,0,,Guess there's no point in hunting you down, then.\NYou'd just be free to act in the meantime.
+Dialogue: 0,0:10:33.28,0:10:35.44,Default,Panda,0,0,0,,I'll just have to bust you up right here.
 Dialogue: 0,0:10:35.44,0:10:37.95,Default,Mechamaru,0,0,0,,You won't be doing either.
 Dialogue: 0,0:10:38.49,0:10:39.86,Default,Mechamaru,0,0,0,,Heavenly Restriction.
 Dialogue: 0,0:10:39.86,0:10:41.82,Default,Mechamaru,0,0,0,,Ever heard of it?
-Dialogue: 0,0:10:41.82,0:10:46.16,Default,Mechamaru,0,0,0,,Unlike a pact that's placed by oneself on oneself,
-Dialogue: 0,0:10:46.16,0:10:50.25,Default,Mechamaru,0,0,0,,it's something that's forced \Nupon your body since birth.
-Dialogue: 0,0:10:50.25,0:10:54.17,Default,Mechamaru,0,0,0,,I was born without \Na right arm or anything below my knees.
-Dialogue: 0,0:10:54.17,0:10:56.84,Default,Mechamaru,0,0,0,,And I had no sensation from the waist down.
+Dialogue: 0,0:10:41.82,0:10:46.16,Default,Mechamaru,0,0,0,,Unlike a Binding Vow \Nthat is placed by oneself on oneself,
+Dialogue: 0,0:10:46.16,0:10:50.25,Default,Mechamaru,0,0,0,,it's something that's forced upon your body since birth.
+Dialogue: 0,0:10:50.25,0:10:54.17,Default,Mechamaru,0,0,0,,I was born without \Na right arm or anything below my knees,
+Dialogue: 0,0:10:54.17,0:10:56.84,Default,Mechamaru,0,0,0,,and I have no sensation from the waist down.
 Dialogue: 0,0:10:56.84,0:11:00.13,Default,Mechamaru,0,0,0,,My skin is so fragile even moonlight could burn it.
 Dialogue: 0,0:11:00.13,0:11:04.48,Default,Mechamaru,0,0,0,,{\fade(0,500)}Every pore of my body feels like \Nit's constantly being poked with needles.
 Dialogue: 2,0:11:04.18,0:11:11.35,Default,Mechamaru,0,0,0,,{\fade(350,0)}But in exchange, I can use my technique over \Nwide ranges and produce immense cursed energy.
-Dialogue: 0,0:11:11.35,0:11:14.15,Default,Mechamaru,0,0,0,,I didn't ask for this power.
+Dialogue: 0,0:11:11.35,0:11:14.15,Default,Mechamaru,0,0,0,,I never asked for this power.
 Dialogue: 0,0:11:14.15,0:11:19.11,Default,Mechamaru,0,0,0,,If I could trade this technique \Nfor a normal body, I'd do it in a heartbeat.
-Dialogue: 0,0:11:19.53,0:11:22.45,Default,Mechamaru,0,0,0,,The fact that a doll like you,\N instead of a human like me,
-Dialogue: 0,0:11:22.45,0:11:25.87,Default,Mechamaru,0,0,0,,gets to walk around in \Nbroad daylight without a care,
+Dialogue: 0,0:11:19.53,0:11:25.87,Default,Mechamaru,0,0,0,,The fact that a puppet like you, instead of a human like me, \Ngets to walk around in broad daylight without a care
 Dialogue: 0,0:11:26.24,0:11:29.50,Default,Mechamaru,0,0,0,,grinds my gears to no end! {is this a bad meme?}
 Dialogue: 0,0:11:31.75,0:11:34.08,Default,Mechamaru,0,0,0,,Ultimate Mechamaru.
 Dialogue: 0,0:11:35.21,0:11:37.50,Default,Mechamaru,0,0,0,,Mode: Albatross!
@@ -186,8 +180,8 @@ Dialogue: 0,0:11:41.01,0:11:42.64,Default,Panda,0,0,0,,{\i1}And at this angle,
 Dialogue: 0,0:11:44.48,0:11:45.93,Default,Panda,0,0,0,,{\i1}Nobara is in his line of fire!
 Dialogue: 0,0:11:46.43,0:11:48.14,Default,Panda,0,0,0,,{\i1}I have to take it head-on!
 Dialogue: 0,0:11:48.14,0:11:51.06,Default,Mechamaru,0,0,0,,Ultimate Cannon!
-Dialogue: 0,0:12:04.49,0:12:06.12,Default,Mechamaru,0,0,0,,It's dead?
-Dialogue: 0,0:12:06.49,0:12:12.92,Default,Mechamaru,0,0,0,,No, the very concept of death doesn't apply to you.
+Dialogue: 0,0:12:04.49,0:12:06.12,Default,Mechamaru,0,0,0,,Is it dead?
+Dialogue: 0,0:12:06.54,0:12:12.92,Default,Mechamaru,0,0,0,,No, the very concept of death doesn't apply to you.
 Dialogue: 0,0:12:14.88,0:12:20.42,Default,Panda,0,0,0,,Revealing your technique\N while moaning about your sob stories
 Dialogue: 0,0:12:20.42,0:12:23.09,Default,Panda,0,0,0,,was quite the sorcerer thing to do.
 Dialogue: 0,0:12:23.09,0:12:27.18,Default,Mechamaru,0,0,0,,{\i1}He took on my Ultimate Cannon and survived?!
@@ -196,11 +190,10 @@ Dialogue: 0,0:12:34.77,0:12:38.98,Default,Mechamaru,0,0,0,,What is that form?
 Dialogue: 0,0:12:38.98,0:12:42.61,Default,Yaga,0,0,0,,Panda... is not a panda!
 Comment: 0,0:12:49.00,0:12:49.04,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:12:58.84,0:12:59.72,Default,Yaga,0,0,0,,Panda.
-Dialogue: 0,0:13:00.46,0:13:04.38,Default,Yaga,0,0,0,,You have an older{elder?} brother and sister.
+Dialogue: 0,0:13:00.46,0:13:04.38,Default,Yaga,0,0,0,,You have two older siblings, a brother and a sister.
 Dialogue: 0,0:13:05.68,0:13:07.22,Default,Panda,0,0,0,,No, I do not.
-Dialogue: 0,0:13:07.22,0:13:08.68,Default,Yaga,0,0,0,,Yes, you do.
-Dialogue: 0,0:13:08.68,0:13:10.68,Default,Yaga,0,0,0,,They're inside you.
-Dialogue: 0,0:13:10.68,0:13:12.02,Default,Yaga,0,0,0,,Why the formal tone?
+Dialogue: 0,0:13:07.22,0:13:10.68,Default,Yaga,0,0,0,,Yes, you do. They're inside of you.
+Dialogue: 0,0:13:10.68,0:13:12.02,Default,Yaga,0,0,0,,What's with the stiff tone?
 Dialogue: 0,0:13:12.31,0:13:13.73,Default,Panda,0,0,0,,Inside me?
 Dialogue: 0,0:13:13.73,0:13:14.52,Default,Yaga,0,0,0,,Yeah.
 Dialogue: 0,0:13:14.52,0:13:16.53,Default,Yaga,0,0,0,,One day, you'll understand.
@@ -218,13 +211,13 @@ Dialogue: 0,0:13:51.23,0:13:55.06,Default,Panda,0,0,0,,{\i1}My brother is the po
 Dialogue: 0,0:13:55.06,0:13:55.52,Default,Panda,0,0,0,,{\i1\move(960,1020,3500,1020)}My brother is the power type, \Nfor short and decisive battles: Gorilla Core.
 Dialogue: 0,0:13:55.19,0:13:55.52,Default,Panda,0,0,0,,{\i1\move(-500,1020,960,1020)}And then there's my bashful sister.
 Dialogue: 0,0:13:55.52,0:13:57.77,Default,Panda,0,0,0,,{\i1}And then there's my bashful sister.
-Dialogue: 0,0:13:58.77,0:14:01.36,Default,Panda,0,0,0,,{\i1}His first attack got my sister's core,
+Dialogue: 0,0:13:58.77,0:14:01.11,Default,Panda,0,0,0,,{\i1}His first attack got my sister's core,
 Dialogue: 0,0:14:01.36,0:14:04.24,Default,Panda,0,0,0,,{\i1}and that last one exhausted the Panda core.
 Dialogue: 0,0:14:04.99,0:14:07.74,Default,Panda,0,0,0,,{\i1}I have no choice but to beat him with Gorilla Mode!
 Dialogue: 0,0:14:16.62,0:14:19.08,Default,Mechamaru,0,0,0,,{\i1}He may not pack as much power as Todo,
 Dialogue: 0,0:14:19.08,0:14:23.09,Default,Mechamaru,0,0,0,,{\i1}but that strike just now resonated with my internals.
 Dialogue: 0,0:14:24.30,0:14:26.72,Default,Mechamaru,0,0,0,,{\i1}I took damage even while guarding against it.
-Dialogue: 0,0:14:26.72,0:14:28.55,Default,Panda,0,0,0,,You realized it?
+Dialogue: 0,0:14:26.72,0:14:28.55,Default,Panda,0,0,0,,Did you notice?
 Dialogue: 0,0:14:28.55,0:14:31.26,Default,Panda,0,0,0,,This is Gorilla Mode's special move.
 Dialogue: 0,0:14:32.35,0:14:36.10,Default,Panda,0,0,0,,The Unstoppable Drumming Beat!
 Dialogue: 0,0:14:36.10,0:14:40.19,Default,Mechamaru,0,0,0,,{\i1}If I take that Drumming Beat to my head or chest,
@@ -234,16 +227,14 @@ Dialogue: 0,0:14:47.03,0:14:49.61,Default,Mechamaru,0,0,0,,{\i1}I can't fire Ult
 Dialogue: 0,0:14:49.61,0:14:53.00,Default,Panda,0,0,0,,{\i1}Gorilla Mode goes wild with the cursed energy.
 Dialogue: 0,0:14:53.00,0:14:54.42,Default,Panda,0,0,0,,{\i1}No pun intended.
 Dialogue: 0,0:14:54.42,0:14:55.87,Default,Panda,0,0,0,,{\i1}I need to hurry.
-Dialogue: 0,0:14:56.25,0:14:57.75,Default,Panda,0,0,0,,{\i1}I crushed his right arm.
-Dialogue: 0,0:14:57.75,0:15:00.21,Default,Panda,0,0,0,,{\i1}He can't fire off his ultimate attack anymore.
-Dialogue: 0,0:15:00.21,0:15:01.97,Default,Panda,0,0,0,,{\i1}No swords in his left arm or mouth.
-Dialogue: 0,0:15:01.97,0:15:03.22,Default,Panda,0,0,0,,{\i1}Only ranged blasts left?
+Dialogue: 0,0:14:56.25,0:15:00.30,Default,Panda,0,0,0,,{\i1}Since I crushed his right arm, \Nhe can't fire off his ultimate anymore.
+Dialogue: 0,0:15:00.30,0:15:03.22,Default,Panda,0,0,0,,{\i1}No swords in his left arm or mouth.\N Only ranged blasts left?
 Dialogue: 0,0:15:03.22,0:15:06.21,Default,Panda,0,0,0,,{\i1}Either way, he'll be cautious while attacking.
 Dialogue: 0,0:15:06.21,0:15:10.63,Default,Panda,0,0,0,,{\i1}Mechamaru believes that\Nhe failed to finish me with those two blasts,
 Dialogue: 0,0:15:10.97,0:15:14.64,Default,Panda,0,0,0,,{\i1}but fact is, he nearly busted two of my cores.
 Dialogue: 0,0:15:15.31,0:15:20.77,Default,Panda,0,0,0,,{\i1}I guess he'll either try to blast my core \Nat point-blank range or finish me with a slash.
-Dialogue: 0,0:15:20.77,0:15:22.02,Default,Panda,0,0,0,,{\i1}However...
-Dialogue: 0,0:15:28.62,0:15:31.45,Default,Panda,0,0,0,,{\i1}I have the advantage at close range!
+Dialogue: 0,0:15:20.77,0:15:21.90,Default,Panda,0,0,0,,{\i1}However...
+Dialogue: 0,0:15:28.74,0:15:31.45,Default,Panda,0,0,0,,{\i1}I have the advantage at close range!
 Dialogue: 0,0:16:52.15,0:16:53.03,Default,Panda,0,0,0,,{\i1}A tile?
 Dialogue: 0,0:16:53.03,0:16:55.49,Default,Panda,0,0,0,,{\i1}Did he pick it off the roof just now?
 Dialogue: 0,0:17:02.33,0:17:04.75,Default,Panda,0,0,0,,{\i1}Jet acceleration right after a distraction?
@@ -261,24 +252,23 @@ Dialogue: 0,0:18:00.94,0:18:04.93,Default,Panda,0,0,0,,I thought we could relate
 Dialogue: 0,0:18:05.56,0:18:09.56,Default,Panda,0,0,0,,Though I've never once been jealous of humans.
 Dialogue: 0,0:18:09.56,0:18:10.81,Default,Mechamaru,0,0,0,,What?
 Dialogue: 0,0:18:11.11,0:18:13.32,Default,Panda,0,0,0,,I mean, humans are weirdos, you know?
-Dialogue: 0,0:18:16.16,0:18:19.87,Default,Panda,0,0,0,,{\fade(200,0)}They'll risk their lives and \Nfight hard toward their goals,
-Dialogue: 0,0:18:19.87,0:18:24.17,Default,Panda,0,0,0,,{\fade(0,750)}then they'll be laid-back or \Nwishy-washy. I just don't get it.
-Dialogue: 0,0:18:24.79,0:18:28.58,Default,Panda,0,0,0,,Still, I do love those aspects that I don't have,
-Dialogue: 0,0:18:28.58,0:18:29.79,Default,Panda,0,0,0,,weird as they are.
-Dialogue: 0,0:18:30.92,0:18:33.50,Default,Panda,0,0,0,,I bet you've been through a lot too.
+Dialogue: 0,0:18:16.16,0:18:19.83,Default,Panda,0,0,0,,{\fade(200,0)}They put their lives on the line for their goals.
+Dialogue: 0,0:18:19.83,0:18:24.12,Default,Panda,0,0,0,,{\fade(0,750)}Sometimes they act all decisive,\N other times they hesitate. I don't get them.
+Dialogue: 0,0:18:24.79,0:18:29.79,Default,Panda,0,0,0,,Still, I do love those aspects that I don't have,\N weird as they are.
+Dialogue: 0,0:18:30.92,0:18:33.50,Default,Panda,0,0,0,,I bet you've been through a lot, too.
 Dialogue: 0,0:18:33.88,0:18:37.35,Default,Panda,0,0,0,,But going through more \Nhardships doesn't make you right.
 Dialogue: 0,0:18:37.35,0:18:40.51,Default,Panda,0,0,0,,And it's not like we're enemies in the first place.
 Dialogue: 0,0:18:40.51,0:18:43.06,Default,Panda,0,0,0,,Why did you decide to become a sorcerer anyway?
 Dialogue: 0,0:18:43.06,0:18:45.56,Default,Panda,0,0,0,,Did you think it's the only thing you could do?
-Dialogue: 0,0:18:45.56,0:18:47.77,Default,Panda,0,0,0,,I mean, not that it really matters.
+Dialogue: 0,0:18:45.56,0:18:47.77,Default,Panda,0,0,0,,I mean, not that it matters.
 Dialogue: 0,0:18:49.03,0:18:51.27,Default,Panda,0,0,0,,But if you have a wish you want fulfilled,
 Dialogue: 0,0:18:51.27,0:18:53.40,Default,Panda,0,0,0,,I'll help you out.
 Dialogue: 0,0:18:57.53,0:18:58.28,Default,Kamo,0,0,0,,Mechamaru.
-Dialogue: 0,0:18:59.12,0:19:01.29,Default,Kamo,0,0,0,,Don't be reckless with powerful moves.
-Dialogue: 0,0:19:01.29,0:19:04.28,Default,Kamo,0,0,0,,You never know how many enemies you could be facing next.{added a missing word, this made the line too long for a single line though. See if you want to split it in a different place.}
+Dialogue: 0,0:18:59.08,0:19:01.20,Default,Kamo,0,0,0,,Don't be reckless with powerful moves.
+Dialogue: 0,0:19:01.20,0:19:04.28,Default,Kamo,0,0,0,,You never know how many enemies \Nyou could be facing next.{added a missing word, this made the line too long for a single line though. See if you want to split it in a different place.}
 Dialogue: 0,0:19:05.58,0:19:07.08,Default,Todo,0,0,0,,Listen up, Mechamaru.
 Dialogue: 0,0:19:07.08,0:19:12.79,Default,,0,0,0,,If you can't instantly state your type, \Nyou'll never become a full-fledged sorcerer.
-Dialogue: 0,0:19:12.92,0:19:17.43,Default,Miwa,0,0,0,,Mechamaru, I was giving chocolates to everyone for Valentine's but I got you these instead.
+Dialogue: 0,0:19:12.92,0:19:17.43,Default,Miwa,0,0,0,,Mechamaru, I was giving chocolates to everyone for Valentine's, but I got you these instead.
 Dialogue: 0,0:19:17.43,0:19:20.18,Default,Miwa,0,0,0,,Heard you liked AA Evoltas.
 Dialogue: 0,0:19:20.18,0:19:21.80,Default,Mechamaru,0,0,0,,I don't run on batteries.
 Dialogue: 0,0:19:21.80,0:19:22.93,Default,Miwa,0,0,0,,Huh?
@@ -287,10 +277,10 @@ Dialogue: 0,0:19:26.60,0:19:28.31,Default,Mechamaru,0,0,0,,One day...
 Dialogue: 0,0:19:44.58,0:19:48.13,Default,Mechamaru,0,0,0,,{\fade(0,500)}together with everyone...
 Dialogue: 0,0:19:49.92,0:19:51.92,Default,Panda,0,0,0,,Hm? Come again?
 Dialogue: 0,0:19:52.30,0:19:56.80,Default,Mechamaru,0,0,0,,I doubt you'll still want to help me \Nafter seeing what I look like.
-Dialogue: 0,0:19:59.35,0:20:02.72,Default,Panda,0,0,0,,You think I'm gonna fuss over someone's looks?
-Dialogue: 0,0:20:02.72,0:20:03.97,Default,Panda,0,0,0,,I'm a panda, dude.
-Dialogue: 0,0:20:06.47,0:20:07.51,Default,Panda,0,0,0,,Later.
-Dialogue: 0,0:20:07.89,0:20:10.14,Default,Panda,0,0,0,,Let me pay you a visit sometime.
+Dialogue: 0,0:19:59.35,0:20:02.68,Default,Panda,0,0,0,,You think I'm gonna fuss over someone's looks?
+Dialogue: 0,0:20:02.68,0:20:04.10,Default,Panda,0,0,0,,I'm a panda, dude.
+Dialogue: 0,0:20:06.56,0:20:07.51,Default,Panda,0,0,0,,Later.
+Dialogue: 0,0:20:07.94,0:20:10.14,Default,Panda,0,0,0,,Let me pay you a visit sometime.
 Dialogue: 0,0:20:14.61,0:20:16.73,Default,Mechamaru,0,0,0,,Shut up, you damn puppet.
 Dialogue: 0,0:20:22.70,0:20:24.04,Default,Panda,0,0,0,,I almost forgot!
 Dialogue: 0,0:20:27.67,0:20:29.04,Default,Panda,0,0,0,,{\an8}Lend me your phone.
@@ -299,15 +289,16 @@ Dialogue: 0,0:20:40.85,0:20:42.51,Default,Miwa,0,0,0,,{\i1}This girl...
 Dialogue: 0,0:20:42.51,0:20:44.09,Default,Miwa,0,0,0,,{\i1}She's crazy strong!
 Comment: 0,0:20:45.02,0:20:45.06,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:22:15.02,0:22:15.06,Default,chptr,0,0,0,,{Juju Stroll}
-Dialogue: 0,0:22:20.15,0:22:24.57,Default,Mai,0,0,0,,Mechamaru, let Noritoshi know \N{*}Miss Utahime{*Utahime-sensei} is calling for him.
+Dialogue: 0,0:22:15.77,0:22:17.52,Default,,0,0,0,,{\fscx105}Juju Stroll.
+Dialogue: 0,0:22:20.15,0:22:24.86,Default,Mai,0,0,0,,Mechamaru, let Noritoshi know \N{*}Miss Utahime{*Utahime-sensei} is calling for him.
 Dialogue: 0,0:22:25.66,0:22:30.08,Default,Momo,0,0,0,,Mechamaru, please give this to Todo{**-kun}.
 Dialogue: 0,0:22:30.87,0:22:33.06,Default,Miwa,0,0,0,,Mechamaru! Perfect timing.
 Dialogue: 0,0:22:33.40,0:22:36.36,Default,Miwa,0,0,0,,This is for Todo{**-senpai} and Kamo{**-senpai}.
 Dialogue: 0,0:22:39.04,0:22:40.51,Default,Mechamaru,0,0,0,,Hold up, you three.
 Dialogue: 0,0:22:40.51,0:22:42.80,Default,Mechamaru,0,0,0,,Why does this always have to go through me?
 Dialogue: 0,0:22:42.80,0:22:43.80,Default,Three,0,0,0,,Grk!
-Dialogue: 0,0:22:45.77,0:22:48.06,Default,Todo,0,0,0,,Don't distract me right now.
-Dialogue: 0,0:22:48.75,0:22:51.80,Default,Todo,0,0,0,,Takada{**-chan} is streaming live right now.
+Dialogue: 0,0:22:45.77,0:22:47.93,Default,Todo,0,0,0,,Don't distract me.
+Dialogue: 0,0:22:48.76,0:22:51.80,Default,Todo,0,0,0,,Takada{**-chan} is streaming live right now.
 Dialogue: 0,0:22:53.36,0:22:56.98,Default,Kamo,0,0,0,,"Ibaragi"? It's Ibaraki.
 Dialogue: 0,0:22:56.98,0:22:59.03,Default,Kamo,0,0,0,,You don't even know that?
 Dialogue: 0,0:23:00.37,0:23:03.76,Default,Mai&Momo,0,0,0,,{\i1}Because they're a pain to deal with, obviously.

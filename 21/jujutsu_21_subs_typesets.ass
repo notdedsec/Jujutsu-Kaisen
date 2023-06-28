@@ -41,7 +41,7 @@ Comment: 0,0:18:12.06,0:18:14.06,Signs,Screen,0,0,0,,{\xshad2\fnAdLib BT\fs40\fr
 Comment: 0,0:16:08.02,0:16:10.27,Signs,Screen,0,0,0,,{\an5\fnArial\b1\c&HEFF3F7&\bord0\4c&H565A5E&\fay-.37\frx6\fry338\pos(204,787.33)}Kyoto
 Comment: 0,0:16:08.02,0:16:10.27,Signs,Screen,0,0,0,,{\an5\fnArial\b1\c&HEFF3F7&\bord0\4c&H565A5E&\fay-.37\frx6\fry338\pos(208,899.33)}Tokyo
 Dialogue: 0,0:06:42.98,0:06:46.97,Signs,Ijichi,0,0,0,,{\fnArtificeSSK\fs72\fscx96\bord7\blur4\c&H396295&\1a&H21&\pos(940,100)\3c&H000306&}Tokyo Metropolitan Jujutsu Technical High School
-Dialogue: 1,0:06:43.93,0:06:50.97,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\c&HE6E7E7&\pos(1520,884)}Episode 20: {\fs70}Jujutsu Koshien
+Dialogue: 1,0:06:43.93,0:06:50.97,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\c&HE6E7E7&\pos(1519,884)}Episode 21: {\fs70}Jujutsu Koshien
 Dialogue: 0,0:12:15.22,0:12:18.21,Signs,Screen,0,0,0,,{\fade(450,0)\bord3.6\an5\1c&HFDFEFE&\p1\pos(961.6,917.4)}m 0 110 l 600 110 600 0 0 0 0 110
 Dialogue: 1,0:12:15.22,0:12:18.21,Signs,Screen,0,0,0,,{\fade(450,0)\fnKozuka Gothic Pr6N B\fs105\fscx105\c&H000000&\4c&HFFFFFF&\pos(959.04,910.58)}The Previous Day
 Dialogue: 0,0:14:02.27,0:14:09.66,Signs,Screen,0,0,0,,{\p1\pos(2608.8,859.6)\c&HEECC84&\be2}m 0 0 l 1 287 l -1407 287 l -1414 283 l -1408 276 l -1387 272 l -1369 245 l -1376 217 l -1378 193 l -1344 119 l -1346 104 l -1362 107 l -1400 191 l -1414 197 l -1414 215 l -1424 235 l -1430 245 l -1457 262 l -1455 217 l -1499 177 l -1507 157 l -1502 144 l -1475 126 l -1474 109 l -1459 69 l -1474 27 l -1502 21 l -1530 12 l -1558 18 l -1583 59 l -1583 77 l -1587 95 l -1578 116 l -1585 128 l -1580 138 l -1586 147 l -1614 157 l -1645 158 l -1644 -1 l -1644 -1
@@ -105,7 +105,7 @@ Dialogue: 1,0:17:16.26,0:17:18.60,Signs,Screen,0,0,0,,{\blur0.8\fnFOT-TsukuGo Pr
 Dialogue: 1,0:17:27.85,0:17:30.02,Signs,Screen,0,0,0,,{\blur0.8\fnFOT-TsukuGo Pro B\fs63\pos(915.8,963.46)}The one thing she can't tolerate is protein powder.
 Dialogue: 1,0:18:17.70,0:18:25.58,Signs,Screen,0,0,0,,{\blur0.8\fnFOT-TsukuGo Pro B\fs56\pos(976.8,966.46)}Won the middle school nationals with Itadori. Itadori denies this.
 Dialogue: 1,0:20:30.45,0:20:31.75,Signs,Screen,0,0,0,,{\blur0.8\fnFOT-TsukuGo Pro B\fs54\an4\pos(393.8,959.46)}Prefers bread for breakfast. \NLikes it with ham, cheese, and a bit of pepper sauce.
-Dialogue: 1,0:14:28.43,0:14:30.64,Signs,Screen?,0,0,0,,{\blur0.8\fnFOT-TsukuGo Pro B\fs57\pos(937,963.66)}The mango she was letting ripen in the refrigerator is gone.
+Dialogue: 1,0:14:28.43,0:14:30.64,Signs,Screen?,0,0,0,,{\blur0.8\fnFOT-TsukuGo Pro B\fs57\pos(937,963.66)}The mango she was letting ripen in the refrigerator is missing.
 Dialogue: 1,0:14:28.43,0:14:30.64,Signs,Screen?,0,0,0,,{\fnA-OTF Folk Pro-En B\fs64\blur0.88\pos(1338.4,804.8)}Second Base
 Dialogue: 1,0:14:59.83,0:15:07.67,Signs,Screen,0,0,0,,{\fnA-OTF Folk Pro-En B\fs69\blur0.88\pos(1348.46,801.01)}Catcher
 Dialogue: 1,0:14:46.48,0:14:48.90,Signs,Screen,0,0,0,,{\fnA-OTF Folk Pro-En B\fs68\blur0.88\pos(1340.4,800.8)}Outfielder
