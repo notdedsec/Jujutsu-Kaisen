@@ -65,42 +65,42 @@ Dialogue: 0,0:00:10.03,0:00:17.08,OP1,,0,0,0,,{\fscx66\fscy66\an7\shad0\fad(1292
 Dialogue: 1,0:00:10.03,0:00:17.08,OP1,,0,0,0,,{\fscx66\fscy66\an7\shad0\fad(1292,500)\blur0.6\bord5\3c&H0000E8&\c&H0000E8&\t(1220,1334,\3c&H0000E8&\c&H0000E8&)\t(1334,1960,\3c&H86D9E4&\c&H86D9E4&)\t(6214,6965,\3c&H0000E8&\c&H0000E8&\t(6320,6500,))\p1\1a&HFF&\t(1247,1292,\1a&H00&)\t(6550,6595,\1a&HFF&)\pos(594.2,122.4)}m 954.19 49.42 b 953.42 50.77 952.6 53.62 951.56 53.7 949.8 53.84 947.13 52.73 946.18 51.28 941.28 43.75 936.53 36.1 932.28 28.19 929.15 22.39 930.55 19.13 935.91 17.15 942.97 14.53 946.47 15.82 948.1 22.28 950.31 31.03 952.07 39.9 954.19 49.42{\fscx66\fscy66\p0}
 Dialogue: 2,0:00:10.03,0:00:17.08,OP1,,0,0,0,,{\fscx66\fscy66\an7\shad0\fad(1292,500)\blur0.6\bord0\c&H0D034A&\t(1220,1334,\c&H0900B8&)\t(1334,1960,\c&H1A2415&)\t(6214,6965,\c&H0900B8&\t(6320,6500,\c&H0D034A&))\p1\4a&HFF&\pos(594.2,122.4)}m 954.19 49.42 b 953.42 50.77 952.6 53.62 951.56 53.7 949.8 53.84 947.13 52.73 946.18 51.28 941.28 43.75 936.53 36.1 932.28 28.19 929.15 22.39 930.55 19.13 935.91 17.15 942.97 14.53 946.47 15.82 948.1 22.28 950.31 31.03 952.07 39.9 954.19 49.42{\fscx66\fscy66\p0}
 Dialogue: 1,0:00:18.41,0:00:22.17,OP1,,0,0,0,,{\be4\b0}All mankind is full of bullshit, lies, and empty minds like we're not even alive
-Dialogue: 0,0:00:18.41,0:00:22.17,OP1,,0,0,0,,{\bord3\blur1.4\b0\3c&H5A778E&}All mankind is full of bullshit, lies, and empty minds like we're not even alive
+Dialogue: 0,0:00:18.41,0:00:22.17,OP1,,0,0,0,,{\bord3.2\blur1.4\b0\3c&H5B88AE&}All mankind is full of bullshit, lies, and empty minds like we're not even alive
 Dialogue: 1,0:00:22.17,0:00:23.63,OP1,,0,0,0,,{\be4\b0}All mankind is full of bullshit, lies, and empty minds like we're not even alive
-Dialogue: 0,0:00:22.17,0:00:23.63,OP1,,0,0,0,,{\bord3\blur1.4\b0\3c&H797979&}All mankind is full of bullshit, lies, {\3c&H797979&}a{*\3c&H777879&}n{*\3c&H757779&}d {*\3c&H717679&}e{*\3c&H707579&}m{*\3c&H6E7479&}p{*\3c&H6C7379&}t{*\3c&H6A7279&}y {*\3c&H667079&}m{*\3c&H647078&}i{*\3c&H626F78&}n{*\3c&H616E78&}d{*\3c&H5F6D78&}s {*\3c&H5B6B78&}l{*\3c&H596A78&}i{*\3c&H576A78&}k{*\3c&H556978&}e {*\3c&H526778&}w{*\3c&H506678&}e{*\3c&H4E6578&}'{*\3c&H4C6578&}r{*\3c&H4A6478&}e {*\3c&H466278&}n{*\3c&H446178&}o{*\3c&H436078&}t {*\3c&H3F5F77&}e{*\3c&H3D5E77&}v{*\3c&H3B5D77&}e{*\3c&H395C77&}n {*\3c&H355A77&}a{*\3c&H345977&}l{*\3c&H325977&}i{*\3c&H305877&}v{*\3c&H2E5777&}e{\3c&H2C5677&}
-Dialogue: 1,0:00:23.63,0:00:28.63,OP1,,0,0,0,,{\be4\b0}I'll live my life caring and open minded till I'm reduced to this hollow
-Dialogue: 0,0:00:23.63,0:00:28.63,OP1,,0,0,0,,{\bord3\blur1.4\b0\3c&HB7BF9F&\t(3500,3500,\blur1.8\3c&HABABAB&)}I'll live my life caring and open minded till I'm reduced to this hollow
+Dialogue: 0,0:00:22.17,0:00:23.63,OP1,,0,0,0,,{\bord3.4\blur1.4\b0\3c&H808080&}All mankind is full {\3c&H797979&}of bullshit, lies, {\3c&H797979&}a{*\3c&H777879&}n{*\3c&H757779&}d {*\3c&H717679&}e{*\3c&H707579&}m{*\3c&H6E7479&}p{*\3c&H6C7379&}t{*\3c&H6A7279&}y {*\3c&H667079&}m{*\3c&H647078&}i{*\3c&H626F78&}n{*\3c&H616E78&}d{*\3c&H5F6D78&}s {*\3c&H5B6B78&}l{*\3c&H596A78&}i{*\3c&H576A78&}k{*\3c&H556978&}e {*\3c&H526778&}w{*\3c&H506678&}e{*\3c&H4E6578&}'{*\3c&H4C6578&}r{*\3c&H4A6478&}e {*\3c&H466278&}n{*\3c&H446178&}o{*\3c&H436078&}t {*\3c&H3F5F77&}e{*\3c&H3D5E77&}v{*\3c&H3B5D77&}e{*\3c&H395C77&}n {*\3c&H355A77&}a{*\3c&H345977&}l{*\3c&H325977&}i{*\3c&H305877&}v{*\3c&H2E5777&}e{\3c&H2C5677&}
+Dialogue: 1,0:00:23.63,0:00:28.63,OP1,,0,0,0,,{\be4\b0}I'll live my life caring and open-minded till I'm reduced to this hollow
+Dialogue: 0,0:00:23.63,0:00:28.63,OP1,,0,0,0,,{\bord3.2\blur1.4\b0\3c&HB7BF9F&\t(3500,3500,\blur1.8\3c&HABABAB&)}I'll live my life caring and open-minded till I'm reduced to this hollow
 Dialogue: 1,0:00:28.63,0:00:34.01,OP1,,0,0,0,,{\fade(0,220)\be4\b0\t(100,440,\be2)}I just don't have the talent to live up to life's unfair expectations
-Dialogue: 0,0:00:28.63,0:00:33.26,OP1,,0,0,0,,{\bord2\blur1\b0\t(100,360,\bord4\blur2)}I just don't have the talent to live up to life's unfair expectations
-Dialogue: 0,0:00:33.26,0:00:34.01,OP1,,0,0,0,,{\fade(0,220)\bord4\blur2\b0\3c&H8CBDDB&}I just don't have the talent to live up to life's unfair expectations
+Dialogue: 0,0:00:28.63,0:00:33.26,OP1,,0,0,0,,{\bord2\blur1\b0\t(100,360,\bord4.4\blur2)}I just don't have the talent to live up to life's unfair expectations
+Dialogue: 0,0:00:33.26,0:00:34.01,OP1,,0,0,0,,{\fade(0,220)\bord4.4\blur2\b0\3c&H8CBDDB&}I just don't have the talent to live up to life's unfair expectations
 Dialogue: 1,0:00:34.01,0:00:39.69,OP1,,0,0,0,,{\fade(220,250)\be2}Without a personality, my memories are all I have for a place to be
-Dialogue: 0,0:00:34.01,0:00:35.18,OP1,,0,0,0,,{\fade(220,0)\bord4\blur2\3c&H8CBDDB&}Without a personality, my memories are all I have for a place to be
-Dialogue: 0,0:00:35.18,0:00:36.60,OP1,,0,0,0,,{\bord4\blur2\3c&H347660&}Without a personality, my memories are all I have for a place to be
-Dialogue: 0,0:00:36.60,0:00:38.85,OP1,,0,0,0,,{\bord4\blur2\3c&H255344&}Without a personality, my memories are all I have for a place to be
-Dialogue: 0,0:00:38.85,0:00:39.69,OP1,,0,0,0,,{\fade(0,250)\bord4\blur2\3c&H606E31&}Without a personality, my memories are all I have for a place to be
+Dialogue: 0,0:00:34.01,0:00:35.18,OP1,,0,0,0,,{\fade(220,0)\bord4.4\blur2\3c&H8CBDDB&}Without a personality, my memories are all I have for a place to be
+Dialogue: 0,0:00:35.18,0:00:36.60,OP1,,0,0,0,,{\bord4.4\blur2\3c&H347660&}Without a personality, my memories are all I have for a place to be
+Dialogue: 0,0:00:36.60,0:00:38.85,OP1,,0,0,0,,{\bord4.4\blur2\3c&H2B604F&}Without a personality, my memories are all I have for a place to be
+Dialogue: 0,0:00:38.85,0:00:39.69,OP1,,0,0,0,,{\fade(0,250)\bord4.4\blur2\3c&H606E31&}Without a personality, my memories are all I have for a place to be
 Dialogue: 1,0:00:39.69,0:00:42.40,OP1,,0,0,0,,{\fade(250,0)\be2\t(690,769,\3c&H9AC4FE&\1a&HC8&)\t(770,960,\3c&H606E31&\1a&H00&)\t(1520,1610,\3c&H8BD5E9&\1a&HC8&)\t(1700,2150,\3c&H606E31&\1a&H00&)}I'm crying every waking moment
-Dialogue: 0,0:00:39.69,0:00:42.40,OP1,,0,0,0,,{\fade(250,0)\bord4\blur2\t(690,769,\3c&H9AC4FE&)\t(770,960,\3c&H606E31&)\t(1520,1610,\3c&H8BD5E9&)\t(1700,2050,\3c&H606E31&)\t(690,769,\3c&H9AC4FE&\1a&HC8&)\t(770,960,\3c&H606E31&\1a&H00&)\t(1520,1610,\3c&H8BD5E9&\1a&HC8&)\t(1700,2150,\3c&H606E31&\1a&H00&)}I'm crying every waking moment
+Dialogue: 0,0:00:39.69,0:00:42.40,OP1,,0,0,0,,{\fade(250,0)\bord4.4\blur2\t(690,769,\3c&H9AC4FE&)\t(770,960,\3c&H606E31&)\t(1520,1610,\3c&H8BD5E9&)\t(1700,2050,\3c&H606E31&)\t(690,769,\3c&H9AC4FE&\1a&HC8&)\t(770,960,\3c&H606E31&\1a&H00&)\t(1520,1610,\3c&H8BD5E9&\1a&HC8&)\t(1700,2150,\3c&H606E31&\1a&H00&)}I'm crying every waking moment
 Dialogue: 1,0:00:42.40,0:00:48.70,OP1,,0,0,0,,{\be2}I know what mask I'm supposed to show but still, I wanna hear it from you
-Dialogue: 0,0:00:42.40,0:00:48.70,OP1,,0,0,0,,{\bord4\blur2}I know what mask I'm supposed to show but still, I wanna hear it from you
+Dialogue: 0,0:00:42.40,0:00:48.70,OP1,,0,0,0,,{\bord4.4\blur2}I know what mask I'm supposed to show but still, I wanna hear it from you
 Dialogue: 1,0:00:48.70,0:00:51.11,OP1,,0,0,0,,{\be2}Can we end the darkness? Can we cleanse the darkness?
-Dialogue: 0,0:00:48.70,0:00:51.11,OP1,,0,0,0,,{\bord4\blur2}Can we end the darkness? Can we cleanse the darkness?
+Dialogue: 0,0:00:48.70,0:00:51.11,OP1,,0,0,0,,{\bord4.4\blur2}Can we end the darkness? Can we cleanse the darkness?
 Dialogue: 1,0:00:51.11,0:00:53.66,OP1,,0,0,0,,{\fade(200,200)\be2}We'll find out when the veil of night falls
-Dialogue: 0,0:00:51.11,0:00:53.66,OP1,,0,0,0,,{\fade(200,200)\bord4\blur2\3c&H4D646C&\t(0,220,\3c&H72813B&)}We'll find out when the veil of night falls
+Dialogue: 0,0:00:51.11,0:00:53.66,OP1,,0,0,0,,{\fade(200,200)\bord4.4\blur2\3c&H4D646C&\t(0,220,\3c&H72813B&)}We'll find out when the veil of night falls
 Dialogue: 3,0:00:53.62,0:00:57.29,OP1,,0,0,0,,{\fade(500,0)\be2}Face to face on the path we trace over and over
-Dialogue: 2,0:00:53.62,0:00:55.70,OP1,,0,0,0,,{\fade(500,0)\bord4\blur2\3c&H795C4D&\t(775,900,\3c&H606E31&)\t(2102,2102,\3c&H785F52&)\t(2980,3000,\3c&H76716F&)}Face to face on the path we trace over and over
-Dialogue: 2,0:00:55.70,0:00:57.29,OP1,,0,0,0,,{\fade(0,0)\bord4\blur2\3c&H785F52&\t(780,980,\3c&H76716F&)}Face to face on the path we trace over and over
+Dialogue: 2,0:00:53.62,0:00:55.70,OP1,,0,0,0,,{\fade(500,0)\bord4.4\blur2\3c&H795C4D&\t(775,900,\3c&H606E31&)\t(2102,2102,\3c&H785F52&)\t(2980,3000,\3c&H76716F&)}Face to face on the path we trace over and over
+Dialogue: 2,0:00:55.70,0:00:57.29,OP1,,0,0,0,,{\fade(0,0)\bord4.4\blur2\3c&H785F52&\t(780,980,\3c&H76716F&)}Face to face on the path we trace over and over
 Dialogue: 1,0:00:57.29,0:00:58.96,OP1,,0,0,0,,{\fade(0,250)\be2}Let's throw it all away and restart
-Dialogue: 0,0:00:57.29,0:00:58.96,OP1,,0,0,0,,{\fade(0,250)\bord4\blur2\3c&H76716F&}Let's throw it all away and restart
+Dialogue: 0,0:00:57.29,0:00:58.96,OP1,,0,0,0,,{\fade(0,250)\bord4.4\blur2\3c&H76716F&}Let's throw it all away and restart
 Dialogue: 1,0:00:58.96,0:01:01.71,OP1,,0,0,0,,{\fade(350,350)\be2}Don't give up now, don't hold back now
-Dialogue: 0,0:00:58.96,0:01:01.71,OP1,,0,0,0,,{\fade(350,350)\bord4\blur2\3c&H76716F&\t(0,240,\3c&H606E31&)}Don't give up now, don't hold back now
+Dialogue: 0,0:00:58.96,0:01:01.71,OP1,,0,0,0,,{\fade(350,350)\bord4.4\blur2\3c&H76716F&\t(0,240,\3c&H606E31&)}Don't give up now, don't hold back now
 Dialogue: 3,0:01:01.50,0:01:06.96,OP1,,0,0,0,,{\fade(280,280)\be2}I thought I was stronger than this but I can't stay the same forever {gonna go with the implied meaning here cause the actual translation is totally out of context and makes no sense}
-Dialogue: 2,0:01:01.50,0:01:06.96,OP1,,0,0,0,,{\fade(280,280)\bord4\blur2\t(1610,1780,\3c&H5E4D44&)\t(2390,2850,\3c&H638FAB&)\t(3140,3280,\3c&H606E31&)\t(4710,4950,\3c&H8E92B3&)}I thought I was stronger than this but I can't stay the same forever
+Dialogue: 2,0:01:01.50,0:01:06.96,OP1,,0,0,0,,{\fade(280,280)\bord4.4\blur2\t(1610,1780,\3c&H5E4D44&)\t(2390,2850,\3c&H638FAB&)\t(3140,3280,\3c&H8B853C&)\t(4710,4950,\3c&H8E92B3&)}I thought I was stronger than this but I can't stay the same forever
 Dialogue: 5,0:01:06.80,0:01:10.88,OP1,,0,0,0,,{\fade(360,0)\be2}Now I can't imagine there's a future for a cursed man like me
-Dialogue: 4,0:01:06.80,0:01:09.67,OP1,,0,0,0,,{\fade(360,0)\bord4\blur2\3c&H8E92B3&\t(200,450,\3c&H7A6459&)\t(700,1010,\3c&H8E92B3&)\t(2100,2340,\3c&H5E4D44&)}Now I can't imagine there's a future for a cursed man like me
-Dialogue: 4,0:01:09.67,0:01:10.88,OP1,,0,0,0,,{\bord4\blur2\3c&H7E95B6&}Now I can't imagine there's a future for a cursed man like me
+Dialogue: 4,0:01:06.80,0:01:09.67,OP1,,0,0,0,,{\fade(360,0)\bord4.4\blur2\3c&H8E92B3&\t(200,450,\3c&H7A6459&)\t(700,1010,\3c&H8E92B3&)\t(2100,2340,\3c&H7FAC97&)}Now I can't imagine there's a future for a cursed man like me
+Dialogue: 4,0:01:09.67,0:01:10.88,OP1,,0,0,0,,{\bord4.4\blur2\3c&H7E95B6&}Now I can't imagine there's a future for a cursed man like me
 Dialogue: 1,0:01:10.88,0:01:13.22,OP1,,0,0,0,,{\fade(1800,220)\be2}I tried to run but kept falling
-Dialogue: 0,0:01:10.88,0:01:13.26,OP1,,0,0,0,,{\fade(800,220)\bord4\blur2\3c&H2566B0&\t(0,500,\bord5)\t(2000,2400\blur6)}I tried to run but kept falling
+Dialogue: 0,0:01:10.88,0:01:13.26,OP1,,0,0,0,,{\fade(800,220)\bord4.4\blur2\3c&H2566B0&\t(0,500,\bord5)\t(2000,2400\blur6)}I tried to run but kept falling
 Dialogue: 1,0:01:13.34,0:01:15.35,OP1,,0,0,0,,{\be2\fade(200,0)}Guarding these wounds that will never heal
-Dialogue: 0,0:01:13.34,0:01:15.35,OP1,,0,0,0,,{\bord4\blur2\3c&H78B6D7&\fade(200,0)}Guarding these wounds that will never heal
+Dialogue: 0,0:01:13.34,0:01:15.35,OP1,,0,0,0,,{\bord4.4\blur2\3c&H78B6D7&\fade(200,0)}Guarding these wounds that will never heal
 Dialogue: 1,0:01:15.35,0:01:19.43,OP1,,0,0,0,,{\be2}The world, it waits for me to start giving up
-Dialogue: 0,0:01:15.35,0:01:19.43,OP1,,0,0,0,,{\bord4\blur2\3c&H4A8886&}The world, it waits for me to start giving up
+Dialogue: 0,0:01:15.35,0:01:19.43,OP1,,0,0,0,,{\bord4.4\blur2\3c&H4A8886&}The world, it waits for me to start giving up
