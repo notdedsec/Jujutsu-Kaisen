@@ -170,7 +170,7 @@ Dialogue: 0,0:09:21.07,0:09:23.03,Default,Owner,0,0,0,,Is the AC even working?
 Dialogue: 0,0:09:23.79,0:09:26.79,Default,Geto,0,0,0,,Jogo, don't get too excited. You'll make it hot in here.
 Dialogue: 0,0:09:27.83,0:09:30.22,Default,Owner,0,0,0,,Sir, have you decided on your order?
 Dialogue: 0,0:09:37.80,0:09:40.81,Default,Geto,0,0,0,,I wish you wouldn't cause too much commotion.
-Dialogue: 0,0:09:40.81,0:09:42.80,Default,Jogo,0,0,0,,This is nothing.
+Dialogue: 0,0:09:40.81,0:09:42.80,Default,Jogo,0,0,0,,This is fine. {mfw}
 Dialogue: 0,0:09:45.48,0:09:46.44,Default,Woman,0,0,0,,What the{\fscx180}—{\fscx}{emdash seems better here, because interruption.}
 Dialogue: 0,0:09:55.63,0:09:57.86,Default,Geto,0,0,0,,Good thing I didn't pick an expensive restaurant.
 Dialogue: 0,0:10:06.23,0:10:11.09,Default,Jogo,0,0,0,,Geto, how strong am I in terms of Sukuna's fingers?
@@ -265,7 +265,7 @@ Dialogue: 0,0:15:26.56,0:15:28.07,Default,Gojo,0,0,0,,Just hurry up and do it.
 Dialogue: 0,0:15:32.28,0:15:34.74,Default,Gojo,0,0,0,,That didn't have any cursed energy behind it.
 Dialogue: 0,0:15:34.74,0:15:35.99,Default,Yuji,0,0,0,,Why?!
 Dialogue: 0,0:15:35.99,0:15:38.67,Default,Gojo,0,0,0,,Negative emotions are the source of cursed energy.
-Dialogue: 0,0:15:38.67,0:15:43.04,Default,Gojo,0,0,0,,In the incident you're referring to, \Nyou were probably overwhelmed with fear and anger.
+Dialogue: 0,0:15:38.67,0:15:43.04,Default,Gojo,0,0,0,,In the incident you're referring to, \Nyou must've been overwhelmed with fear and anger.
 Dialogue: 0,0:15:44.19,0:15:48.06,Default,Yuji,0,0,0,,So you have to be constantly flipping out to use cursed energy?
 Dialogue: 0,0:15:48.64,0:15:51.77,Default,Yuji,0,0,0,,Now that you mention it, \NFushiguro's always a bit snappy.
 Dialogue: 0,0:15:51.77,0:15:53.14,Default,Fushiguro,0,0,0,,Divine Dogs!
@@ -287,7 +287,7 @@ Dialogue: 0,0:16:32.01,0:16:33.30,Default,Yuji,0,0,0,,L-Like what?
 Dialogue: 0,0:16:33.30,0:16:35.60,Default,Gojo,0,0,0,,Watching movies.
 Dialogue: 0,0:16:35.60,0:16:37.10,Default,Yuji,0,0,0,,{\pos(967,1020)}Watching movies?
 Dialogue: 0,0:16:37.68,0:16:38.60,Default,Gojo,0,0,0,,Yup.
-Dialogue: 0,0:16:38.60,0:16:42.35,Default,Gojo,0,0,0,,Everything from classic masterpieces to C-grade horror and terrible French films.
+Dialogue: 0,0:16:38.60,0:16:42.35,Default,Gojo,0,0,0,,From classic masterpieces to \NC-grade horror and artistic French films.
 Dialogue: 0,0:16:42.35,0:16:44.61,Default,Gojo,0,0,0,,You're gonna binge them nonstop \Nas long as you're awake.
 Dialogue: 0,0:16:44.61,0:16:46.81,Default,Gojo,0,0,0,,Of course, you won't just be watching them.
 Dialogue: 0,0:16:49.22,0:16:51.28,Default,Gojo,0,0,0,,You'll be watching them with this guy.
@@ -322,7 +322,7 @@ Dialogue: 0,0:18:36.55,0:18:38.06,Default,Maki,0,0,0,,I make Panda carry them.
 Dialogue: 0,0:18:38.06,0:18:40.30,Default,Fushiguro,0,0,0,,{\i1}Never should've asked, part two.
 Dialogue: 0,0:18:40.68,0:18:44.69,Default,Panda,0,0,0,,Some sorcerers keep cursed spirits \Nto store weapons for them.
 Dialogue: 0,0:18:45.10,0:18:47.73,Default,Maki,0,0,0,,I doubt we can do that. It's very rare.
-Dialogue: 0,0:18:47.73,0:18:49.95,Default,Maki,0,0,0,,It takes time to tame them too.
+Dialogue: 0,0:18:47.73,0:18:49.95,Default,Maki,0,0,0,,It takes time to tame them, too.
 Dialogue: 0,0:18:49.95,0:18:51.99,Default,Maki,0,0,0,,But let me know if you find any.
 Dialogue: 0,0:18:51.99,0:18:53.69,Default,Panda,0,0,0,,For a year's supply of Calpas, sure. {reference to Oyatsu Calpas which are basically sausages with a panda on the packaging}
 Dialogue: 0,0:18:53.69,0:18:54.76,Default,Sukuna,0,0,0,,I don't get it, though.
