@@ -78,11 +78,11 @@ Dialogue: 0,0:03:10.25,0:03:11.75,Default,Yuji,0,0,0,,If things go south,
 Dialogue: 0,0:03:12.74,0:03:14.80,Default,Yuji,0,0,0,,you'd better come out.
 Dialogue: 0,0:03:23.54,0:03:24.39,Default,Kugisaki,0,0,0,,Why, you...
 Dialogue: 0,0:03:24.39,0:03:26.19,Default,Kugisaki,0,0,0,,How dare you touch me!
-Dialogue: 0,0:03:32.02,0:03:34.40,Default,Eso,0,0,0,,So it was a lady?
-Dialogue: 0,0:03:34.40,0:03:37.65,Default,Eso,0,0,0,,Oh, well, pardon me.
-Dialogue: 0,0:03:38.41,0:03:38.90,Default,,0,0,0,,{\pos(854,1020)}Ew!
-Dialogue: 0,0:03:38.90,0:03:43.44,Default,Eso,0,0,0,,We brothers were tasked with an errand.
-Dialogue: 0,0:03:44.65,0:03:49.13,Default,Eso,0,0,0,,But killing sorcerers isn't part of it.
+Dialogue: 0,0:03:32.02,0:03:35.40,Default,Eso,0,0,0,,Oh my, was it a lady?
+Dialogue: 0,0:03:36.53,0:03:37.65,Default,Eso,0,0,0,,I beg your pardon.
+Dialogue: 0,0:03:38.41,0:03:38.90,Default,,0,0,0,,{\pos(858,1020)}Ugh!
+Dialogue: 0,0:03:38.90,0:03:43.41,Default,Eso,0,0,0,,We brothers were tasked with an errand.
+Dialogue: 0,0:03:44.66,0:03:49.21,Default,Eso,0,0,0,,Killing sorcerers, however, is not part of it.
 Dialogue: 0,0:03:49.83,0:03:52.66,Default,Eso,0,0,0,,If you withdraw, we'll let you escape,
 Dialogue: 0,0:03:54.30,0:03:55.67,Default,Eso,0,0,0,,young lady.
 Dialogue: 0,0:03:56.10,0:03:57.17,Default,Kugisaki,0,0,0,,An errand?
