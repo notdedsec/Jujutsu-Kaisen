@@ -21,9 +21,9 @@ Video File: jujutsu_10_premux.mkv
 Keyframes File: jujutsu_10_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 159
-Active Line: 171
-Video Position: 20802
+Scroll Position: 255
+Active Line: 259
+Video Position: 28040
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -258,7 +258,7 @@ Dialogue: 5,0:17:03.21,0:17:05.05,Default,Sotomura,0,0,0,,Stop! Stop this!
 Dialogue: 5,0:17:05.84,0:17:08.34,Default,Sotomura,0,0,0,,Don't run off with them!
 Dialogue: 5,0:17:11.84,0:17:13.30,Default,Sotomura,0,0,0,,Come back!
 Dialogue: 5,0:17:16.96,0:17:18.82,Default,Junpei,0,0,0,,What just happened?
-Dialogue: 5,0:17:20.94,0:17:22.53,Default,Yuji,0,0,0,,All right, let's go!
+Dialogue: 5,0:17:20.94,0:17:22.53,Default,Yuji,0,0,0,,Alright, let's go!
 Dialogue: 5,0:17:22.53,0:17:23.76,Default,Junpei,0,0,0,,Huh?! That was fast!
 Dialogue: 5,0:17:23.76,0:17:25.20,Default,Junpei,0,0,0,,Did you go around the block?!
 Dialogue: 5,0:17:25.20,0:17:26.02,Default,Yuji,0,0,0,,Yeah.
@@ -292,7 +292,7 @@ Dialogue: 5,0:19:15.34,0:19:17.50,Default,Nanami,0,0,0,,I'm not worried about it
 Dialogue: 5,0:19:20.38,0:19:23.88,Default,Nanami,0,0,0,,It's my policy not to bring personal feelings into work.
 Dialogue: 5,0:19:25.57,0:19:27.07,Default,Mahito,0,0,0,,You suck at lying!
 Dialogue: 5,0:19:27.07,0:19:29.48,Default,Mahito,0,0,0,,I can feel your soul trembling.
-Dialogue: 5,0:19:29.48,0:19:32.78,Default,Mahito,0,0,0,,Man, what grade are you, anyway?
+Dialogue: 5,0:19:29.48,0:19:32.78,Default,Mahito,0,0,0,,By the way, what grade are you?
 Dialogue: 5,0:19:32.78,0:19:34.07,Default,Nanami,0,0,0,,First grade.
 Dialogue: 5,0:19:34.07,0:19:36.20,Default,Mahito,0,0,0,,No wonder you're strong.
 Dialogue: 5,0:19:36.57,0:19:39.04,Default,Mahito,0,0,0,,Perfect for my experiment.

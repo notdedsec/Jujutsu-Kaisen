@@ -21,9 +21,9 @@ Video File: jujutsu_09_premux.mkv
 Keyframes File: jujutsu_09_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 235
-Active Line: 247
-Video Position: 23747
+Scroll Position: 269
+Active Line: 275
+Video Position: 26368
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -61,7 +61,7 @@ Dialogue: 5,0:01:13.68,0:01:14.89,Alt,Nishimura,0,0,0,,{\an8}For real?
 Dialogue: 5,0:01:14.89,0:01:15.81,Alt,Honda,0,0,0,,{\an8}That's awesome!
 Dialogue: 5,0:01:17.06,0:01:19.47,Alt,Nishimura,0,0,0,,{\an8}So? What'd you do next?
 Dialogue: 5,0:01:19.47,0:01:21.39,Alt,Sayama,0,0,0,,{\an8}I took it all, obviously.
-Dialogue: 5,0:01:21.39,0:01:23.31,Alt,Nishimura,0,0,0,,{\an8}Man, that's so mean!
+Dialogue: 5,0:01:21.39,0:01:23.31,Alt,Nishimura,0,0,0,,{\an8}Aw, that's so mean!
 Dialogue: 5,0:01:29.57,0:01:31.99,Alt,Honda,0,0,0,,{\an8}Then today's your treat!
 Dialogue: 5,0:01:31.99,0:01:36.17,Alt,Sayama,0,0,0,,{\an8}Fuck outta here! We're splitting it even.
 Dialogue: 5,0:01:14.03,0:01:15.43,Default,Junpei,0,0,0,,{\i1}They're so annoying.
@@ -308,7 +308,7 @@ Dialogue: 5,0:18:00.77,0:18:06.57,Default,Mahito,0,0,0,,{\fade(0,600)}They put p
 Dialogue: 5,0:18:06.94,0:18:09.94,Default,Mahito,0,0,0,,I guess that's just the extent of their knowledge. {skill issue}
 Dialogue: 5,0:18:10.62,0:18:15.20,Default,Mahito,0,0,0,,What people fear most aren't fairy tales, after all.
 Dialogue: 5,0:18:16.33,0:18:17.79,Default,Junpei,0,0,0,,Things like natural disasters?
-Dialogue: 5,0:18:19.76,0:18:22.29,Default,Mahito,0,0,0,,Man, you're so easy to talk to.
+Dialogue: 5,0:18:19.76,0:18:22.29,Default,Mahito,0,0,0,,You're so easy to talk to.
 Dialogue: 5,0:18:23.87,0:18:25.53,Default,Junpei,0,0,0,,Oh, r-really?
 Dialogue: 5,0:18:33.68,0:18:35.34,Default,Mahito,0,0,0,,People have always feared...
 Dialogue: 5,0:18:36.85,0:18:41.34,Default,Mahito,0,0,0,,the earth, the forests, and the oceans.
