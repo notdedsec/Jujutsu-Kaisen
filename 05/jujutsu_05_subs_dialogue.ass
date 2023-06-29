@@ -21,10 +21,10 @@ Video File: jujutsu_05_premux.mkv
 Keyframes File: jujutsu_05_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 299
-Active Line: 313
-Video Position: 33465
+Video Zoom Percent: 0.750000
+Scroll Position: 107
+Active Line: 109
+Video Position: 16072
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -130,8 +130,8 @@ Dialogue: 0,0:09:32.99,0:09:36.97,Default,Fushiguro,0,0,0,,{\i1\fade(100,100)}Ju
 Dialogue: 0,0:09:41.23,0:09:46.73,Default,Fushiguro,0,0,0,,{\i1\fade(100,150)}I want more good people to receive fairness.
 Dialogue: 0,0:09:50.45,0:09:55.53,Default,Fushiguro,0,0,0,,{\i1}Which is why, I'll save people whether it's fair or not.
 Dialogue: 0,0:10:01.12,0:10:02.91,Default,Sukuna,0,0,0,,That's it.
-Dialogue: 0,0:10:02.91,0:10:07.42,Default,Sukuna,0,0,0,,So this is when you start burning through your life! {"So this is when you start burning!"? Sentence seems awkward.}{makes sense in context with future events. the technique he was about to use actually burns through his life.}
-Dialogue: 0,0:10:07.71,0:10:09.08,Default,Sukuna,0,0,0,,I see.
+Dialogue: 0,0:10:03.37,0:10:07.42,Default,Sukuna,0,0,0,,So this is where you start burning through your life. {"So this is when you start burning!"? Sentence seems awkward.}{makes sense in context with future events. the technique he was about to use actually burns through his life.}
+Dialogue: 0,0:10:07.71,0:10:09.08,Default,Sukuna,0,0,0,,I get it.
 Dialogue: 0,0:10:09.08,0:10:12.05,Default,Sukuna,0,0,0,,Well, in that case,
 Dialogue: 0,0:10:12.79,0:10:16.26,Default,Sukuna,0,0,0,,show me what you've got, Fushiguro Megumi!
 Dialogue: 0,0:10:18.98,0:10:23.43,Default,Fushiguro,0,0,0,,With this sacred treasure, I summon...
@@ -143,7 +143,7 @@ Dialogue: 0,0:10:50.00,0:10:52.07,Default,Fushiguro,0,0,0,,But that's okay.
 Dialogue: 0,0:10:53.00,0:10:54.76,Default,Fushiguro,0,0,0,,I'm not a hero.
 Dialogue: 0,0:10:57.05,0:10:58.60,Default,Fushiguro,0,0,0,,I'm just a jujutsu sorcerer.
 Dialogue: 0,0:11:00.01,0:11:05.19,Default,Fushiguro,0,0,0,,That's why I've never once regretted saving you.
-Dialogue: 0,0:11:10.19,0:11:11.73,Default,Yuji,0,0,0,,I see.
+Dialogue: 0,0:11:10.32,0:11:11.73,Default,Yuji,0,0,0,,Makes sense.
 Dialogue: 0,0:11:12.20,0:11:14.93,Default,Yuji,0,0,0,,You really are smart, Fushiguro.
 Dialogue: 0,0:11:14.93,0:11:17.19,Default,Yuji,0,0,0,,You've put more thought into this than I have.
 Dialogue: 0,0:11:17.66,0:11:22.95,Default,Yuji,0,0,0,,I think your way of doing things is correct,\N but that doesn't mean mine isn't.
@@ -242,7 +242,7 @@ Dialogue: 0,0:16:28.30,0:16:29.26,Default,Panda,0,0,0,,Maki! Maki!
 Dialogue: 0,0:16:29.26,0:16:30.90,Default,Maki,0,0,0,,I'm talking here. Shut it.
 Dialogue: 0,0:16:30.90,0:16:33.90,Default,Panda,0,0,0,,Y-You actually don't know why they're so down?
 Dialogue: 0,0:16:33.90,0:16:35.26,Default,Maki,0,0,0,,No, should I?
-Dialogue: 0,0:16:35.26,0:16:37.50,Default,Panda,0,0,0,,Someone really did die yesterday!
+Dialogue: 0,0:16:35.26,0:16:37.50,Default,Panda,0,0,0,,Someone actually died yesterday!
 Dialogue: 0,0:16:37.50,0:16:39.94,Default,Panda,0,0,0,,One of the first-year boys!
 Dialogue: 0,0:16:39.94,0:16:40.77,Default,Toge,0,0,0,,Bonito flakes.
 Dialogue: 0,0:16:41.82,0:16:43.77,Default,Maki,0,0,0,,Could've told me sooner!
