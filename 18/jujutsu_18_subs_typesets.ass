@@ -33,7 +33,7 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:04:09.00,0:04:16.01,Signs,Screen,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\c&HE6E7E7&\pos(1656,882)}Episode 18: {\fs70}Sage
 Dialogue: 0,0:04:53.43,0:04:56.44,Signs,Screen,0,0,0,,{\an5\1c&H000000&\p1\pos(962.47,539.94)}m 0 1000 l 1800 1000 1800 0 0 0 0 1000
-Dialogue: 0,0:04:53.43,0:04:56.44,Signs,Screen,0,0,0,,{\fnRagnar\fs70\c&HFFFFFF&\pos(960,545)}Kyoto Sister School Exchange Event Team Battle\N{\fs80}Miwa Kasumi {\fscx180}—{\fscx} Retired
+Dialogue: 0,0:04:53.43,0:04:56.44,Signs,Screen,0,0,0,,{\fnRagnar\fs70\blur0.6\c&HFFFFFF&\pos(960,545)}Kyoto Sister School Exchange Event Team Battle\N{\fs80}Miwa Kasumi {\fscx180}—{\fscx} Retired
 Dialogue: 0,0:05:00.44,0:05:00.48,Signs,Phone,0,0,0,,{=1}{\fscx100\fscy100\alpha&H00&\fnCabin\fs28.8\bord0.1\blur10\3c&HFFFFFF&\3a&H81&\frz7.874\c&HFFFFFF&\1a&H64&\pos(879.2,201.89)}Miwa Kasumi
 Dialogue: 0,0:05:00.48,0:05:00.53,Signs,Phone,0,0,0,,{=1}{\fscx99.79\fscy99.79\alpha&H00&\fnCabin\fs28.8\bord0.1\blur9.98\3c&HFFFFFF&\3a&H81&\frz7.874\c&HFFFFFF&\1a&H64&\pos(879.33,202.75)}Miwa Kasumi
 Dialogue: 0,0:05:00.53,0:05:00.57,Signs,Phone,0,0,0,,{=1}{\fscx99.46\fscy99.46\alpha&H00&\fnCabin\fs28.8\bord0.1\blur9.95\3c&HFFFFFF&\3a&H81&\frz7.874\c&HFFFFFF&\1a&H64&\pos(879.49,203.68)}Miwa Kasumi
