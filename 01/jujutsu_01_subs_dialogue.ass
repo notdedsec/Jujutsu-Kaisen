@@ -142,7 +142,7 @@ Dialogue: 0,0:06:52.55,0:06:54.91,Default,Fushiguro,0,0,0,,{\i1}Something's off 
 Dialogue: 0,0:06:57.47,0:07:00.06,Default,Fushiguro,0,0,0,,{\i1}Is there a dead body buried here or something?
 Dialogue: 0,0:07:00.81,0:07:01.98,Default,Fushiguro,0,0,0,,{\i1}Even if there is,
 Dialogue: 0,0:07:02.69,0:07:05.24,Default,Fushiguro,0,0,0,,{\i1}I'm surprised to see one this high-leveled.
-Dialogue: 0,0:07:05.24,0:07:07.62,Default,Fushiguro,0,0,0,,{\i1}That's probably a second-grade curse.
+Dialogue: 0,0:07:05.24,0:07:07.62,Default,Fushiguro,0,0,0,,{\i1}That looks like a second-grade curse.
 Dialogue: 0,0:07:07.62,0:07:09.53,Default,Fushiguro,0,0,0,,{\i1}Must be that cursed object's influence.
 Dialogue: 0,0:07:11.83,0:07:15.21,Default,Fushiguro,0,0,0,,{\i1}Damn it. Its presence is so strong it's everywhere.
 Dialogue: 0,0:07:15.21,0:07:19.04,Default,Fushiguro,0,0,0,,{\i1}It feels like it's close but it could be anywhere.
@@ -186,7 +186,7 @@ Dialogue: 0,0:08:48.07,0:08:49.54,Default,Sasaki,0,0,0,,We're the occult club, a
 Dialogue: 0,0:08:50.25,0:08:51.76,Default,Sasaki,0,0,0,,I did say that.
 Dialogue: 0,0:08:51.76,0:08:54.93,Default,Yuji,0,0,0,,I've got my reasons and I need to be home by five.
 Dialogue: 0,0:08:54.93,0:08:56.76,Default,Yuji,0,0,0,,So if it's okay with you, I'd like to stay.
-Dialogue: 0,0:08:57.25,0:09:00.01,Default,Yuji,0,0,0,,The occult club is really growing on me.
+Dialogue: 0,0:08:57.25,0:09:00.01,Default,Yuji,0,0,0,,The occult club's been growing on me.
 Dialogue: 0,0:09:00.01,0:09:02.52,Default,Sasaki,0,0,0,,Well, suit yourself. We don't mind.
 Dialogue: 0,0:09:02.82,0:09:03.74,Default,Iguchi,0,0,0,,Yeah.
 Dialogue: 0,0:09:04.84,0:09:06.55,Default,Fushiguro,0,0,0,,{\i1}That guy's incredible.
@@ -243,7 +243,7 @@ Dialogue: 0,0:12:11.13,0:12:12.08,Default,Nurse,0,0,0,,Okay.
 Dialogue: 0,0:12:12.08,0:12:14.27,Default,Nurse,0,0,0,,That's all of the necessary paperwork.
 Dialogue: 0,0:12:14.27,0:12:16.62,Default,Yuji,0,0,0,,Got it. Thank you for everything.
 Dialogue: 0,0:12:16.62,0:12:18.34,Default,Nurse,0,0,0,,Are you sure you're okay?
-Dialogue: 0,0:12:18.85,0:12:24.80,Default,Yuji,0,0,0,,Well, this is my first time experiencing \Nsomething like this so it hasn't really sunk in yet.
+Dialogue: 0,0:12:18.85,0:12:24.80,Default,Yuji,0,0,0,,Well, this is my first time experiencing \Nsomething like this, so it hasn't sunk in yet.
 Dialogue: 0,0:12:24.80,0:12:29.51,Default,Yuji,0,0,0,,But Grandpa would snap\N if I kept moping around forever.
 Dialogue: 0,0:12:29.51,0:12:31.89,Default,Yuji,0,0,0,,So I'll just have to laugh as I roast him up.
 Dialogue: 0,0:12:31.89,0:12:33.25,Default,Nurse,0,0,0,,Phrasing!
@@ -367,7 +367,7 @@ Dialogue: 0,0:19:23.72,0:19:26.71,Default,Yuji,0,0,0,,Oh, I was scared, all righ
 Dialogue: 0,0:19:26.71,0:19:29.69,Default,Yuji,0,0,0,,But you know, everyone dies eventually.
 Dialogue: 0,0:19:29.69,0:19:30.69,Default,Fushiguro,0,0,0,,What?
 Dialogue: 0,0:19:31.11,0:19:36.04,Default,Yuji,0,0,0,,So at the very least, I want the people I know to have proper deaths.
-Dialogue: 0,0:19:36.04,0:19:38.54,Default,Yuji,0,0,0,,Not that I really get it myself.
+Dialogue: 0,0:19:36.04,0:19:38.54,Default,Yuji,0,0,0,,Not that I get it myself.
 Dialogue: 0,0:19:38.54,0:19:39.12,Default,Yuji,0,0,0,,Whoa.
 Dialogue: 0,0:19:39.39,0:19:40.39,Default,Yuji,0,0,0,,This it?
 Dialogue: 0,0:19:40.39,0:19:44.33,Default,Fushiguro,0,0,0,,Yeah, that's the special-grade cursed object, \NRyomen Sukuna's finger.
