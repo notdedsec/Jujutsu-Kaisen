@@ -21,10 +21,10 @@ Video File: jujutsu_21_premux.mkv
 Keyframes File: jujutsu_21_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 117
-Active Line: 130
-Video Position: 33992
+Video Zoom Percent: 0.625000
+Scroll Position: 48
+Active Line: 58
+Video Position: 24589
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -46,11 +46,11 @@ Dialogue: 0,0:12:15.22,0:12:18.21,Signs,Screen,0,0,0,,{\fade(450,0)\bord3.6\an5\
 Dialogue: 1,0:12:15.22,0:12:18.21,Signs,Screen,0,0,0,,{\fade(450,0)\fnKozuka Gothic Pr6N B\fs105\fscx105\c&H000000&\4c&HFFFFFF&\pos(959.04,910.58)}The Previous Day
 Dialogue: 0,0:14:02.27,0:14:09.66,Signs,Screen,0,0,0,,{\p1\pos(2608.8,859.6)\c&HEECC84&\be2}m 0 0 l 1 287 l -1407 287 l -1414 283 l -1408 276 l -1387 272 l -1369 245 l -1376 217 l -1378 193 l -1344 119 l -1346 104 l -1362 107 l -1400 191 l -1414 197 l -1414 215 l -1424 235 l -1430 245 l -1457 262 l -1455 217 l -1499 177 l -1507 157 l -1502 144 l -1475 126 l -1474 109 l -1459 69 l -1474 27 l -1502 21 l -1530 12 l -1558 18 l -1583 59 l -1583 77 l -1587 95 l -1578 116 l -1585 128 l -1580 138 l -1586 147 l -1614 157 l -1645 158 l -1644 -1 l -1644 -1
 Dialogue: 1,0:14:02.27,0:14:09.66,Signs,Screen,0,0,0,,{\be1\fnFOT-TsukuGo Pro B\fscy110\fs70\c&H2C2205&\3c&HEAD286&\an1\shad0\an4\pos(482.93,927.73)}Principal Gakuganji's previous visit was to discuss \Nwhat items might be needed on the day of the event.
-Dialogue: 0,0:14:10.11,0:14:10.25,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx62\be1\c&H151724&\frz48.85\pos(272.17,527.17)}Baseball
-Dialogue: 0,0:14:10.25,0:14:10.37,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fscx60\fs55\be1\c&H151724&\frx346\fry340\frz33.58\pos(438.96,441)}Baseball
-Dialogue: 0,0:14:10.37,0:14:10.50,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx82\be1\c&H151724&\frz15.92\pos(640.64,346.07)}Baseball
-Dialogue: 0,0:14:10.50,0:14:10.62,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx90\be1\c&H151724&\frz9.8\pos(747.92,313.27)\frx0\fry354}Baseball
-Dialogue: 0,0:14:10.62,0:14:11.36,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx98\be1\c&H151724&\pos(833.53,286.24)\frz10.03}Baseball
+Dialogue: 0,0:14:10.11,0:14:10.25,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx62\blur0.8\c&H151724&\frz48.85\pos(272.17,527.17)}Baseball
+Dialogue: 0,0:14:10.25,0:14:10.37,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fscx60\fs55\blur0.8\c&H151724&\frx346\fry340\frz33.58\pos(438.96,441)}Baseball
+Dialogue: 0,0:14:10.37,0:14:10.50,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx82\blur0.8\c&H151724&\frz15.92\pos(640.64,346.07)}Baseball
+Dialogue: 0,0:14:10.50,0:14:10.62,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx90\blur0.8\c&H151724&\frz9.8\pos(747.92,313.27)\frx0\fry354}Baseball
+Dialogue: 0,0:14:10.62,0:14:11.36,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx98\blur0.8\c&H151724&\pos(833.53,286.24)\frz10.03}Baseball
 Dialogue: 0,0:14:28.43,0:14:30.64,Signs,Screen?,0,0,0,,{\be1\p1\pos(160,34)\c&H000000&}m 1178 846 l 1174 776 1486 774 1484 850
 Dialogue: 0,0:14:28.43,0:14:30.64,Signs,Screen?,0,0,0,,{\blur8\p1\c&H131311&\pos(727.33,66)}m 296 896 l 1564 898 1560 956 1592 988 1600 1024 150 1032 134 1004 130 956 134 932 162 968 206 982 250 980 280 958 294 924
 Dialogue: 0,0:14:46.49,0:14:48.91,Signs,Screen?,0,0,0,,{\be1\p1\pos(160,34)\c&H000000&}m 1178 846 l 1174 776 1486 774 1484 850
@@ -84,17 +84,17 @@ Dialogue: 0,0:17:16.26,0:17:18.60,Signs,Screen,0,0,0,,{\fs88\bord4\yshad3\xshad4
 Dialogue: 0,0:17:27.85,0:17:30.02,Signs,Screen,0,0,0,,{\fs80\bord4\yshad3\xshad4\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(613.33,660.6)\4c&H151724&\3c&H151724&\c&H000000&}Zenin Maki
 Dialogue: 0,0:18:17.70,0:18:25.58,Signs,Screen,0,0,0,,{\fs73\bord4\yshad3\xshad4\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(539.39,656.56)\4c&H151724&\3c&H151724&\c&H000000&}Todo Aoi
 Dialogue: 0,0:20:30.45,0:20:31.75,Signs,Screen,0,0,0,,{\fs80\bord4\yshad3\xshad4\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(654,649.33)\4c&H151724&\3c&H151724&\c&H000000&}Inumaki Toge
-Dialogue: 1,0:14:28.43,0:14:30.64,Signs,Screen?,0,0,0,,{\fs80\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(649.07,653.67)}Miwa Kasumi
-Dialogue: 1,0:14:46.48,0:14:48.90,Signs,Screen,0,0,0,,{\fs66\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(653.33,654.68)}Nishimiya Momo
-Dialogue: 1,0:14:56.37,0:14:58.66,Signs,Screen?,0,0,0,,{\fs71\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(816.67,724.34)}Kamo Noritoshi
-Dialogue: 1,0:14:59.83,0:15:07.67,Signs,Screen,0,0,0,,{\fs90\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(645.35,649.34)}Itadori Yuji
-Dialogue: 1,0:16:12.11,0:16:13.80,Signs,Screen,0,0,0,,{\fs78\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(714,644.33)\c&HFCFCFC&}Kugisaki Nobara
-Dialogue: 1,0:16:42.10,0:16:48.82,Signs,Screen,0,0,0,,{\fs80\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(583.46,656.53)\c&HFCFCFC&}Zenin Mai
-Dialogue: 1,0:17:05.54,0:17:07.54,Signs,Screen,0,0,0,,{\fs61\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(656,655.2)\c&HFCFCFC&\fscx96}Fushiguro Megumi
-Dialogue: 1,0:17:16.26,0:17:18.60,Signs,Screen,0,0,0,,{\fs88\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(603.44,661.14)\c&HFCFCFC&}Panda
-Dialogue: 1,0:17:27.85,0:17:30.02,Signs,Screen,0,0,0,,{\fs80\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(613.33,660.6)\c&HFCFCFC&}Zenin Maki
-Dialogue: 1,0:18:17.70,0:18:25.58,Signs,Screen,0,0,0,,{\fs73\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(539.39,656.56)\c&HFCFCFC&}Todo Aoi
-Dialogue: 1,0:20:30.45,0:20:31.75,Signs,Screen,0,0,0,,{\fs80\blur0.8\fnDFPGothicUB-AnoHana\b0\pos(654,649.33)\c&HFCFCFC&}Inumaki Toge
+Dialogue: 1,0:14:28.43,0:14:30.64,Signs,Screen?,0,0,0,,{\fs80\blur0.65\fnDFPGothicUB-AnoHana\b0\pos(649.07,653.67)}Miwa Kasumi
+Dialogue: 1,0:14:46.48,0:14:48.90,Signs,Screen,0,0,0,,{\fs66\blur0.65\fnDFPGothicUB-AnoHana\b0\pos(653.33,654.68)}Nishimiya Momo
+Dialogue: 1,0:14:56.37,0:14:58.66,Signs,Screen?,0,0,0,,{\fs71\blur0.65\fnDFPGothicUB-AnoHana\b0\pos(816.67,724.34)}Kamo Noritoshi
+Dialogue: 1,0:14:59.83,0:15:07.67,Signs,Screen,0,0,0,,{\fs90\blur0.65\fnDFPGothicUB-AnoHana\b0\pos(645.35,649.34)}Itadori Yuji
+Dialogue: 1,0:16:12.11,0:16:13.80,Signs,Screen,0,0,0,,{\fs78\blur0.65\fnDFPGothicUB-AnoHana\b0\pos(714,644.33)\c&HFCFCFC&}Kugisaki Nobara
+Dialogue: 1,0:16:42.10,0:16:48.82,Signs,Screen,0,0,0,,{\fs80\blur0.65\fnDFPGothicUB-AnoHana\b0\pos(583.46,656.53)\c&HFCFCFC&}Zenin Mai
+Dialogue: 1,0:17:05.54,0:17:07.54,Signs,Screen,0,0,0,,{\fs61\blur0.65\fnDFPGothicUB-AnoHana\b0\pos(656,655.2)\c&HFCFCFC&\fscx96}Fushiguro Megumi
+Dialogue: 1,0:17:16.26,0:17:18.60,Signs,Screen,0,0,0,,{\fs88\blur0.65\fnDFPGothicUB-AnoHana\b0\pos(603.44,661.14)\c&HFCFCFC&}Panda
+Dialogue: 1,0:17:27.85,0:17:30.02,Signs,Screen,0,0,0,,{\fs80\blur0.65\fnDFPGothicUB-AnoHana\b0\pos(613.33,660.6)\c&HFCFCFC&}Zenin Maki
+Dialogue: 1,0:18:17.70,0:18:25.58,Signs,Screen,0,0,0,,{\fs73\blur0.65\fnDFPGothicUB-AnoHana\b0\pos(539.39,656.56)\c&HFCFCFC&}Todo Aoi
+Dialogue: 1,0:20:30.45,0:20:31.75,Signs,Screen,0,0,0,,{\fs80\blur0.65\fnDFPGothicUB-AnoHana\b0\pos(654,649.33)\c&HFCFCFC&}Inumaki Toge
 Dialogue: 1,0:14:46.48,0:14:48.90,Signs,Screen,0,0,0,,{\blur0.8\fnFOT-TsukuGo Pro B\fs60\pos(639,957.66)}Baseball experience: 2L.
 Dialogue: 1,0:14:56.37,0:14:58.66,Signs,Screen?,0,0,0,,{\blur0.8\fnFOT-TsukuGo Pro B\fs55\pos(986.8,966.46)}Practicing cursive. Can write his own name now.
 Dialogue: 1,0:14:59.83,0:15:07.67,Signs,Screen,0,0,0,,{\blur0.8\fnFOT-TsukuGo Pro B\fs55\pos(975.47,959.46)}First impression of Iekei Style Ramen: "I poop a lot the next day."
@@ -117,41 +117,41 @@ Dialogue: 1,0:17:16.26,0:17:18.60,Signs,Screen,0,0,0,,{\fnA-OTF Folk Pro-En B\fs
 Dialogue: 1,0:17:27.85,0:17:30.02,Signs,Screen,0,0,0,,{\fnA-OTF Folk Pro-En B\fs69\blur0.88\pos(1360.59,801.94)}Pitcher
 Dialogue: 1,0:18:17.70,0:18:25.58,Signs,Screen,0,0,0,,{\fnA-OTF Folk Pro-En B\fs69\blur0.88\pos(1343.93,803.94)}Catcher
 Dialogue: 1,0:20:30.45,0:20:31.75,Signs,Screen,0,0,0,,{\fnA-OTF Folk Pro-En B\fs65\blur0.88\pos(1350.59,801.54)}Second Base
-Dialogue: 0,0:18:50.04,0:18:52.96,Signs,,0,0,0,,{=1}{\clip()\t(7,2885,\clip())\fscx100\t(7,2885,\fscx100)\fscy100\t(7,2885,\fscy100)\alpha&H00&\fnBalloon Lettering\fs56\b1\c&H000000&\blur0.8\move(1210.29,202.28,1302.34,202.27,7,2885)\frz17.56}Intentional
-Dialogue: 0,0:16:23.63,0:16:23.67,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.9,8)}Mechamaru
-Dialogue: 0,0:16:23.67,0:16:23.71,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.89,20)}Mechamaru
-Dialogue: 0,0:16:23.71,0:16:23.75,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.89,32.26)}Mechamaru
-Dialogue: 0,0:16:23.75,0:16:23.79,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.88,44.78)}Mechamaru
-Dialogue: 0,0:16:23.79,0:16:23.83,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.89,57.57)}Mechamaru
-Dialogue: 0,0:16:23.83,0:16:23.88,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.89,70.83)}Mechamaru
-Dialogue: 0,0:16:23.88,0:16:23.92,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.89,84.37)}Mechamaru
-Dialogue: 0,0:16:23.92,0:16:23.96,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.89,98.38)}Mechamaru
-Dialogue: 0,0:16:23.96,0:16:24.00,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.89,112.91)}Mechamaru
-Dialogue: 0,0:16:24.00,0:16:24.04,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.89,127.9)}Mechamaru
-Dialogue: 0,0:16:24.04,0:16:24.08,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.89,143.42)}Mechamaru
-Dialogue: 0,0:16:24.08,0:16:24.13,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.89,159.66)}Mechamaru
-Dialogue: 0,0:16:24.13,0:16:24.17,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.89,176.43)}Mechamaru
-Dialogue: 0,0:16:24.17,0:16:24.21,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.9,194.14)}Mechamaru
-Dialogue: 0,0:16:24.21,0:16:24.25,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.9,212.49)}Mechamaru
-Dialogue: 0,0:16:24.25,0:16:24.29,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.9,231.99)}Mechamaru
-Dialogue: 0,0:16:24.29,0:16:24.33,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.9,252.61)}Mechamaru
-Dialogue: 0,0:16:24.33,0:16:24.38,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.91,274.55)}Mechamaru
-Dialogue: 0,0:16:24.38,0:16:24.42,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.9,297.9)}Mechamaru
-Dialogue: 0,0:16:24.42,0:16:24.46,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.91,323.27)}Mechamaru
-Dialogue: 0,0:16:24.46,0:16:24.50,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.9,350.87)}Mechamaru
-Dialogue: 0,0:16:24.50,0:16:24.54,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.9,381.47)}Mechamaru
-Dialogue: 0,0:16:24.54,0:16:24.58,Signs,Machine,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.9,412.68)}Mechamaru
-Dialogue: 0,0:16:24.58,0:16:24.63,Signs,Machine,0,0,0,,{=2}{\fscx100.02\fscy100.02\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H0B0E0F&\pos(962.9,453.15)}Mechamaru
-Dialogue: 0,0:16:24.63,0:16:24.67,Signs,Machine,0,0,0,,{=2}{\fscx100.08\fscy100.08\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H181C23&\pos(962.91,503.14)}Mechamaru
-Dialogue: 0,0:16:24.67,0:16:24.71,Signs,Machine,0,0,0,,{=2}{\fscx108.33\fscy108.33\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H181C23&\pos(963.2,499.56)}Mechamaru
-Dialogue: 0,0:16:24.71,0:16:24.75,Signs,Machine,0,0,0,,{=2}{\fscx122.75\fscy122.75\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H181C23&\pos(963.71,493.35)}Mechamaru
-Dialogue: 0,0:16:24.75,0:16:24.79,Signs,Machine,0,0,0,,{=2}{\fscx143.69\fscy143.69\blur1\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H181C23&\pos(964.43,484.4)}Mechamaru
-Dialogue: 0,0:16:24.79,0:16:24.83,Signs,Machine,0,0,0,,{=2}{\fscx175.23\fscy175.23\blur1\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H181C23&\pos(965.52,470.87)}Mechamaru
-Dialogue: 0,0:16:24.83,0:16:24.88,Signs,Machine,0,0,0,,{=2}{\fscx226.58\blur1\fscy226.58\alpha&H00&\fnHP-Chiller\fs20\b1\be1\c&H181C23&\pos(967.28,448.88)}Mechamaru
-Dialogue: 0,0:16:24.88,0:16:24.92,Signs,Machine,0,0,0,,{=2}{\fnHP-Chiller\blur2\fs80\b1\be1\c&H181C23&\pos(975.19,412.4)}Mechamaru
-Dialogue: 0,0:16:24.92,0:16:26.66,Signs,Machine,0,0,0,,{=3}{\clip()\t(23,1733,\clip())\fscx100\t(23,1733,\fscx117.24)\fscy100\t(23,1733,\fscy117.24)\alpha&H00&\fnHP-Chiller\fs140\b1\blur1\c&H0B0E0F&\move(917.19,202.4,915.9,144.11,23,1733)}Mechamaru
-Dialogue: 0,0:16:37.30,0:16:40.93,Signs,Machine,0,0,0,,{\fnHP-Chiller\fs70\fax0.4\b1\blur0.88\c&H0B0E0F&\frz329\frx346\fry340\pos(754.19,513.11)}Mechamaru
-Dialogue: 0,0:17:38.53,0:17:40.28,Signs,Screen,0,0,0,,{\fnHP-Chiller\fs96\fax0.4\b1\blur1.6\c&H0B0E0F&\frx2\fry18\pos(863.19,423.83)\frz335.9}Mechamaru
+Dialogue: 0,0:18:50.04,0:18:52.96,Signs,Screen,0,0,0,,{\move(1210.29,202.28,1302.34,202.27,7,2885)\frz17.56\fnBalloon Lettering\fs56\b1\c&H000000&\blur0.8\t(7,2885,\clip)\t(7,2885,\fscx100)\t(7,2885,\fscy100)\clip}Intentional
+Dialogue: 0,0:16:23.63,0:16:23.67,Signs,Machine,0,0,0,,{\pos(962.9,8)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:23.67,0:16:23.71,Signs,Machine,0,0,0,,{\pos(962.89,20)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:23.71,0:16:23.75,Signs,Machine,0,0,0,,{\pos(962.89,32.26)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:23.75,0:16:23.79,Signs,Machine,0,0,0,,{\pos(962.88,44.78)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:23.79,0:16:23.83,Signs,Machine,0,0,0,,{\pos(962.89,57.57)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:23.83,0:16:23.88,Signs,Machine,0,0,0,,{\pos(962.89,70.83)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:23.88,0:16:23.92,Signs,Machine,0,0,0,,{\pos(962.89,84.37)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:23.92,0:16:23.96,Signs,Machine,0,0,0,,{\pos(962.89,98.38)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:23.96,0:16:24.00,Signs,Machine,0,0,0,,{\pos(962.89,112.91)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.00,0:16:24.04,Signs,Machine,0,0,0,,{\pos(962.89,127.9)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.04,0:16:24.08,Signs,Machine,0,0,0,,{\pos(962.89,143.42)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.08,0:16:24.13,Signs,Machine,0,0,0,,{\pos(962.89,159.66)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.13,0:16:24.17,Signs,Machine,0,0,0,,{\pos(962.89,176.43)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.17,0:16:24.21,Signs,Machine,0,0,0,,{\pos(962.9,194.14)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.21,0:16:24.25,Signs,Machine,0,0,0,,{\pos(962.9,212.49)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.25,0:16:24.29,Signs,Machine,0,0,0,,{\pos(962.9,231.99)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.29,0:16:24.33,Signs,Machine,0,0,0,,{\pos(962.9,252.61)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.33,0:16:24.38,Signs,Machine,0,0,0,,{\pos(962.91,274.55)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.38,0:16:24.42,Signs,Machine,0,0,0,,{\pos(962.9,297.9)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.42,0:16:24.46,Signs,Machine,0,0,0,,{\pos(962.91,323.27)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.46,0:16:24.50,Signs,Machine,0,0,0,,{\pos(962.9,350.87)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.50,0:16:24.54,Signs,Machine,0,0,0,,{\pos(962.9,381.47)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.54,0:16:24.58,Signs,Machine,0,0,0,,{\pos(962.9,412.68)\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.58,0:16:24.63,Signs,Machine,0,0,0,,{\pos(962.9,453.15)\fscx100.02\fscy100.02\fnHP-Chiller\fs20\b1\c&H0B0E0F&\be1}Mechamaru
+Dialogue: 0,0:16:24.63,0:16:24.67,Signs,Machine,0,0,0,,{\pos(962.91,503.14)\fscx100.08\fscy100.08\fnHP-Chiller\fs20\b1\c&H181C23&\be1}Mechamaru
+Dialogue: 0,0:16:24.67,0:16:24.71,Signs,Machine,0,0,0,,{\pos(963.2,499.56)\fscx108.33\fscy108.33\fnHP-Chiller\fs20\b1\c&H181C23&\be1}Mechamaru
+Dialogue: 0,0:16:24.71,0:16:24.75,Signs,Machine,0,0,0,,{\pos(963.71,493.35)\fscx122.75\fscy122.75\fnHP-Chiller\fs20\b1\c&H181C23&\be1}Mechamaru
+Dialogue: 0,0:16:24.75,0:16:24.79,Signs,Machine,0,0,0,,{\pos(964.43,484.4)\fscx143.69\fscy143.69\fnHP-Chiller\fs20\b1\c&H181C23&\blur1\be1}Mechamaru
+Dialogue: 0,0:16:24.79,0:16:24.83,Signs,Machine,0,0,0,,{\pos(965.52,470.87)\fscx175.23\fscy175.23\fnHP-Chiller\fs20\b1\c&H181C23&\blur1\be1}Mechamaru
+Dialogue: 0,0:16:24.83,0:16:24.88,Signs,Machine,0,0,0,,{\pos(967.28,448.88)\fscx226.58\fscy226.58\fnHP-Chiller\fs20\b1\c&H181C23&\blur1\be1}Mechamaru
+Dialogue: 0,0:16:24.88,0:16:24.92,Signs,Machine,0,0,0,,{\pos(975.19,412.4)\fnHP-Chiller\fs80\b1\c&H181C23&\blur2\be1}Mechamaru
+Dialogue: 0,0:16:24.92,0:16:26.66,Signs,Machine,0,0,0,,{\move(917.19,202.4,915.9,144.11,23,1733)\fnHP-Chiller\fs140\b1\c&H0B0E0F&\blur1\t(23,1733,\clip)\t(23,1733,\fscx117.24)\t(23,1733,\fscy117.24)\clip}Mechamaru
+Dialogue: 0,0:16:37.30,0:16:40.93,Signs,Machine,0,0,0,,{\pos(754.19,513.11)\frz329\fry340\frx346\fax0.4\fnHP-Chiller\fs70\b1\c&H0B0E0F&\blur0.88}Mechamaru
+Dialogue: 0,0:17:38.53,0:17:40.28,Signs,Screen,0,0,0,,{\pos(863.19,423.83)\frz335.9\fry18\frx2\fax0.4\fnHP-Chiller\fs96\b1\c&H0B0E0F&\blur1.6}Mechamaru
 Dialogue: 1,0:18:09.56,0:18:12.07,Signs,Screen,0,0,0,,{\fnKozuka Gothic Pr6N B\fscy110\fs79.6\xshad5\yshad2\be1\c&H000000&\4c&HFFFFFF&\pos(965.24,1011)}Due to lack of players, one outfielder is permitted to use cursed techniques
 Comment: 0,0:18:09.56,0:18:12.07,Signs,Screen,0,0,0,,{\bord3.6\be1\an5\1c&HFCFCFC&\p1\pos(960,927)}m 0 72 l 1600 72 1600 0 0 0 0 72
 Comment: 1,0:18:09.56,0:18:12.07,Signs,Screen,0,0,0,,{\bord0\blur1\an5\1c&HFCFCFC&\p1\pos(960,927)}m 0 72 l 1600 72 1600 0 0 0 0 72
