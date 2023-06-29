@@ -21,9 +21,9 @@ Video File: jujutsu_20_premux.mkv
 Keyframes File: jujutsu_20_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 23
-Active Line: 27
-Video Position: 33991
+Scroll Position: 231
+Active Line: 235
+Video Position: 5911
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,27 +31,261 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.25,0:00:09.24,Signs,,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\c&HE6E7E7&\pos(1540,884)}Episode 20: {\fs70}Nonstandard
-Comment: 0,0:00:14.72,0:00:17.22,Signs,Books,0,0,0,,{\pos(92.667,176.667)\fs13\c&H502D3D&\bord0\shad0\b1\frx6\fry2\fax-.3\frz314}Handwriting
-Comment: 0,0:00:14.72,0:00:17.22,Signs,Books,0,0,0,,{\fs12\b1\c&H615C77&\shad0\3c&HD9DBEF&\frz14.79\pos(300.667,217.333)\frx14\fry358}Fun to Learn\N{\fs16}Arithmetic
-Comment: 0,0:00:14.72,0:00:17.22,Signs,Books,0,0,0,,{\c&H87AAE8&\3c&H3E4BD3&\shad0\fs12\pos(561.334,138.666)\frz149.6}Japanese
-Dialogue: 0,0:04:05.43,0:04:06.55,Signs,Screen,0,0,0,,{\bord0\shad0\an5\frz270\fs16\b1\p1\pos(1742,568)\c&H0A0A0B&}m 0 160 l 800 160 800 0 0 0 0 160
+Dialogue: 0,0:00:02.23,0:00:09.24,Signs,,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\c&HE6E7E7&\pos(1540,884)}Episode 20: {\fs70}Nonstandard
+Dialogue: 0,0:00:14.70,0:00:14.74,Signs,Books,0,0,0,,{\pos(290.33,530.33)\fscx60\fscy60\frz314\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:14.74,0:00:14.78,Signs,Books,0,0,0,,{\pos(290.9,530.3)\fscx60.04\fscy60.04\frz313.99\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:14.78,0:00:14.82,Signs,Books,0,0,0,,{\pos(291.29,530.3)\fscx60.01\fscy60.01\frz314\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:14.82,0:00:14.86,Signs,Books,0,0,0,,{\pos(291.67,530.3)\fscx60\fscy60\frz313.99\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:14.86,0:00:14.91,Signs,Books,0,0,0,,{\pos(291.79,530.37)\fscx59.87\fscy59.87\frz314\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:14.91,0:00:14.95,Signs,Books,0,0,0,,{\pos(292.1,530.37)\fscx59.83\fscy59.83\frz314.01\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:14.95,0:00:14.99,Signs,Books,0,0,0,,{\pos(292.71,530.33)\fscx59.9\fscy59.9\frz314\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:14.99,0:00:15.03,Signs,Books,0,0,0,,{\pos(293.05,530.28)\fscx59.88\fscy59.88\frz314.02\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.03,0:00:15.07,Signs,Books,0,0,0,,{\pos(293.11,530.38)\fscx59.72\fscy59.72\frz314.03\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.07,0:00:15.11,Signs,Books,0,0,0,,{\pos(293.73,530.29)\fscx59.8\fscy59.8\frz314.03\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.11,0:00:15.16,Signs,Books,0,0,0,,{\pos(294.05,530.3)\fscx59.74\fscy59.74\frz314.04\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.16,0:00:15.20,Signs,Books,0,0,0,,{\pos(294.36,530.33)\fscx59.72\fscy59.72\frz314.02\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.20,0:00:15.24,Signs,Books,0,0,0,,{\pos(294.61,530.37)\fscx59.66\fscy59.66\frz314.02\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.24,0:00:15.28,Signs,Books,0,0,0,,{\pos(294.98,530.38)\fscx59.62\fscy59.62\frz314.02\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.28,0:00:15.32,Signs,Books,0,0,0,,{\pos(295.37,530.36)\fscx59.6\fscy59.6\frz314.03\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.32,0:00:15.37,Signs,Books,0,0,0,,{\pos(295.88,530.22)\fscx59.67\fscy59.67\frz314.05\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.37,0:00:15.41,Signs,Books,0,0,0,,{\pos(295.95,530.37)\fscx59.5\fscy59.5\frz314.04\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.41,0:00:15.45,Signs,Books,0,0,0,,{\pos(296.31,530.37)\fscx59.48\fscy59.48\frz314.04\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.45,0:00:15.49,Signs,Books,0,0,0,,{\pos(296.82,530.34)\fscx59.51\fscy59.51\frz314.04\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.49,0:00:15.53,Signs,Books,0,0,0,,{\pos(297.13,530.33)\fscx59.49\fscy59.49\frz314.04\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.53,0:00:15.57,Signs,Books,0,0,0,,{\pos(297.39,530.42)\fscx59.41\fscy59.41\frz314.02\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.57,0:00:15.62,Signs,Books,0,0,0,,{\pos(297.87,530.36)\fscx59.42\fscy59.42\frz314.04\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.62,0:00:15.66,Signs,Books,0,0,0,,{\pos(298.02,530.47)\fscx59.29\fscy59.29\frz314.03\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.66,0:00:15.70,Signs,Books,0,0,0,,{\pos(298.46,530.41)\fscx59.32\fscy59.32\frz314.03\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.70,0:00:15.74,Signs,Books,0,0,0,,{\pos(298.87,530.39)\fscx59.35\fscy59.35\frz314.03\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.74,0:00:15.78,Signs,Books,0,0,0,,{\pos(299.27,530.34)\fscx59.33\fscy59.33\frz314.05\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.78,0:00:15.82,Signs,Books,0,0,0,,{\pos(299.55,530.41)\fscx59.26\fscy59.26\frz314.03\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.82,0:00:15.87,Signs,Books,0,0,0,,{\pos(299.92,530.4)\fscx59.26\fscy59.26\frz314.04\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.87,0:00:15.91,Signs,Books,0,0,0,,{\pos(300.35,530.39)\fscx59.25\fscy59.25\frz314.04\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.91,0:00:15.95,Signs,Books,0,0,0,,{\pos(300.67,530.41)\fscx59.18\fscy59.18\frz314.05\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.95,0:00:15.99,Signs,Books,0,0,0,,{\pos(300.83,530.42)\fscx59.12\fscy59.12\frz314.05\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:15.99,0:00:16.03,Signs,Books,0,0,0,,{\pos(301.18,530.38)\fscx59.11\fscy59.11\frz314.07\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.03,0:00:16.07,Signs,Books,0,0,0,,{\pos(301.53,530.38)\fscx59.07\fscy59.07\frz314.07\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.07,0:00:16.12,Signs,Books,0,0,0,,{\pos(301.91,530.41)\fscx59.03\fscy59.03\frz314.06\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.12,0:00:16.16,Signs,Books,0,0,0,,{\pos(302.21,530.43)\fscx58.98\fscy58.98\frz314.06\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.16,0:00:16.20,Signs,Books,0,0,0,,{\pos(302.6,530.4)\fscx59\fscy59\frz314.06\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.20,0:00:16.24,Signs,Books,0,0,0,,{\pos(303.07,530.32)\fscx59.04\fscy59.04\frz314.07\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.24,0:00:16.28,Signs,Books,0,0,0,,{\pos(303.39,530.38)\fscx58.97\fscy58.97\frz314.06\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.28,0:00:16.32,Signs,Books,0,0,0,,{\pos(303.71,530.38)\fscx58.94\fscy58.94\frz314.07\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.32,0:00:16.37,Signs,Books,0,0,0,,{\pos(303.78,530.47)\fscx58.81\fscy58.81\frz314.06\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.37,0:00:16.41,Signs,Books,0,0,0,,{\pos(304.17,530.47)\fscx58.79\fscy58.79\frz314.06\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.41,0:00:16.45,Signs,Books,0,0,0,,{\pos(304.73,530.41)\fscx58.85\fscy58.85\frz314.06\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.45,0:00:16.49,Signs,Books,0,0,0,,{\pos(305.06,530.33)\fscx58.83\fscy58.83\frz314.09\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.49,0:00:16.53,Signs,Books,0,0,0,,{\pos(305.28,530.37)\fscx58.78\fscy58.78\frz314.09\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.53,0:00:16.57,Signs,Books,0,0,0,,{\pos(305.47,530.45)\fscx58.67\fscy58.67\frz314.08\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.57,0:00:16.62,Signs,Books,0,0,0,,{\pos(306.04,530.37)\fscx58.74\fscy58.74\frz314.08\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.62,0:00:16.66,Signs,Books,0,0,0,,{\pos(306.38,530.44)\fscx58.69\fscy58.69\frz314.07\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.66,0:00:16.70,Signs,Books,0,0,0,,{\pos(306.48,530.47)\fscx58.57\fscy58.57\frz314.09\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.70,0:00:16.74,Signs,Books,0,0,0,,{\pos(306.88,530.43)\fscx58.59\fscy58.59\frz314.09\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.74,0:00:16.78,Signs,Books,0,0,0,,{\pos(307.54,530.35)\fscx58.69\fscy58.69\frz314.08\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.78,0:00:16.82,Signs,Books,0,0,0,,{\pos(307.61,530.44)\fscx58.53\fscy58.53\frz314.09\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.82,0:00:16.87,Signs,Books,0,0,0,,{\pos(307.9,530.49)\fscx58.47\fscy58.47\frz314.08\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.87,0:00:16.91,Signs,Books,0,0,0,,{\pos(308.25,530.46)\fscx58.49\fscy58.49\frz314.08\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.91,0:00:16.95,Signs,Books,0,0,0,,{\pos(308.53,530.5)\fscx58.42\fscy58.42\frz314.09\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.95,0:00:16.99,Signs,Books,0,0,0,,{\pos(309.21,530.44)\fscx58.51\fscy58.51\frz314.07\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:16.99,0:00:17.03,Signs,Books,0,0,0,,{\pos(309.41,530.47)\fscx58.45\fscy58.45\frz314.07\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:17.03,0:00:17.08,Signs,Books,0,0,0,,{\pos(309.67,530.49)\fscx58.4\fscy58.4\frz314.09\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:17.08,0:00:17.20,Signs,Books,0,0,0,,{\pos(310.15,530.43)\fscx58.42\fscy58.42\frz314.1\fry2\frx6\fax-0.3\fnIwata Mincho Pro En B\fs70\b1\c&H442E3B&\3c&H442E3B&\blur0.8}Handwriting
+Dialogue: 0,0:00:14.70,0:00:14.74,Signs,Books,0,0,0,,{\pos(1005.28,840.82)\fscx85.05\fscy85.05\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:14.74,0:00:14.78,Signs,Books,0,0,0,,{\pos(1005.25,840.69)\fscx85.02\fscy85.02\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:14.78,0:00:14.82,Signs,Books,0,0,0,,{\pos(1005.25,840.53)\fscx84.97\fscy84.97\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:14.82,0:00:14.86,Signs,Books,0,0,0,,{\pos(1005.24,840.37)\fscx84.92\fscy84.92\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:14.86,0:00:14.91,Signs,Books,0,0,0,,{\pos(1005.23,840.22)\fscx84.9\fscy84.9\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:14.91,0:00:14.95,Signs,Books,0,0,0,,{\pos(1005.22,840.09)\fscx84.85\fscy84.85\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:14.95,0:00:14.99,Signs,Books,0,0,0,,{\pos(1005.2,839.97)\fscx84.82\fscy84.82\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:14.99,0:00:15.03,Signs,Books,0,0,0,,{\pos(1005.19,839.82)\fscx84.79\fscy84.79\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.03,0:00:15.07,Signs,Books,0,0,0,,{\pos(1005.18,839.65)\fscx84.72\fscy84.72\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.07,0:00:15.11,Signs,Books,0,0,0,,{\pos(1005.17,839.54)\fscx84.68\fscy84.68\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.11,0:00:15.16,Signs,Books,0,0,0,,{\pos(1005.16,839.39)\fscx84.64\fscy84.64\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.16,0:00:15.20,Signs,Books,0,0,0,,{\pos(1005.15,839.23)\fscx84.6\fscy84.6\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.20,0:00:15.24,Signs,Books,0,0,0,,{\pos(1005.16,839.09)\fscx84.56\fscy84.56\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.24,0:00:15.28,Signs,Books,0,0,0,,{\pos(1005.13,838.97)\fscx84.54\fscy84.54\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.28,0:00:15.32,Signs,Books,0,0,0,,{\pos(1005.14,838.82)\fscx84.48\fscy84.48\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.32,0:00:15.37,Signs,Books,0,0,0,,{\pos(1005.1,838.67)\fscx84.43\fscy84.43\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.37,0:00:15.41,Signs,Books,0,0,0,,{\pos(1005.1,838.55)\fscx84.41\fscy84.41\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.41,0:00:15.45,Signs,Books,0,0,0,,{\pos(1005.1,838.41)\fscx84.37\fscy84.37\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.45,0:00:15.49,Signs,Books,0,0,0,,{\pos(1005.08,838.28)\fscx84.34\fscy84.34\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.49,0:00:15.53,Signs,Books,0,0,0,,{\pos(1005.07,838.14)\fscx84.3\fscy84.3\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.53,0:00:15.57,Signs,Books,0,0,0,,{\pos(1005.07,838.01)\fscx84.25\fscy84.25\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.57,0:00:15.62,Signs,Books,0,0,0,,{\pos(1005.05,837.87)\fscx84.23\fscy84.23\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.62,0:00:15.66,Signs,Books,0,0,0,,{\pos(1005.03,837.77)\fscx84.19\fscy84.19\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.66,0:00:15.70,Signs,Books,0,0,0,,{\pos(1005.02,837.57)\fscx84.14\fscy84.14\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.70,0:00:15.74,Signs,Books,0,0,0,,{\pos(1005.01,837.47)\fscx84.08\fscy84.08\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.74,0:00:15.78,Signs,Books,0,0,0,,{\pos(1005.01,837.27)\fscx84.05\fscy84.05\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.78,0:00:15.82,Signs,Books,0,0,0,,{\pos(1005.01,837.19)\fscx84.03\fscy84.03\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.82,0:00:15.87,Signs,Books,0,0,0,,{\pos(1005.01,837.05)\fscx84\fscy84\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.87,0:00:15.91,Signs,Books,0,0,0,,{\pos(1005.01,836.93)\fscx83.97\fscy83.97\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.91,0:00:15.95,Signs,Books,0,0,0,,{\pos(1004.99,836.77)\fscx83.94\fscy83.94\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.95,0:00:15.99,Signs,Books,0,0,0,,{\pos(1004.98,836.6)\fscx83.91\fscy83.91\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:15.99,0:00:16.03,Signs,Books,0,0,0,,{\pos(1004.97,836.5)\fscx83.86\fscy83.86\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.03,0:00:16.07,Signs,Books,0,0,0,,{\pos(1004.93,836.36)\fscx83.82\fscy83.82\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.07,0:00:16.12,Signs,Books,0,0,0,,{\pos(1004.94,836.23)\fscx83.77\fscy83.77\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.12,0:00:16.16,Signs,Books,0,0,0,,{\pos(1004.92,836.08)\fscx83.74\fscy83.74\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.16,0:00:16.20,Signs,Books,0,0,0,,{\pos(1004.92,835.94)\fscx83.67\fscy83.67\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.20,0:00:16.24,Signs,Books,0,0,0,,{\pos(1004.92,835.78)\fscx83.63\fscy83.63\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.24,0:00:16.28,Signs,Books,0,0,0,,{\pos(1004.9,835.66)\fscx83.59\fscy83.59\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.28,0:00:16.32,Signs,Books,0,0,0,,{\pos(1004.89,835.53)\fscx83.58\fscy83.58\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.32,0:00:16.37,Signs,Books,0,0,0,,{\pos(1004.9,835.38)\fscx83.52\fscy83.52\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.37,0:00:16.41,Signs,Books,0,0,0,,{\pos(1004.88,835.28)\fscx83.51\fscy83.51\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.41,0:00:16.45,Signs,Books,0,0,0,,{\pos(1004.86,835.12)\fscx83.45\fscy83.45\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.45,0:00:16.49,Signs,Books,0,0,0,,{\pos(1004.83,834.98)\fscx83.4\fscy83.4\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.49,0:00:16.53,Signs,Books,0,0,0,,{\pos(1004.81,834.83)\fscx83.35\fscy83.35\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.53,0:00:16.57,Signs,Books,0,0,0,,{\pos(1004.82,834.72)\fscx83.34\fscy83.34\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.57,0:00:16.62,Signs,Books,0,0,0,,{\pos(1004.81,834.62)\fscx83.31\fscy83.31\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.62,0:00:16.66,Signs,Books,0,0,0,,{\pos(1004.78,834.42)\fscx83.23\fscy83.23\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.66,0:00:16.70,Signs,Books,0,0,0,,{\pos(1004.8,834.32)\fscx83.22\fscy83.22\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.70,0:00:16.74,Signs,Books,0,0,0,,{\pos(1004.8,834.21)\fscx83.2\fscy83.2\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.74,0:00:16.78,Signs,Books,0,0,0,,{\pos(1004.78,834.05)\fscx83.14\fscy83.14\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.78,0:00:16.82,Signs,Books,0,0,0,,{\pos(1004.77,833.92)\fscx83.12\fscy83.12\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.82,0:00:16.87,Signs,Books,0,0,0,,{\pos(1004.78,833.76)\fscx83.07\fscy83.07\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.87,0:00:16.91,Signs,Books,0,0,0,,{\pos(1004.74,833.61)\fscx83.01\fscy83.01\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.91,0:00:16.95,Signs,Books,0,0,0,,{\pos(1004.75,833.5)\fscx82.99\fscy82.99\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.95,0:00:16.99,Signs,Books,0,0,0,,{\pos(1004.74,833.36)\fscx82.95\fscy82.95\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:16.99,0:00:17.03,Signs,Books,0,0,0,,{\pos(1004.72,833.24)\fscx82.92\fscy82.92\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:17.03,0:00:17.08,Signs,Books,0,0,0,,{\pos(1004.71,833.14)\fscx82.9\fscy82.9\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:17.08,0:00:17.12,Signs,Books,0,0,0,,{\pos(1004.71,833.04)\fscx82.87\fscy82.87\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:17.12,0:00:17.20,Signs,Books,0,0,0,,{\pos(1004.72,833.03)\fscx82.87\fscy82.87\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs40\c&H3F3F3F&\3c&HA3A7CE&\3a&H4A&\blur1}Fun to Learn
+Dialogue: 0,0:00:14.70,0:00:14.74,Signs,Books,0,0,0,,{\pos(1019.01,886.49)\fscx54\fscy54\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:14.74,0:00:14.78,Signs,Books,0,0,0,,{\pos(1018.96,886.34)\fscx53.98\fscy53.98\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:14.78,0:00:14.82,Signs,Books,0,0,0,,{\pos(1018.97,886.15)\fscx53.95\fscy53.95\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:14.82,0:00:14.86,Signs,Books,0,0,0,,{\pos(1018.95,885.96)\fscx53.92\fscy53.92\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:14.86,0:00:14.91,Signs,Books,0,0,0,,{\pos(1018.93,885.8)\fscx53.9\fscy53.9\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:14.91,0:00:14.95,Signs,Books,0,0,0,,{\pos(1018.91,885.65)\fscx53.87\fscy53.87\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:14.95,0:00:14.99,Signs,Books,0,0,0,,{\pos(1018.88,885.5)\fscx53.85\fscy53.85\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:14.99,0:00:15.03,Signs,Books,0,0,0,,{\pos(1018.86,885.34)\fscx53.83\fscy53.83\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.03,0:00:15.07,Signs,Books,0,0,0,,{\pos(1018.86,885.14)\fscx53.79\fscy53.79\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.07,0:00:15.11,Signs,Books,0,0,0,,{\pos(1018.82,885.02)\fscx53.77\fscy53.77\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.11,0:00:15.16,Signs,Books,0,0,0,,{\pos(1018.82,884.83)\fscx53.74\fscy53.74\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.16,0:00:15.20,Signs,Books,0,0,0,,{\pos(1018.8,884.66)\fscx53.71\fscy53.71\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.20,0:00:15.24,Signs,Books,0,0,0,,{\pos(1018.8,884.49)\fscx53.69\fscy53.69\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.24,0:00:15.28,Signs,Books,0,0,0,,{\pos(1018.76,884.36)\fscx53.67\fscy53.67\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.28,0:00:15.32,Signs,Books,0,0,0,,{\pos(1018.76,884.18)\fscx53.64\fscy53.64\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.32,0:00:15.37,Signs,Books,0,0,0,,{\pos(1018.73,884)\fscx53.6\fscy53.6\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.37,0:00:15.41,Signs,Books,0,0,0,,{\pos(1018.72,883.87)\fscx53.6\fscy53.6\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.41,0:00:15.45,Signs,Books,0,0,0,,{\pos(1018.72,883.71)\fscx53.57\fscy53.57\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.45,0:00:15.49,Signs,Books,0,0,0,,{\pos(1018.68,883.54)\fscx53.54\fscy53.54\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.49,0:00:15.53,Signs,Books,0,0,0,,{\pos(1018.66,883.41)\fscx53.52\fscy53.52\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.53,0:00:15.57,Signs,Books,0,0,0,,{\pos(1018.67,883.26)\fscx53.5\fscy53.5\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.57,0:00:15.62,Signs,Books,0,0,0,,{\pos(1018.64,883.1)\fscx53.48\fscy53.48\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.62,0:00:15.66,Signs,Books,0,0,0,,{\pos(1018.61,882.98)\fscx53.45\fscy53.45\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.66,0:00:15.70,Signs,Books,0,0,0,,{\pos(1018.6,882.74)\fscx53.42\fscy53.42\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.70,0:00:15.74,Signs,Books,0,0,0,,{\pos(1018.58,882.62)\fscx53.39\fscy53.39\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.74,0:00:15.78,Signs,Books,0,0,0,,{\pos(1018.58,882.38)\fscx53.36\fscy53.36\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.78,0:00:15.82,Signs,Books,0,0,0,,{\pos(1018.57,882.32)\fscx53.35\fscy53.35\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.82,0:00:15.87,Signs,Books,0,0,0,,{\pos(1018.57,882.15)\fscx53.33\fscy53.33\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.87,0:00:15.91,Signs,Books,0,0,0,,{\pos(1018.55,882.01)\fscx53.32\fscy53.32\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.91,0:00:15.95,Signs,Books,0,0,0,,{\pos(1018.54,881.83)\fscx53.29\fscy53.29\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.95,0:00:15.99,Signs,Books,0,0,0,,{\pos(1018.49,881.66)\fscx53.27\fscy53.27\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:15.99,0:00:16.03,Signs,Books,0,0,0,,{\pos(1018.51,881.53)\fscx53.24\fscy53.24\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.03,0:00:16.07,Signs,Books,0,0,0,,{\pos(1018.44,881.37)\fscx53.22\fscy53.22\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.07,0:00:16.12,Signs,Books,0,0,0,,{\pos(1018.45,881.2)\fscx53.18\fscy53.18\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.12,0:00:16.16,Signs,Books,0,0,0,,{\pos(1018.43,881.04)\fscx53.16\fscy53.16\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.16,0:00:16.20,Signs,Books,0,0,0,,{\pos(1018.41,880.87)\fscx53.13\fscy53.13\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.20,0:00:16.24,Signs,Books,0,0,0,,{\pos(1018.41,880.69)\fscx53.1\fscy53.1\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.24,0:00:16.28,Signs,Books,0,0,0,,{\pos(1018.38,880.55)\fscx53.07\fscy53.07\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.28,0:00:16.32,Signs,Books,0,0,0,,{\pos(1018.37,880.4)\fscx53.06\fscy53.06\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.32,0:00:16.37,Signs,Books,0,0,0,,{\pos(1018.38,880.23)\fscx53.03\fscy53.03\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.37,0:00:16.41,Signs,Books,0,0,0,,{\pos(1018.34,880.12)\fscx53.02\fscy53.02\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.41,0:00:16.45,Signs,Books,0,0,0,,{\pos(1018.32,879.93)\fscx52.98\fscy52.98\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.45,0:00:16.49,Signs,Books,0,0,0,,{\pos(1018.27,879.77)\fscx52.96\fscy52.96\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.49,0:00:16.53,Signs,Books,0,0,0,,{\pos(1018.26,879.58)\fscx52.92\fscy52.92\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.53,0:00:16.57,Signs,Books,0,0,0,,{\pos(1018.26,879.48)\fscx52.91\fscy52.91\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.57,0:00:16.62,Signs,Books,0,0,0,,{\pos(1018.24,879.35)\fscx52.89\fscy52.89\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.62,0:00:16.66,Signs,Books,0,0,0,,{\pos(1018.19,879.13)\fscx52.85\fscy52.85\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.66,0:00:16.70,Signs,Books,0,0,0,,{\pos(1018.22,879.01)\fscx52.84\fscy52.84\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.70,0:00:16.74,Signs,Books,0,0,0,,{\pos(1018.21,878.88)\fscx52.82\fscy52.82\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.74,0:00:16.78,Signs,Books,0,0,0,,{\pos(1018.18,878.7)\fscx52.79\fscy52.79\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.78,0:00:16.82,Signs,Books,0,0,0,,{\pos(1018.17,878.55)\fscx52.77\fscy52.77\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.82,0:00:16.87,Signs,Books,0,0,0,,{\pos(1018.18,878.35)\fscx52.74\fscy52.74\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.87,0:00:16.91,Signs,Books,0,0,0,,{\pos(1018.13,878.19)\fscx52.7\fscy52.7\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.91,0:00:16.95,Signs,Books,0,0,0,,{\pos(1018.13,878.05)\fscx52.69\fscy52.69\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.95,0:00:16.99,Signs,Books,0,0,0,,{\pos(1018.12,877.9)\fscx52.67\fscy52.67\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:16.99,0:00:17.03,Signs,Books,0,0,0,,{\pos(1018.08,877.77)\fscx52.65\fscy52.65\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:17.03,0:00:17.08,Signs,Books,0,0,0,,{\pos(1018.07,877.65)\fscx52.63\fscy52.63\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:17.08,0:00:17.20,Signs,Books,0,0,0,,{\pos(1018.07,877.54)\fscx52.61\fscy52.61\frz19.04\fry358\frx14\fax0.1\fnFOT-HummingStdEn-NatsuKise\fs120\b1\c&H3F3F3F&\3c&HA3A7CE&\blur1}Arithmetic
+Dialogue: 0,0:00:14.70,0:00:14.74,Signs,Books,0,0,0,,{\pos(1640.69,441.27)\fscx48\fscy48\frz149.6\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:14.74,0:00:14.78,Signs,Books,0,0,0,,{\pos(1640.36,441.26)\fscx47.94\fscy47.94\frz149.63\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:14.78,0:00:14.82,Signs,Books,0,0,0,,{\pos(1640.01,441.28)\fscx47.92\fscy47.92\frz149.6\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:14.82,0:00:14.86,Signs,Books,0,0,0,,{\pos(1639.39,441.34)\fscx47.97\fscy47.97\frz149.52\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:14.86,0:00:14.91,Signs,Books,0,0,0,,{\pos(1639.31,441.36)\fscx47.86\fscy47.86\frz149.58\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:14.91,0:00:14.95,Signs,Books,0,0,0,,{\pos(1639.23,441.35)\fscx47.75\fscy47.75\frz149.65\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:14.95,0:00:14.99,Signs,Books,0,0,0,,{\pos(1638.81,441.43)\fscx47.74\fscy47.74\frz149.67\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:14.99,0:00:15.03,Signs,Books,0,0,0,,{\pos(1638.38,441.43)\fscx47.72\fscy47.72\frz149.61\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.03,0:00:15.07,Signs,Books,0,0,0,,{\pos(1637.8,441.58)\fscx47.8\fscy47.8\frz149.56\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.07,0:00:15.11,Signs,Books,0,0,0,,{\pos(1637.78,441.45)\fscx47.62\fscy47.62\frz149.63\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.11,0:00:15.16,Signs,Books,0,0,0,,{\pos(1637.84,441.43)\fscx47.44\fscy47.44\frz149.72\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.16,0:00:15.20,Signs,Books,0,0,0,,{\pos(1637.16,441.53)\fscx47.55\fscy47.55\frz149.63\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.20,0:00:15.24,Signs,Books,0,0,0,,{\pos(1636.57,441.69)\fscx47.62\fscy47.62\frz149.61\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.24,0:00:15.28,Signs,Books,0,0,0,,{\pos(1636.42,441.59)\fscx47.49\fscy47.49\frz149.64\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.28,0:00:15.32,Signs,Books,0,0,0,,{\pos(1636.31,441.61)\fscx47.38\fscy47.38\frz149.7\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.32,0:00:15.37,Signs,Books,0,0,0,,{\pos(1635.62,441.74)\fscx47.5\fscy47.5\frz149.6\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.37,0:00:15.41,Signs,Books,0,0,0,,{\pos(1635.58,441.71)\fscx47.36\fscy47.36\frz149.67\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.41,0:00:15.45,Signs,Books,0,0,0,,{\pos(1635.15,441.78)\fscx47.36\fscy47.36\frz149.68\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.45,0:00:15.49,Signs,Books,0,0,0,,{\pos(1634.68,441.79)\fscx47.35\fscy47.35\frz149.64\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.49,0:00:15.53,Signs,Books,0,0,0,,{\pos(1634.4,441.79)\fscx47.29\fscy47.29\frz149.61\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.53,0:00:15.57,Signs,Books,0,0,0,,{\pos(1633.95,441.89)\fscx47.31\fscy47.31\frz149.6\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.57,0:00:15.62,Signs,Books,0,0,0,,{\pos(1633.79,441.83)\fscx47.2\fscy47.2\frz149.65\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.62,0:00:15.66,Signs,Books,0,0,0,,{\pos(1633.69,441.9)\fscx47.1\fscy47.1\frz149.75\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.66,0:00:15.70,Signs,Books,0,0,0,,{\pos(1633.08,442)\fscx47.18\fscy47.18\frz149.66\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.70,0:00:15.74,Signs,Books,0,0,0,,{\pos(1632.9,442.02)\fscx47.12\fscy47.12\frz149.69\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.74,0:00:15.78,Signs,Books,0,0,0,,{\pos(1632.71,442.05)\fscx47.03\fscy47.03\frz149.74\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.78,0:00:15.82,Signs,Books,0,0,0,,{\pos(1632.25,442.02)\fscx47.02\fscy47.02\frz149.68\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.82,0:00:15.87,Signs,Books,0,0,0,,{\pos(1631.98,442.06)\fscx46.96\fscy46.96\frz149.72\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.87,0:00:15.91,Signs,Books,0,0,0,,{\pos(1631.94,441.93)\fscx46.82\fscy46.82\frz149.73\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.91,0:00:15.95,Signs,Books,0,0,0,,{\pos(1631.38,442.07)\fscx46.86\fscy46.86\frz149.7\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.95,0:00:15.99,Signs,Books,0,0,0,,{\pos(1631.21,442.05)\fscx46.76\fscy46.76\frz149.76\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:15.99,0:00:16.03,Signs,Books,0,0,0,,{\pos(1630.71,442.15)\fscx46.79\fscy46.79\frz149.71\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.03,0:00:16.07,Signs,Books,0,0,0,,{\pos(1630.23,442.25)\fscx46.84\fscy46.84\frz149.67\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.07,0:00:16.12,Signs,Books,0,0,0,,{\pos(1630.22,442.22)\fscx46.69\fscy46.69\frz149.78\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.12,0:00:16.16,Signs,Books,0,0,0,,{\pos(1629.82,442.12)\fscx46.65\fscy46.65\frz149.68\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.16,0:00:16.20,Signs,Books,0,0,0,,{\pos(1629.24,442.35)\fscx46.72\fscy46.72\frz149.67\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.20,0:00:16.24,Signs,Books,0,0,0,,{\pos(1629.04,442.26)\fscx46.63\fscy46.63\frz149.69\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.24,0:00:16.28,Signs,Books,0,0,0,,{\pos(1629.11,442.24)\fscx46.46\fscy46.46\frz149.81\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.28,0:00:16.32,Signs,Books,0,0,0,,{\pos(1628.35,442.42)\fscx46.6\fscy46.6\frz149.69\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.32,0:00:16.37,Signs,Books,0,0,0,,{\pos(1628,442.58)\fscx46.61\fscy46.61\frz149.74\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.37,0:00:16.41,Signs,Books,0,0,0,,{\pos(1627.85,442.41)\fscx46.47\fscy46.47\frz149.73\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.41,0:00:16.45,Signs,Books,0,0,0,,{\pos(1627.49,442.43)\fscx46.44\fscy46.44\frz149.73\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.45,0:00:16.49,Signs,Books,0,0,0,,{\pos(1626.96,442.6)\fscx46.5\fscy46.5\frz149.69\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.49,0:00:16.53,Signs,Books,0,0,0,,{\pos(1626.45,442.57)\fscx46.52\fscy46.52\frz149.59\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.53,0:00:16.57,Signs,Books,0,0,0,,{\pos(1626.46,442.43)\fscx46.35\fscy46.35\frz149.65\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.57,0:00:16.62,Signs,Books,0,0,0,,{\pos(1626.02,442.61)\fscx46.38\fscy46.38\frz149.71\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.62,0:00:16.66,Signs,Books,0,0,0,,{\pos(1625.78,442.51)\fscx46.3\fscy46.3\frz149.66\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.66,0:00:16.70,Signs,Books,0,0,0,,{\pos(1625.33,442.54)\fscx46.29\fscy46.29\frz149.62\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.70,0:00:16.74,Signs,Books,0,0,0,,{\pos(1625.06,442.54)\fscx46.25\fscy46.25\frz149.62\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.74,0:00:16.78,Signs,Books,0,0,0,,{\pos(1624.88,442.63)\fscx46.19\fscy46.19\frz149.69\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.78,0:00:16.82,Signs,Books,0,0,0,,{\pos(1624.44,442.66)\fscx46.19\fscy46.19\frz149.65\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.82,0:00:16.87,Signs,Books,0,0,0,,{\pos(1624.25,442.74)\fscx46.11\fscy46.11\frz149.72\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.87,0:00:16.91,Signs,Books,0,0,0,,{\pos(1623.92,442.72)\fscx46.09\fscy46.09\frz149.67\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.91,0:00:16.95,Signs,Books,0,0,0,,{\pos(1623.69,442.66)\fscx46.02\fscy46.02\frz149.68\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.95,0:00:16.99,Signs,Books,0,0,0,,{\pos(1623.46,442.78)\fscx45.94\fscy45.94\frz149.76\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:16.99,0:00:17.03,Signs,Books,0,0,0,,{\pos(1623.18,442.81)\fscx45.9\fscy45.9\frz149.74\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:17.03,0:00:17.08,Signs,Books,0,0,0,,{\pos(1622.89,442.81)\fscx45.89\fscy45.89\frz149.73\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:17.08,0:00:17.12,Signs,Books,0,0,0,,{\pos(1622.6,442.78)\fscx45.8\fscy45.8\frz149.76\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:00:17.12,0:00:17.20,Signs,Books,0,0,0,,{\pos(1622.24,442.84)\fscx45.82\fscy45.82\frz149.74\fax-0.1\fnRagnar\fs70\c&H3963D6&\3c&H3E4BD3&\blur0.68}Japanese
+Dialogue: 0,0:04:05.43,0:04:06.55,Signs,Screen,0,0,0,,{\bord0\shad0\an5\frz270\fs16\be5\b1\p1\pos(1742,568)\c&H0A0A0B&}m 0 160 l 800 160 800 0 0 0 0 160
 Dialogue: 0,0:04:05.43,0:04:06.55,Signs,Screen,0,0,0,,{\fnRagnar\bord0\shad0\an5\fs66\b1\be1\pos(954.71,86.57)}Self-Proclaimed IQ: 530,000
 Dialogue: 1,0:06:47.64,0:06:54.39,Signs,Nanami,0,0,0,,{\fnKozuka Gothic Pr6N B\be1\fad(380,380)\b1\fs84\c&H000000&\pos(960,964)}\hNanami Kento, record holder for consecutive Black Flash uses, speaks
 Dialogue: 0,0:06:47.64,0:06:54.39,Signs,Nanami,0,0,0,,{\fad(380,380)\bord0\be1\an5\pos(960,969)\1c&HF0F0F0&\p1}m 0 120 l 1550 120 1550 0 0 0 0 120
-Dialogue: 0,0:11:30.40,0:11:31.92,Signs,Screen,0,0,0,,{\be6\fnRagnar\bord2\shad0\an5\fs56.5\b1\pos(1148.38,460.57)\3c&H000000&\3a&H96&\4c&H000000&\4a&H96&}Happened in 0.01 seconds
-Dialogue: 0,0:11:51.35,0:11:53.35,Signs,Screen,0,0,0,,{\fnKozuka Gothic Pr6N B\fs96\bord4.5\b1\pos(386,925)}National Handshake Event
+Dialogue: 0,0:11:30.40,0:11:31.92,Signs,Screen,0,0,0,,{\be6\fnRagnar\bord2\shad0\an5\fs56\b1\pos(1148.38,460.57)\3c&H000000&\3a&H96&\4c&H000000&\4a&H96&}Happened in 0.01 seconds
+Dialogue: 1,0:11:30.40,0:11:31.92,Signs,Screen,0,0,0,,{\blur0.8\fnRagnar\bord0\shad0\an5\fs56\b1\pos(1148.38,460.57)\3c&H000000&\3a&H96&\4c&H000000&\4a&H96&}Happened in 0.01 seconds
+Dialogue: 0,0:11:51.35,0:11:53.35,Signs,Screen,0,0,0,,{\bord4.8\blur0.7\an5\pos(392,1008)\1c&H000000&\p1}m 0 70 l 690 70 690 0 0 0 0 70
+Dialogue: 1,0:11:51.35,0:11:53.35,Signs,Screen,0,0,0,,{\bord0\blur0.7\an5\pos(392,1008)\1c&HF0F0F0&\p1}m 0 70 l 690 70 690 0 0 0 0 70
+Dialogue: 2,0:11:51.35,0:11:53.35,Signs,Screen,0,0,0,,{\fnKozuka Gothic Pr6N B\fs96\bord0\b1\blur0.65\pos(393,1002)\c&H000000&}National Handshake Event
 Dialogue: 0,0:22:54.93,0:22:57.43,Signs,Three&Screen,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
 Dialogue: 0,0:22:57.43,0:22:59.06,Signs,Screen,0,0,0,,{\an5\blur2\bord0\shad0\fscx100\fscy100\p1\c&HFDFDFD&\pos(987.17,506.5)\clip(m 520 601.33 l 584 572 624 605.33 1788 605.33 1786.67 420 141.33 416 140 597.33)}m 0 0 l 1629 0 1629 173 0 173
 Dialogue: 1,0:22:57.43,0:22:59.06,Signs,Screen,0,0,0,,{\fnAquillia\fs124\be1\c&H4C727F&\3c&HFFFFFF&\shad0\b1\pos(966.66,517)}Question: Dogs or cats?
 Dialogue: 0,0:22:59.06,0:23:19.04,Signs,Screen,0,0,0,,{\be2\p1\c&HF3C92F&\pos(962.5,945.17)}m 0 0 m -1 -2 l -3 138 l 1455 142 l 1457 -3
 Dialogue: 1,0:22:59.06,0:23:19.04,Signs,Screen,0,0,0,,{\fnBuxton Sketch\fs96\bord3\xshad3\pos(959,944)\be1\c&H83868A&\3c&H83868A&\4c&H83868A&}Question: Are you a dog person or a cat person?
 Dialogue: 2,0:22:59.06,0:23:19.04,Signs,Screen,0,0,0,,{\fnBuxton Sketch\fs96\pos(959,944)\be2\c&HEFF8FF&}Question: Are you a dog person or a cat person?
-Dialogue: 0,0:23:30.06,0:23:30.18,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx62\be1\c&H151724&\frz48.85\pos(272.17,527.17)}Baseball
-Dialogue: 0,0:23:30.18,0:23:30.31,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fscx60\fs55\be1\c&H151724&\frx346\fry340\frz33.58\pos(438.96,441)}Baseball
-Dialogue: 0,0:23:30.31,0:23:30.43,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx82\be1\c&H151724&\frz15.92\pos(640.64,346.07)}Baseball
-Dialogue: 0,0:23:30.43,0:23:30.56,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx90\be1\c&H151724&\frz9.8\pos(747.92,313.27)\frx0\fry354}Baseball
-Dialogue: 0,0:23:30.56,0:23:30.77,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx98\be1\c&H151724&\pos(833.53,286.24)\frz10.03}Baseball
+Dialogue: 0,0:23:30.06,0:23:30.18,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx62\blur0.8\c&H151724&\frz48.85\pos(272.17,527.17)}Baseball
+Dialogue: 0,0:23:30.18,0:23:30.31,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fscx60\fs55\blur0.8\c&H151724&\frx346\fry340\frz33.58\pos(438.96,441)}Baseball
+Dialogue: 0,0:23:30.31,0:23:30.43,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx82\blur0.8\c&H151724&\frz15.92\pos(640.64,346.07)}Baseball
+Dialogue: 0,0:23:30.43,0:23:30.56,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx90\blur0.8\c&H151724&\frz9.8\pos(747.92,313.27)\frx0\fry354}Baseball
+Dialogue: 0,0:23:30.56,0:23:30.77,Signs,Paper,0,0,0,,{\fnAirstream ITC TT\fs55\fscx98\blur0.8\c&H151724&\pos(833.53,286.24)\frz10.03}Baseball
 Dialogue: 0,0:23:34.89,0:23:36.44,Signs,Screen,0,0,0,,{\blur8\p1\c&H171515&\pos(832,78.67)}m 140.8 899.2 l 129.6 899.2 126.4 1017.6 145.6 1036.8 1777.6 1036.8 1779.2 1008 1632 1008 1611.2 992 1609.6 961.6 1608 942.4 1604.8 918.4 1590.4 889.6 305.6 891.2 299.2 926.4 286.4 947.2 267.2 966.4 244.8 971.2 216 977.6 182.4 966.4 158.4 942.4 150.4 931.2
 Dialogue: 0,0:23:34.89,0:23:36.44,Signs,Screen,0,0,0,,{\be1\p1\c&H000000&\pos(261.87,40.93)}m 1188.8 768 l 1160 804.8 1188.8 844.8 1475.2 843.2 1534.4 811.2 1531.2 795.2 1457.6 772.8
 Dialogue: 0,0:23:34.89,0:23:36.44,Signs,Screen,0,0,0,,{\fnA-OTF Folk Pro-En B\fs68\blur0.88\pos(1426.59,799.94)}Third Base
