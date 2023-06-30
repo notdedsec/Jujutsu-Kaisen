@@ -20,9 +20,9 @@ Audio File: jujutsu_19_premux.mkv
 Video File: jujutsu_19_premux.mkv
 Keyframes File: jujutsu_19_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 1.125000
+Video Zoom Percent: 0.750000
 Active Line: 2
-Video Position: 33997
+Video Position: 34043
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,4 +32,4 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.98,0:00:08.00,Signs,,0,0,0,,{\fnRagnar\b1\fs60\blur0.5\shad2\fad(500,500)\c&HE6E7E7&\pos(1574.4,885)}Episode 19: {\fs70}Black Flash
 Dialogue: 0,0:22:14.97,0:22:17.48,Signs,Both&Screen,0,0,0,,{\fnBrush Strokes\b1\be2\fs110\c&H000101&\pos(1400,150)}Juju Stroll
-Dialogue: 0,0:23:36.52,0:25:24.95,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1200,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,600)}Episode 20{\fs70}\NNonstandard
+Dialogue: 0,0:23:36.52,0:23:39.94,Signs,Screen,0,0,0,,{\fnRagnar\fs60\b1\blur6\t(0,1200,\blur0.5)\fad(500,0)\fscy112\fscx112\t(26,3460,\fscx101.38\fscy101.38)\move(960,800,960,777)}Episode 20{\fs70}\NNonstandard
