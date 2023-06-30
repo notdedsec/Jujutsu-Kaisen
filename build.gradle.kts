@@ -51,6 +51,7 @@ subs {
 
     swap {
         from(merge.item())
+        styles(Regex("Default|Alt|Cursed"))
         out(get("out_swap"))
     }
 
