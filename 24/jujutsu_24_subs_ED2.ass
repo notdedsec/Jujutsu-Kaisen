@@ -27,7 +27,7 @@ Video Position: 30807
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: ED2_full,Change Tomorrow Today,72,&H00E4F9FF,&H000000FF,&H28D2F2FA,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,80,80,30,1
+Style: ED2_full,Change Tomorrow Today,77,&H00E4F9FF,&H000000FF,&H28D2F2FA,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,80,80,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
